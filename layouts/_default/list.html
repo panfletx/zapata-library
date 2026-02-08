@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="section">
+  <h1>{{ .Title }}</h1>
+
+  {{/* If this is a taxonomy list page (e.g., /authors/), show terms */}}
+  {{ if .IsPage }}
+  {{ else }}
+    {{ if .Data.Terms }}
+      <div class="taxonomy-list">
+        {{ range .Data.Terms.Alphabetical }}
+          <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">
+            <span class="taxonomy-name">{{ .Page.Title }}</span>
+            <span class="taxonomy-count">{{ .Count }}</span>
+          </a>
+        {{ end }}
+      </div>
+    {{ else }}
+      {{/* Regular list page — show as grid */}}
+      <div class="book-grid">
+        {{ range .Paginator.Pages }}
+          {{ partial "book-card.html" . }}
+        {{ end }}
+      </div>
+      {{ template "_internal/pagination.html" . }}
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}

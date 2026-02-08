@@ -1,0 +1,16 @@
+<div id="search" class="search-container"></div>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: false,
+      showImages: true,
+      translations: {
+        placeholder: "{{ i18n "search_placeholder" }}",
+        zero_results: "{{ i18n "no_results" }}"
+      }
+    });
+  });
+</script>

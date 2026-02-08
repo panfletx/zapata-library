@@ -1,0 +1,34 @@
+---
+title: El manual para escribir bien
+date: '2024-09-01'
+year: 2009
+decade: 2000s
+authors:
+- Montes de Oca Sicilia, María del Pilar
+publishers:
+- 'Lectorum : Editorial Otras Inquisiciones'
+place: México, D.F.
+languages:
+- Español
+item_types:
+- book
+isbn: 978-607-457-013-7
+pages: 205
+edition: 1a. ed
+series: []
+subjects:
+- Arte de escribir Libros de referencias, manuales, etc
+- Espagnol (Langue) Grammaire
+- Español
+- Español Composición y ejercicios
+- Lengua española Gramática
+- Lengua española Redacción
+- Spanish language Composition and exercises
+- Spanish language Grammar
+oclc: '426794948'
+exlibris: '2009'
+zotero_key: EAL7ZMIE
+cover: covers/eal7zmie.jpg
+---
+
+"El manual para escribir bien constituye una aventura profunda y lúdica del estudio del lenguaje. Así lo percibirá, si recorre las páginas de este volumen, el cual nos regla -- como si fueran golosinas -- temas lingüísticos sustanciales; cápsulas ortográficas en dosis exactas; disertaciones varias acerca de cómo escribir bien, además de otros temas de interés innegable: ¿por qué el gerundio es tan temido?, ¿la supresión de los signos de interrogación o admiración al inicio de la oración es incorrecta?, y ¿será verdad que el punto y como está desapareciendo? Por éstas y otras razones, pude permanecer en el escritorio de estudiantes, profesores, investigadores y profesionistas y ser objeto de consultas frecuentes; pero es claro que más allá de los consejos que ofrece, promete ser una amena lectura y un instrumento para aclarar las dudas de todos los días, desde cómo poner un punto o una coma, hasta cómo escribir una carta o poner correctamente un pie de página"--Page 4 of cover

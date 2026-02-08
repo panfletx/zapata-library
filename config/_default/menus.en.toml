@@ -1,0 +1,24 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Catalogue"
+  pageRef = "/catalogue"
+  weight = 2
+
+[[main]]
+  name = "Authors"
+  pageRef = "/authors"
+  weight = 3
+
+[[main]]
+  name = "Publishers"
+  pageRef = "/publishers"
+  weight = 4
+
+[[main]]
+  name = "Subjects"
+  pageRef = "/subjects"
+  weight = 5

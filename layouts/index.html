@@ -1,0 +1,59 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p class="hero-description">
+    {{ if eq .Lang "es" }}{{ .Site.Params.description_es }}{{ else }}{{ .Site.Params.description_en }}{{ end }}
+  </p>
+
+  {{ partial "search.html" . }}
+
+  <div class="stats">
+    <div class="stat">
+      <span class="stat-number">{{ .Site.Params.totalItems }}</span>
+      <span class="stat-label">{{ i18n "total_items" }}</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">{{ .Site.Params.totalAuthors }}+</span>
+      <span class="stat-label">{{ i18n "total_authors" }}</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">{{ .Site.Params.yearRange }}</span>
+      <span class="stat-label">{{ i18n "year_range" }}</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>{{ i18n "featured" }}</h2>
+  <div class="book-grid">
+    {{ range first 12 (where .Site.RegularPages "Section" "catalogue") }}
+      {{ partial "book-card.html" . }}
+    {{ end }}
+  </div>
+  <div class="section-footer">
+    <a href="{{ "catalogue" | relLangURL }}/" class="btn">{{ i18n "browse" }} &rarr;</a>
+  </div>
+</section>
+
+<section class="section">
+  <h2>{{ i18n "browse_by" }}</h2>
+  <div class="browse-links">
+    <a href="{{ "authors" | relLangURL }}/" class="browse-card">
+      <span class="browse-count">{{ len .Site.Taxonomies.authors }}</span>
+      <span class="browse-label">{{ i18n "authors" }}</span>
+    </a>
+    <a href="{{ "publishers" | relLangURL }}/" class="browse-card">
+      <span class="browse-count">{{ len .Site.Taxonomies.publishers }}</span>
+      <span class="browse-label">{{ i18n "publishers" }}</span>
+    </a>
+    <a href="{{ "subjects" | relLangURL }}/" class="browse-card">
+      <span class="browse-count">{{ len .Site.Taxonomies.subjects }}</span>
+      <span class="browse-label">{{ i18n "subjects" }}</span>
+    </a>
+    <a href="{{ "languages" | relLangURL }}/" class="browse-card">
+      <span class="browse-count">{{ len .Site.Taxonomies.languages }}</span>
+      <span class="browse-label">{{ i18n "languages" }}</span>
+    </a>
+  </div>
+</section>
+{{ end }}

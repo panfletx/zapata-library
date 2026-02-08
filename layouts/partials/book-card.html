@@ -1,0 +1,16 @@
+<article class="book-card">
+  <a href="{{ .RelPermalink }}">
+    <div class="book-cover">
+      <img src="{{ .Params.cover | relURL }}" alt="{{ .Title }}" loading="lazy" onerror="this.style.display='none'">
+    </div>
+    <div class="book-info">
+      <h3 class="book-title">{{ .Title }}</h3>
+      {{ with .Params.authors }}
+        <p class="book-author">{{ delimit . ", " }}</p>
+      {{ end }}
+      {{ with .Params.year }}
+        <span class="book-year">{{ . }}</span>
+      {{ end }}
+    </div>
+  </a>
+</article>

@@ -1,0 +1,21 @@
+{{- $items := slice -}}
+{{- range .Pages -}}
+  {{- $item := dict
+    "title" .Title
+    "authors" (default (slice) .Params.authors)
+    "year" (default 0 .Params.year)
+    "decade" (default "" .Params.decade)
+    "publishers" (default (slice) .Params.publishers)
+    "place" (default "" .Params.place)
+    "languages" (default (slice) .Params.languages)
+    "item_types" (default (slice) .Params.item_types)
+    "series" (default (slice) .Params.series)
+    "subjects" (default (slice) .Params.subjects)
+    "isbn" (default "" .Params.isbn)
+    "pages" (default 0 .Params.pages)
+    "cover" ((default "" .Params.cover) | relURL)
+    "url" .RelPermalink
+  -}}
+  {{- $items = $items | append $item -}}
+{{- end -}}
+{{- $items | jsonify -}}

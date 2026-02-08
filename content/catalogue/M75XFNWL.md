@@ -1,0 +1,26 @@
+---
+title: Libro de las mil y una noches. 1
+date: '2024-09-01'
+year: 1974
+decade: 1970s
+authors:
+- Cansinos Asséns, Rafael
+publishers:
+- Aguilar
+place: Madrid
+languages:
+- Español
+item_types:
+- book
+isbn: 978-84-03-00094-0
+pages: 1429
+edition: 1a. ed., 2a. reimp
+series:
+- Colección Obras Eternas
+subjects:
+- Literatura árabe
+oclc: '630235297'
+zotero_key: M75XFNWL
+cover: covers/m75xfnwl.jpg
+---
+

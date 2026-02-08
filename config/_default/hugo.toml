@@ -1,0 +1,26 @@
+baseURL = "https://example.github.io/zapata-library/"
+title = "Biblioteca Zapata"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 24
+
+[taxonomies]
+  author    = "authors"
+  publisher = "publishers"
+  subject   = "subjects"
+  language  = "languages"
+  item_type = "item_types"
+  series    = "series"
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML", "JSON"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,9 @@
+[es]
+  languageName = "Español"
+  weight = 1
+  title = "Biblioteca Zapata"
+
+[en]
+  languageName = "English"
+  weight = 2
+  title = "Zapata Library"

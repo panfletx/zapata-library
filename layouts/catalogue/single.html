@@ -1,0 +1,77 @@
+{{ define "main" }}
+<article class="single-item" data-pagefind-body>
+  <div class="single-layout">
+    <div class="single-cover">
+      <img
+        src="{{ .Params.cover | relURL }}"
+        alt="{{ .Title }}"
+        data-pagefind-meta="image[src]"
+        onerror="this.style.display='none'"
+      >
+    </div>
+
+    <div class="single-content">
+      <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+      {{ with .Params.authors }}
+        <p class="single-authors">
+          {{ range $i, $a := . }}
+            {{ if $i }}, {{ end }}
+            <a href="{{ "authors" | relLangURL }}/{{ $a | urlize }}/" data-pagefind-filter="author">{{ $a }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+
+      {{ partial "metadata-table.html" . }}
+
+      {{/* Hidden Pagefind filter attributes */}}
+      {{ with .Params.languages }}{{ range . }}<span data-pagefind-filter="language" class="sr-only">{{ . }}</span>{{ end }}{{ end }}
+      {{ with .Params.year }}<span data-pagefind-filter="year" class="sr-only">{{ . }}</span>{{ end }}
+      {{ with .Params.publishers }}{{ range . }}<span data-pagefind-filter="publisher" class="sr-only">{{ . }}</span>{{ end }}{{ end }}
+      {{ with .Params.item_types }}{{ range . }}<span data-pagefind-filter="type" class="sr-only">{{ . }}</span>{{ end }}{{ end }}
+
+      {{ if .Content }}
+      <div class="single-abstract">
+        <h2>{{ i18n "abstract" }}</h2>
+        {{ .Content }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.subjects }}
+      <div class="single-subjects">
+        <h3>{{ i18n "subjects" }}</h3>
+        <div class="tag-list">
+          {{ range . }}
+            <a href="{{ "subjects" | relLangURL }}/{{ . | urlize }}/" class="tag">{{ . }}</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="single-nav">
+    <a href="{{ "catalogue" | relLangURL }}/" class="btn">&larr; {{ i18n "back_to_catalogue" }}</a>
+  </div>
+
+  {{/* Related items by first author */}}
+  {{ with .Params.authors }}
+    {{ $firstAuthor := index . 0 }}
+    {{ $currentPage := $ }}
+    {{ $related := where (where $.Site.RegularPages "Section" "catalogue") ".Params.authors" "intersect" (slice $firstAuthor) }}
+    {{ $related = $related | first 5 }}
+    {{ if gt (len $related) 1 }}
+    <section class="section related">
+      <h2>{{ i18n "related_items" }}</h2>
+      <div class="book-grid">
+        {{ range $related }}
+          {{ if ne .Permalink $currentPage.Permalink }}
+            {{ partial "book-card.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}

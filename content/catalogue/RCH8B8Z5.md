@@ -1,0 +1,36 @@
+---
+title: En voz de Borges
+date: '2024-09-01'
+year: 1986
+decade: 1980s
+authors:
+- Borges, Jorge Luis
+- Verdugo-Fuentes, Waldemar
+publishers:
+- Editorial Offset
+place: Tepepan, D.F.
+languages:
+- Español
+item_types:
+- book
+isbn: 978-968-6672-44-2
+pages: 215
+edition: 1a ed
+series:
+- Serie Alterna
+subjects:
+- 1900-1999
+- Interviews
+- interviews
+- Authors, Argentine
+- Authors, Argentine 20th century Interviews
+- Borges, Jorge Luis, 1899-1986
+- Borges, Jorge Luis, 1899-1986 Interviews
+- Écrivains argentins 20e siècle Entretiens
+- Borges, Jorge Luis, 1899-1986 Entretiens
+oclc: '16393613'
+exlibris: '1988'
+zotero_key: RCH8B8Z5
+cover: covers/rch8b8z5.jpg
+---
+

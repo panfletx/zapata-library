@@ -1,0 +1,128 @@
+[home]
+other = "Home"
+
+[browse]
+other = "Browse catalogue"
+
+[search]
+other = "Search the library"
+
+[search_placeholder]
+other = "Search by title, author, subject..."
+
+[catalogue]
+other = "Catalogue"
+
+[author]
+other = "Author"
+
+[authors]
+other = "Authors"
+
+[publisher]
+other = "Publisher"
+
+[publishers]
+other = "Publishers"
+
+[subject]
+other = "Subject"
+
+[subjects]
+other = "Subjects"
+
+[language]
+other = "Language"
+
+[languages]
+other = "Languages"
+
+[series]
+other = "Series"
+
+[year]
+other = "Year"
+
+[place]
+other = "Place"
+
+[isbn]
+other = "ISBN"
+
+[pages]
+other = "Pages"
+
+[edition]
+other = "Edition"
+
+[item_type]
+other = "Type"
+
+[abstract]
+other = "Description"
+
+[back_to_catalogue]
+other = "Back to catalogue"
+
+[related_items]
+other = "Related items"
+
+[items]
+other = "items"
+
+[item]
+other = "item"
+
+[no_results]
+other = "No results found"
+
+[total_items]
+other = "items in the collection"
+
+[total_authors]
+other = "authors"
+
+[year_range]
+other = "spanning"
+
+[featured]
+other = "Featured"
+
+[browse_by]
+other = "Browse by"
+
+[all]
+other = "View all"
+
+[book]
+other = "Book"
+
+[magazineArticle]
+other = "Magazine Article"
+
+[thesis]
+other = "Thesis"
+
+[journalArticle]
+other = "Journal Article"
+
+[newspaperArticle]
+other = "Newspaper Article"
+
+[filters]
+other = "Filters"
+
+[clear_all]
+other = "Clear all"
+
+[decade]
+other = "Decade"
+
+[grid_view]
+other = "Grid view"
+
+[table_view]
+other = "Table view"
+
+[loading]
+other = "Loading"

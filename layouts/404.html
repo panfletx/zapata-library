@@ -1,0 +1,7 @@
+{{ define "main" }}
+<section class="section" style="text-align: center; padding: 4rem 1rem;">
+  <h1>404</h1>
+  <p>{{ if eq .Lang "es" }}Página no encontrada{{ else }}Page not found{{ end }}</p>
+  <a href="{{ "/" | relLangURL }}" class="btn">{{ i18n "home" }}</a>
+</section>
+{{ end }}

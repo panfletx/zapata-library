@@ -1,0 +1,128 @@
+[home]
+other = "Inicio"
+
+[browse]
+other = "Explorar catálogo"
+
+[search]
+other = "Buscar en la biblioteca"
+
+[search_placeholder]
+other = "Buscar por título, autor, tema..."
+
+[catalogue]
+other = "Catálogo"
+
+[author]
+other = "Autor"
+
+[authors]
+other = "Autores"
+
+[publisher]
+other = "Editorial"
+
+[publishers]
+other = "Editoriales"
+
+[subject]
+other = "Tema"
+
+[subjects]
+other = "Temas"
+
+[language]
+other = "Idioma"
+
+[languages]
+other = "Idiomas"
+
+[series]
+other = "Serie"
+
+[year]
+other = "Año"
+
+[place]
+other = "Lugar"
+
+[isbn]
+other = "ISBN"
+
+[pages]
+other = "Páginas"
+
+[edition]
+other = "Edición"
+
+[item_type]
+other = "Tipo"
+
+[abstract]
+other = "Descripción"
+
+[back_to_catalogue]
+other = "Volver al catálogo"
+
+[related_items]
+other = "Elementos relacionados"
+
+[items]
+other = "elementos"
+
+[item]
+other = "elemento"
+
+[no_results]
+other = "No se encontraron resultados"
+
+[total_items]
+other = "elementos en la colección"
+
+[total_authors]
+other = "autores"
+
+[year_range]
+other = "abarcando"
+
+[featured]
+other = "Destacados"
+
+[browse_by]
+other = "Explorar por"
+
+[all]
+other = "Ver todos"
+
+[book]
+other = "Libro"
+
+[magazineArticle]
+other = "Artículo de revista"
+
+[thesis]
+other = "Tesis"
+
+[journalArticle]
+other = "Artículo académico"
+
+[newspaperArticle]
+other = "Artículo de periódico"
+
+[filters]
+other = "Filtros"
+
+[clear_all]
+other = "Limpiar todo"
+
+[decade]
+other = "Década"
+
+[grid_view]
+other = "Vista de cuadrícula"
+
+[table_view]
+other = "Vista de tabla"
+
+[loading]
+other = "Cargando"
