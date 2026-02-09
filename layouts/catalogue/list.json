@@ -1,5 +1,10 @@
 {{- $items := slice -}}
 {{- range .Pages -}}
+  {{- $translatedLangs := slice -}}
+  {{- range (default (slice) .Params.languages) -}}
+    {{- $key := printf "lang_%s" . -}}
+    {{- $translatedLangs = $translatedLangs | append (i18n $key | default .) -}}
+  {{- end -}}
   {{- $item := dict
     "title" .Title
     "authors" (default (slice) .Params.authors)
@@ -7,7 +12,7 @@
     "decade" (default "" .Params.decade)
     "publishers" (default (slice) .Params.publishers)
     "place" (default "" .Params.place)
-    "languages" (default (slice) .Params.languages)
+    "languages" $translatedLangs
     "item_types" (default (slice) .Params.item_types)
     "series" (default (slice) .Params.series)
     "subjects" (default (slice) .Params.subjects)

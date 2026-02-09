@@ -67,7 +67,7 @@
   <tr>
     <th>{{ i18n "language" }}</th>
     <td>
-      {{ range $i, $l := . }}{{ if $i }}, {{ end }}<a href="{{ "languages" | relLangURL }}/{{ $l | urlize }}/">{{ $l }}</a>{{ end }}
+      {{ range $i, $l := . }}{{ if $i }}, {{ end }}<a href="{{ "languages" | relLangURL }}/{{ $l | urlize }}/">{{ i18n (printf "lang_%s" $l) | default $l }}</a>{{ end }}
     </td>
   </tr>
   {{ end }}

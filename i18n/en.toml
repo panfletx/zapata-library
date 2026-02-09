@@ -126,3 +126,45 @@ other = "Table view"
 
 [loading]
 other = "Loading"
+
+["lang_Español"]
+other = "Spanish"
+
+[lang_English]
+other = "English"
+
+["lang_Français"]
+other = "French"
+
+[lang_Deutsch]
+other = "German"
+
+["lang_Português"]
+other = "Portuguese"
+
+[lang_Italiano]
+other = "Italian"
+
+[lang_Unknown]
+other = "Unknown"
+
+[lang_Multilingual]
+other = "Multilingual"
+
+["lang_Català"]
+other = "Catalan"
+
+[lang_Latin]
+other = "Latin"
+
+[lang_Japanese]
+other = "Japanese"
+
+[lang_Russian]
+other = "Russian"
+
+[lang_Arabic]
+other = "Arabic"
+
+[lang_Chinese]
+other = "Chinese"

@@ -126,3 +126,45 @@ other = "Vista de tabla"
 
 [loading]
 other = "Cargando"
+
+["lang_Español"]
+other = "Español"
+
+[lang_English]
+other = "Inglés"
+
+["lang_Français"]
+other = "Francés"
+
+[lang_Deutsch]
+other = "Alemán"
+
+["lang_Português"]
+other = "Portugués"
+
+[lang_Italiano]
+other = "Italiano"
+
+[lang_Unknown]
+other = "Desconocido"
+
+[lang_Multilingual]
+other = "Multilingüe"
+
+["lang_Català"]
+other = "Catalán"
+
+[lang_Latin]
+other = "Latín"
+
+[lang_Japanese]
+other = "Japonés"
+
+[lang_Russian]
+other = "Ruso"
+
+[lang_Arabic]
+other = "Árabe"
+
+[lang_Chinese]
+other = "Chino"
