@@ -11,7 +11,7 @@ publishers:
 - H. Champion
 place: Paris
 languages:
-- fro
+- Français
 item_types:
 - book
 isbn: 978-2-85203-066-4

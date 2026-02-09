@@ -11,7 +11,7 @@ publishers:
 - Bordas
 place: Paris
 languages:
-- mis
+- Multilingual
 item_types:
 - book
 isbn: 978-2-04-018094-2

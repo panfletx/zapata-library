@@ -9,7 +9,7 @@ publishers:
 - Rowohlt-Taschenbuch-Verl.
 place: Reinbek bei Hamburg
 languages:
-- deu
+- Deutsch
 item_types:
 - book
 isbn: 978-3-499-22455-3

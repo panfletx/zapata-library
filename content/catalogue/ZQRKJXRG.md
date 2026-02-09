@@ -12,7 +12,7 @@ publishers:
 - Champion
 place: Paris
 languages:
-- fro
+- Français
 item_types:
 - book
 series:

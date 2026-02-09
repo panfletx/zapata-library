@@ -9,7 +9,7 @@ publishers:
 - RBA Libros
 place: Barcelona
 languages:
-- chi
+- Español
 item_types:
 - book
 isbn: 978-84-7901-554-1

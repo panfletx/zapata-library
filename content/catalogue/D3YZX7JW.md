@@ -9,7 +9,7 @@ publishers:
 - Gallimard
 place: France
 languages:
-- fr
+- Français
 item_types:
 - book
 pages: 188

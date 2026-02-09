@@ -11,7 +11,7 @@ publishers:
 - Signet Classic
 place: New York
 languages:
-- enm
+- English
 item_types:
 - book
 isbn: 978-0-451-52400-3

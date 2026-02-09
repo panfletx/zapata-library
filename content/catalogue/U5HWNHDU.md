@@ -9,7 +9,7 @@ publishers:
 - LGF/Le Livre de Poche
 place: France
 languages:
-- fr
+- Français
 item_types:
 - book
 isbn: 978-2-253-93213-0
