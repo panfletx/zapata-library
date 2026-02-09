@@ -1,5 +1,6 @@
 ---
 title: 'A l''ombre de moi-même: carnets de tournage & entretien avec Pascal Bonitzer'
+featured: true
 date: '2024-09-01'
 year: 2004
 decade: 2000s

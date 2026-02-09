@@ -1,5 +1,6 @@
 ---
 title: La ciudad de la noche
+featured: true
 date: '2024-09-01'
 year: 1968
 decade: 1960s

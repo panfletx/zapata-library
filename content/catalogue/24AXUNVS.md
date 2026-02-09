@@ -1,5 +1,6 @@
 ---
 title: Memorias póstumas de Blas Cubas
+featured: true
 date: '2024-09-01'
 year: 1976
 decade: 1970s

@@ -1,5 +1,6 @@
 ---
 title: Bomarzo
+featured: true
 date: '2024-09-01'
 year: 1999
 decade: 1990s

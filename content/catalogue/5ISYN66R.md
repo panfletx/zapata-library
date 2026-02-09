@@ -1,5 +1,6 @@
 ---
 title: 'Machado de Assis: crônicas'
+featured: true
 date: '2024-09-01'
 year: 1972
 decade: 1970s

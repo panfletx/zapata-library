@@ -1,5 +1,6 @@
 ---
 title: Bom-Crioulo
+featured: true
 date: '2024-09-01'
 year: 1987
 decade: 1980s

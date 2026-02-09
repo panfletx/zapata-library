@@ -1,5 +1,6 @@
 ---
 title: 'Arte poética: seis conferencias'
+featured: true
 date: '2024-09-01'
 year: 2001
 decade: 2000s

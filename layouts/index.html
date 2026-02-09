@@ -26,7 +26,7 @@
 <section class="section">
   <h2>{{ i18n "featured" }}</h2>
   <div class="book-grid">
-    {{ range first 12 (where .Site.RegularPages "Section" "catalogue") }}
+    {{ range where (where .Site.RegularPages "Section" "catalogue") ".Params.featured" true }}
       {{ partial "book-card.html" . }}
     {{ end }}
   </div>

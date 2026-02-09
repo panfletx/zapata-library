@@ -1,5 +1,6 @@
 ---
 title: Narraciones
+featured: true
 date: '2024-09-01'
 year: 1982
 decade: 1980s

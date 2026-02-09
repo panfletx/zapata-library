@@ -1,5 +1,6 @@
 ---
 title: 'Luis Bunuel: prohibido asomarse al interior'
+featured: true
 date: '2024-09-01'
 year: 1986
 decade: 1980s

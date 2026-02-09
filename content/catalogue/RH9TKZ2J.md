@@ -1,5 +1,6 @@
 ---
 title: 'Heroes of Eros: male sexuality in the movies'
+featured: true
 date: '2024-09-01'
 year: 1979
 decade: 1970s
