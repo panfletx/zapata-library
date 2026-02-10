@@ -10,7 +10,8 @@ item_types:
 - book
 isbn: 01851535
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: YUNKTQ6M
 cover: covers/yunktq6m.jpg
 ---

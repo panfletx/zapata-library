@@ -18,10 +18,11 @@ edition: 'Primera edición: Cal y arena, 2004'
 series:
 - Colección Los imprescindibles
 subjects:
-- History
-- Mexico Mexico City
-- González Obregón, Luis, 1865-1938
-- Mexico City (Mexico) History
+- Mexican Literature
+- Mexico
+- Mexico City
+- Modern History
+- Urban Life
 oclc: '1055608240'
 cover_note: dedicatoria autor
 zotero_key: QX82BN6G

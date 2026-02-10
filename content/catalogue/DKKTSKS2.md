@@ -19,13 +19,9 @@ edition: 10a edición
 series:
 - Ariel
 subjects:
-- Antropología filosófica
-- Filosofa̕- Estudios y conferencias
-- Filosofía
-- Filosofía Enseñanza
-- Filosofía española Siglo XX
-- Filósofos españoles Siglo XX
-- Savater, Fernando, 1947- Pensamiento filósofico
+- Education
+- Philosophy
+- Speech & Lecture
 oclc: '964784596'
 cover_note: Regalo de Arturo
 exlibris: '2010'

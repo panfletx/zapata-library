@@ -17,15 +17,10 @@ pages: 439
 series:
 - Oeuvres de Julien Green
 subjects:
-- Biographies
-- 1900-1999
-- Authors, French 20th century Biography
-- Authors, French
-- Diaries
-- Écrivains français 20e siècle Biographies
-- Green, Julien, 1900-1998
-- Green, Julien, 1900-1998 Diaries
-- Green, Julien, 1900-1998 Journal intime
+- Biography
+- Diary & Letters
+- French Literature
+- Literary Criticism
 oclc: '221822209'
 cover_note: un reg. LMFP
 exlibris: '1998'

@@ -15,7 +15,9 @@ item_types:
 pages: 534
 series:
 - Biblioteca breve de bolsillo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '5048585'
 exlibris: '1994'
 zotero_key: JX4H98HD

@@ -16,10 +16,9 @@ pages: 399
 series:
 - Colección Fundamentos
 subjects:
-- Criticism, interpretation, etc
-- Classical fiction
-- Classical fiction History and criticism
-- Roman ancien Histoire et critique
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '43511464'
 exlibris: '1978'
 zotero_key: B8BHWUVW

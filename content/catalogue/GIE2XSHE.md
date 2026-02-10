@@ -17,7 +17,7 @@ pages: 223
 series:
 - Colección Milenio
 subjects:
-- Cuentos franceses
+- Short Stories
 oclc: '52897778'
 zotero_key: GIE2XSHE
 cover: covers/gie2xshe.jpg

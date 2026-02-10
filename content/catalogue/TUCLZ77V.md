@@ -16,10 +16,9 @@ isbn: 978-968-895-855-1
 pages: 47
 series: []
 subjects:
-- Cinematografía Crítica Relatos personales
-- Egoyan, Atom, 1960-
-- Egoyan, Atom, 1960- Critica e interpretacion
-- Egoyan, Atom, 1960- Relatos personales
+- Film & Cinema
+- Literary Criticism
+- Short Stories
 oclc: '651494702'
 zotero_key: TUCLZ77V
 cover: covers/tuclz77v.jpg

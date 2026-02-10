@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '1975'
 zotero_key: NGP2IZ5F
 cover: covers/ngp2iz5f.jpg

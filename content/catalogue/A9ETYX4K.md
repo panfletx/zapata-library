@@ -17,7 +17,7 @@ pages: 439
 series:
 - Obras maestras del siglo XX
 subjects:
-- Spanish language publications
+- Grammar & Linguistics
 oclc: '13539814'
 zotero_key: A9ETYX4K
 cover: covers/a9etyx4k.jpg

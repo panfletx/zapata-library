@@ -18,14 +18,12 @@ edition: 8th ed
 series:
 - Serie "América Latina en su cultura."
 subjects:
-- Latin American literature
-- Criticism, interpretation, etc
-- Literatur
-- Geschichte
-- Lateinamerika
-- Latin American literature History and criticism
-- Littérature latino-américaine Histoire et critique
-- LITERATURA LATINOAMERICANA HISTORIA Y CRITICA
+- American Literature
+- Latin America
+- Latin American Literature
+- Literary Criticism
+- Modern History
+- United States
 oclc: '10193089'
 exlibris: '1982'
 zotero_key: GGP9ZBGC

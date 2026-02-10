@@ -20,7 +20,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb35594877j
 pages: 136
 series:
 - Collection romantique
-subjects: []
+subjects:
+- French Literature
 oclc: '29400073'
 zotero_key: XF7X59SF
 cover: covers/xf7x59sf.jpg

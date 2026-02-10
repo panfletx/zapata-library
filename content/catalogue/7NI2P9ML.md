@@ -16,8 +16,7 @@ pages: 32
 series:
 - LENGUA Y LITERATURA
 subjects:
-- Analisis literario
-- Critica
+- Literary Criticism
 oclc: '865120595'
 zotero_key: 7NI2P9ML
 cover: covers/7ni2p9ml.jpg

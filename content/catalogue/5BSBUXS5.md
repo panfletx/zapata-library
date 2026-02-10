@@ -15,7 +15,8 @@ item_types:
 isbn: 978-2-01-019714-7
 pages: 154
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '859869970'
 exlibris: '2000'
 zotero_key: 5BSBUXS5

@@ -15,7 +15,7 @@ isbn: 978-968-28-0028-3
 pages: 352
 series: []
 subjects:
-- Cooking
+- Food & Gastronomy
 oclc: '16165405'
 zotero_key: IU5CQ7TQ
 cover: covers/iu5cq7tq.jpg

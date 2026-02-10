@@ -14,7 +14,8 @@ item_types:
 pages: 3
 series:
 - Livre de poche
-subjects: []
+subjects:
+- French Literature
 oclc: '299969093'
 zotero_key: MWR4NAYR
 cover: covers/mwr4nayr.jpg

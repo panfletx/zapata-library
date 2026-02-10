@@ -18,12 +18,9 @@ pages: 104
 series:
 - Colección Rey de bastos
 subjects:
-- Homosexuality
-- Homosexualidad
-- homosexuality
-- Paraphilias
-- Homosexualité
-- Homosexualidad Países islámicos Historia
+- Gay Literature
+- Modern History
+- Sexuality & Eroticism
 oclc: '56637309'
 exlibris: '1997'
 zotero_key: LSG5K5MT

@@ -15,7 +15,8 @@ item_types:
 pages: 31
 series:
 - Máquina de escribir (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
 oclc: '37344125'
 cover_note: dedicatoria 1981
 zotero_key: 8XNYWAYW

@@ -1,13 +1,11 @@
 ---
-title: 'La fin des amours du Chevalier de Faublas.: Par M. Louvet de Couvray. Tome
-  premier'
+title: 'La fin des amours du Chevalier de Faublas.: Par M. Louvet de Couvray. Tome premier'
 date: '2024-09-01'
 year: 1790
 authors:
 - Louvet de Couvray, Jean-Baptiste
 publishers:
-- Et se trouve à Paris, chez Bailly, libraire, rue S. Honoré, vis-à-vis la barriere
-  des Sergents. Et chez les marchands de nouveautés
+- Et se trouve à Paris, chez Bailly, libraire, rue S. Honoré, vis-à-vis la barriere des Sergents. Et chez les marchands de nouveautés
 place: A Londres
 languages:
 - Français
@@ -19,10 +17,6 @@ series:
 - Eighteenth century collections online
 subjects:
 - Fiction
-- French fiction
-- 1700-1799
-- French fiction 18th century
-- Roman français 18e siècle
 oclc: '728236225'
 zotero_key: C2ZCGQGQ
 cover: covers/c2zcgqgq.jpg

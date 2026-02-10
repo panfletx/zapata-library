@@ -18,7 +18,7 @@ edition: 1a. ed
 series:
 - Clásicos tomo
 subjects:
-- Adventure fiction
+- Fiction
 oclc: '1148235436'
 exlibris: '2004'
 zotero_key: EXVFFYQ9

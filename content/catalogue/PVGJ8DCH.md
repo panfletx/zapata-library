@@ -16,9 +16,7 @@ pages: 252
 series:
 - Avon
 subjects:
-- Short stories
-- Nouvelles
-- short stories
+- Short Stories
 oclc: '3419493'
 zotero_key: PVGJ8DCH
 cover: covers/pvgj8dch.jpg

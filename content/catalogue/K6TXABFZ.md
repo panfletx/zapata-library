@@ -17,7 +17,8 @@ pages: 130
 edition: 6a ed
 series:
 - Colección literaria universal
-subjects: []
+subjects:
+- Fiction
 oclc: '37773742'
 zotero_key: K6TXABFZ
 cover: covers/k6txabfz.jpg

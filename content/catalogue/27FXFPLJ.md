@@ -15,11 +15,8 @@ isbn: 978-2-8315-0767-5
 pages: 192
 series: []
 subjects:
-- Portugais (Langue) Manuels pour francophones
-- Terminology
-- Voyages and travels
-- Voyages and travels Terminology
-- Voyages Terminologie
+- Grammar & Linguistics
+- Travel Writing
 oclc: '937630780'
 zotero_key: 27FXFPLJ
 cover: covers/27fxfplj.jpg

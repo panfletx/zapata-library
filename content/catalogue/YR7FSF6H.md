@@ -17,13 +17,10 @@ pages: 206
 edition: 1. ed
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Authors, Mexican
-- Mexican literature 20th century History and criticism
-- Authors, Mexican 20th century
-- Écrivains mexicains 20e siècle
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '809535401'
 zotero_key: YR7FSF6H
 cover: covers/yr7fsf6h.jpg

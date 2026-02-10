@@ -17,7 +17,6 @@ edition: 1. ed
 series: []
 subjects:
 - Fiction
-- Romans
 oclc: '2728277'
 zotero_key: I3BIMBDR
 cover: covers/i3bimbdr.jpg

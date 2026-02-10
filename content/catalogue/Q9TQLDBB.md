@@ -15,7 +15,8 @@ item_types:
 pages: 79
 series:
 - Coleção de autores brasileiros
-subjects: []
+subjects:
+- Fiction
 oclc: '3807331'
 zotero_key: Q9TQLDBB
 cover: covers/q9tqldbb.jpg

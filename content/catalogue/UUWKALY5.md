@@ -16,17 +16,10 @@ pages: 304
 series:
 - Classiques de poche
 subjects:
-- Romances
-- Adaptations
-- Arthurian romances
-- Arthurian romances Adaptations
-- Cycle d'Arthur Adaptations
-- Iseult (Legendary character)
-- Iseult (Legendary character) Romances
-- Iseult (Personnage légendaire) Romans, nouvelles, etc. Adaptations
-- Tristan (Legendary character)
-- Tristan (Legendary character) Romances
-- Tristan (Personnage légendaire) Romans, nouvelles, etc. Adaptations
+- Fiction
+- King Arthur
+- Short Stories
+- Tristan & Iseult
 oclc: '1120129'
 exlibris: '1976'
 zotero_key: UUWKALY5

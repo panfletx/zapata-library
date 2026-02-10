@@ -17,7 +17,8 @@ item_types:
 isbn: 978-2-07-032175-9
 pages: 272
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '760586694'
 exlibris: '1997'
 zotero_key: SVHVZXDT

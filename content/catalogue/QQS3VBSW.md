@@ -15,7 +15,8 @@ item_types:
 - book
 pages: 205
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '610058518'
 zotero_key: QQS3VBSW
 cover: covers/qqs3vbsw.jpg

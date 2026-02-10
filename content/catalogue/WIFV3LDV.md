@@ -16,7 +16,7 @@ isbn: 978-0-553-02955-0
 pages: 173
 series: []
 subjects:
-- Creation (Literary, artistic, etc.)
+- Literary Criticism
 oclc: '3243881'
 zotero_key: WIFV3LDV
 cover: covers/wifv3ldv.jpg

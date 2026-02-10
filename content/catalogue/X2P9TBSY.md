@@ -17,7 +17,7 @@ pages: 97
 series:
 - Col. Renacimiento
 subjects:
-- Poesía española Siglo XX
+- Poetry
 oclc: '30743771'
 zotero_key: X2P9TBSY
 cover: covers/x2p9tbsy.jpg

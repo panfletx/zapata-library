@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 2
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '1151059861'
 zotero_key: B34QD8IS
 cover: covers/b34qd8is.jpg

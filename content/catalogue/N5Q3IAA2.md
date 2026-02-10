@@ -17,8 +17,7 @@ isbn: 978-968-19-1463-9
 pages: 174
 series: []
 subjects:
-- Alemán Textos de conversación
-- Alemán Libros de conversación y frases Español
+- Grammar & Linguistics
 oclc: '651309315'
 zotero_key: N5Q3IAA2
 cover: covers/n5q3iaa2.jpg

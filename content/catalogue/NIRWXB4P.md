@@ -16,20 +16,15 @@ pages: 104
 edition: 5th edition
 series: []
 subjects:
-- Spanish literature
-- Fiction
-- Man-woman relationships
-- Littérature espagnole
 - Drama
-- Blind
-- Blind Drama
-- Bureaucracy in literature
-- Bureaucracy in literature Humor
-- Bureaucratie dans la littérature Humour
-- Humor
-- Madrid (Spain) Fiction
-- Man-woman relationships Drama
-- Spain Madrid
+- Fiction
+- Latin American Politics
+- Love & Desire
+- Madrid
+- Medicine & Health
+- Satire & Humor
+- Spain
+- Spanish Literature
 oclc: '20194720'
 zotero_key: NIRWXB4P
 cover: covers/nirwxb4p.jpg

@@ -19,7 +19,6 @@ series:
 - Colección Thélema
 subjects:
 - Fiction
-- Romans
 oclc: '741270883'
 zotero_key: JFJFI52W
 cover: covers/jfjfi52w.jpg

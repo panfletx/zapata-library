@@ -15,12 +15,7 @@ pages: 96
 series:
 - Colección Cocina fácil
 subjects:
-- Cooking (Pasta)
-- Cooking (Rice)
-- Cuisine (Pâtes alimentaires)
-- Cuisine (Riz)
-- Cocina (Arroz)
-- Cocina (Pastas)
+- Food & Gastronomy
 oclc: '35874364'
 zotero_key: 6AC2PFID
 cover: covers/6ac2pfid.jpg

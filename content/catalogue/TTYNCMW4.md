@@ -10,7 +10,8 @@ item_types:
 - book
 isbn: 01851330
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: TTYNCMW4
 cover: covers/ttyncmw4.jpg
 ---

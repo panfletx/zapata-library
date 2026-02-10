@@ -16,7 +16,8 @@ isbn: 978-0-14-017107-5
 pages: 1
 series:
 - Penguin books
-subjects: []
+subjects:
+- Fiction
 oclc: '490093586'
 zotero_key: TJD9L7AL
 cover: covers/tjd9l7al.jpg

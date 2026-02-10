@@ -18,11 +18,8 @@ pages: 378
 series:
 - Garnier Flammarion (Series)
 subjects:
-- Novels
 - Fiction
-- Romans
-- novels
-- Suffel, Jacques
+- Novel
 oclc: '1122542276'
 exlibris: '1976'
 zotero_key: ZCSTEPV5

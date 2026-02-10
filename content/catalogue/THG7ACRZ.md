@@ -10,7 +10,8 @@ item_types:
 - book
 isbn: 968-39-1178-1
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: THG7ACRZ
 cover: covers/thg7acrz.jpg
 ---

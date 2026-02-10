@@ -17,7 +17,9 @@ pages: 168
 series:
 - Bitacora de po'etica
 subjects:
-- Novela italiana Siglo xv Historia y crítica
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '44113461'
 zotero_key: LKAFELQL
 cover: covers/lkafelql.jpg

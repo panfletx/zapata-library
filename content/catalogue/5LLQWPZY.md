@@ -16,7 +16,9 @@ isbn: 978-84-204-8032-9
 pages: 140
 series:
 - Nueva ficción
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '17367373'
 exlibris: '1994'
 zotero_key: 5LLQWPZY

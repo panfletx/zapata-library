@@ -11,7 +11,8 @@ item_types:
 - book
 source_url: http://argumentos.xoc.uam.mx/catalogo.html
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria
 zotero_key: 3MLHUSTZ
 cover: covers/3mlhustz.jpg

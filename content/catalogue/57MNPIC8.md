@@ -18,8 +18,10 @@ edition: 1a ed. en Lecturas Mexicanas
 series:
 - Lecturas mexicanas
 subjects:
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '15637356'
 zotero_key: 57MNPIC8
 cover: covers/57mnpic8.jpg

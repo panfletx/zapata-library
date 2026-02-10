@@ -17,22 +17,11 @@ pages: 458
 edition: Edición corregida y aumentada
 series: []
 subjects:
+- Gay Literature
+- Literary Criticism
 - Mexico
-- Arts, Mexican
-- Gay artists
-- Gay authors
-- Gay culture
-- 1900-2099
-- Artistes homosexuels Mexique
-- Arts mexicains 20e siècle
-- Arts mexicains 21e siècle
-- Arts, Mexican 20th century
-- Arts, Mexican 21st century
-- Culture homosexuelle Mexique
-- Écrivains homosexuels Mexique
-- Gay artists Mexico
-- Gay authors Mexico
-- Gay culture Mexico
+- Modern History
+- Visual Art
 oclc: '1155148315'
 zotero_key: STLYRHL9
 cover: covers/stlyrhl9.jpg

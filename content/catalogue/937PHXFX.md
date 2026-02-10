@@ -16,11 +16,9 @@ pages: 493
 series:
 - Saggi
 subjects:
-- Scénarios de cinéma
-- screenplays
-- Screenplays
-- Motion picture plays, Italian
-- Scénarios de cinéma italiens
+- Drama
+- Film & Cinema
+- Screenplay
 oclc: '1691307'
 zotero_key: 937PHXFX
 cover: covers/937phxfx.jpg

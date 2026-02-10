@@ -16,7 +16,7 @@ pages: 59
 series:
 - Área matemáticas
 subjects:
-- Lógica
+- Philosophy
 oclc: '1097691322'
 zotero_key: 7X42GCEV
 cover: covers/7x42gcev.jpg

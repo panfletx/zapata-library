@@ -18,7 +18,7 @@ edition: 1a ed
 series:
 - 'Biblioteca universal Caralt : serie novela'
 subjects:
-- misscover
+- Fiction
 oclc: '12985074'
 zotero_key: L6WP3V9M
 cover: covers/l6wp3v9m.jpg

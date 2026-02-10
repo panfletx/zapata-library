@@ -17,8 +17,7 @@ pages: 11
 edition: 1a ed
 series: []
 subjects:
-- Español Diccionarios
-- Sinónimos Diccionarios
+- Dictionary
 oclc: '906930563'
 zotero_key: 6GNEUCWX
 cover: covers/6gneucwx.jpg

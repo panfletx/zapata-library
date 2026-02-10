@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: EEM7BL3T
 cover: covers/eem7bl3t.jpg
 ---

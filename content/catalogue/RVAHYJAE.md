@@ -18,14 +18,13 @@ edition: Primera edición
 series:
 - Contemporánea (Debolsillo (Firm))
 subjects:
-- Fiction
-- Manners and customs
+- Biography
 - Canada
-- Canada Mœurs et coutumes Romans, nouvelles, etc
-- Canada Social life and customs Fiction
-- Canadá Vida social y costumbres Novela
-- Envejecimiento Novela
-- Mujeres Novela
+- Feminism
+- Fiction
+- Gender Studies
+- Modern History
+- Short Stories
 oclc: '687651003'
 exlibris: '2014'
 zotero_key: RVAHYJAE

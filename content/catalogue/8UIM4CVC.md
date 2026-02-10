@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-6245-00-4
 pages: 82
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '30692134'
 cover_note: dedicatoria de Manuel
 zotero_key: 8UIM4CVC

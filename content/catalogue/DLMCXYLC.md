@@ -19,23 +19,13 @@ edition: 1st ed
 series:
 - Gay sunshine journal
 subjects:
-- Latin America
-- Gay men
+- Anthology
 - Fiction
-- 1900-1999
-- Fictional Work
-- Romans
-- Translations
-- 18.33 Spanish-American literature
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
-- Latin American fiction
-- Anthologies (form)
-- Translations (form)
-- Gay men's writings, Latin American
-- 18.38 Portuguese-American literature
-- Latin American fiction 20th century Translations into English
-- Translations into English
+- Gay Literature
+- Latin America
+- Short Stories
+- Translation Studies
+- United States
 oclc: '9784903'
 zotero_key: DLMCXYLC
 cover: covers/dlmcxylc.jpg

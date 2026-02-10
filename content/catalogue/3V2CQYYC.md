@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1109-4
 pages: 61
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521437'
 exlibris: '1994'
 zotero_key: 3V2CQYYC

@@ -15,7 +15,8 @@ item_types:
 pages: 128
 series:
 - Imaginaire
-subjects: []
+subjects:
+- French Literature
 oclc: '452740587'
 zotero_key: 4UAQUV46
 cover: covers/4uaquv46.jpg

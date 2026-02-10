@@ -16,7 +16,7 @@ isbn: 978-950-16-0206-7
 pages: 253
 series: []
 subjects:
-- Cristianismo
+- Catholicism
 oclc: '1123641371'
 exlibris: '1994'
 zotero_key: HNEX5LKW

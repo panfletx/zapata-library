@@ -1,6 +1,5 @@
 ---
-title: 'Gustave Flaubert. L''Éducation sentimentale: Préface de Robert Kemp. Édition
-  ... annotée par E.-L. Ferrère ..'
+title: 'Gustave Flaubert. L''Éducation sentimentale: Préface de Robert Kemp. Édition ... annotée par E.-L. Ferrère ..'
 date: '2024-09-01'
 year: 1949
 decade: 1940s
@@ -17,7 +16,8 @@ item_types:
 - book
 pages: 461
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '459614306'
 zotero_key: CXFDCNNN
 cover: covers/cxfdcnnn.jpg

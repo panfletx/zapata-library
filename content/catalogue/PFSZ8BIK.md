@@ -20,8 +20,8 @@ edition: 1. ed
 series:
 - Colección Biblioteca
 subjects:
-- str. 1993
-- Novela portuguesa Siglo XX Traducciones al español
+- Fiction
+- Translation Studies
 oclc: '18768979'
 zotero_key: PFSZ8BIK
 cover: covers/pfsz8bik.jpg

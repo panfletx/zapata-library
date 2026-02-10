@@ -18,7 +18,7 @@ pages: 156
 series:
 - Clásicos universales (Algete)
 subjects:
-- Novela española Periodo clásico, 1500-1700
+- Fiction
 oclc: '432827516'
 zotero_key: 7BAZINEJ
 cover: covers/7bazinej.jpg

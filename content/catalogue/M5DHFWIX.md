@@ -17,8 +17,8 @@ pages: 328
 series:
 - Coolección Noesis / coordinada por el Dr. Claudio García Pintos
 subjects:
-- Logoterapia
-- Psicología patológica
+- Madness & Mental Illness
+- Psychoanalysis
 oclc: '55515458'
 exlibris: '2011'
 zotero_key: M5DHFWIX

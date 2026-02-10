@@ -16,12 +16,9 @@ pages: 240
 series:
 - Colección Austral
 subjects:
-- Nouvelles espagnoles
-- Short stories, Spanish
-- Spanish literature Classical period
-- 1500-1700
-- Romance Espanhol
-- Spanish literature Classical period, 1500-1700
+- Fiction
+- Short Stories
+- Spanish Literature
 oclc: '920341'
 zotero_key: WP6URUMM
 cover: covers/wp6urumm.jpg

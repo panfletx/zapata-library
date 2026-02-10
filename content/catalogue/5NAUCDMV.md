@@ -17,17 +17,9 @@ edition: 1a ed
 series:
 - Día en libros
 subjects:
-- History
+- Drama
 - Mexico
-- Theater
-- 1900-1999
-- Mexiko
-- Aufsatzsammlung
-- Aufführung
-- Geschichte (1975-1985)
-- Theater Mexico History 20th century
-- Theaterkritik
-- Théâtre Mexique Histoire 20e siècle
+- Modern History
 oclc: '15147661'
 zotero_key: 5NAUCDMV
 cover: covers/5naucdmv.jpg

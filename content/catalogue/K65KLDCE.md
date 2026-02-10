@@ -19,10 +19,8 @@ pages: 162
 series:
 - G.F.
 subjects:
-- Literature
-- Littérature
-- Maupassant, Guy de, 1850-1893. Le papa de Simon
-- VDOBIBL
+- French Literature
+- Literary Criticism
 oclc: '489628153'
 zotero_key: K65KLDCE
 cover: covers/k65kldce.jpg

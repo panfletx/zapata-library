@@ -14,7 +14,8 @@ item_types:
 - book
 series:
 - La Otra Orilla
-subjects: []
+subjects:
+- Fiction
 oclc: '1395880420'
 zotero_key: XIVT8FSB
 cover: covers/xivt8fsb.jpg

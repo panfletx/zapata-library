@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de autor
 zotero_key: UD48DKFN
 cover: covers/ud48dkfn.jpg

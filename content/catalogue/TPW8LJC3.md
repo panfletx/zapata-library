@@ -17,9 +17,8 @@ pages: 478
 series:
 - Everyman's library
 subjects:
-- Fiction in English, 1745-1800 Texts
-- Life and opinions of Tristram Shandy, gentleman (Sterne, Laurence)
-- Sterne, Laurence, 1713-1768
+- English Literature
+- Fiction
 oclc: '3828606'
 zotero_key: TPW8LJC3
 cover: covers/tpw8ljc3.jpg

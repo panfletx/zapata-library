@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: G3NMTPXF
 cover: covers/g3nmtpxf.jpg
 ---

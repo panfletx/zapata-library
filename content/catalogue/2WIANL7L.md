@@ -18,7 +18,7 @@ pages: 284
 series:
 - Club Bruguera
 subjects:
-- Novela italiana Siglo XX
+- Fiction
 oclc: '434618814'
 zotero_key: 2WIANL7L
 cover: covers/2wianl7l.jpg

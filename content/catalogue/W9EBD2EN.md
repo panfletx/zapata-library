@@ -19,9 +19,7 @@ pages: 526
 series:
 - Ópera en el mundo
 subjects:
-- OPERAS ARGUMENTOS, TRAMAS, etc
-- OPERAS LIBRETOS
-- WAGNER, RICHARD, 1813-1883
+- Opera
 oclc: '55308728'
 zotero_key: W9EBD2EN
 cover: covers/w9ebd2en.jpg

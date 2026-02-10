@@ -19,8 +19,9 @@ edition: 19 ed
 series:
 - Colección cien del mundo
 subjects:
-- Poesía épica griega
-- Poesía épica griega Traducciones al español
+- Epic
+- Poetry
+- Translation Studies
 oclc: '906631281'
 zotero_key: YE44GLBJ
 cover: covers/ye44glbj.jpg

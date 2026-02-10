@@ -15,7 +15,8 @@ item_types:
 isbn: 978-85-208-0102-4
 pages: 108
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '21111703'
 exlibris: '1991'
 zotero_key: ZQDYDJNZ

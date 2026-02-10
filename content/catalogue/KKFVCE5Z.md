@@ -17,7 +17,9 @@ pages: 242
 edition: 1a ed
 series:
 - Fin de siglo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '24880938'
 exlibris: '1994'
 zotero_key: KKFVCE5Z

@@ -18,7 +18,7 @@ pages: 305
 series:
 - Línea abierta Alfaguara
 subjects:
-- Novela inglesa Siglo XX
+- Fiction
 oclc: '435276127'
 exlibris: 1996 (regalo de José)
 zotero_key: YD93FFCE

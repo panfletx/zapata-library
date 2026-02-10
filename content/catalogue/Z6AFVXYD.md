@@ -17,9 +17,9 @@ pages: 97
 edition: 1. ed
 series: []
 subjects:
-- Literatura latinoamericana Poesía
-- Poesía mexicana
-- Poesia mexicana Siglo XX
+- Latin American Literature
+- Literary Criticism
+- Mexico
 oclc: '57310684'
 cover_note: dedicatoria 2007
 zotero_key: Z6AFVXYD

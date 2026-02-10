@@ -18,20 +18,12 @@ edition: 2a ed., 1a reimpresión
 series:
 - Lecturas mexicanas
 subjects:
-- History
+- Ancient History
 - Guatemala
-- Antiquities
-- Guatemala Antiquités
-- Guatemala Antiquities
-- Mayas
-- Mayas Histoire
-- Mayas History
-- Mayas Religion
-- Popol vuh
-- Quiché Histoire
-- Quiché Indians
-- Quiché Indians History
-- Quiché Indians Religion and mythology
+- Indigenous Peoples
+- Modern History
+- Mythology
+- Religion
 oclc: '28768069'
 zotero_key: T222WMMY
 cover: covers/t222wmmy.jpg

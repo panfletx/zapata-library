@@ -17,20 +17,8 @@ isbn: 978-84-495-0390-0
 series:
 - Clásicos de siempre
 subjects:
-- Aforismos y apotegmas
-- Aphorismes et apophtegmes
-- aphorisms
-- Aphorisms and apothegms
-- Aphorisms and Proverbs as Topic
-- Gibran, Kahlil, 1883-1931
-- Gibran, Kahlil, 1883-1931 Escritos
-- Máximas
-- Maximes
-- Maxims
-- Proverbes
-- Proverbios
-- proverbs
-- Proverbs
+- Aphorism
+- Poetry
 oclc: '40144795'
 zotero_key: EKG3JXEP
 cover: covers/ekg3jxep.jpg

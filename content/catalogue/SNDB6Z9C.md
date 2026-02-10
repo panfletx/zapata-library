@@ -18,21 +18,12 @@ source_url: https://bac-lac.on.worldcat.org/oclc/299746562
 pages: 243
 series: []
 subjects:
+- Feminism
 - France
-- 1900-1999
-- Authors, French
-- Interviews
+- Gender Studies
 - Interview
-- interviews
-- Authors, French -- 20th century -- Interviews
-- Authors, French 20th century Interviews
-- Duras, Marguerite
-- Duras, Marguerite -- Interviews
-- Duras, Marguerite Interviews
-- Écrivains français 20e siècle Entretiens
-- Femmes et littérature France
-- Women and literature
-- Women and literature France
+- Literary Criticism
+- Marguerite Duras
 oclc: '3206664'
 zotero_key: SNDB6Z9C
 cover: covers/sndb6z9c.jpg

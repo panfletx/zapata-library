@@ -17,10 +17,9 @@ pages: 275
 series:
 - Biblioteca literaria iberoamericana y filipina
 subjects:
-- LITERATURA GUATEMALTECA SIGLO XX
-- Novela guatemalteca Siglo XIX-XX
-- NOVELA GUATEMALTECA SIGLO XX
-- NOVELAS GUATEMALTECAS
+- Fiction
+- Latin American Literature
+- Literary Criticism
 oclc: '34120392'
 zotero_key: XLM4FQAK
 cover: covers/xlm4fqak.jpg

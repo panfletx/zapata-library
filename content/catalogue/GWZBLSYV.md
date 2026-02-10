@@ -19,9 +19,8 @@ pages: 241
 edition: 6a ed
 series: []
 subjects:
-- Arte en el cine
-- Cine
-- Industria cinematografíca
+- Film & Cinema
+- Visual Art
 oclc: '62927948'
 exlibris: '2006'
 zotero_key: GWZBLSYV

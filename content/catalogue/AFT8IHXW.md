@@ -18,13 +18,11 @@ edition: Primera edición
 series:
 - Narrativa Sexto Piso
 subjects:
-- Novels
 - Fiction
-- Romans
-- Historical fiction
-- John of the Cross, Saint, 1542-1591
-- John of the Cross, Saint, 1542-1591 Fiction
-- novels
+- Historical Fiction
+- Modern History
+- Novel
+- Saints & Hagiography
 oclc: '1137376976'
 zotero_key: AFT8IHXW
 cover: covers/aft8ihxw.jpg

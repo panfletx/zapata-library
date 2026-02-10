@@ -15,7 +15,8 @@ item_types:
 - book
 pages: 112
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '601878523'
 zotero_key: HZIPRVA6
 cover: covers/hziprva6.jpg

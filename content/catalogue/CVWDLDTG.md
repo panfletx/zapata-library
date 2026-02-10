@@ -18,21 +18,14 @@ pages: 207
 series:
 - Outside (Paris, France)
 subjects:
-- Biographies
-- 1900-1999
-- Authors, French 20th century Biography
-- Authors, French
-- Short stories
-- Nouvelles
-- short stories
-- French fiction
-- Duras, Marguerite
-- Écrivains français 20e siècle Biographies
-- Duras, Marguerite Biography
-- Duras, Marguerite Journal intime
-- Personal narratives French
-- Romance Frances
-- World War, 1939-1945 Personal narratives, French
+- Autobiography & Memoir
+- Biography
+- Diary & Letters
+- Fiction
+- Literary Criticism
+- Marguerite Duras
+- Short Stories
+- War & Conflict
 oclc: '12495945'
 zotero_key: CVWDLDTG
 cover: covers/cvwdldtg.jpg

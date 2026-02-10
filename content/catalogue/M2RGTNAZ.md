@@ -8,8 +8,7 @@ item_types:
 - book
 series: []
 subjects:
-- dt. 1996
-- name José Dimayuga dt. 2003
+- Fiction
 zotero_key: M2RGTNAZ
 cover: covers/m2rgtnaz.jpg
 ---

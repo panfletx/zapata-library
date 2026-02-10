@@ -18,15 +18,10 @@ edition: 1a ed
 series:
 - Vida es río
 subjects:
+- Biography
+- Film & Cinema
+- Luis Buñuel
 - Spain
-- Biographies
-- Motion picture producers and directors
-- Buñuel, Luis
-- Buñuel, Luis, 1900-1983
-- Motion picture producers and directors Biography Spain
-- Motion picture producers and directors Spain Biography
-- Producteurs et réalisateurs de cinéma Espagne Biographies
-- Productores y directores de cinematografía España Biografía
 oclc: '10483835'
 cover_note: dedicatoria Carlos García T. 1982
 zotero_key: S7GMLFTA

@@ -17,7 +17,7 @@ pages: 122
 series:
 - Hesperus
 subjects:
-- Novela inglesa Siglo XX
+- Fiction
 oclc: '630141689'
 exlibris: '2000'
 zotero_key: IWWIJF78

@@ -18,9 +18,9 @@ pages: 336
 series:
 - Literatura Mondadori
 subjects:
-- Cultura Siglo XX Literatura
-- Literatura estadounidense Siglo XX
-- Literatura norteamericana s. XX
+- American Literature
+- Literary Criticism
+- Modern History
 oclc: '38189882'
 zotero_key: 6KYF5RED
 cover: covers/6kyf5red.jpg

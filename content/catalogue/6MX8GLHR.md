@@ -15,11 +15,8 @@ pages: 295
 series:
 - Biblioteca de Psicología Contemporánea
 subjects:
-- Psicoanálisis
-- Neuroses
-- Névroses
-- Psicología
-- Subconciencia
+- Medicine & Health
+- Psychoanalysis
 oclc: '906796669'
 zotero_key: 6MX8GLHR
 cover: covers/6mx8glhr.jpg

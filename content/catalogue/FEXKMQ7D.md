@@ -15,11 +15,8 @@ item_types:
 pages: 516
 series: []
 subjects:
-- History
 - Italy
-- Italy History To 1870
-- Renaissance
-- To 1870
+- Modern History
 oclc: '38252163'
 zotero_key: FEXKMQ7D
 cover: covers/fexkmq7d.jpg

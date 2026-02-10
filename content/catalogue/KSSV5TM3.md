@@ -13,7 +13,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '1136007548'
 zotero_key: KSSV5TM3
 cover: covers/kssv5tm3.jpg

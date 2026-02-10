@@ -13,11 +13,9 @@ item_types:
 isbn: 978-84-322-0283-4
 series: []
 subjects:
-- Roman espagnol
-- Spanish fiction
-- Romans (teksten)
-- Spaanse letterkunde
-- Tekstuitgave
+- Anthology
+- Fiction
+- Spanish Literature
 oclc: '901754774'
 zotero_key: RZKJRBJ4
 cover: covers/rzkjrbj4.jpg

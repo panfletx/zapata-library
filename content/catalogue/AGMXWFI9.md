@@ -16,7 +16,8 @@ isbn: 978-968-6245-09-7
 pages: 69
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '32334754'
 zotero_key: AGMXWFI9
 cover: covers/agmxwfi9.jpg

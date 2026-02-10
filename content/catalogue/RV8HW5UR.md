@@ -18,9 +18,8 @@ edition: 1. ed
 series:
 - Biblioteca mexiquense del bicentenario
 subjects:
-- 2000-2099
-- Mexican essays
-- Mexican essays 21st century
+- Essay
+- Mexico
 oclc: '771927427'
 cover_note: dedicatoria del autor
 zotero_key: RV8HW5UR

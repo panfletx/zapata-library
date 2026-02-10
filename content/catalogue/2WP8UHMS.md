@@ -19,15 +19,15 @@ pages: 545
 series:
 - Lettres gothiques
 subjects:
-- 18.25 French literature
-- Erotic poetry, French
-- Anthologies (form)
-- Fables (texts)
-- Fabliaux
-- Fabliaux Anthologies
-- Littérature érotique française Anthologies Avant 1500
-- Littérature française Anthologies Avant 1500
-- Translations (form)
+- Anthology
+- Erotic Literature
+- Fable & Parable
+- French Literature
+- Literary Criticism
+- Poetry
+- Sexuality & Eroticism
+- Short Stories
+- Translation Studies
 oclc: '29481478'
 exlibris: '1998'
 zotero_key: 2WP8UHMS

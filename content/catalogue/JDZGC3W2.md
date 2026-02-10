@@ -14,7 +14,7 @@ item_types:
 - book
 series: []
 subjects:
-- Teosofía
+- Occult & Esoteric
 oclc: '651203695'
 zotero_key: JDZGC3W2
 cover: covers/jdzgc3w2.jpg

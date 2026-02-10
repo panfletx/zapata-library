@@ -18,19 +18,10 @@ edition: 1a ed
 series:
 - Best seller Edivisión
 subjects:
+- Biography
+- Medicine & Health
+- Religion
 - United States
-- Biographies
-- Vida espiritual
-- Spiritual life
-- Vie spirituelle
-- Physicians
-- Biographies religieuses États-Unis
-- Jampolsky, Gerald G., 1925-2020
-- Médecins États-Unis Biographies
-- Médicos Estados Unidos Biografía
-- Physicians United States Biography
-- Religious biography
-- Religious biography United States
 oclc: '34270670'
 zotero_key: XGF3WWHN
 cover: covers/xgf3wwhn.jpg

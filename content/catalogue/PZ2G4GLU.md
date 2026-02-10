@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: PZ2G4GLU
 cover: covers/pz2g4glu.jpg
 ---

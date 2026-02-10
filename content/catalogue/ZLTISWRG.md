@@ -17,7 +17,7 @@ pages: 231
 series:
 - Biblioteca Breve. Novela
 subjects:
-- Novela inglesa Siglo XX
+- Fiction
 oclc: '433958667'
 zotero_key: ZLTISWRG
 cover: covers/zltiswrg.jpg

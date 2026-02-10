@@ -16,7 +16,8 @@ item_types:
 isbn: 978-968-456-102-1
 pages: 367
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651522874'
 exlibris: '1993'
 zotero_key: SS62UCYX

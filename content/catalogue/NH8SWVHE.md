@@ -17,12 +17,8 @@ isbn: 978-0-19-501660-4
 pages: 2238
 series: []
 subjects:
-- English literature
-- 1800-1999
-- English literature 19th century
-- English literature 20th century
-- Littérature anglaise 19e siècle
-- Littérature anglaise 20e siècle
+- English Literature
+- Literary Criticism
 oclc: '24117398'
 zotero_key: NH8SWVHE
 cover: covers/nh8swvhe.jpg

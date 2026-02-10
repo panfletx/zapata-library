@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 8SFQ5JGD
 cover: covers/8sfq5jgd.jpg
 ---

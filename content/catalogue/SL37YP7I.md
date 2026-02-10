@@ -18,20 +18,10 @@ isbn: 978-2-234-05641-1
 pages: 241
 series: []
 subjects:
+- Diary & Letters
+- Film & Cinema
 - France
-- Diaries
-- Interviews
-- Motion picture actors and actresses
-- Actrices de cinéma France Entretiens
-- Actrices Entretiens
-- Cinema French Actress Memories
-- Deneuve, Catherine
-- Deneuve, Catherine, 1943-
-- Deneuve, Catherine, 1943- Diaries
-- Deneuve, Catherine, 1943- Entretiens
-- Deneuve, Catherine, 1943- Interviews
-- Interview (Descripteur de forme)
-- Motion picture actors and actresses France Interviews
+- Interview
 oclc: '55144290'
 zotero_key: SL37YP7I
 cover: covers/sl37yp7i.jpg

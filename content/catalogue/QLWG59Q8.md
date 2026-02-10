@@ -8,7 +8,8 @@ languages: []
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: QLWG59Q8
 cover: covers/qlwg59q8.jpg
 ---

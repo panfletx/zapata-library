@@ -22,18 +22,8 @@ series:
 - Letras universales
 subjects:
 - Poetry
-- Ciel Aspect religieux Poésie
-- Cielo (Religión) Poesía
-- Heaven
-- Heaven Poetry
-- Hell
-- Hell Poetry
-- Infierno Poesía
-- Poesia italiana Hasta 1400 Traducciones al español
-- Purgatoire Poésie
-- Purgatorio Poesía
-- Purgatory
-- Purgatory Poetry
+- Religion
+- Translation Studies
 oclc: '77539938'
 exlibris: '2007'
 zotero_key: 2VQM2TNB

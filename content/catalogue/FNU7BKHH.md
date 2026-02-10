@@ -17,26 +17,10 @@ pages: 242
 series:
 - Points
 subjects:
-- History
-- Europe
 - France
-- 500-1500
-- Armen (personen)
-- Armoede
-- Armut
-- Europa
-- Histoire sociale 500-1500 (Moyen Âge)
-- Histoire sociale Moyen-Age
-- Pauvres Europe Histoire
-- Poor
-- Poor Europe History
-- Poverty history
-- Service social France Histoire
-- Social history Medieval
-- Social history Medieval, 500-1500
-- Social service
-- Social service France History
-- Social Work history
+- Medieval History
+- Modern History
+- Poverty & Class
 oclc: '3311507'
 cover_note: dedicatoria Olivier
 zotero_key: FNU7BKHH

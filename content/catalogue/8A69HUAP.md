@@ -18,8 +18,10 @@ pages: 94
 edition: 2a ed
 series: []
 subjects:
-- Japón Vida social y costumbres
-- Té
+- Biography
+- Food & Gastronomy
+- Japan
+- Modern History
 oclc: '651538326'
 exlibris: '1993'
 zotero_key: 8A69HUAP

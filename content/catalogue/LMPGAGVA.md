@@ -16,14 +16,9 @@ pages: 192
 edition: New Dell edition
 series: []
 subjects:
+- Detective & Mystery
 - Fiction
-- Detective and mystery fiction
-- Poirot, Hercule (Fictitious character)
-- Poirot, Hercule (Fictitious character) Fiction
-- Mystery and detective fiction
-- Meurtre Enquêtes Romans, nouvelles, etc
-- Murder Investigation
-- Murder Investigation Fiction
+- Short Stories
 oclc: '37925292'
 zotero_key: LMPGAGVA
 cover: covers/lmpgagva.jpg

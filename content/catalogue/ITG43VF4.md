@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '2010'
 zotero_key: ITG43VF4
 cover: covers/itg43vf4.jpg

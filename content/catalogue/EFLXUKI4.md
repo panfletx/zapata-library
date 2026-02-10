@@ -16,9 +16,8 @@ isbn: 978-970-04-0153-9
 pages: 251
 series: []
 subjects:
-- Divination
-- Yi jing
-- divination
+- Occult & Esoteric
+- Religion
 oclc: '37670887'
 zotero_key: EFLXUKI4
 cover: covers/eflxuki4.jpg

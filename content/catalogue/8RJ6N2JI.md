@@ -17,20 +17,11 @@ pages: 107
 series:
 - Collection Folio
 subjects:
+- Anthology
+- Education
 - France
-- Authors and readers
-- Literary collections
-- Books and reading
-- Livres et lecture
-- Authors and readers France
-- Books and reading France
-- Books and reading Literary collections
-- Écrivains et lecteurs
-- Écrivains et lecteurs France
-- lecture livre
-- livre
-- Livres et lecture Anthologies
-- Livres et lecture France
+- Literary Criticism
+- Speech & Lecture
 oclc: '469533463'
 exlibris: '2007'
 zotero_key: 8RJ6N2JI

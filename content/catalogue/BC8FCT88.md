@@ -16,13 +16,13 @@ pages: 245
 series:
 - Coleção Edições do Pasquim
 subjects:
-- Biographies
+- Biography
 - Brazil
-- Gabeira, Fernando
-- Historia Do Brasil Politica (Revolucao 64)
-- Politica (Brasil)
-- Political refugees
-- Political refugees Brazil Biography
+- Brazilian Literature
+- Latin American Politics
+- Migration & Exile
+- Modern History
+- Social Movements
 oclc: '8176802'
 zotero_key: BC8FCT88
 cover: covers/bc8fct88.jpg

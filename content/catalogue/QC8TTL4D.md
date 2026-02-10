@@ -16,12 +16,8 @@ isbn: 978-607-05-0085-5
 pages: 174
 series: []
 subjects:
-- Criticism
-- criticism
-- Critique
-- Discours littéraire
-- Discourse analysis, Literary
-- literary criticism
+- Literary Criticism
+- Speech & Lecture
 oclc: '530159046'
 exlibris: '2011'
 zotero_key: QC8TTL4D

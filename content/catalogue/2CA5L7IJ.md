@@ -18,9 +18,9 @@ pages: 135
 series:
 - Biblioteca básica Salvat
 subjects:
-- Cuentos argentinos Siglo XX
-- Ensayos argentinos Siglo XX
-- Prosa literaria argentina Siglo XX
+- Argentina
+- Essay
+- Short Stories
 oclc: '22418654'
 exlibris: '1995'
 zotero_key: 2CA5L7IJ

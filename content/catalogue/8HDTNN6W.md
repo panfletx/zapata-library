@@ -39,15 +39,9 @@ pages: 202
 series:
 - Best American series
 subjects:
-- Nonfiction
-- Essays
-- Essais (Genre littéraire)
-- essays
-- 2000-2099
-- American essays
-- American essays 21st century
-- Essais
-- Essais américains 21e siècle
+- Essay
+- Literary Criticism
+- United States
 oclc: '313657957'
 cover_note: regalo de José
 exlibris: '2010'

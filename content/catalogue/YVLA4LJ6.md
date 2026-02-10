@@ -17,11 +17,10 @@ pages: 214
 series:
 - Picador
 subjects:
-- Criticism, interpretation, etc
-- English literature
-- essays
-- English literature History and criticism
-- Littérature anglaise Histoire et critique
+- English Literature
+- Essay
+- Literary Criticism
+- Modern History
 oclc: '86031740'
 zotero_key: YVLA4LJ6
 cover: covers/yvla4lj6.jpg

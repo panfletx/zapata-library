@@ -17,7 +17,7 @@ pages: 191
 series:
 - Guías de salud natural
 subjects:
-- Medicina natural
+- Medicine & Health
 oclc: '1245533261'
 zotero_key: 4FPGDR3W
 cover: covers/4fpgdr3w.jpg

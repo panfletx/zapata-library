@@ -15,11 +15,8 @@ pages: 1477
 edition: 6th ed
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- English language
-- English language Dictionaries Spanish
-- Spanish language Dictionaries English
+- Dictionary
+- Grammar & Linguistics
 oclc: '80979035'
 zotero_key: 7PWIWS5U
 cover: covers/7pwiws5u.jpg

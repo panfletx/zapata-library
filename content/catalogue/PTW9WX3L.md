@@ -15,9 +15,7 @@ item_types:
 pages: 98
 series: []
 subjects:
-- French wit and humor
-- Humorismo francés
-- Humour français
+- Satire & Humor
 oclc: '20196031'
 cover_note: dedicatoria
 zotero_key: PTW9WX3L

@@ -19,7 +19,8 @@ pages: 127
 series:
 - Zodíaco Chino. Signos
 subjects:
-- Astrología china
+- China
+- Occult & Esoteric
 oclc: '927746819'
 zotero_key: QXAZHQ3B
 cover: covers/qxazhq3b.jpg

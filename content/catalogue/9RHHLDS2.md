@@ -21,7 +21,7 @@ edition: 1a ed
 series:
 - Serie Diecinueve
 subjects:
-- Cuentos mexicanos Siglo XX
+- Short Stories
 oclc: '786308733'
 zotero_key: 9RHHLDS2
 cover: covers/9rhhlds2.jpg

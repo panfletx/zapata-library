@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 320
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1154368251'
 zotero_key: A8DTCGHV
 cover: covers/a8dtcghv.jpg

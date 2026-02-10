@@ -18,11 +18,7 @@ edition: 6a. ed
 series:
 - Colección Aprender haciendo grafismo
 subjects:
-- Artes graficas
-- Letras ornamentales
-- Letreros
-- Rotulación
-- Tipos (Imprenta)
+- Visual Art
 oclc: '432949811'
 zotero_key: DNF4RTJL
 cover: covers/dnf4rtjl.jpg

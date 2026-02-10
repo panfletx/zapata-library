@@ -17,16 +17,9 @@ pages: 293
 series:
 - Espejo de México
 subjects:
+- Latin American Politics
 - Mexico
-- Politics and government
-- Civilization
-- 1900-1999
-- Mexico Civilization 20th century
-- Mexique Civilisation 20e siècle
-- México Civilización Siglo XX
-- Mé́xico Política Siglo XX
-- Mexico Politics and government 20th century
-- Mexique Politique et gouvernement 20e siècle
+- Modern History
 oclc: '919175214'
 exlibris: '1992'
 zotero_key: M55IPWGE

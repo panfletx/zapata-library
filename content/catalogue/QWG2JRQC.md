@@ -18,9 +18,8 @@ edition: 1. ed
 series:
 - Grandes narradores (Mexico City, Mexico)
 subjects:
-- Mexican fiction
 - Fiction
-- Roman mexicain
+- Mexico
 oclc: '33004498'
 zotero_key: QWG2JRQC
 cover: covers/qwg2jrqc.jpg

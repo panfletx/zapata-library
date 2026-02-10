@@ -17,10 +17,8 @@ pages: 231
 series:
 - Historia universal de la literatura
 subjects:
+- Argentina
 - Poetry
-- Gauchos
-- Gauchos Poésie
-- Gauchos Poetry
 oclc: '19500061'
 zotero_key: GIPMALFV
 cover: covers/gipmalfv.jpg

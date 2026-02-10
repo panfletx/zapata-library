@@ -17,8 +17,10 @@ pages: 59
 series:
 - Alianza cien
 subjects:
-- Literatura hispanoamericana- México
-- Cuento- S. XX
+- Latin American Literature
+- Literary Criticism
+- Mexico
+- Short Stories
 oclc: '1187062057'
 zotero_key: 4DWQK8TK
 cover: covers/4dwqk8tk.jpg

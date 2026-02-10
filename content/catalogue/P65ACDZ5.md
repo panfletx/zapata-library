@@ -16,7 +16,8 @@ item_types:
 pages: 510
 series:
 - Garnier Flammarion
-subjects: []
+subjects:
+- French Literature
 oclc: '805606485'
 exlibris: '1979'
 zotero_key: P65ACDZ5

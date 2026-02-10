@@ -18,16 +18,9 @@ pages: 190
 series:
 - Companion library of classics
 subjects:
+- Children's Literature
 - Fiction
-- Action and adventure fiction
-- 1800-1899
-- American fiction
-- Adventure fiction Juvenile fiction
-- American fiction 19th century
-- Balloon ascensions juvenile Fiction
-- Roman américain 19e siècle
-- Sawyer, Tom (Fictitious character)
-- Sawyer, Tom (Fictitious character) Fiction
+- United States
 oclc: '1386834'
 zotero_key: R5ZSCN7N
 cover: covers/r5zscn7n.jpg

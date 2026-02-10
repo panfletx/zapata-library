@@ -16,7 +16,7 @@ isbn: 978-607-31-2950-3
 pages: 267
 series: []
 subjects:
-- Renacimiento
+- Modern History
 oclc: '962134384'
 zotero_key: 5RHNXEZM
 cover: covers/5rhnxezm.jpg

@@ -18,10 +18,10 @@ edition: 1. ed
 series:
 - Colección Hechos en palabras
 subjects:
+- Chiapas
 - Fiction
-- Chiapas (Mexico) Fiction
-- Chiapas (Mexique) Romans, nouvelles, etc
-- Mexico Chiapas
+- Mexico
+- Short Stories
 oclc: '497924847'
 zotero_key: ZYWJAU3L
 cover: covers/zywjau3l.jpg

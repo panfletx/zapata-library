@@ -17,22 +17,13 @@ edition: 1a ed
 series:
 - Biblioteca Francisco Javier Clavijero
 subjects:
-- History
-- Mexico Mexico City
-- Anarchism
-- Anarchism Mexico Mexico City History
-- Anarchisme Mexique Mexico Histoire
-- Grèves et lock-out Tramways Mexique Mexico Histoire
-- Mexico Tram services Trade unions to date
-- Mexico Working class movements 1910-
-- Street-railroads Employees
-- Street-railroads Mexico Mexico City Employees History
-- Strikes and lockouts Street-railroads
-- Strikes and lockouts Street-railroads Mexico Mexico City History
-- Tramways Mexique Mexico Personnel Histoire
-- Transport workers Labor unions
-- Transport workers Labor unions Mexico Mexico City History
-- Travailleurs des transports Syndicats Mexique Mexico Histoire
+- Economics
+- Mexico
+- Mexico City
+- Modern History
+- Poverty & Class
+- Social Movements
+- Urban Life
 oclc: '9520142'
 exlibris: '1983'
 zotero_key: 7L3HGB5Y

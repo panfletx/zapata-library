@@ -16,11 +16,8 @@ isbn: 978-84-8432-489-8
 pages: 269
 series: []
 subjects:
-- Cristianismo
-- Evangelio de Tomás
-- Evangelios apócrifos
-- Fuentes documentales
-- Textos antiguos
+- Catholicism
+- Religion
 oclc: '1025106221'
 cover_note: Sergio Torres Costa 2001
 zotero_key: E84GYE4A

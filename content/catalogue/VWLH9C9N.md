@@ -15,7 +15,8 @@ isbn: 978-84-288-1334-1
 pages: 1423
 edition: 5. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '472180115'
 zotero_key: VWLH9C9N
 cover: covers/vwlh9c9n.jpg

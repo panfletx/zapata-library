@@ -18,12 +18,9 @@ edition: 2. ed.]
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- 600-1500
-- Pensée religieuse 600-1500 (Moyen Âge)
-- Philosophie médiévale
-- Philosophy, Medieval
-- Religious thought Middle Ages
-- Religious thought Middle Ages, 600-1500
+- Medieval History
+- Philosophy
+- Religion
 oclc: '894758080'
 zotero_key: NH6CDU6M
 cover: covers/nh6cdu6m.jpg

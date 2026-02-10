@@ -17,13 +17,9 @@ pages: 322
 series:
 - Cien del mundo
 subjects:
-- Biographies
-- Rome (Empire)
-- Emperadores romanos
-- Empereurs Rome Biographies
-- Emperors
-- Emperors Rome Biography
-- Roma Historia Imperio, 30 a.C.-284 d.C
+- Biography
+- Modern History
+- Rome
 oclc: '21967274'
 exlibris: '1996'
 zotero_key: CAFFMDFN

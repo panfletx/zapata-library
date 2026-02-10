@@ -17,9 +17,9 @@ pages: 2
 series:
 - Colección fundamentos
 subjects:
-- Historical geography
-- Historical geography Maps
-- Maps
+- Modern History
+- Travel Writing
+- Visual Art
 oclc: '927305394'
 exlibris: '1974'
 zotero_key: 7S8AQFDC

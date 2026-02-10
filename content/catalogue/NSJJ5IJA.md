@@ -17,8 +17,7 @@ edition: '[2. ed.]'
 series:
 - Serie del volador
 subjects:
-- Spanish literature
-- Littérature espagnole
+- Spanish Literature
 oclc: '1219885'
 zotero_key: NSJJ5IJA
 cover: covers/nsjj5ija.jpg

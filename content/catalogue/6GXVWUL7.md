@@ -17,7 +17,7 @@ pages: 100
 edition: 11a. ed
 series: []
 subjects:
-- DROGAS ALUCINOGENAS Y EXPERIENCIAS RELIGIOSAS
+- Fiction
 oclc: '1318482804'
 exlibris: '1991'
 zotero_key: 6GXVWUL7

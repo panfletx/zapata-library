@@ -17,7 +17,8 @@ isbn: 978-2-7005-0138-4
 pages: 409
 series:
 - Método cotidiano Assimil
-subjects: []
+subjects:
+- German Literature
 oclc: '837887880'
 zotero_key: XXMHBM7M
 cover: covers/xxmhbm7m.jpg

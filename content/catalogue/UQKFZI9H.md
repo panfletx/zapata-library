@@ -16,7 +16,8 @@ isbn: 978-968-6608-31-1
 pages: 108
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '53039453'
 zotero_key: UQKFZI9H
 cover: covers/uqkfzi9h.jpg

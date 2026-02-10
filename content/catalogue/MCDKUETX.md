@@ -18,22 +18,12 @@ edition: 13. ed
 series:
 - Biblioteca del estudiante universitario (Universidad Nacional Autónoma de México)
 subjects:
-- History
+- Conquest of Mexico
+- Indigenous Peoples
 - Mexico
-- Translations
-- 1519-1540
-- Sources
-- Aztecs First contact with other peoples
-- Aztecs First contact with other peoples Sources
-- Aztèques Premiers contacts avec d'autres peuples Sources
-- Indians of Mexico First contact with other peoples
-- Indians of Mexico First contact with other peoples Sources
-- Mexico History Conquest, 1519-1540 Sources
-- Mexique Histoire 1519-1540 (Conquête) Sources
-- Nahuatl literature
-- Nahuatl literature Translations into Spanish
-- Peuples autochtones Premiers contacts avec d'autres peuples Mexique Sources
-- Spanish literature Translations from Aztec
+- Modern History
+- Spanish Literature
+- Translation Studies
 oclc: '29433160'
 zotero_key: MCDKUETX
 cover: covers/mcdkuetx.jpg

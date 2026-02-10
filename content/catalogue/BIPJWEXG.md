@@ -18,8 +18,9 @@ pages: 127
 series:
 - Clásicos para hoy
 subjects:
-- Literatura moderna argentina Novela Siglo XX
-- Novela argentina Siglo XX
+- Argentina
+- Fiction
+- Literary Criticism
 oclc: '741626947'
 exlibris: '1999'
 zotero_key: BIPJWEXG

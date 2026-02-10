@@ -15,10 +15,7 @@ item_types:
 isbn: 978-2-253-94198-9
 series: []
 subjects:
-- Plaisir
-- Pleasure
-- Hedonism
-- Hédonisme
+- Philosophy
 oclc: '406390693'
 zotero_key: FCB2XGBY
 cover: covers/fcb2xgby.jpg

@@ -17,7 +17,9 @@ pages: 219
 edition: 1. ed
 series:
 - Obras maestras de la literatura contemporánea
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '20101000'
 zotero_key: 6YMPLQSS
 cover: covers/6ymplqss.jpg

@@ -18,17 +18,10 @@ pages: 343
 series:
 - Penguin classics
 subjects:
-- History
-- Great Britain
 - Fiction
-- Fictional Work
-- Romans
-- 1714-1837
-- Grande-Bretagne Histoire 1714-1837
-- Great Britain 1603-1714, Stuarts History Fiction
-- Great Britain 1714-1837 History Fiction
-- Great Britain History 1714-1837
-- Humorous fiction
+- Modern History
+- Satire & Humor
+- United Kingdom
 oclc: '22402706'
 exlibris: '1993'
 zotero_key: SU8UP7ZJ

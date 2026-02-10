@@ -18,10 +18,9 @@ edition: 1a. ed. en Fábula
 series:
 - Fábula (Tusquets Editores)
 subjects:
-- Literatura estadounidense Siglo XX
-- Camas en la literatura
-- Humorismo estadounidense Siglo XX
-- Humoristas estadounidenses
+- American Literature
+- Literary Criticism
+- Satire & Humor
 oclc: '431867355'
 exlibris: '1998'
 zotero_key: TU3AWX39

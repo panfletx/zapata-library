@@ -16,7 +16,7 @@ pages: 181
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- Flaubert, Gustave, 1821-1880
+- French Literature
 oclc: '5298942'
 exlibris: '1982'
 zotero_key: WK9KPDYE

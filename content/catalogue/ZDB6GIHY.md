@@ -11,7 +11,8 @@ item_types:
 - book
 source_url: https://search.worldcat.org/title/21111703
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: ZDB6GIHY
 cover: covers/zdb6gihy.jpg
 ---

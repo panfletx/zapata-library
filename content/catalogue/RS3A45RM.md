@@ -19,11 +19,9 @@ edition: 1a ed
 series:
 - Aventura interior
 subjects:
-- Vida espiritual
-- Amor (Teología)
-- Amour Aspect religieux Christianisme
-- Caridad
-- Love Religious aspects Christianity
+- Ethics
+- Love & Desire
+- Religion
 oclc: '47833349'
 zotero_key: RS3A45RM
 cover: covers/rs3a45rm.jpg

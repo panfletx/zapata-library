@@ -15,7 +15,8 @@ item_types:
 source_url: http://www.gbv.de/dms/spk/iai/cov/725330678.jpg
 pages: 172
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '930824701'
 zotero_key: GQY5NJL7
 cover: covers/gqy5njl7.jpg

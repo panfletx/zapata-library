@@ -14,21 +14,11 @@ item_types:
 pages: 380
 series: []
 subjects:
-- Authorship
 - Aesthetics
-- Französisch
-- Art d'écrire
-- authorship
-- Authors
-- Literature Philosophy
-- Literature History and criticism
-- Littérature Histoire et critique
-- Littérature Philosophie
-- authors
-- Écrivains
-- Esthétique
-- literary theory
-- Literaturtheorie
+- Literary Criticism
+- Modern History
+- Philosophy
+- Visual Art
 oclc: '326732'
 exlibris: '1977'
 zotero_key: X668LWND

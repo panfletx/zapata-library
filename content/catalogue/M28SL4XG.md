@@ -17,7 +17,7 @@ pages: 255
 series:
 - Librairie des Champs-Élysées
 subjects:
-- French language materials
+- French Literature
 oclc: '6928625'
 zotero_key: M28SL4XG
 cover: covers/m28sl4xg.jpg

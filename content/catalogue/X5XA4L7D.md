@@ -16,7 +16,8 @@ pages: 471
 edition: 3. ed
 series:
 - Oscar Saggi
-subjects: []
+subjects:
+- Italian Literature
 oclc: '799168308'
 zotero_key: X5XA4L7D
 cover: covers/x5xa4l7d.jpg

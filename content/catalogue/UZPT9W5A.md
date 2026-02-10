@@ -16,10 +16,9 @@ isbn: 978-0-553-12323-4
 pages: 244
 series: []
 subjects:
-- Gay men
 - Fiction
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
+- Gay Literature
+- Short Stories
 oclc: '53263851'
 exlibris: '1979'
 zotero_key: UZPT9W5A

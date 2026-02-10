@@ -19,9 +19,7 @@ edition: Primera edición electrónica
 series:
 - Centzontle
 subjects:
-- Short stories
-- Nouvelles
-- short stories
+- Short Stories
 oclc: '1078503820'
 zotero_key: ZQ7YTAJS
 cover: covers/zq7ytajs.jpg

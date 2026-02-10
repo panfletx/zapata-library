@@ -19,20 +19,13 @@ edition: 1st ed
 series:
 - Texas Pan American series
 subjects:
-- Latin American literature
-- Homosexuality in literature
-- Criticism, interpretation, etc
-- Letterkunde
-- Literatur
-- Homosexualität
-- 18.33 Spanish-American literature
-- Homosexualité dans la littérature
-- Spaans
-- Lateinamerika
-- Geschichte (1895-1980)
-- Homoseksualiteit
-- Latin American literature History and criticism
-- Littérature latino-américaine Histoire et critique
+- American Literature
+- Gay Literature
+- Latin America
+- Latin American Literature
+- Literary Criticism
+- Modern History
+- United States
 oclc: '22597157'
 zotero_key: 385BZAZA
 cover: covers/385bzaza.jpg

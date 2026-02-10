@@ -20,11 +20,10 @@ pages: 310
 series:
 - Promexa autoayuda
 subjects:
-- Autorealización
-- Codependencia (Psicología) Aspectos religiosos Cristianismo
-- Consejería pastoral
-- Programas de Doce Pasos Aspectos religiosos Cristianismo Meditaciones
-- Vida cristiana
+- Catholicism
+- Philosophy
+- Psychoanalysis
+- Religion
 oclc: '651477727'
 zotero_key: FT73TRKS
 cover: covers/ft73trks.jpg

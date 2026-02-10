@@ -15,7 +15,8 @@ item_types:
 pages: 157
 series:
 - Rotativa
-subjects: []
+subjects:
+- Fiction
 oclc: '1158051020'
 zotero_key: 3FV3VFGS
 cover: covers/3fv3vfgs.jpg

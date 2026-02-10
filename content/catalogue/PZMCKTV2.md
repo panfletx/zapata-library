@@ -15,7 +15,7 @@ item_types:
 pages: 319
 series: []
 subjects:
-- French poetry
+- Poetry
 oclc: '3230133'
 zotero_key: PZMCKTV2
 cover: covers/pzmcktv2.jpg

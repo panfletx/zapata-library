@@ -15,7 +15,8 @@ item_types:
 isbn: 978-0-14-001782-3
 pages: 189
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '778034537'
 zotero_key: IG77PJXA
 cover: covers/ig77pjxa.jpg

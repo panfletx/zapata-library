@@ -18,7 +18,8 @@ pages: 137
 edition: 1a. ed. en "Narrativa breve."
 series:
 - Narrativa breve (Editorial Juventud)
-subjects: []
+subjects:
+- Fiction
 oclc: '433515361'
 zotero_key: SGRB9W7D
 cover: covers/sgrb9w7d.jpg

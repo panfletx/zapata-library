@@ -19,7 +19,8 @@ edition: 1a ed
 series:
 - Colección Ultramarinos. Serie Narrativa
 subjects:
-- Cuentos holandeses Siglo XX Traducciones al español
+- Short Stories
+- Translation Studies
 oclc: '807344880'
 zotero_key: WJF6XPZ6
 cover: covers/wjf6xpz6.jpg

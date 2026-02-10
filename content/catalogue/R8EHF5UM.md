@@ -17,12 +17,11 @@ pages: 61
 series:
 - Alianza cien
 subjects:
-- Mexico
-- Women
+- Feminism
 - Fiction
-- Femmes Mexique Romans, nouvelles, etc
-- Mujeres México Novela
-- Women Mexico Fiction
+- Gender Studies
+- Mexico
+- Short Stories
 oclc: '34109820'
 zotero_key: R8EHF5UM
 cover: covers/r8ehf5um.jpg

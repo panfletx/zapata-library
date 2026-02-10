@@ -12,7 +12,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1009646903'
 zotero_key: EKM2YWR5
 cover: covers/ekm2ywr5.jpg

@@ -18,12 +18,9 @@ pages: 235
 series:
 - Bibliothèque des classiques du cinéma
 subjects:
-- Motion picture plays
-- Scénarios de cinéma
-- screenplays
-- À bout de souffle (Film cinématographique)
-- À bout de souffle (Motion picture)
-- Cinéma Scénarios
+- Drama
+- Film & Cinema
+- Screenplay
 oclc: '1333252'
 zotero_key: HGU8HHPU
 cover: covers/hgu8hhpu.jpg

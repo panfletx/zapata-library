@@ -15,8 +15,7 @@ pages: 453
 edition: Viking Compass ed
 series: []
 subjects:
-- Vedanta
-- Vedānta
+- Religion
 oclc: '1075719'
 exlibris: Joaquín Blanco 1976
 zotero_key: UYLLV2NV

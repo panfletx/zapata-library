@@ -15,10 +15,8 @@ item_types:
 pages: 413
 series: []
 subjects:
-- Ethnopsychologie
-- ethnopsychology
-- Ethnopsychology
-- Etnopsicología
+- Modern History
+- Psychoanalysis
 oclc: '20208656'
 zotero_key: YMTTHYRZ
 cover: covers/ymtthyrz.jpg

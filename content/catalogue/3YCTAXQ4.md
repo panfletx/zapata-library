@@ -15,7 +15,8 @@ item_types:
 isbn: 978-84-942999-2-6
 pages: 56
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '931011192'
 zotero_key: 3YCTAXQ4
 cover: covers/3yctaxq4.jpg

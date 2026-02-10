@@ -19,12 +19,11 @@ edition: Orig.-ausg
 series:
 - Dtv
 subjects:
-- Anthologie
+- Anthology
 - Ecuador
-- Ecuador Kurzgeschichte Geschichte (1930-1990) Anthologie
-- Geschichte (1930-1990)
-- Kurzgeschichte
-- Spanische Literatur Ecuador Geschichte 20. Jh Anthologie
+- Latin American Literature
+- Modern History
+- Short Stories
 oclc: '214313268'
 zotero_key: CPFRU8CT
 cover: covers/cpfru8ct.jpg

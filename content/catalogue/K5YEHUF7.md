@@ -15,7 +15,8 @@ item_types:
 edition: 1a ed
 series:
 - Colección literaria universal
-subjects: []
+subjects:
+- Fiction
 oclc: '10468504'
 zotero_key: K5YEHUF7
 cover: covers/k5yehuf7.jpg

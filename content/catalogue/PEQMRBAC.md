@@ -17,7 +17,7 @@ pages: 303
 series:
 - Punto de Lectura
 subjects:
-- Powieść kolumbijska 1970-
+- Fiction
 oclc: '827723579'
 zotero_key: PEQMRBAC
 cover: covers/peqmrbac.jpg

@@ -17,7 +17,9 @@ pages: 209
 edition: 1. ed
 series:
 - Fontamara (Series)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '123353187'
 zotero_key: I98JF8MR
 cover: covers/i98jf8mr.jpg

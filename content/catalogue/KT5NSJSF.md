@@ -15,7 +15,8 @@ item_types:
 pages: 440
 series:
 - Bibliothèque des idées
-subjects: []
+subjects:
+- Fiction
 oclc: '1069146638'
 zotero_key: KT5NSJSF
 cover: covers/kt5nsjsf.jpg

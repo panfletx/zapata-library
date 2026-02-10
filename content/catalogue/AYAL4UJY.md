@@ -18,17 +18,11 @@ edition: 1. ed
 series:
 - Colección Literatura (Tijuana, Baja California, Mexico)
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- Intellectual life
-- 2000-2099
-- 'Baja California (Mexico : State) Intellectual life'
-- 'Basse-Californie (Mexique : État) Vie intellectuelle'
-- Littérature mexicaine 21e siècle Histoire et critique
-- Littérature mexicaine Mexique Basse-Californie (État) Histoire et critique
-- Mexican literature 21st century History and criticism
-- Mexican literature Mexico Baja California (State) History and criticism
-- Mexico Baja California (State)
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- United States
 oclc: '781875727'
 cover_note: dedicatoria de la autora 2012
 zotero_key: AYAL4UJY

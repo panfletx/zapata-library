@@ -16,28 +16,12 @@ isbn: 978-1-56639-370-6
 pages: 263
 series: []
 subjects:
-- CIEG
-- History
-- Homosexuality
-- Gays
 - Cuba
-- 1900-1999
-- Gays Cuba
-- Gender roles
-- Historia da america politica e sociedade
-- Homosexualität
-- Homosexualité Cuba
-- Homosexualité Cuba Histoire 20e siècle
-- homosexualité masculine Cuba 20e s. (2e moitié)
-- Homosexuality Cuba
-- Homosexuality Cuba History 20th century
-- Homosexuality History
-- Homosexuels Cuba
-- Homossexualismo (sociologia)
-- Kuba
-- Machisme Cuba
-- Machismo
-- Machismo Cuba
+- Gay Literature
+- Gender Studies
+- Masculinity
+- Modern History
+- United States
 oclc: '33243052'
 zotero_key: F7SC5GNM
 cover: covers/f7sc5gnm.jpg

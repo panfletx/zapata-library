@@ -17,16 +17,8 @@ pages: 144
 series:
 - Couleur des idées
 subjects:
-- Death
-- deaths
-- Mort
-- Tod
-- Chance
-- Hasard
-- Philosophie
-- Résurrection Philosophie
-- Resurrection Philosophy
-- Temps (Philosophie)
+- Death & Mourning
+- Philosophy
 oclc: '86113447'
 exlibris: '2010'
 zotero_key: E29N2ILH

@@ -16,7 +16,8 @@ item_types:
 pages: 8
 series:
 - Le Livre de poche classique
-subjects: []
+subjects:
+- French Literature
 oclc: '1071227750'
 exlibris: '1976'
 zotero_key: FVDTJV6M

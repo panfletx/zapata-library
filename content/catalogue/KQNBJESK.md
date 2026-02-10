@@ -15,14 +15,8 @@ isbn: 978-970-05-0275-5
 pages: 495
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionnaires multilingues
-- Multilingual dictionaries
-- polyglot dictionaries
-- French language
-- French language Dictionaries Spanish
-- Spanish language Dictionaries French
+- Dictionary
+- Grammar & Linguistics
 oclc: '44036691'
 zotero_key: KQNBJESK
 cover: covers/kqnbjesk.jpg

@@ -15,7 +15,8 @@ item_types:
 pages: 108
 edition: 6. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '2023081'
 zotero_key: LLNHFAWC
 cover: covers/llnhfawc.jpg

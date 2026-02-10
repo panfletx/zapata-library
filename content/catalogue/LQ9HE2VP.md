@@ -18,12 +18,9 @@ pages: 238
 series:
 - Collection Tel
 subjects:
-- magie symbole
-- religion symbole
-- symbole
-- Symbolisme
-- Symbolisme religieux
-- Symbolismus
+- Occult & Esoteric
+- Religion
+- Symbolism
 oclc: '19861951'
 exlibris: '1989'
 zotero_key: LQ9HE2VP

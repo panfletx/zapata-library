@@ -12,8 +12,9 @@ item_types:
 edition: 1a ed.
 series: []
 subjects:
-- Literatura hispanoamericana- México
-- Poesía- S. XX
+- Latin American Literature
+- Literary Criticism
+- Mexico
 oclc: '760451424'
 cover_note: dedicatoria de Juan Carlos Bautista
 zotero_key: 3C98JGHK

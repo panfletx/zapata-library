@@ -16,7 +16,8 @@ pages: 152
 edition: 2. éd
 series:
 - Obras de Juan José Arreola
-subjects: []
+subjects:
+- Fiction
 oclc: '2212192'
 zotero_key: XENMTPH3
 cover: covers/xenmtph3.jpg

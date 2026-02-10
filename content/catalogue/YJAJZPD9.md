@@ -16,9 +16,7 @@ pages: 1228
 edition: 9e ed. revue
 series: []
 subjects:
-- French language Grammar
-- French language Grammar 1950-
-- Since 1950
+- Grammar & Linguistics
 oclc: '270755451'
 zotero_key: YJAJZPD9
 cover: covers/yjajzpd9.jpg

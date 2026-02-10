@@ -16,8 +16,7 @@ isbn: 978-968-22-0033-5
 pages: 206
 series: []
 subjects:
-- Literatura
-- Tiempo Nublado
+- Literary Criticism
 oclc: '906781391'
 zotero_key: 4I6K4ZBP
 cover: covers/4i6k4zbp.jpg

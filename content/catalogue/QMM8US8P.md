@@ -16,7 +16,8 @@ isbn: 978-2-7021-1309-7
 pages: 185
 series:
 - Contre-Champs
-subjects: []
+subjects:
+- French Literature
 oclc: '602550896'
 exlibris: '1994'
 zotero_key: QMM8US8P

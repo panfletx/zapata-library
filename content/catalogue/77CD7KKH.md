@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 77CD7KKH
 cover: covers/77cd7kkh.jpg
 ---

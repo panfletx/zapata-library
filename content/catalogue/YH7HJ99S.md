@@ -10,7 +10,8 @@ item_types:
 - book
 isbn: 0188-4824
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: YH7HJ99S
 cover: covers/yh7hj99s.jpg
 ---

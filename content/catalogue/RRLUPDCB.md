@@ -16,7 +16,8 @@ source_url: https://archive.org/details/lediableaucorps0000radi_m5f2
 pages: 95
 series:
 - Librio
-subjects: []
+subjects:
+- French Literature
 oclc: '1245296842'
 zotero_key: RRLUPDCB
 cover: covers/rrlupdcb.jpg

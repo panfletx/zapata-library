@@ -18,7 +18,9 @@ pages: 272
 series:
 - Alfaguara/Bolsillo
 subjects:
-- Roma Historia Crítica e interpretación
+- Literary Criticism
+- Modern History
+- Rome
 oclc: '34205205'
 zotero_key: YFLIIYGL
 cover: covers/yfliiygl.jpg

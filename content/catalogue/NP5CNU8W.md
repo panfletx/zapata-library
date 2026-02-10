@@ -20,7 +20,8 @@ pages: 479
 edition: 2ª edición
 series:
 - Tiempo cero
-subjects: []
+subjects:
+- Fiction
 oclc: '1090846582'
 exlibris: '1995'
 zotero_key: NP5CNU8W

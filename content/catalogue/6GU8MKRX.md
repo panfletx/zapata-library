@@ -19,22 +19,10 @@ edition: 1. ed
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
+- Carlos Fuentes
+- Interview
+- Literary Criticism
 - Mexico
-- 1900-1999
-- Authors, Mexican
-- Authors, Mexican 20th century Interviews
-- Écrivains mexicains 20e siècle Entretiens
-- Interviews
-- 18.33 Spanish-American literature
-- interviews
-- Fuentes, Carlos
-- 1900-2000
-- Autores mexicanos Siglo XX Entrevistas
-- Fuentes, Carlos Entrevistas
-- Fuentes, Carlos Interviews
-- Fuentes, Carlos, 1928-2012
-- Intelectuales México Entrevistas
-- Interviews (form)
 oclc: '53485131'
 exlibris: '1999'
 zotero_key: 6GU8MKRX

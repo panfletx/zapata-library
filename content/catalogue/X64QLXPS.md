@@ -17,7 +17,8 @@ pages: 254
 edition: 6. ed
 series:
 - Colección "Sepan cuantos"
-subjects: []
+subjects:
+- Fiction
 oclc: '5141992'
 zotero_key: X64QLXPS
 cover: covers/x64qlxps.jpg

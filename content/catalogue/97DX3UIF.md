@@ -17,18 +17,10 @@ pages: 229
 series:
 - Bibliothèque des idées
 subjects:
-- Literature and society
-- Criticism, interpretation, etc
 - Fiction
-- 1900-1999
-- Romans
-- Fiction 20th century History and criticism
-- Littérature et société
-- Malraux, André (1901-1976) Romans Critique et interprétation
-- Nouveau roman Aspect social
-- Roman Histoire et critique
-- Sociologie de la littérature
-- Structuralisme (analyse littéraire)
+- Literary Criticism
+- Modern History
+- Structuralism & Poststructuralism
 oclc: '6963781'
 exlibris: '1978'
 zotero_key: 97DX3UIF

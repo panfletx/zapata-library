@@ -14,7 +14,8 @@ item_types:
 - book
 series:
 - Selecta
-subjects: []
+subjects:
+- French Literature
 oclc: '216302797'
 zotero_key: 4FIYGBPI
 cover: covers/4fiygbpi.jpg

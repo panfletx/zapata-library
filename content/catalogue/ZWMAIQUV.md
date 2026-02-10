@@ -17,14 +17,10 @@ edition: Primera edición
 series:
 - Literatura. Año X
 subjects:
-- 1900-2099
-- Latin American fiction
-- Latin American fiction 20th century
-- Latin American fiction 21st century
-- Nouvelles latino-américaines
-- Roman latino-américain 20e siècle
-- Roman latino-américain 21e siècle
-- Short stories, Latin American
+- Fiction
+- Latin America
+- Short Stories
+- United States
 oclc: '1102538607'
 zotero_key: ZWMAIQUV
 cover: covers/zwmaiquv.jpg

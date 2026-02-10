@@ -19,8 +19,8 @@ edition: 36a. ed
 series:
 - Gramática Sucinta
 subjects:
-- Alemán (Lengua) Gramática Estudio y enseñanza
-- Alemán Gramática Manuales
+- Education
+- Grammar & Linguistics
 oclc: '37037626'
 zotero_key: QLW6EJ68
 cover: covers/qlw6ej68.jpg

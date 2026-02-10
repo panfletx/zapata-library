@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 50
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '19097334'
 zotero_key: JDQSTWUP
 cover: covers/jdqstwup.jpg

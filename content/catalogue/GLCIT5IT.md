@@ -16,7 +16,8 @@ isbn: 978-968-24-1152-6
 pages: 129
 series:
 - Clásicos de la literatura (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
 oclc: '15567257'
 zotero_key: GLCIT5IT
 cover: covers/glcit5it.jpg

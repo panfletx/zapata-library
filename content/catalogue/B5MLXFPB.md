@@ -19,19 +19,11 @@ edition: 1. ed
 series:
 - Narrativa breve (Madrid, Spain)
 subjects:
-- 1900-1999
-- Short stories, Spanish
-- Short stories, Latin American
-- Cuentos en español Siglo XX
-- Cuentos españoles Siglo XX
-- Cuentos latinoamericanos Siglo XX
-- Medical fiction
-- Medicina en la literatura
-- Nouvelles espagnoles 20e siècle
-- Nouvelles latino-américaines 20e siècle
-- Novela médica
-- Short stories, Latin American 20th century
-- Short stories, Spanish 20th century
+- Fiction
+- Latin America
+- Medicine & Health
+- Short Stories
+- United States
 oclc: '47686585'
 zotero_key: B5MLXFPB
 cover: covers/b5mlxfpb.jpg

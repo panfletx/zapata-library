@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1087-5
 pages: 61
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521464'
 zotero_key: CBXMUMBC
 cover: covers/cbxmumbc.jpg

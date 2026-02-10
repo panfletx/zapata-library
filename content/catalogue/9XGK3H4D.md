@@ -17,7 +17,8 @@ pages: 95
 series:
 - Alianza cien
 subjects:
-- Literatura brasileña Siglo XIX
+- Latin American Literature
+- Literary Criticism
 oclc: '50678336'
 zotero_key: 9XGK3H4D
 cover: covers/9xgk3h4d.jpg

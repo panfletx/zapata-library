@@ -17,17 +17,12 @@ pages: 4
 edition: 5. ed
 series: []
 subjects:
-- England
+- Detective & Mystery
 - Fiction
-- Translations
-- Détectives Angleterre Romans, nouvelles, etc
-- Holmes, Sherlock
-- Holmes, Sherlock Fiction
-- Private investigators
-- Private investigators England Fiction
-- Detective and mystery stories, English
-- Detective and mystery stories, English Translations into Spanish
-- Novela policíaca inglesa Traducciones al español
+- Sherlock Holmes
+- Short Stories
+- Translation Studies
+- United Kingdom
 oclc: '51672597'
 zotero_key: 3KYFAQLS
 cover: covers/3kyfaqls.jpg

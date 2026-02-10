@@ -18,15 +18,11 @@ edition: 1a ed
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- History
 - Fiction
-- '1147'
-- Correction d'épreuves Romans, nouvelles, etc
-- Lisbon (Portugal) History Siege, 1147 Fiction
-- Lisbonne (Portugal) Histoire 1147 (Siège) Romans, nouvelles, etc
-- Portugal Lisbon
-- Proofreading
-- Proofreading Fiction
+- Literary Criticism
+- Modern History
+- Portugal
+- Short Stories
 oclc: '22942600'
 zotero_key: CKPCJJTS
 cover: covers/ckpcjjts.jpg

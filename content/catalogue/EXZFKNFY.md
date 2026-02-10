@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: EXZFKNFY
 cover: covers/exzfknfy.jpg
 ---

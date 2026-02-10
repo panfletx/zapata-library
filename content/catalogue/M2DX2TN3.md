@@ -15,7 +15,8 @@ item_types:
 pages: 380
 series:
 - Colección Crisol literario
-subjects: []
+subjects:
+- Fiction
 oclc: '21185411'
 zotero_key: M2DX2TN3
 cover: covers/m2dx2tn3.jpg

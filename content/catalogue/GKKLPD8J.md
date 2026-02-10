@@ -18,13 +18,9 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
-- Literature
-- Writing
+- Essay
+- Literary Criticism
 - Memory
-- Littérature
-- Ensayos mexicanos
-- Écriture
-- writing (processes)
 oclc: '36214915'
 zotero_key: GKKLPD8J
 cover: covers/gkklpd8j.jpg

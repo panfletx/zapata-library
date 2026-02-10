@@ -17,7 +17,6 @@ edition: 1a. ed
 series:
 - Andanzas
 subjects:
-- Biographies
 - Biography
 oclc: '299549871'
 exlibris: '1995'

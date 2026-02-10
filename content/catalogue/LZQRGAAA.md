@@ -20,8 +20,8 @@ edition: 3a. ed
 series:
 - Cuadernos ínfimos
 subjects:
-- Enfermedades mentales Aspectos sociales
-- Esquizofrenia
+- Madness & Mental Illness
+- Medicine & Health
 oclc: '432413997'
 zotero_key: LZQRGAAA
 cover: covers/lzqrgaaa.jpg

@@ -18,17 +18,7 @@ pages: 287
 edition: 5a ed
 series: []
 subjects:
-- Handbooks and manuals
-- Academic Dissertations as Topic
-- Academic writing
-- Academic writing Handbooks, manuals, etc
-- Dissertations, Academic
-- Écriture savante Guides, manuels, etc
-- Guides et manuels
-- Handbook
-- Redacción de informes
-- Tesis académicas
-- Thèses et écrits académiques
+- Literary Criticism
 oclc: '141193953'
 zotero_key: X52IWXQB
 cover: covers/x52iwxqb.jpg

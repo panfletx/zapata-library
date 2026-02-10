@@ -18,14 +18,11 @@ edition: 1. ed
 series:
 - Lecturas mexicanas
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- Mexican literature 20th century History and criticism
-- 1800-1999
-- Littérature mexicaine 19e siècle Histoire et critique
-- Mexican literature 19th century History and criticism
-- Literatura mexicana Siglo XXI
-- Ensayos
+- Essay
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '122937908'
 cover_note: dedicatoria jjb
 zotero_key: 3JJRDI98

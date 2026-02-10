@@ -19,7 +19,7 @@ pages: 554
 edition: 10a impr
 series: []
 subjects:
-- Judíos errantes
+- Judaism
 oclc: '651375843'
 zotero_key: BLP5R3JD
 cover: covers/blp5r3jd.jpg

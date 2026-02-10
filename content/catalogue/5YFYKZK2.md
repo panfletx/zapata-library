@@ -15,7 +15,9 @@ item_types:
 pages: 27
 series:
 - Serie nuevos escritores
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '48297168'
 zotero_key: 5YFYKZK2
 cover: covers/5yfykzk2.jpg

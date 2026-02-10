@@ -17,19 +17,9 @@ pages: 176
 series:
 - Collection Le Français dans le monde
 subjects:
-- Frans
-- Französisch
-- French language
-- Textbooks for foreign speakers
-- Conversation and phrase books
-- Français (Langue) Manuels pour allophones
-- Français (Langue) Vocabulaires et manuels de conversation
-- French language Conversation and phrase books
-- French language Study and teaching Foreign speakers
-- French language Syntax
-- French language Textbooks for foreign speakers
-- Satzbauplan
-- Syntaxis
+- Dictionary
+- Education
+- Grammar & Linguistics
 oclc: '1059926'
 zotero_key: JQAZUIRX
 cover: covers/jqazuirx.jpg

@@ -17,11 +17,9 @@ pages: 320
 series:
 - Austral
 subjects:
-- Literatura
-- Novela
-- Reino Unido
-- Siglo XIX=
-- Siglo XX=
+- Fiction
+- Literary Criticism
+- United Kingdom
 oclc: '920059685'
 exlibris: '2003'
 zotero_key: 9IVMJXI4

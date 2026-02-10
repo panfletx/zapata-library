@@ -15,11 +15,8 @@ item_types:
 - book
 series: []
 subjects:
-- French literature
-- 1500-1599
-- Bibliographies
-- French literature 16th century Bibliography
-- Littérature française 16e siècle Bibliographie
+- Bibliography
+- French Literature
 oclc: '235131045'
 zotero_key: WUMWHR6V
 cover: covers/wumwhr6v.jpg

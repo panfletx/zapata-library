@@ -17,7 +17,8 @@ isbn: 978-84-7162-675-2
 pages: 257
 series:
 - Erasmo, textos bilingües
-subjects: []
+subjects:
+- Fiction
 oclc: '7448848'
 zotero_key: FDVJN4DP
 cover: covers/fdvjn4dp.jpg

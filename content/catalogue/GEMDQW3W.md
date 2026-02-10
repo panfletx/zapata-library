@@ -16,7 +16,8 @@ isbn: 978-84-495-0302-3
 pages: 189
 series:
 - Clásicos de siempre (Madrid)
-subjects: []
+subjects:
+- Fiction
 oclc: '431462109'
 zotero_key: GEMDQW3W
 cover: covers/gemdqw3w.jpg

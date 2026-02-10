@@ -17,7 +17,8 @@ isbn: 978-968-39-0968-8
 pages: 63
 series:
 - Alianza Cien
-subjects: []
+subjects:
+- Fiction
 oclc: '689505414'
 zotero_key: 98CDKVLD
 cover: covers/98cdkvld.jpg

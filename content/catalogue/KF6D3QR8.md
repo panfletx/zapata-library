@@ -13,7 +13,8 @@ item_types:
 - book
 pages: 1
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 oclc: '1250385811'
 exlibris: '1990'
 zotero_key: KF6D3QR8

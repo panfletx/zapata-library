@@ -16,7 +16,8 @@ isbn: 978-84-7017-999-0
 pages: 158
 series:
 - Libros DB
-subjects: []
+subjects:
+- Fiction
 oclc: '8117822'
 zotero_key: 6DI5FLG6
 cover: covers/6di5flg6.jpg

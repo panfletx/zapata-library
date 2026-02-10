@@ -17,11 +17,10 @@ pages: 268
 edition: 5a ed
 series: []
 subjects:
-- Mexican poetry
-- Criticism, interpretation, etc
-- Poesía mexicana Historia y crítica
-- Mexican poetry History and criticism
-- Poésie mexicaine Histoire et critique
+- Literary Criticism
+- Mexico
+- Modern History
+- Poetry
 oclc: '19881330'
 cover_note: dedicatoria de jjb
 zotero_key: STDYGJXZ

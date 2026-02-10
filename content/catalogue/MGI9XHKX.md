@@ -11,7 +11,9 @@ item_types:
 - book
 isbn: 968-16-5216-9
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 zotero_key: MGI9XHKX
 cover: covers/mgi9xhkx.jpg
 ---

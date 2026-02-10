@@ -17,13 +17,10 @@ pages: 2
 edition: First edition
 series: []
 subjects:
-- Gay artists
-- Interviews
-- interviews
-- Artistes homosexuels Entretiens
-- Gay artists Interviews
-- Homoseksuelen
-- Schrijvers
+- Gay Literature
+- Interview
+- Poetry
+- Visual Art
 oclc: '3893070'
 cover_note: dedicatoria de Leyland
 zotero_key: IVB6X39M

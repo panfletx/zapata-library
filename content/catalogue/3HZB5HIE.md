@@ -18,16 +18,9 @@ edition: 8a ed
 series:
 - Naturismo
 subjects:
+- Dictionary
+- Medicine & Health
 - Mexico
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Botany, Medical
-- Medicinal plants
-- Botany, Medical Mexico Dictionaries
-- Materia medica, Vegetable
-- Materia medica, Vegetable Mexico Dictionaries
-- Medicinal plants Mexico Dictionaries
 oclc: '41280045'
 zotero_key: 3HZB5HIE
 cover: covers/3hzb5hie.jpg

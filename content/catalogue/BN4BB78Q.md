@@ -18,10 +18,9 @@ pages: 170
 edition: 9. Aufl
 series: []
 subjects:
-- Der Himmel über Berlin
-- Drehbuch
-- Himmel über Berlin
-- Himmel über Berlin (Motion picture)
+- Berlin
+- Film & Cinema
+- Screenplay
 oclc: '249811523'
 zotero_key: BN4BB78Q
 cover: covers/bn4bb78q.jpg

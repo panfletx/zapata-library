@@ -16,16 +16,12 @@ isbn: 978-970-05-0650-0
 pages: 177
 series: []
 subjects:
-- Gay men
 - Fiction
-- Fictional Work
-- Romans
-- Ciudad de México Novela
-- Gay men Mexico Mexico City Fiction
-- Homosexuels masculins Mexique Mexico Romans, nouvelles, etc
-- Mexico City (Mexico) Fiction
-- Mexico Mexico City
-- Varones homosexuales México Ciudad de México Novela
+- Gay Literature
+- Mexico
+- Mexico City
+- Short Stories
+- Urban Life
 oclc: '35912579'
 zotero_key: XYAA4Z2R
 cover: covers/xyaa4z2r.jpg

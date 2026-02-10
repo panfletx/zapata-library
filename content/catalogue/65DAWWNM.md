@@ -18,7 +18,7 @@ edition: 2a. ed
 series:
 - Temas básicos. Area de Metodología de la Ciencia
 subjects:
-- Ciencias Metodología
+- Science
 oclc: '636368108'
 zotero_key: 65DAWWNM
 cover: covers/65dawwnm.jpg

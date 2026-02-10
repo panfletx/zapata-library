@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: ZIBKYRX4
 cover: covers/zibkyrx4.jpg
 ---

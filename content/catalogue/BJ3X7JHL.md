@@ -18,8 +18,8 @@ pages: 193
 series:
 - Cuantos leen ..
 subjects:
-- Nouvelles mexicaines
-- Short stories, Mexican
+- Mexico
+- Short Stories
 oclc: '874850131'
 zotero_key: BJ3X7JHL
 cover: covers/bj3x7jhl.jpg

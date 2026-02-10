@@ -17,9 +17,7 @@ pages: 92
 edition: 1. ed
 series: []
 subjects:
-- Short stories
-- Nouvelles
-- short stories
+- Short Stories
 oclc: '63673096'
 exlibris: dedicatoria de Ramírez Bravo 2005
 zotero_key: G7HPJ8WH

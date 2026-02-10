@@ -17,16 +17,10 @@ pages: 251
 edition: Nueva ed
 series: []
 subjects:
-- Dépression
-- Depression, Mental
-- Popular works
-- Dépression Traitement Ouvrages de vulgarisation
-- Depression, Mental Religious aspects Christianity
-- Depression, Mental Treatment
-- Depression, Mental Treatment Popular works
-- Psychologie et religion Ouvrages de vulgarisation
-- Psychology and religion
-- Psychology and religion Popular works
+- Madness & Mental Illness
+- Psychoanalysis
+- Religion
+- Science
 oclc: '26079781'
 zotero_key: E8YNZMDD
 cover: covers/e8ynzmdd.jpg

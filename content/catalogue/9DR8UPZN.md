@@ -1,6 +1,5 @@
 ---
-title: Antología de la poesía brasileña; desde el Romanticísmo a la Generación del
-  Cuarenta y Cinco
+title: Antología de la poesía brasileña; desde el Romanticísmo a la Generación del Cuarenta y Cinco
 date: '2024-09-01'
 year: 1973
 decade: 1970s
@@ -19,11 +18,7 @@ edition: '[1. ed'
 series:
 - Biblioteca breve de bolsillo
 subjects:
-- poetry
 - Poetry
-- Poésie
-- Brazilian poetry
-- Poésie brésilienne
 oclc: '1295507'
 cover_note: Joaquin Blanco 1976
 zotero_key: 9DR8UPZN

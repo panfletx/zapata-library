@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 256
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '11068082'
 zotero_key: DBJJPYZS
 cover: covers/dbjjpyzs.jpg

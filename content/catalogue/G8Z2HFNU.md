@@ -17,11 +17,9 @@ pages: 124
 edition: 1a ed
 series: []
 subjects:
-- Criticism, interpretation, etc
-- 1800-1899
-- English fiction
-- English fiction 19th century History and criticism
-- Roman anglais 19e siècle Histoire et critique
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '15298063'
 zotero_key: G8Z2HFNU
 cover: covers/g8z2hfnu.jpg

@@ -16,7 +16,9 @@ pages: 33
 edition: 1. ed
 series:
 - Cuadernos de Praxis/Dos filos
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '32901629'
 cover_note: dedicatoria de Galicia
 zotero_key: PMXW6PJQ

@@ -1,6 +1,5 @@
 ---
-title: 'Cuatro comedias: Las paredes oyen ; La verdad sospechosa ; Los pechos privilegiados
-  ; Ganar amigos'
+title: 'Cuatro comedias: Las paredes oyen ; La verdad sospechosa ; Los pechos privilegiados ; Ganar amigos'
 date: '2024-09-01'
 year: 1977
 decade: 1970s
@@ -17,9 +16,9 @@ pages: 206
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Literatura española
-- Autores españoles
-- Comedia española
+- Drama
+- Literary Criticism
+- Spanish Literature
 oclc: '1097793436'
 zotero_key: 7ZYWCVSR
 cover: covers/7zywcvsr.jpg

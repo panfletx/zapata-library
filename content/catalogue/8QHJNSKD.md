@@ -16,7 +16,8 @@ pages: 304
 edition: 4. ed
 series:
 - Coleccion Sepan cuantos ; 15
-subjects: []
+subjects:
+- Fiction
 oclc: '1264869561'
 zotero_key: 8QHJNSKD
 cover: covers/8qhjnskd.jpg

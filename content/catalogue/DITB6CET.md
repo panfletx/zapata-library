@@ -17,11 +17,9 @@ pages: 301
 edition: Vintage Canada Edition
 series: []
 subjects:
-- Italy
 - Fiction
-- 1939-1945
-- Italy Fiction
-- World War, 1939-1945 Italy Fiction
+- Italy
+- War & Conflict
 oclc: '1028679726'
 zotero_key: DITB6CET
 cover: covers/ditb6cet.jpg

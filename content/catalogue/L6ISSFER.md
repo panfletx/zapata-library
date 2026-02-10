@@ -18,9 +18,8 @@ edition: 1a ed
 series:
 - Ariel quincenal
 subjects:
-- Psychiatry
-- Personality
-- Personnalité
+- Medicine & Health
+- Psychoanalysis
 oclc: '15380867'
 exlibris: '1978'
 zotero_key: L6ISSFER

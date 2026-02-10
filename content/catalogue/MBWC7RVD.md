@@ -17,7 +17,8 @@ pages: 432
 edition: 7. ed
 series:
 - Clásicos
-subjects: []
+subjects:
+- Fiction
 oclc: '27180589'
 zotero_key: MBWC7RVD
 cover: covers/mbwc7rvd.jpg

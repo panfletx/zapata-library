@@ -18,21 +18,14 @@ edition: 1a ed
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
+- Autobiography & Memoir
+- Biography
+- Fiction
+- Latin American Literature
+- Literary Criticism
+- Love & Desire
 - Mexico
-- Intellectual life
-- Biographies
-- 1900-1999
-- Friendship
-- collective biographies
-- Autobiografie
-- Mexico Intellectual life 20th century
-- Authors, Guatemalan
-- Authors, Guatemalan 20th century Biography
-- Cardoza y Aragón, Luis
-- Cardoza y Aragón, Luis, 1904-1992
-- Cardoza y Aragón, Luis, 1904-1992 Friends and associates
-- Écrivains guatémaltèques 20e siècle Biographies
-- Romance Hispano-Americano
+- Modern History
 oclc: '15877381'
 exlibris: '1990'
 zotero_key: 7YMZ85GF

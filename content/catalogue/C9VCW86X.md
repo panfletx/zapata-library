@@ -18,16 +18,10 @@ pages: 351
 series:
 - Colección Esconología
 subjects:
-- Theater
-- theater (discipline)
-- Théâtre
 - Drama
-- Intercultural communication
-- Interkulturalität
-- plays (performing arts compositions)
-- Theater and society
-- Théâtre (Genre littéraire)
-- Théâtre et société
+- Grammar & Linguistics
+- Literary Criticism
+- Modern History
 oclc: '42136013'
 cover_note: Regalo de Luis
 zotero_key: C9VCW86X

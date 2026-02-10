@@ -17,13 +17,13 @@ pages: 133
 edition: 1. ed. en Alfaguara
 series: []
 subjects:
-- 1900 - 1999
-- Guatemalan literature
-- Guatemalan literature 20th century
-- Literatura guatemalteca Ensayos, conferencias, etc. Siglo XX
-- Littérature guatémaltèque 20e siècle
-- Mexican essays 20th century
-- Mexican essays Mexico Mexico City
+- Essay
+- Latin American Literature
+- Literary Criticism
+- Mexico
+- Mexico City
+- Speech & Lecture
+- Urban Life
 oclc: '40474321'
 zotero_key: IQ7AN7B6
 cover: covers/iq7an7b6.jpg

@@ -13,11 +13,11 @@ languages:
 item_types:
 - book
 pages: 170
-edition: Faksimiledrucke nach der Erstausg. von 1670 und der Happelschen Übersetz.
-  von 1682
+edition: Faksimiledrucke nach der Erstausg. von 1670 und der Happelschen Übersetz. von 1682
 series:
 - Sammlung Metzler
-subjects: []
+subjects:
+- Fiction
 oclc: '922590125'
 zotero_key: SAWM336E
 cover: covers/sawm336e.jpg

@@ -17,16 +17,9 @@ pages: 675
 series:
 - Dictionnaire de poche de la langue français
 subjects:
-- Dictionaries
-- Frans
-- dictionaries
-- Dictionnaires
-- French language
 - Dictionary
-- Français (Langue) Jusqu'à 1300 (Ancien français) Dictionnaires
-- French language To 1300 Dictionaries
-- Middeleeuwen
-- To 1300
+- Grammar & Linguistics
+- Medieval History
 oclc: '10560237'
 zotero_key: JQTXRQ2W
 cover: covers/jqtxrq2w.jpg

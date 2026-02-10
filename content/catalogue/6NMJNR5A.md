@@ -18,18 +18,13 @@ edition: Primera edición
 series:
 - Grandes de la Literatura
 subjects:
-- Classical literature
-- Greek literature
-- Homero Traducciones en Español
-- Homero, s. IX a. C
-- Homero. Crítica e interpretación
-- Literatura épica griega
-- Littérature ancienne
-- Littérature grecque
-- Mitología griega Literatura
-- Mitología griega Poesía
-- Poesía épica griega Historia y crítica
-- Poesía épica griega Traducciones al Español
+- Classical Literature
+- Epic
+- Literary Criticism
+- Modern History
+- Mythology
+- Poetry
+- Translation Studies
 oclc: '903403361'
 exlibris: '2014'
 zotero_key: 6NMJNR5A

@@ -16,8 +16,9 @@ isbn: 978-968-856-069-3
 pages: 313
 series: []
 subjects:
-- Confucio y confucianismo
-- Filosofía china
+- China
+- Philosophy
+- Religion
 oclc: '906680171'
 exlibris: '1988'
 zotero_key: C8A9WBUA

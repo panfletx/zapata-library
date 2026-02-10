@@ -15,7 +15,9 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '433009136'
 exlibris: '2011'
 zotero_key: NJ7YBE99

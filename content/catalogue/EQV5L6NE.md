@@ -16,7 +16,8 @@ isbn: 978-970-9059-46-5
 pages: 54
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '293075123'
 cover_note: dedicatoria de Uriel Martínez
 zotero_key: EQV5L6NE

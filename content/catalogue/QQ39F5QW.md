@@ -19,8 +19,7 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb381665074
 pages: 3
 series: []
 subjects:
-- Méthode de langue
-- Méthode de langue espagnol
+- Grammar & Linguistics
 oclc: '691279065'
 zotero_key: QQ39F5QW
 cover: covers/qq39f5qw.jpg

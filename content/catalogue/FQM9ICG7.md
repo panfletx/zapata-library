@@ -11,7 +11,8 @@ item_types:
 - book
 source_url: https://www.worldcat.org/title/50771246
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: FQM9ICG7
 cover: covers/fqm9icg7.jpg
 ---

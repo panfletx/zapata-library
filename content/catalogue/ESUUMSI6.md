@@ -18,20 +18,13 @@ edition: 1. ed
 series:
 - Colección Raíces del hombre
 subjects:
-- Politics in literature
-- Homosexuality in literature
-- Mexican fiction
-- Criticism, interpretation, etc
-- 1900-1999
-- Homosexualidad en la literatura
-- Homosexualité dans la littérature
-- Mexican fiction 20th century History and criticism
-- Novela mexicana Siglo XX Historia y crítica
-- Pétrole dans la littérature
-- Petróleo en la literatura
-- Petroleum in literature
-- Política en el literatura
-- Roman mexicain 20e siècle Histoire et critique
+- Economics
+- Fiction
+- Gay Literature
+- Latin American Politics
+- Literary Criticism
+- Mexico
+- Modern History
 oclc: '37743494'
 exlibris: '1997'
 zotero_key: ESUUMSI6

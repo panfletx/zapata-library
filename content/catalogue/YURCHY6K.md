@@ -18,10 +18,8 @@ edition: 1a. ed
 series:
 - Biblioteca de Cuento Contemporáneo
 subjects:
-- Short stories, Mexican
-- Cuento
-- Cuentos mexicanos Siglo XXI
-- Short stories, Mexican 21st century
+- Mexico
+- Short Stories
 oclc: '645654702'
 cover_note: dedicatoria
 zotero_key: YURCHY6K

@@ -17,7 +17,7 @@ pages: 159
 series:
 - Cine club era
 subjects:
-- Angel azul (Película)
+- Film & Cinema
 oclc: '6169182'
 zotero_key: IN6CS33L
 cover: covers/in6cs33l.jpg

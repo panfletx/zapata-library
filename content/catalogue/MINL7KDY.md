@@ -16,8 +16,7 @@ isbn: 978-950-04-2380-9
 pages: 286
 series: []
 subjects:
-- Apocalypse now (Motion picture)
-- Coppola, Francis Ford, 1939-
+- Film & Cinema
 oclc: '52974143'
 exlibris: '2006'
 zotero_key: MINL7KDY

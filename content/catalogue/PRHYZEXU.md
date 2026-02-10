@@ -19,18 +19,11 @@ edition: 1a ed
 series:
 - Narrativa
 subjects:
+- Ethics
+- Family
 - Fiction
-- Asperger's syndrome
-- Asperger's syndrome Fiction
-- Family secrets
-- Family secrets Fiction
-- Secretos de familia Novela
-- Secrets de famille Romans, nouvelles, etc
-- Síndrome de Asperger Novela
-- Syndrome d'Asperger Romans, nouvelles, etc
-- Tolerancia Novela
-- Toleration
-- Toleration Fiction
+- Medicine & Health
+- Short Stories
 oclc: '907026057'
 cover_note: dedicatoria
 zotero_key: PRHYZEXU

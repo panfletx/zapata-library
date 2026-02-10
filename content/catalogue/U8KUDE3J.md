@@ -16,17 +16,7 @@ pages: 141
 series:
 - Collection Le Français dans le monde
 subjects:
-- Spanish language
-- Espagnol (Langue)
-- Espagnol (langue) Phonétique
-- Espagnol (Langue) Phonétique
-- Français (langue) Phonétique
-- Français (Langue) Phonétique
-- Français (langue) Prononciation
-- Français (Langue) Prononciation
-- French language Phonetics
-- French language Pronunciation
-- Spanish language Phonetics
+- Grammar & Linguistics
 oclc: '3475693'
 zotero_key: U8KUDE3J
 cover: covers/u8kude3j.jpg

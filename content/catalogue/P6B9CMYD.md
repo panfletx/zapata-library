@@ -21,14 +21,8 @@ pages: 722
 edition: Nouv. éd.
 series: []
 subjects:
-- diccionario
-- dictionary
-- dictionnaire
-- Espagnol (Langue) Dictionnaires français
-- Français (Langue) Dictionnaires espagnols
-- langage
-- language
-- lengua
+- Dictionary
+- Grammar & Linguistics
 oclc: '1141003909'
 zotero_key: P6B9CMYD
 cover: covers/p6b9cmyd.jpg

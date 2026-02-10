@@ -16,7 +16,9 @@ isbn: 978-968-476-241-1
 pages: 97
 series:
 - Fontamara
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '760663355'
 cover_note: dedicatoria de Ojeda
 zotero_key: VBVM3L53

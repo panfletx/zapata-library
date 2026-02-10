@@ -18,13 +18,10 @@ pages: 238
 edition: '[1a. ed.]'
 series: []
 subjects:
-- 1900-1999
-- Diaries
-- Mann, Thomas, 1875-1955
-- Mann, Thomas, 1875-1955 Diarios
-- Mann, Thomas, Diarios personales
-- Novelists, German
-- Novelists, German 20th century Diaries
+- Diary & Letters
+- German Literature
+- Literary Criticism
+- Modern History
 oclc: '434869595'
 exlibris: '1993'
 zotero_key: FN78TEXG

@@ -16,7 +16,9 @@ isbn: 978-968-27-0477-2
 pages: 312
 edition: 1a ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '16223253'
 zotero_key: TNR9JSR4
 cover: covers/tnr9jsr4.jpg

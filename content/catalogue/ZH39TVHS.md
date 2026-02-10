@@ -17,14 +17,10 @@ edition: 2. ed
 series:
 - Novelistas contemporáneos (Mexico City, Mexico)
 subjects:
-- History
-- Historical geography
-- Maps
 - Canada
-- Canada Historical geography Maps
-- Cartographie Canada Histoire
-- Cartography
-- Cartography Canada History
+- Modern History
+- Travel Writing
+- Visual Art
 oclc: '3111156'
 zotero_key: ZH39TVHS
 cover: covers/zh39tvhs.jpg

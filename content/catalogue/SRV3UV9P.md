@@ -16,16 +16,7 @@ pages: 304
 edition: Vingt-cinquième édition
 series: []
 subjects:
-- Français (Langue) Grammaire Problèmes et exercices
-- French language Grammar
-- French language Grammar Problems, exercises, etc
-- Problems and exercises
-- Französisch
-- Aufgabensammlung
-- exercise books
-- Français (Langue) Grammaire
-- Grammatik
-- Problèmes et exercices
+- Grammar & Linguistics
 oclc: '1665461'
 zotero_key: SRV3UV9P
 cover: covers/srv3uv9p.jpg

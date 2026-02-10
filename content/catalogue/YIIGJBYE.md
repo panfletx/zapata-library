@@ -11,7 +11,8 @@ item_types:
 - book
 source_url: http://www.bibliothek.uni-regensburg.de/ezeit/?2516386
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '608403150'
 zotero_key: YIIGJBYE
 cover: covers/yiigjbye.jpg

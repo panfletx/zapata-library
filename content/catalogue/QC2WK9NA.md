@@ -18,21 +18,11 @@ pages: 180
 series:
 - Colección Grandes de la literatura
 subjects:
-- 1900-1999
-- Personal correspondence
-- Translations
-- Authors, German
-- Authors, German 20th century Correspondence
-- Autores alemanes Siglo XX Correspondencia
-- Écrivains allemands 20e siècle Correspondance
-- Kappus, Franz Xaver, 1883-1966
-- Kappus, Franz Xaver, 1883-1966 Correspondence
-- Kappus, Franz Xaver, 1883-1966 Correspondencia
-- Rilke, Rainer Maria, 1875-1926
-- Rilke, Rainer Maria, 1875-1926 Correspondence
-- Rilke, Rainer Maria, 1875-1926 Correspondencia
-- Rilke, Rainer Maria, 1875-1926 Traducciones al español
-- Rilke, Rainer Maria, 1875-1926 Translations into Spanish
+- Correspondence
+- Literary Criticism
+- Modern History
+- Poetry
+- Translation Studies
 oclc: '69182354'
 zotero_key: QC2WK9NA
 cover: covers/qc2wk9na.jpg

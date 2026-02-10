@@ -16,13 +16,7 @@ isbn: 978-970-05-0969-3
 pages: 126
 series: []
 subjects:
-- Fotografía Manuales
-- Fotografía Técnica
-- Handbooks and manuals
-- Photographie Technique
 - Photography
-- Photography Handbooks, manuals, etc
-- Photography Technique
 oclc: '44262047'
 zotero_key: IRDGI5MS
 cover: covers/irdgi5ms.jpg

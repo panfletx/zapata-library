@@ -18,8 +18,8 @@ pages: 94
 series:
 - Grandes autores
 subjects:
-- Cuentos norteamericanos
-- Narración de cuentos
+- Literary Criticism
+- Short Stories
 oclc: '48996463'
 zotero_key: YD9Z2F4V
 cover: covers/yd9z2f4v.jpg

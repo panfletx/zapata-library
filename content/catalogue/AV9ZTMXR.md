@@ -17,11 +17,10 @@ isbn: 978-607-502-001-3
 pages: 550
 series: []
 subjects:
-- Generales México Biografía
-- México Historia 1821-1861
-- Presidentes México Biografía
-- Presidentes México Biografías
-- Santa Anna, Antonio López de, 1794?-1876
+- Biography
+- Mexican Revolution
+- Mexico
+- Modern History
 oclc: '1097211058'
 zotero_key: AV9ZTMXR
 cover: covers/av9ztmxr.jpg

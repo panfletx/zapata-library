@@ -15,8 +15,9 @@ item_types:
 pages: 95
 series: []
 subjects:
-- Filosofía china estudio
-- I ching estudio
+- China
+- Philosophy
+- Religion
 oclc: '850842006'
 zotero_key: XEKMT8HF
 cover: covers/xekmt8hf.jpg

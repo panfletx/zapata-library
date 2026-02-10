@@ -18,8 +18,7 @@ pages: 545
 edition: 9a ed. rev. y puesta al día, 8a reimp
 series: []
 subjects:
-- Diccionarios
-- Español diccionarios
+- Dictionary
 oclc: '851308134'
 zotero_key: GW3THE58
 cover: covers/gw3the58.jpg

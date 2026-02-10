@@ -19,11 +19,11 @@ edition: 11a. edición
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- México Descripción y viajes
-- Calderón de la Barca, Madame 1804?-1882
-- Llibros de viajes México
-- México Usos y costumbres
-- México Vida social y costumbres
+- Biography
+- Drama
+- Mexico
+- Modern History
+- Travel Writing
 oclc: '1097718327'
 exlibris: '2002'
 zotero_key: MRMIAAWW

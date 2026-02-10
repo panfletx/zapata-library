@@ -15,7 +15,8 @@ item_types:
 pages: 1
 series:
 - Cuadernos de estraza
-subjects: []
+subjects:
+- Fiction
 oclc: '22066854'
 zotero_key: 4ARZA6V7
 cover: covers/4arza6v7.jpg

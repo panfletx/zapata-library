@@ -18,7 +18,9 @@ isbn: 978-607-28-2099-9
 source_url: http://public.eblib.com/choice/PublicFullRecord.aspx?p=6801390
 pages: 1
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1287134112'
 cover_note: dedicatoria de Luis Zapata 2021
 zotero_key: PVG8G88I

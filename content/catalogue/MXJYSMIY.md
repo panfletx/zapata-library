@@ -1,6 +1,5 @@
 ---
-title: 'Dos novelas: Recuerdos del escribiente Isaías Caminha : El triste fin de Policarpo
-  Quaresma'
+title: 'Dos novelas: Recuerdos del escribiente Isaías Caminha : El triste fin de Policarpo Quaresma'
 date: '2024-09-01'
 year: 1978
 decade: 1970s
@@ -20,11 +19,9 @@ pages: 390
 series:
 - Biblioteca Ayacucho (Caracas, Venezuela)
 subjects:
-- Spanish literature
 - Fiction
-- Romans
-- Littérature espagnole
-- Novela brasileña Siglo XIX-XX Traducciones del portugués
+- Spanish Literature
+- Translation Studies
 oclc: '6057157'
 zotero_key: MXJYSMIY
 cover: covers/mxjysmiy.jpg

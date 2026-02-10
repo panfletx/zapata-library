@@ -17,22 +17,14 @@ pages: 197
 edition: 1st ed
 series: []
 subjects:
-- United States
+- Drama
 - Fiction
-- Actores cinematográficos Estados Unidos Novela
-- Films snuff Romans, nouvelles, etc
-- Motion picture actors and actresses
-- Motion picture actors and actresses United States Fiction
-- Récords mundial
-- Records Romans, nouvelles, etc
-- Relaciones sexuales Novela
-- Relations sexuelles Romans, nouvelles, etc
-- Sexual intercourse
-- Sexual intercourse Fiction
-- Snuff films
-- Snuff films Fiction
-- World records
-- World records Fiction
+- Film & Cinema
+- Love & Desire
+- Science
+- Sexuality & Eroticism
+- Short Stories
+- United States
 oclc: '775673774'
 exlibris: '2014'
 zotero_key: WZK7SV59

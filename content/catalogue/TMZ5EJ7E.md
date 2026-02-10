@@ -16,7 +16,8 @@ isbn: 978-84-7178-305-9
 pages: 173
 series:
 - Libros DB
-subjects: []
+subjects:
+- Fiction
 oclc: '8046338'
 exlibris: '1993'
 zotero_key: TMZ5EJ7E

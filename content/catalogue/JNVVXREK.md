@@ -17,8 +17,8 @@ pages: 171
 series:
 - Biblioteca Era
 subjects:
-- Novela mexicana Siglo XX
-- Livres clef, Mexican
+- Fiction
+- Mexico
 oclc: '651486465'
 cover_note: dedicatoria de autora
 zotero_key: JNVVXREK

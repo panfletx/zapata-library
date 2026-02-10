@@ -17,15 +17,10 @@ pages: 2
 series:
 - Garnier Flammarion
 subjects:
-- str. 80
-- German literature
-- Criticism, interpretation, etc
-- 19e Siecle Allemagne
-- Allemands
-- German literature History and criticism
-- Germans
-- Littérature allemande Histoire et critique
-- National characteristics, German
+- German Literature
+- Germany
+- Literary Criticism
+- Modern History
 oclc: '300776709'
 zotero_key: I5WZL8IV
 cover: covers/i5wzl8iv.jpg

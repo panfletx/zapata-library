@@ -17,7 +17,8 @@ pages: 75
 edition: 1. ed
 series:
 - Libros de la oruga
-subjects: []
+subjects:
+- Fiction
 oclc: '690958553'
 cover_note: dedicatoria del autor 2010
 zotero_key: E5PN9L6M

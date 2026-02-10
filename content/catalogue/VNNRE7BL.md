@@ -16,7 +16,8 @@ isbn: 978-84-495-0303-0
 pages: 187
 series:
 - Clásicos de siempre (Madrid)
-subjects: []
+subjects:
+- Fiction
 oclc: '431462118'
 zotero_key: VNNRE7BL
 cover: covers/vnnre7bl.jpg

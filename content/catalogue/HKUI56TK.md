@@ -18,17 +18,10 @@ edition: 1a ed
 series:
 - Creación literaria (Siglo Veintiuno Editores)
 subjects:
-- Mexican poetry
-- 1900-1999
-- Literary collections
-- Anthologie
-- Mexiko
-- Mexican poetry 20th century
-- Poésie mexicaine 20e siècle
-- Geschichte 1970-1980
-- Lyrik
-- Mexican poetry 20th century Literary collections
-- Poésie mexicaine 20e siècle Anthologies
+- Anthology
+- Mexico
+- Modern History
+- Poetry
 oclc: '7163492'
 zotero_key: HKUI56TK
 cover: covers/hkui56tk.jpg

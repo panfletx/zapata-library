@@ -18,18 +18,12 @@ edition: 1. ed
 series:
 - Ficción (Universidad Veracruzana)
 subjects:
-- Mexican fiction
-- Gay men
+- Erotic Literature
 - Fiction
-- 1900-1999
-- Romans
-- Cuentos mexicanos Siglo XX
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
-- Mexican fiction 20th century
-- Roman mexicain 20e siècle
-- Cuentos eróticos México
-- Erotic stories, Mexican
+- Gay Literature
+- Mexico
+- Sexuality & Eroticism
+- Short Stories
 oclc: '36476297'
 zotero_key: HB3XLQYE
 cover: covers/hb3xlqye.jpg

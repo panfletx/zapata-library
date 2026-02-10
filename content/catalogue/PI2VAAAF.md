@@ -17,8 +17,7 @@ pages: 217
 edition: 11a ed
 series: []
 subjects:
-- Literature
-- Littérature
+- Literary Criticism
 oclc: '17304770'
 zotero_key: PI2VAAAF
 cover: covers/pi2vaaaf.jpg

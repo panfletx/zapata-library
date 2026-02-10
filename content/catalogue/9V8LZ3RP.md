@@ -19,7 +19,8 @@ pages: 2
 series:
 - Millenium
 subjects:
-- Literatura rusa- S.XIX
+- Literary Criticism
+- Russian Literature
 oclc: '434261466'
 exlibris: '2002'
 zotero_key: 9V8LZ3RP

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-2-277-30001-4
 pages: 95
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '865195643'
 exlibris: '1994'
 zotero_key: ZBFWMA7Q

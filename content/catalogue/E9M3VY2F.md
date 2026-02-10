@@ -15,7 +15,8 @@ item_types:
 pages: 176
 series:
 - Collection Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '38418740'
 zotero_key: E9M3VY2F
 cover: covers/e9m3vy2f.jpg

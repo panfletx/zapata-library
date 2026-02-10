@@ -19,7 +19,6 @@ series:
 - Biblioteca de Bolsillo
 subjects:
 - Fiction
-- Romans
 oclc: '11439302'
 zotero_key: 4N4FGUNT
 cover: covers/4n4fgunt.jpg

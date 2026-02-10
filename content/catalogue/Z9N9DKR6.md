@@ -16,7 +16,8 @@ item_types:
 - book
 pages: 253
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '971176015'
 exlibris: '1989'
 zotero_key: Z9N9DKR6

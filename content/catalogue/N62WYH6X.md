@@ -16,7 +16,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb349036496
 pages: 173
 series:
 - Miroir obscur
-subjects: []
+subjects:
+- French Literature
 oclc: '417300431'
 zotero_key: N62WYH6X
 cover: covers/n62wyh6x.jpg

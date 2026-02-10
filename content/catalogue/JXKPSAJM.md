@@ -19,25 +19,16 @@ isbn: 978-84-96867-79-6
 pages: 166
 series: []
 subjects:
-- Race relations
-- France
+- Biography
+- Feminism
 - Fiction
-- Spanish language materials
-- Africains France Romans, nouvelles, etc
-- Africanos Francia Novela
-- Africans
-- Africans France Fiction
-- Biographical fiction
-- Femmes noires Romans, nouvelles, etc
-- France Fiction
-- Francia Novela
-- Novela biográfica
-- Novela francesa Traducciones al español
-- Race relations Fiction
-- Relaciones raciales Novela
-- Relations raciales Romans, nouvelles, etc
-- Women, Black
-- Women, Black Fiction
+- France
+- Gender Studies
+- Love & Desire
+- Modern History
+- Race & Ethnicity
+- Short Stories
+- Translation Studies
 oclc: '761850741'
 zotero_key: JXKPSAJM
 cover: covers/jxkpsajm.jpg

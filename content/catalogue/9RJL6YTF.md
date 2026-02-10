@@ -17,10 +17,11 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb389090633
 pages: 70
 series: []
 subjects:
-- Literature
-- Littérature
-- Genres littéraires
-- Monastères France Histoire Romans, nouvelles, etc
+- Fiction
+- France
+- Literary Criticism
+- Modern History
+- Short Stories
 oclc: '300189790'
 zotero_key: 9RJL6YTF
 cover: covers/9rjl6ytf.jpg

@@ -15,7 +15,9 @@ item_types:
 isbn: 978-968-16-1351-8
 pages: 1
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1082023657'
 exlibris: '1997'
 zotero_key: 8YILZKDT

@@ -17,10 +17,8 @@ edition: Primera edición
 series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:
-- Civilization
-- Cuentos guatemaltecos Siglo XX
-- Civilisation
-- civilization
+- Modern History
+- Short Stories
 oclc: '719593'
 zotero_key: ZXLEGY3Q
 cover: covers/zxlegy3q.jpg

@@ -11,7 +11,8 @@ item_types:
 isbn: 01851535
 series:
 - '31'
-subjects: []
+subjects:
+- Fiction
 zotero_key: C9EXTD6W
 cover: covers/c9extd6w.jpg
 ---

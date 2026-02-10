@@ -11,7 +11,8 @@ languages: []
 item_types:
 - thesis
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: X7L6G4DG
 cover: covers/x7l6g4dg.jpg
 ---

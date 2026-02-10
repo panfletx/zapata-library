@@ -20,10 +20,8 @@ isbn: 978-968-23-1312-7
 pages: 290
 series: []
 subjects:
-- Historia y crítica
-- Literatura
-- Literatura s.20 Historia y crítica
-- Siglo XX
+- Literary Criticism
+- Modern History
 oclc: '1085831243'
 zotero_key: WUZEDFRR
 cover: covers/wuzedfrr.jpg

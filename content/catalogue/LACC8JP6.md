@@ -16,8 +16,7 @@ isbn: 978-0-14-004598-7
 pages: 156
 series: []
 subjects:
-- Nouvelles anglaises
-- Short stories, English
+- Short Stories
 oclc: '12306983'
 zotero_key: LACC8JP6
 cover: covers/lacc8jp6.jpg

@@ -15,7 +15,9 @@ item_types:
 isbn: 978-84-494-1131-1
 pages: 118
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '52091785'
 exlibris: '1999'
 zotero_key: EDATX98R

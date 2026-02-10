@@ -19,7 +19,9 @@ edition: 3a ed
 series:
 - Biblioteca del estudiante universitario (Universidad Nacional Autónoma de México)
 subjects:
-- Literatura mexicana Siglo XX
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '31119791'
 zotero_key: 4CAGPUGB
 cover: covers/4cagpugb.jpg

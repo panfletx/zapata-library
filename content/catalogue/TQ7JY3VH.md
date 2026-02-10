@@ -17,7 +17,8 @@ pages: 56
 edition: 1. ed
 series:
 - Serie José Yurrieta Valdés
-subjects: []
+subjects:
+- Fiction
 oclc: '255348201'
 cover_note: dedicatoria de autor
 zotero_key: TQ7JY3VH

@@ -17,11 +17,7 @@ pages: 287
 edition: 4. ed
 series: []
 subjects:
-- Spanish language
-- Espagnol (Langue) Grammaire
-- Spanish language Composition and exercises
-- Spanish language Grammar
-- Spanish language Usage
+- Grammar & Linguistics
 oclc: '33317593'
 zotero_key: SD894FFC
 cover: covers/sd894ffc.jpg

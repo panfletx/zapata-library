@@ -15,7 +15,8 @@ item_types:
 - book
 series:
 - Le Livre de poche classique
-subjects: []
+subjects:
+- French Literature
 oclc: '976590132'
 zotero_key: XMBUBJ4E
 cover: covers/xmbubj4e.jpg

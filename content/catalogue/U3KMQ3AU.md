@@ -20,8 +20,7 @@ edition: 1a ed
 series:
 - Biblioteca Natura
 subjects:
-- Acupuncture
-- Acupuntura
+- Medicine & Health
 oclc: '18189470'
 cover_note: dedicatoria autora
 zotero_key: U3KMQ3AU

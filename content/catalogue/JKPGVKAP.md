@@ -19,18 +19,11 @@ edition: 2a ed
 series:
 - Tierra Firme
 subjects:
-- Essays
-- Essais (Genre littéraire)
-- essays
-- Short stories
-- Nouvelles
-- short stories
-- Argentine fiction
-- Roman argentin
-- Argentine essays
-- Essais argentins
-- Nouvelles argentines
-- Short stories, Argentine
+- Argentina
+- Essay
+- Fiction
+- Literary Criticism
+- Short Stories
 oclc: '144487096'
 zotero_key: JKPGVKAP
 cover: covers/jkpgvkap.jpg

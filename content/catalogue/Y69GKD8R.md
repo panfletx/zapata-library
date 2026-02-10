@@ -17,7 +17,8 @@ pages: 110
 edition: 3 ed
 series:
 - Compactos Anagrama
-subjects: []
+subjects:
+- Fiction
 oclc: '760608246'
 zotero_key: Y69GKD8R
 cover: covers/y69gkd8r.jpg

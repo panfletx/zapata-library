@@ -15,7 +15,8 @@ item_types:
 isbn: 978-84-08-46213-2
 series:
 - Clásicos contemporáneos internacionales, 1980
-subjects: []
+subjects:
+- Fiction
 oclc: '492019534'
 cover_note: Regalo de José
 exlibris: '2009'

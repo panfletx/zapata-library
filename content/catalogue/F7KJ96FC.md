@@ -17,12 +17,8 @@ pages: 349
 series:
 - Clave (Debolsillo (Firm))
 subjects:
-- Vida espiritual
-- Spiritual life
-- Vie spirituelle
-- Ayuda a sí mismo, Técnicas de
-- Problem solving Religious aspects
-- Solución de problemas Aspectos religiosos
+- Philosophy
+- Religion
 oclc: '1007859983'
 zotero_key: F7KJ96FC
 cover: covers/f7kj96fc.jpg

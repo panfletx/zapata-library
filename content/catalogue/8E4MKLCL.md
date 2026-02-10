@@ -17,7 +17,8 @@ pages: 345
 series:
 - Artes
 subjects:
-- Art Jeu Production Scene Theatre
+- Drama
+- Visual Art
 oclc: '301627695'
 zotero_key: 8E4MKLCL
 cover: covers/8e4mklcl.jpg

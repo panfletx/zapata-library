@@ -16,7 +16,7 @@ pages: 204
 edition: 9a ed., actualizada
 series: []
 subjects:
-- México Constitución
+- Mexico
 oclc: '54856245'
 zotero_key: RTCW8XNF
 cover: covers/rtcw8xnf.jpg

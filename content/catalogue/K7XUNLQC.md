@@ -8,7 +8,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- German Literature
 zotero_key: K7XUNLQC
 cover: covers/k7xunlqc.jpg
 ---

@@ -16,7 +16,7 @@ item_types:
 pages: 99
 series: []
 subjects:
-- Deutschland
+- Germany
 oclc: '720627402'
 zotero_key: BTUUIZZ7
 cover: covers/btuuizz7.jpg

@@ -17,9 +17,8 @@ pages: 300
 series: []
 subjects:
 - Fiction
-- Manners and customs
-- Manners and customs Fiction
-- Mœurs et coutumes Romans, nouvelles, etc
+- Modern History
+- Short Stories
 oclc: '705385965'
 zotero_key: F6FP7UTS
 cover: covers/f6fp7uts.jpg

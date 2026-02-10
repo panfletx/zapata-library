@@ -15,7 +15,9 @@ isbn: 978-968-39-1058-5
 pages: 63
 series: []
 subjects:
-- México Vida social y costumbres
+- Biography
+- Mexico
+- Modern History
 oclc: '651521493'
 zotero_key: E97QDXET
 cover: covers/e97qdxet.jpg

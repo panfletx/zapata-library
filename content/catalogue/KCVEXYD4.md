@@ -1,6 +1,5 @@
 ---
-title: Oeuvres. Préf., gloses et notices sur tous les personnages cités st sur les
-  particularités du temps par André Mary
+title: Oeuvres. Préf., gloses et notices sur tous les personnages cités st sur les particularités du temps par André Mary
 date: '2024-09-01'
 year: 1971
 decade: 1970s
@@ -17,7 +16,8 @@ item_types:
 pages: 282
 series:
 - Les grands classiques du monde
-subjects: []
+subjects:
+- French Literature
 oclc: '19540667'
 zotero_key: KCVEXYD4
 cover: covers/kcvexyd4.jpg

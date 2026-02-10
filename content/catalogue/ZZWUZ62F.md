@@ -15,13 +15,9 @@ item_types:
 isbn: 978-970-05-1825-1
 series: []
 subjects:
-- National characteristics, Mexican
-- Características nacionales mexicanas
-- Mexicains
-- Mexicains Psychologie
-- Mexicans
-- Mexicans Psychology
-- México Características nacionales
+- Mexico
+- National Identity
+- Psychoanalysis
 oclc: '154668350'
 exlibris: '2010'
 zotero_key: ZZWUZ62F

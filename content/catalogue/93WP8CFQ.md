@@ -1,6 +1,5 @@
 ---
-title: 'Cuadernos de extensión universitaria tomo II: Cuarta semana de investigación
-  científica'
+title: 'Cuadernos de extensión universitaria tomo II: Cuarta semana de investigación científica'
 date: '2024-09-01'
 authors: []
 publishers:
@@ -9,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: 93WP8CFQ
 cover: covers/93wp8cfq.jpg
 ---

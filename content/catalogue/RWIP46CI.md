@@ -16,8 +16,9 @@ pages: 191
 edition: 1a.ed
 series: []
 subjects:
-- LITERATURA ESPANOLA
-- TEATRO ESPANOL
+- Drama
+- Literary Criticism
+- Spanish Literature
 oclc: '1255984449'
 zotero_key: RWIP46CI
 cover: covers/rwip46ci.jpg

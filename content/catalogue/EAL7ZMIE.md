@@ -17,14 +17,9 @@ pages: 205
 edition: 1a. ed
 series: []
 subjects:
-- Arte de escribir Libros de referencias, manuales, etc
-- Espagnol (Langue) Grammaire
-- Español
-- Español Composición y ejercicios
-- Lengua española Gramática
-- Lengua española Redacción
-- Spanish language Composition and exercises
-- Spanish language Grammar
+- Grammar & Linguistics
+- Literary Criticism
+- Visual Art
 oclc: '426794948'
 exlibris: '2009'
 zotero_key: EAL7ZMIE

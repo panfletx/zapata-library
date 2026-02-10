@@ -18,17 +18,9 @@ edition: 1. ed
 series:
 - Colección Universo
 subjects:
-- Vida cristiana
-- Christian life
-- Vie chrétienne
-- devotional literature
-- Devotional literature
-- faith
-- Faith
-- Fe
-- Foi
-- Literatura piadosa
-- Littérature de dévotion
+- Catholicism
+- Literary Criticism
+- Religion
 oclc: '36759036'
 cover_note: Frima John Powell
 zotero_key: 6UZF4CJE

@@ -17,9 +17,10 @@ pages: 93
 series:
 - Cuentos
 subjects:
-- Literatura estadounidense Siglo XX
-- Cuentos de terror
-- Horror tales
+- American Literature
+- Horror & Gothic
+- Literary Criticism
+- Short Stories
 oclc: '970555178'
 zotero_key: UCMC3SVC
 cover: covers/ucmc3svc.jpg

@@ -18,7 +18,8 @@ source_url: http://www.gbv.de/dms/spk/iai/toc/667746099.pdf
 pages: 203
 series:
 - Obra poética completa
-subjects: []
+subjects:
+- Fiction
 oclc: '838062912'
 exlibris: '1991'
 zotero_key: ES655DPD

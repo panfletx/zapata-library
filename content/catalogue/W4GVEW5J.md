@@ -17,19 +17,13 @@ pages: 111
 edition: 1a ed
 series: []
 subjects:
-- Early works
-- Sources
-- America
-- America Discovery and exploration Spanish Sources
-- America Early accounts to 1600
-- Amérique Découverte et exploration espagnoles Sources
-- Amérique Récits avant 1600
-- Discoveries in geography Spanish
-- Natural history
-- Natural history America Pre-Linnean works
-- Sciences naturelles Amérique Ouvrages prélinnéens
-- Nature
-- chronicle
+- Chronicle
+- Colonialism & Postcolonialism
+- Modern History
+- Nature & Environment
+- Science
+- Travel Writing
+- United States
 oclc: '30546042'
 zotero_key: W4GVEW5J
 cover: covers/w4gvew5j.jpg

@@ -17,8 +17,8 @@ pages: 96
 edition: 3 ed
 series: []
 subjects:
-- Animales Poesia
-- Renat el zorro (Personaje legendario) Romances
+- Fiction
+- Poetry
 oclc: '970454572'
 zotero_key: BCKCRAHH
 cover: covers/bckcrahh.jpg

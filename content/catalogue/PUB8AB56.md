@@ -1,6 +1,5 @@
 ---
-title: L'œuvre de François Rabelais et la culture populaire au Moyen Age et sous la
-  Renaissance
+title: L'œuvre de François Rabelais et la culture populaire au Moyen Age et sous la Renaissance
 date: '2024-09-01'
 year: 1988
 decade: 1980s
@@ -18,7 +17,7 @@ pages: 471
 series:
 - Collection Tel
 subjects:
-- Rabelais, François, approximately 1490-1553?
+- François Rabelais
 oclc: '232993483'
 exlibris: '1994'
 zotero_key: PUB8AB56

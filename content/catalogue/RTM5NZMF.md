@@ -17,28 +17,13 @@ pages: 350
 series:
 - Temas de superación personal
 subjects:
-- Manners and customs
-- Conduct of life
-- Morale pratique
-- Activités de la vie quotidienne
-- Activities of Daily Living
-- Conducta (Etica)
-- ethics (philosophical concept)
-- Gestion du stress
-- Placer
-- Plaisir
-- Pleasure
-- Pleasure principle (Psychology)
-- Pleasure-Pain Principle
-- Polinesia Vida social y costumbres
-- Polynesia
-- Polynesia Social life and customs
-- Polynésie Mœurs et coutumes
-- Popular Work
-- Principe de plaisir (Psychologie)
-- Stress management
-- Stress, Psychological prevention & control
-- Tensión (Psicología) Manejo
+- Biography
+- Ethics
+- Medicine & Health
+- Modern History
+- Philosophy
+- Psychoanalysis
+- Travel Writing
 oclc: '40476197'
 zotero_key: RTM5NZMF
 cover: covers/rtm5nzmf.jpg

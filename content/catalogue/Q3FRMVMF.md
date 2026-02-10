@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-6756-56-2
 pages: 127
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '742621856'
 zotero_key: Q3FRMVMF
 cover: covers/q3frmvmf.jpg

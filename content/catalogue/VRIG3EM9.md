@@ -17,8 +17,7 @@ edition: 2a. ed
 series:
 - Colección Austral
 subjects:
-- str. 1974
-- Poesia latina
+- Classical Literature
 oclc: '32567362'
 zotero_key: VRIG3EM9
 cover: covers/vrig3em9.jpg

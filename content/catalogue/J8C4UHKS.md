@@ -18,16 +18,9 @@ edition: 3a ed
 series:
 - Historia (Siglo Veintiuno de España Editores)
 subjects:
-- History
-- Social conditions
 - France
-- Feudalism
-- Feudalism France
-- France Conditions sociales
-- France Social conditions
-- Institutions sociales France Histoire
-- Social institutions
-- Social institutions France History
+- Medieval History
+- Modern History
 oclc: '22361588'
 exlibris: '1979'
 zotero_key: J8C4UHKS

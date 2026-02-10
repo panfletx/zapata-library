@@ -1,7 +1,6 @@
 ---
-title: 'Trazos y revelaciones: entrevistas a diez artistas mexicanos : Gilberto Aceves
-  Navarro, Leonora Carrington, José Luis Cuevas, Manuel Felguérez, Alberto Gironella,
-  Roger von Gunten, Joy Laville, Vicente Rojo, Juan Soriano, Francisco Toledo'
+title: 'Trazos y revelaciones: entrevistas a diez artistas mexicanos : Gilberto Aceves Navarro, Leonora Carrington, José Luis Cuevas, Manuel Felguérez, Alberto Gironella, Roger von Gunten, Joy Laville,
+  Vicente Rojo, Juan Soriano, Francisco Toledo'
 date: '2024-09-01'
 year: 2003
 decade: 2000s
@@ -20,15 +19,9 @@ pages: 379
 series:
 - Tezontle
 subjects:
+- Interview
 - Mexico
-- 1900-1999
-- Interviews
-- Painting, Mexican
-- Painting, Mexican 20th century
-- Painters
-- Painters Mexico Interviews
-- Peintres Mexique Entretiens
-- Pintores México Entrevistas
+- Painting
 oclc: '56826961'
 zotero_key: EGNEG4YR
 cover: covers/egneg4yr.jpg

@@ -16,7 +16,8 @@ isbn: 978-85-325-0482-1
 pages: 253
 edition: 4. edição
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '35548535'
 zotero_key: BIIUMCXL
 cover: covers/biiumcxl.jpg

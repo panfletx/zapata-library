@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: ZK93TPUF
 cover: covers/zk93tpuf.jpg
 ---

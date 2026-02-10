@@ -16,8 +16,7 @@ isbn: 978-84-03-27029-9
 pages: 1148
 series: []
 subjects:
-- Spanish language Synonyms and antonyms
-- Espagnol (Langue) Synonymes et antonymes
+- Grammar & Linguistics
 oclc: '220806377'
 zotero_key: 9PRJ7XYX
 cover: covers/9prj7xyx.jpg

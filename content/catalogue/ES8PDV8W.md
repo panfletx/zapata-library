@@ -10,7 +10,9 @@ item_types:
 - magazineArticle
 issn: 0188-6886
 series: []
-subjects: []
+subjects:
+- Literary Criticism
+- Translation Studies
 zotero_key: ES8PDV8W
 cover: covers/es8pdv8w.jpg
 ---

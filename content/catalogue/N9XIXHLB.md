@@ -16,10 +16,9 @@ pages: 65
 series:
 - Cuadernos
 subjects:
-- Actors
-- Acteurs
-- Actores
-- actors (performing artists)
+- Drama
+- Film & Cinema
+- Visual Art
 oclc: '912210649'
 zotero_key: N9XIXHLB
 cover: covers/n9xixhlb.jpg

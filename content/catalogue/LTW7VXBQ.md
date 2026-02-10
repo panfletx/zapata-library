@@ -18,21 +18,11 @@ pages: 242
 edition: 1. ed
 series: []
 subjects:
-- Mexico Guerrero (State)
-- Spanish language Dialects
-- Tales
-- Contes Mexique Guerrero (État)
-- Contes Mexique Oaxaca (État)
-- Espagnol (Langue) Dialectes Mexique Guerrero (État) Textes
-- Espagnol (Langue) Dialectes Mexique Oaxaca (État) Textes
-- Littérature mexicaine Auteurs noirs
-- Mexican literature Black authors
-- Mexico Oaxaca (State)
-- Spanish language Dialects Mexico Guerrero (State) Texts
-- Spanish language Dialects Mexico Oaxaca (State) Texts
-- Tales Mexico Guerrero (State)
-- Tales Mexico Oaxaca (State)
-- Texts
+- Grammar & Linguistics
+- Mexican Literature
+- Mexico
+- Oaxaca
+- Short Stories
 oclc: '34642356'
 cover_note: dedicatoria
 zotero_key: LTW7VXBQ

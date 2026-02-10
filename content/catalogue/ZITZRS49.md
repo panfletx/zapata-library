@@ -15,7 +15,8 @@ item_types:
 pages: 4
 series:
 - Texte intégral GF
-subjects: []
+subjects:
+- French Literature
 oclc: '848476368'
 zotero_key: ZITZRS49
 cover: covers/zitzrs49.jpg

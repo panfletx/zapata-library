@@ -18,12 +18,10 @@ pages: 608
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
+- Anthology
+- Argentine Literature
 - Fiction
-- Romans
-- Anthologie
-- Romance Hispano-Americano
-- Bioy Casares, Adolfo
-- Bioy Casares, Adolfo 1914-1999
+- Latin American Literature
 oclc: '19491099'
 exlibris: '1996'
 zotero_key: WDGPA6UR

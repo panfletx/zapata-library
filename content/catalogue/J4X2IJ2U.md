@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1066-0
 pages: 93
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521447'
 zotero_key: J4X2IJ2U
 cover: covers/j4x2ij2u.jpg

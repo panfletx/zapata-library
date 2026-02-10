@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '1976'
 zotero_key: DULL7NSI
 cover: covers/dull7nsi.jpg

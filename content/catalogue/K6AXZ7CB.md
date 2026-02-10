@@ -17,7 +17,9 @@ pages: 632
 edition: 2a. ed
 series:
 - Bruguera libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '11718871'
 zotero_key: K6AXZ7CB
 cover: covers/k6axz7cb.jpg

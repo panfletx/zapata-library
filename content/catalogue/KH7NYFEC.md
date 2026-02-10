@@ -9,7 +9,8 @@ item_types:
 - book
 isbn: 950-9111-08-2
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: KH7NYFEC
 cover: covers/kh7nyfec.jpg
 ---

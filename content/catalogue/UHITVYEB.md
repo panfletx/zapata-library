@@ -15,8 +15,8 @@ item_types:
 pages: 180
 series: []
 subjects:
-- Novela francesa Siglo XX
-- Novela francesa Traducciones al español
+- Fiction
+- Translation Studies
 oclc: '906605609'
 zotero_key: UHITVYEB
 cover: covers/uhitvyeb.jpg

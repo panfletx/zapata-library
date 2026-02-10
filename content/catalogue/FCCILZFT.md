@@ -17,10 +17,8 @@ pages: 357
 series:
 - Para vivir mejor
 subjects:
-- Acceptation de soi
-- Self-acceptance
-- Social values Psychological aspects
-- Valeurs sociales Aspect psychologique
+- Philosophy
+- Psychoanalysis
 oclc: '25771713'
 zotero_key: FCCILZFT
 cover: covers/fccilzft.jpg

@@ -13,7 +13,9 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1131131504'
 exlibris: '1974'
 zotero_key: ICN5DYRU

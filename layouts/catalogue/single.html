@@ -42,7 +42,8 @@
         <h3>{{ i18n "subjects" }}</h3>
         <div class="tag-list">
           {{ range . }}
-            <a href="{{ "subjects" | relLangURL }}/{{ . | urlize }}/" class="tag">{{ . }}</a>
+            {{- $subjKey := printf "subj_%s" (. | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+            <a href="{{ "subjects" | relLangURL }}/{{ . | urlize }}/" class="tag">{{ i18n $subjKey | default . }}</a>
           {{ end }}
         </div>
       </div>

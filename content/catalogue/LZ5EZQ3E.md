@@ -18,10 +18,8 @@ edition: 3. ed
 series:
 - Biblioteca de iniciación filosófica
 subjects:
-- Spain
 - Mysticism
-- Mysticism Spain
-- Mysticisme Espagne
+- Spain
 oclc: '31988389'
 exlibris: '1989'
 zotero_key: LZ5EZQ3E

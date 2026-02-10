@@ -17,14 +17,8 @@ pages: 912
 edition: Cuarta ed
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Spanish language Dictionaries
-- Español Diccionarios
-- Español Sinónimos y antónimos Diccionarios
-- Ideas afines Diccionario
-- Spanish language Synonyms and antonyms
-- Spanish language Synonyms and antonyms Dictionaries
+- Dictionary
+- Grammar & Linguistics
 oclc: '34206814'
 zotero_key: NUU6GVHY
 cover: covers/nuu6gvhy.jpg

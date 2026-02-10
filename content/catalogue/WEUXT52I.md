@@ -18,26 +18,11 @@ pages: 410
 series:
 - Edition Bilingue
 subjects:
+- Anthology
 - France
-- To 1500
-- French poetry
-- Literary collections
-- Anthologie
-- Fabliaux
-- '[Anthologie]'
-- Contes France
-- Contes médiévaux
-- Fablel
-- fabliau français
-- fabliau français 12e s. 13e s. anthologie
-- Fabliaux France Anthologies
-- French poetry To 1500
-- French poetry To 1500 Literary collections
-- Poésie française Jusqu'à 1500
-- Poésie française Jusqu'à 1500 Anthologies
-- Tales
-- Tales France
-- Tales, Medieval
+- Medieval History
+- Poetry
+- Short Stories
 oclc: '39348768'
 zotero_key: WEUXT52I
 cover: covers/weuxt52i.jpg

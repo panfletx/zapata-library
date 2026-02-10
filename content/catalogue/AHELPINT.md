@@ -17,10 +17,8 @@ edition: 11. ed
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Romances
-- Cid (Epic cycle)
-- Cid, approximately 1043-1099
-- Cid, approximately 1043-1099 Romances
+- Epic
+- Fiction
 oclc: '3146838'
 zotero_key: AHELPINT
 cover: covers/ahelpint.jpg

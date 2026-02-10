@@ -17,7 +17,9 @@ pages: 246
 edition: 1a ed
 series:
 - Libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '9408590'
 zotero_key: V7DSURTK
 cover: covers/v7dsurtk.jpg

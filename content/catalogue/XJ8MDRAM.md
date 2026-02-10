@@ -17,7 +17,9 @@ isbn: 978-84-02-07970-1
 pages: 186
 series:
 - Club Bruguera
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '892087336'
 zotero_key: XJ8MDRAM
 cover: covers/xj8mdram.jpg

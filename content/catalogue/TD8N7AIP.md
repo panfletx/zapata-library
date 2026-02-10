@@ -8,7 +8,9 @@ languages: []
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Interview
+- Luis Zapata
 zotero_key: TD8N7AIP
 cover: covers/td8n7aip.jpg
 ---

@@ -15,7 +15,8 @@ isbn: 978-84-285-0003-6
 pages: 1049
 edition: 23 ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '6478262'
 zotero_key: XK6EASIU
 cover: covers/xk6easiu.jpg

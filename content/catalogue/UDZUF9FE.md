@@ -1,6 +1,5 @@
 ---
-title: 'Los mexicanos se pintan solos: crónicas, paisajes, personajes de la Ciudad
-  de México'
+title: 'Los mexicanos se pintan solos: crónicas, paisajes, personajes de la Ciudad de México'
 date: '2024-09-01'
 year: 1990
 decade: 1990s
@@ -18,17 +17,12 @@ pages: 172
 edition: 1. ed
 series: []
 subjects:
+- Mexico
 - Mexico City
-- Travel
-- Manners and customs
-- Mexico Mexico City
-- Pictorial works
-- 74.26 geography of Central and South America
-- México (Ciudad) Descripción y viajes
-- Mexico City (Mexico) Description and travel
-- Mexico City (Mexico) Pictorial works
-- Mexico City (Mexico) Social life and customs
-- Mexico City (Mexico) Social life and customs Pictorial works
+- Modern History
+- Travel Writing
+- Urban Life
+- Visual Art
 oclc: '24174336'
 cover_note: dedicatoria de jjb
 zotero_key: UDZUF9FE

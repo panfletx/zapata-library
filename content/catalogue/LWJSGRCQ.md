@@ -17,8 +17,10 @@ pages: 399
 series:
 - Colección Carlos Fuentes
 subjects:
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '906925441'
 exlibris: '2004'
 zotero_key: LWJSGRCQ

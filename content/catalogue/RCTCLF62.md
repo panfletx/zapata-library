@@ -19,12 +19,10 @@ series:
 - Biblioteca Era
 subjects:
 - Fiction
-- Manners and customs
-- Mexico Monterrey
-- Monterrey (Mexico) Social life and customs Fiction
-- Night
-- Night Fiction
-- Nuit Romans, nouvelles, etc
+- Mexico
+- Modern History
+- Poetry
+- Short Stories
 oclc: '48807919'
 exlibris: '2011'
 zotero_key: RCTCLF62

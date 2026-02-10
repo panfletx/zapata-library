@@ -15,7 +15,9 @@ item_types:
 isbn: 978-968-13-2032-4
 pages: 191
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '760637162'
 zotero_key: YZV5FMJP
 cover: covers/yzv5fmjp.jpg

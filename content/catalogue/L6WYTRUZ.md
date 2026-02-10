@@ -17,7 +17,7 @@ pages: 190
 series:
 - Garnier Flammarion (Series)
 subjects:
-- French poetry
+- Poetry
 oclc: '342296'
 exlibris: '1974'
 zotero_key: L6WYTRUZ

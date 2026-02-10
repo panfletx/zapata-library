@@ -15,7 +15,8 @@ item_types:
 pages: 106
 series:
 - 'Collection Mystiques et religions : Sér. B'
-subjects: []
+subjects:
+- German Literature
 oclc: '72343942'
 cover_note: dedicatoria
 zotero_key: TSTCCJGJ

@@ -19,9 +19,7 @@ edition: 2. ed
 series:
 - Biblioteca de bolso claassicso
 subjects:
-- str. 2003
-- Poésie portugaise
-- Portuguese poetry
+- Poetry
 oclc: '62620021'
 zotero_key: 9RSMLUUI
 cover: covers/9rsmluui.jpg

@@ -16,7 +16,9 @@ isbn: 978-968-16-1605-2
 pages: 131
 series:
 - Lecturas mexicanas
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1187150933'
 zotero_key: YAU776IN
 cover: covers/yau776in.jpg

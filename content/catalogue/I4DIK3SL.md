@@ -16,12 +16,10 @@ isbn: 978-968-6389-43-2
 pages: 250
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Letterkunde
-- Mexican literature 20th century History and criticism
-- Spaans
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '26984072'
 cover_note: dedicatoria jjb
 zotero_key: I4DIK3SL

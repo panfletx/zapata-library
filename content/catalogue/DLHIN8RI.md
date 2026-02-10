@@ -15,7 +15,8 @@ item_types:
 - book
 pages: 106
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '225886353'
 zotero_key: DLHIN8RI
 cover: covers/dlhin8ri.jpg

@@ -18,20 +18,12 @@ edition: 1a ed
 series:
 - Colección Letras
 subjects:
-- History
+- Chilean Literature
+- Fiction
 - Latin America
-- Literature and society
-- Criticism, interpretation, etc
-- 1900-1999
-- Latin American fiction
-- Spaans
-- Fictie
-- Latin American fiction 20th century History and criticism
-- Literature and society Latin America History 20th century
-- Littérature et société Amérique latine Histoire 20e siècle
-- Maatschappij
-- Roman latino-américain 20e siècle Histoire et critique
-- Skármeta, Antonio, (1940- ...)
+- Literary Criticism
+- Modern History
+- United States
 oclc: '8585481'
 exlibris: '1984'
 zotero_key: GTGLJCTH

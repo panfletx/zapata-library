@@ -17,14 +17,11 @@ pages: 236
 series:
 - Clásicos literatura
 subjects:
+- Children's Literature
+- Dublin
 - Fiction
-- Ireland Dublin
-- Artists
-- Artistes Irlande Dublin Romans, nouvelles, etc
-- Artists Ireland Dublin Fiction
-- Jeunes hommes Irlande Dublin Romans, nouvelles, etc
-- Young men
-- Young men Ireland Dublin Fiction
+- Short Stories
+- Visual Art
 oclc: '61523678'
 zotero_key: RVYXSXWR
 cover: covers/rvyxsxwr.jpg

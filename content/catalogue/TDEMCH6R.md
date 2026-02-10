@@ -17,7 +17,9 @@ pages: 113
 edition: 1. ed
 series:
 - Colección Juan Ruiz de Alarcón. Dramaturgia
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '865565922'
 cover_note: dedicatoria del autor
 zotero_key: TDEMCH6R

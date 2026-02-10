@@ -16,7 +16,8 @@ isbn: 978-968-446-018-8
 pages: 239
 edition: 1. ed. en México
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '26462435'
 zotero_key: JGY3DHJM
 cover: covers/jgy3dhjm.jpg

@@ -18,13 +18,9 @@ edition: 2a ed
 series:
 - Lingüística y teoría literaria
 subjects:
-- Fiction Technique
-- Novela Técnica
-- Estilo literario
-- Literatura Novela
-- Narración (Retórica)
-- Narration
-- Narration (Rhetoric)
+- Fiction
+- Literary Criticism
+- Rhetoric
 oclc: '56947013'
 exlibris: '2008'
 zotero_key: TSXYITYN

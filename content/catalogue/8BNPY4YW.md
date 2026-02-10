@@ -16,7 +16,8 @@ isbn: 978-970-697-266-8
 pages: 116
 series:
 - Colección Hechos en palabras
-subjects: []
+subjects:
+- Fiction
 oclc: '636749768'
 zotero_key: 8BNPY4YW
 cover: covers/8bnpy4yw.jpg

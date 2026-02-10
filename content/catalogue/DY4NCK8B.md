@@ -16,8 +16,7 @@ isbn: 978-84-9764-098-5
 pages: 208
 series: []
 subjects:
-- Spanish language materials
-- Fables (Jean de la Fontaine.)
+- Fable & Parable
 oclc: '731388491'
 zotero_key: DY4NCK8B
 cover: covers/dy4nck8b.jpg

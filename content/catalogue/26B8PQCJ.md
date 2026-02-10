@@ -18,9 +18,9 @@ pages: 140
 series:
 - Biblioteca General Salvat; 47
 subjects:
-- Cuentos
-- Literatura francesa
-- Cuentos franceses
+- French Literature
+- Literary Criticism
+- Short Stories
 oclc: '880996137'
 zotero_key: 26B8PQCJ
 cover: covers/26b8pqcj.jpg

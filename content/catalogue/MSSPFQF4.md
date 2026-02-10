@@ -15,17 +15,11 @@ pages: 498
 series:
 - Periodismo insurgente
 subjects:
-- History
+- Latin American Politics
+- Mexican Revolution
 - Mexico
-- Politics and government
-- 1810-1821
-- México Historia Guerra de Independencia, 1810-1821
-- Mexico History Wars of Independence, 1810-1821
-- México Política y gobierno 1810-1821
-- Mexico Politics and government 1810-1821
-- Mexique Histoire 1810-1821 (Guerres d'indépendance)
-- Mexique Politique et gouvernement 1810-1821
-- Morelos, José María, 1765-1815
+- Modern History
+- War & Conflict
 oclc: '906926474'
 cover_note: dedicatoria
 zotero_key: MSSPFQF4

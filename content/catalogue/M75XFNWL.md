@@ -18,7 +18,8 @@ edition: 1a. ed., 2a. reimp
 series:
 - Colección Obras Eternas
 subjects:
-- Literatura árabe
+- Arabic Literature
+- Literary Criticism
 oclc: '630235297'
 zotero_key: M75XFNWL
 cover: covers/m75xfnwl.jpg

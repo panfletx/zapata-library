@@ -17,10 +17,9 @@ isbn: 978-2-7073-0643-2
 pages: 199
 series: []
 subjects:
-- Homme blessé (Motion picture)
-- Motion picture plays
-- Scénarios de cinéma
-- screenplays
+- Drama
+- Film & Cinema
+- Screenplay
 oclc: '10725381'
 zotero_key: W33WCA2Y
 cover: covers/w33wca2y.jpg

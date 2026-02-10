@@ -17,19 +17,12 @@ pages: 256
 series:
 - A Signet classic
 subjects:
+- Children's Literature
+- Dublin
 - Fiction
-- Fictional Work
-- Romans
-- Dublin (Ireland) Fiction
-- Ireland Dublin
-- Artists
-- Artistes Irlande Dublin Romans, nouvelles, etc
-- Artists Ireland Dublin Fiction
-- Jeunes hommes Irlande Dublin Romans, nouvelles, etc
-- Joyce, James, 1882-1941
-- Joyce, James, 1882-1941 Fiction
-- Young men
-- Young men Ireland Dublin Fiction
+- Irish Literature
+- Short Stories
+- Visual Art
 oclc: '24095604'
 exlibris: '1993'
 zotero_key: XIBKXDRD

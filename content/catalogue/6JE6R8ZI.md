@@ -19,10 +19,9 @@ edition: 2.a ed
 series:
 - Libro amigo
 subjects:
-- Translations
-- Short stories, Russian
-- Tolstoy, Leo, graf, 1828-1910
-- Tolstoy, Leo, graf, 1828-1910 Translations
+- Russian Literature
+- Short Stories
+- Translation Studies
 oclc: '59281895'
 exlibris: '1991'
 zotero_key: 6JE6R8ZI

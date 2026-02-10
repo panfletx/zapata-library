@@ -19,7 +19,9 @@ pages: 266
 edition: 1a. ed
 series:
 - Biblioteca breve (Barcelona, Spain)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '4555739'
 zotero_key: BXS3SSYJ
 cover: covers/bxs3ssyj.jpg

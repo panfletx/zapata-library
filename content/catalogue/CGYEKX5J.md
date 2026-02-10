@@ -15,11 +15,9 @@ item_types:
 pages: 513
 series: []
 subjects:
-- Indigenous peoples
-- Country life
-- Country life Kenya
-- Kenya
-- Kenya Native races
+- Indigenous Peoples
+- Latin America
+- Rural Life
 oclc: '283513397'
 zotero_key: CGYEKX5J
 cover: covers/cgyekx5j.jpg

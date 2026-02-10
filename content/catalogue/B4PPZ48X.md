@@ -18,22 +18,13 @@ pages: 151
 series:
 - Colección Autores de hoy (Caracas, Venezuela)
 subjects:
-- Fiction
 - Argentina
-- Mystery fiction
-- Argentina Fiction
-- Hotels
-- Hotels Argentina Fiction
-- Hôtels Argentine Romans, nouvelles, etc
-- Middle class
-- Middle class Fiction
-- Murder victims
-- Murder victims Fiction
-- Novela de misterio
-- Seaside resorts
-- Seaside resorts Argentina Fiction
-- Stations balnéaires Argentine Romans, nouvelles, etc
-- Victimes d'homicide Romans, nouvelles, etc
+- Detective & Mystery
+- Fiction
+- Poverty & Class
+- Short Stories
+- Travel Writing
+- Urban Life
 oclc: '45810691'
 zotero_key: B4PPZ48X
 cover: covers/b4ppz48x.jpg

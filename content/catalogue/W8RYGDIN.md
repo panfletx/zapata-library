@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 968-438-999-X
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: W8RYGDIN
 cover: covers/w8rygdin.jpg
 ---

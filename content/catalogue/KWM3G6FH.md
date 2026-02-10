@@ -17,15 +17,9 @@ pages: 127
 series:
 - Guías prácticas (Buenos Aires, Argentina)
 subjects:
-- Cuentos
-- Escritura
-- Fiction Authorship
-- Fiction Technique
-- Materiales en español
-- Novela Autoría
-- Novela Escritura
-- Novela Técnica
-- Roman Art d'écrire
+- Fiction
+- Literary Criticism
+- Short Stories
 oclc: '566125949'
 exlibris: '2008'
 zotero_key: KWM3G6FH

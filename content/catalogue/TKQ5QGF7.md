@@ -19,10 +19,10 @@ pages: 47
 series:
 - Instituto de Investigaciones Filosóficas
 subjects:
-- Crítica e interpretación
-- Magia
-- Mitología
-- Religión
+- Literary Criticism
+- Mythology
+- Occult & Esoteric
+- Religion
 oclc: '934408995'
 zotero_key: TKQ5QGF7
 cover: covers/tkq5qgf7.jpg

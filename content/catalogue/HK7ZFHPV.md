@@ -15,7 +15,8 @@ item_types:
 isbn: 978-2-9519978-6-8
 pages: 117
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '70871247'
 zotero_key: HK7ZFHPV
 cover: covers/hk7zfhpv.jpg

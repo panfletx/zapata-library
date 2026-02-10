@@ -19,20 +19,9 @@ pages: 66
 series:
 - Cuadernos ínfimos
 subjects:
-- Criticism, interpretation, etc
-- French literature
-- Littérature française Histoire et critique
-- Crítica e interpretación
-- Autores franceses Siglo XX
-- French literature History and criticism
-- French prose literature
-- LITERATURA FRANCESA HISTORIA Y CRITICA
-- Literatura francesa Siglo XX
-- PROSA FRANCESA
-- Prose française
-- Roussel, Crítica e interpretación
-- Roussel, Raymond 1877-1933 Crítica e interpretación
-- Style, Literary
+- French Literature
+- Literary Criticism
+- Modern History
 oclc: '55287384'
 zotero_key: HNS9BC5J
 cover: covers/hns9bc5j.jpg

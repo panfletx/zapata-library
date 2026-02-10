@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 258
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '24571871'
 exlibris: '1992'
 zotero_key: QEGNDANT

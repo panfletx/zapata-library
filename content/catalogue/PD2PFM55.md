@@ -17,9 +17,8 @@ pages: 215
 series:
 - De viva voz (Ediciones B)
 subjects:
-- Actors Itàlia Biografia
-- Cinematografia Itàlia Biografia
-- Mastroianni, Marcello, 1924-1996
+- Biography
+- Film & Cinema
 oclc: '1335613317'
 exlibris: '2000'
 zotero_key: PD2PFM55

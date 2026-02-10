@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1059-2
 pages: 96
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521489'
 zotero_key: J964INFB
 cover: covers/j964infb.jpg

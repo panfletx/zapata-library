@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: CAHW9F2M
 cover: covers/cahw9f2m.jpg
 ---

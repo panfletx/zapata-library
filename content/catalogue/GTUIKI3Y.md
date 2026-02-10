@@ -16,7 +16,8 @@ item_types:
 pages: 250
 series:
 - Classiques d'aujourd'hui (Livre de poche (Firm))
-subjects: []
+subjects:
+- French Literature
 oclc: '863459713'
 exlibris: '1976'
 zotero_key: GTUIKI3Y

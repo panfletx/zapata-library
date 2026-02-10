@@ -17,12 +17,8 @@ pages: 173
 edition: 1st ed
 series: []
 subjects:
-- Health
-- Āyurveda
-- health
-- Medicine, Ayurvedic
-- Salud
-- Santé
+- Medicine & Health
+- Religion
 oclc: '25179731'
 zotero_key: IH5ESCUQ
 cover: covers/ih5escuq.jpg

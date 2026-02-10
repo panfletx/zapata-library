@@ -16,20 +16,10 @@ pages: 151
 edition: 1. ed
 series: []
 subjects:
-- French drama
-- 1900-1999
-- Translations
 - Drama
-- Psychoanalysts
-- French drama 20th century
-- Monologues, French
-- Monologues, French Translations into Spanish
-- Monologues, Spanish American
-- Psychoanalysts Drama
-- Spanish American drama
-- Spanish American drama 20th century
-- Théâtre français 20e siècle
-- Théâtre hispano-américain 20e siècle
+- Psychoanalysis
+- Translation Studies
+- United States
 oclc: '56115245'
 zotero_key: 7IB2AGAE
 cover: covers/7ib2agae.jpg

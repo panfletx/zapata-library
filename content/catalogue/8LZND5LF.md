@@ -17,21 +17,11 @@ pages: 225
 series:
 - Colección Andanzas
 subjects:
-- Police
-- Fiction
 - Cuba
-- Detective and mystery fiction
-- Mystery fiction
-- Novela de misterio
-- Meurtre Enquêtes Romans, nouvelles, etc
-- Murder Investigation
-- Murder Investigation Fiction
-- Asesinato Investigación Novela
-- Cuba Havana
-- Habana (Cuba) Novela
-- Havana (Cuba) Fiction
-- Police Cuba Fiction
-- Policía Cuba Novela
+- Detective & Mystery
+- Fiction
+- Havana
+- Short Stories
 oclc: '758384634'
 zotero_key: 8LZND5LF
 cover: covers/8lznd5lf.jpg

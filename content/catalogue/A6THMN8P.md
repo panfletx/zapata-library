@@ -17,8 +17,8 @@ edition: 1. ed. en Clásicos de la literatura mexicana
 series:
 - Clásicos de la literatura mexicana
 subjects:
-- Nouvelles mexicaines
-- Short stories, Mexican
+- Mexico
+- Short Stories
 oclc: '6055039'
 zotero_key: A6THMN8P
 cover: covers/a6thmn8p.jpg

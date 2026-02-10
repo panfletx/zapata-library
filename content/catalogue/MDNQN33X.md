@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: MDNQN33X
 cover: covers/mdnqn33x.jpg
 ---

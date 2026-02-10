@@ -17,16 +17,9 @@ pages: 246
 edition: 1. ed
 series: []
 subjects:
-- Actualización de sí mismo (Psicología)
-- Self-actualization (Psychology)
-- Cambio (Psicología)
-- Change (Psychology)
-- Changement (Psychologie)
-- Holistic medicine
-- Médecine holistique
-- Medicina holística
-- Mente y cuerpo
-- Mind and body
+- Medicine & Health
+- Philosophy
+- Psychoanalysis
 oclc: '1036896742'
 exlibris: '1991'
 zotero_key: SK6AABME

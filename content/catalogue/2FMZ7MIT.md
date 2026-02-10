@@ -18,13 +18,11 @@ pages: 217
 series:
 - Quartheft (Edition Polyphon)
 subjects:
-- Latin American poetry
-- Translations
-- German poetry
-- German poetry Translations into Spanish
-- Latin American poetry Translations into German
-- Poésie allemande
-- Poésie latino-américaine
+- Latin America
+- Modern History
+- Poetry
+- Translation Studies
+- United States
 oclc: '874833195'
 zotero_key: 2FMZ7MIT
 cover: covers/2fmz7mit.jpg

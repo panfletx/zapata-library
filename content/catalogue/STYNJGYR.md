@@ -17,14 +17,9 @@ pages: 64
 series:
 - Alianza cien
 subjects:
-- History
-- Anecdotes
-- Legends
+- Modern History
+- Oral Tradition & Folklore
 - Peru
-- Légendes Pérou
-- Legends Peru
-- Pérou Histoire Anecdotes
-- Peru History Anecdotes
 oclc: '48504209'
 zotero_key: STYNJGYR
 cover: covers/stynjgyr.jpg

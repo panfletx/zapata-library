@@ -17,8 +17,9 @@ pages: 400
 series:
 - Club Bruguera
 subjects:
-- Literatura estadounidense
-- Novela estadounidense
+- American Literature
+- Fiction
+- Literary Criticism
 oclc: '981390172'
 exlibris: '1983'
 zotero_key: IS2JQDYZ

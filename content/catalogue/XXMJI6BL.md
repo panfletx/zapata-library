@@ -16,7 +16,9 @@ isbn: 978-84-7223-215-0
 pages: 146
 series:
 - Andanzas (Tusquets)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '803044965'
 exlibris: '1985'
 zotero_key: XXMJI6BL

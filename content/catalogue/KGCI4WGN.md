@@ -17,10 +17,8 @@ pages: 244
 series:
 - Garnier-Flammarion
 subjects:
-- Letterkunde
-- Littérature
-- Littérature française
-- Franse letterkunde
+- French Literature
+- Literary Criticism
 oclc: '1400519537'
 zotero_key: KGCI4WGN
 cover: covers/kgci4wgn.jpg

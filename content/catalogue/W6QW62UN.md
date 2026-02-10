@@ -19,9 +19,9 @@ edition: 1ª ed. en México
 series:
 - Grandes clásicos
 subjects:
-- Literatura española
-- Novela- S. XVI
-- Novelas españolas- S.XVI
+- Fiction
+- Literary Criticism
+- Spanish Literature
 oclc: '1187094527'
 exlibris: '1992'
 zotero_key: W6QW62UN

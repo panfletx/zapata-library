@@ -16,8 +16,8 @@ pages: 80
 series:
 - Cuadernillos de Poesía
 subjects:
-- Spanish American poetry
-- Poésie hispano-américaine
+- Poetry
+- United States
 oclc: '81101419'
 zotero_key: 2XXJ7E9D
 cover: covers/2xxj7e9d.jpg

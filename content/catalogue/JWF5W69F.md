@@ -13,7 +13,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1009817358'
 zotero_key: JWF5W69F
 cover: covers/jwf5w69f.jpg

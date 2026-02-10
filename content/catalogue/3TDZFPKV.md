@@ -8,7 +8,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- French Literature
 zotero_key: 3TDZFPKV
 cover: covers/3tdzfpkv.jpg
 ---

@@ -15,7 +15,9 @@ item_types:
 pages: 90
 series:
 - Colección Rescate
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '15336220'
 zotero_key: IQMQBZND
 cover: covers/iqmqbznd.jpg

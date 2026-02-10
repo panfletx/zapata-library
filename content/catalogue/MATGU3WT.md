@@ -8,7 +8,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- German Literature
 zotero_key: MATGU3WT
 cover: covers/matgu3wt.jpg
 ---

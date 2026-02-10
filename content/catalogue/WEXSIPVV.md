@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 136
 series: []
-subjects: []
+subjects:
+- German Literature
 oclc: '73865898'
 zotero_key: WEXSIPVV
 cover: covers/wexsipvv.jpg

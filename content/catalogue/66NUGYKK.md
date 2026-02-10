@@ -20,9 +20,7 @@ pages: 125
 series:
 - Romanische Bibliothek
 subjects:
-- Romances
-- Novela francesa s. XII
-- Roman courtois
+- Fiction
 oclc: '48151953'
 exlibris: '2011'
 zotero_key: 66NUGYKK

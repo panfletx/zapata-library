@@ -17,7 +17,8 @@ pages: 113
 edition: 1. ed
 series:
 - Narrativa (Ediciones Fósforo)
-subjects: []
+subjects:
+- Fiction
 oclc: '404325145'
 cover_note: dedicatoria de autora
 zotero_key: RN3B4YMI

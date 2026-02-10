@@ -16,10 +16,9 @@ pages: 460
 edition: 7a. ed
 series: []
 subjects:
+- Brazil
 - Fiction
-- Brazil Minas Gerais
-- Minas Gerais (Brazil) Fiction
-- 'Minas Gerais (Brésil : État) Romans, nouvelles, etc'
+- Short Stories
 oclc: '12070464'
 zotero_key: D7ALHIHU
 cover: covers/d7alhihu.jpg

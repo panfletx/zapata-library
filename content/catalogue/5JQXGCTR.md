@@ -17,10 +17,9 @@ pages: 282
 series:
 - El libro de bolsillo
 subjects:
-- str. 1990
-- AUTORES ESTADOUNIDENSES BIOGRAFIAS
-- Dos Passos, John, 1896-1970
-- DOS PASSOS, JOHN, 1896-1970
+- American Literature
+- Biography
+- Literary Criticism
 oclc: '20227967'
 zotero_key: 5JQXGCTR
 cover: covers/5jqxgctr.jpg

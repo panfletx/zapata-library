@@ -16,7 +16,7 @@ isbn: 978-0-307-47258-8
 pages: 1
 series: []
 subjects:
-- Roman américain 1945- ..
+- Fiction
 oclc: '800881643'
 zotero_key: F4HN3C4W
 cover: covers/f4hn3c4w.jpg

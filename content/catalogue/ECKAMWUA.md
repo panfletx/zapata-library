@@ -17,7 +17,7 @@ pages: 134
 series:
 - Colección Popular
 subjects:
-- Cuentos mexicanos
+- Short Stories
 oclc: '42893836'
 zotero_key: ECKAMWUA
 cover: covers/eckamwua.jpg

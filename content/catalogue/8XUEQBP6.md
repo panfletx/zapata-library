@@ -16,7 +16,8 @@ pages: 47
 edition: 1. ed
 series:
 - Teatro IberoAmericano
-subjects: []
+subjects:
+- Fiction
 oclc: '41928971'
 exlibris: dedicatoria José 1994
 zotero_key: 8XUEQBP6

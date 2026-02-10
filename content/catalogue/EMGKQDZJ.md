@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 465
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '909414027'
 exlibris: '1994'
 zotero_key: EMGKQDZJ

@@ -15,7 +15,8 @@ item_types:
 - book
 pages: 268
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '647374'
 zotero_key: 2N9IVA7R
 cover: covers/2n9iva7r.jpg

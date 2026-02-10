@@ -16,7 +16,9 @@ isbn: 978-84-7367-120-0
 pages: 159
 series:
 - Colección Alejandría
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '46919222'
 cover_note: dedicatoria de Martín
 zotero_key: ERMTPA7I

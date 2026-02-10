@@ -16,10 +16,7 @@ isbn: 978-84-315-4099-9
 pages: 191
 series: []
 subjects:
-- Français Grammaire
-- Francés Gramática
-- French Grammar
-- Lengua francesa Errores de uso
+- Grammar & Linguistics
 oclc: '733736755'
 zotero_key: HF76JLLK
 cover: covers/hf76jllk.jpg

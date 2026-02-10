@@ -15,7 +15,9 @@ item_types:
 pages: 154
 series: []
 subjects:
-- Novela itaniana s.20 Historia y crítica
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '912221881'
 exlibris: '1980'
 zotero_key: UNFCZNU4

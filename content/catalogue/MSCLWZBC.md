@@ -16,15 +16,9 @@ isbn: 978-0-451-18063-6
 pages: 523
 series: []
 subjects:
+- Detective & Mystery
 - Fiction
-- Action and adventure fiction
-- Adventure fiction
-- Assassins
-- Attempted assassination
-- Hussein, Saddam, 1937-2006
-- Hussein, Saddam, 1937-2006 Assassination attempts Fiction
-- Iraq
-- Assassins Iraq Fiction
+- Middle East
 oclc: '31917401'
 zotero_key: MSCLWZBC
 cover: covers/msclwzbc.jpg

@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: BARCHI9G
 cover: covers/barchi9g.jpg
 ---

@@ -19,17 +19,12 @@ edition: 1. ed. en español
 series:
 - Colección popular (Fondo de Cultura Económica (Mexico))
 subjects:
-- History
-- Politics and government
-- Disappeared persons
-- 1900-1999
-- Alexis, Jacques Stéphen, 1922-1961
-- Disappeared persons Haiti History 20th century
+- French Literature
 - Haiti
-- Haiti Politics and government 1934-1971
-- Personnes disparues Haïti Histoire 20e siècle
-- Sarner, Eric
-- Sarner, Éric
+- Human Rights
+- Latin American Literature
+- Latin American Politics
+- Modern History
 oclc: '43837006'
 cover_note: dedicatoria de traductora
 zotero_key: 7LEGFV8R

@@ -16,10 +16,8 @@ item_types:
 pages: 575
 series: []
 subjects:
-- Biographies
-- O'Neill Eugene
-- O'Neill, Eugene, 1888-1953
-- O'NEILL, EUGENE, 1888-1953 BIOGRAFIA
+- Biography
+- Drama
 oclc: '3905550'
 zotero_key: DK6BZDW3
 cover: covers/dk6bzdw3.jpg

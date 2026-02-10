@@ -19,12 +19,8 @@ edition: 1st Library of America college ed
 series:
 - Library of America college editions
 subjects:
-- poetry
+- Anthology
 - Poetry
-- Poésie
-- Collections
-- Poésie Collections
-- Poetry Collections
 oclc: '33948474'
 exlibris: '2011'
 zotero_key: J5FHA6QE

@@ -18,8 +18,8 @@ edition: Primera edición
 series:
 - Joven Godot
 subjects:
-- Mexican drama
-- Théâtre mexicain
+- Drama
+- Mexico
 oclc: '890702942'
 zotero_key: L5GSFWAD
 cover: covers/l5gsfwad.jpg

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1111-7
 pages: 62
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521622'
 exlibris: '1994'
 zotero_key: 47LZICB8

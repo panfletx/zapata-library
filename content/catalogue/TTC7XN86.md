@@ -7,8 +7,7 @@ authors:
 - Arquíloco
 - Molina Ayala, José
 publishers:
-- Textofilia Ediciones ; Universidad Autonóma de Nuevo León, Biblioteca Universitaria
-  Raúl Rangel Frías
+- Textofilia Ediciones ; Universidad Autonóma de Nuevo León, Biblioteca Universitaria Raúl Rangel Frías
 place: México, D.F., Monterrey, Nuevo León, México
 languages:
 - Español
@@ -20,8 +19,8 @@ edition: 1a ed
 series:
 - Colección Ión. Serie Poesía
 subjects:
-- Greek poetry Translations into Spanish
-- Poesia griega Traducciones al español
+- Poetry
+- Translation Studies
 oclc: '807327701'
 zotero_key: TTC7XN86
 cover: covers/ttc7xn86.jpg

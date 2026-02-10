@@ -17,9 +17,8 @@ pages: 310
 series: []
 subjects:
 - Fiction
-- Male homosexuality
-- Homosexualité masculine Romans, nouvelles, etc
-- Male homosexuality Fiction
+- Gay Literature
+- Short Stories
 oclc: '9270929'
 zotero_key: VB5T8ZZH
 cover: covers/vb5t8zzh.jpg

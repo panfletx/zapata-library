@@ -7,8 +7,7 @@ authors:
 - Blanco, José Joaquín
 - Revueltas, José
 publishers:
-- 'Consejo Nacional de Recursos para la Atención de la Juventud : Editorial Terra
-  Nova'
+- 'Consejo Nacional de Recursos para la Atención de la Juventud : Editorial Terra Nova'
 place: México, D.F.
 languages:
 - Español
@@ -20,10 +19,10 @@ edition: 1. ed
 series:
 - Grandes maestros mexicanos
 subjects:
-- Criticism, interpretation, etc
-- Novela mexicana Siglo XX
-- Revueltas, José, 1914-1976
-- Revueltas, José, 1914-1976 Criticism and interpretation
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '16683749'
 cover_note: dedicatoria de jjb
 zotero_key: XWVIBZM3

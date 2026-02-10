@@ -15,8 +15,8 @@ item_types:
 pages: 45
 series: []
 subjects:
-- German fiction
-- Roman allemand
+- Fiction
+- Modern History
 oclc: '1548293'
 zotero_key: WRFB3Z7D
 cover: covers/wrfb3z7d.jpg

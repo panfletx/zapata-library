@@ -17,11 +17,7 @@ pages: 343
 series:
 - Penguin essentials
 subjects:
-- Crime
-- Murder
-- Hickock, Richard Eugene, 1931-1965
-- Murder Kansas Holcomb
-- Smith, Perry Edward, 1928-1965
+- Detective & Mystery
 oclc: '883824898'
 zotero_key: FI2UWZWE
 cover: covers/fi2uwzwe.jpg

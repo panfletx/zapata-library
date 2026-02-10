@@ -11,7 +11,10 @@ languages: []
 item_types:
 - thesis
 series: []
-subjects: []
+subjects:
+- Gay Literature
+- Mexico
+- Modern History
 zotero_key: WA2CLKV8
 cover: covers/wa2clkv8.jpg
 ---

@@ -16,11 +16,8 @@ pages: 976
 edition: 2a. ed
 series: []
 subjects:
-- Médecine Ouvrages de vulgarisation
-- Medicine, Popular
-- Medicina del hogar
-- Medicina popular
-- Traditional medicine
+- Medicine & Health
+- Science
 oclc: '45119233'
 zotero_key: KT3SMQSG
 cover: covers/kt3smqsg.jpg

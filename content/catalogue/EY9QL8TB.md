@@ -15,13 +15,11 @@ item_types:
 pages: 480
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- Spanish literature
-- Littérature mexicaine Histoire et critique
-- Mexican literature History and criticism
-- Littérature espagnole Histoire et critique
-- Spanish literature History and criticism
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Spanish Literature
 oclc: '469904657'
 zotero_key: EY9QL8TB
 cover: covers/ey9ql8tb.jpg

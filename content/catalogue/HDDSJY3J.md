@@ -19,8 +19,9 @@ pages: 333
 series:
 - Biblioteca breve
 subjects:
-- Autores norteamericanos Correspondencia
-- BOWLES, PAUL, 1910- CORRESPONDENCIA, MEMORIAS, etc
+- American Literature
+- Correspondence
+- Literary Criticism
 oclc: '906821725'
 zotero_key: HDDSJY3J
 cover: covers/hddsjy3j.jpg

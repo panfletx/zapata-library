@@ -19,21 +19,11 @@ edition: 1a ed
 series:
 - Viaje interior
 subjects:
+- Essay
+- Japan
+- Literary Criticism
+- Philosophy
 - Religion
-- Essays
-- Essais (Genre littéraire)
-- essays
-- Vida espiritual
-- Spiritual life
-- Vie spirituelle
-- Asia
-- Asia Religion
-- Asie Religion
-- Desarrollo de sí mismo
-- Philosophie orientale
-- Philosophy, Asian
-- Réalisation de soi
-- Self-realization
 oclc: '40879060'
 zotero_key: UVW2U55T
 cover: covers/uvw2u55t.jpg

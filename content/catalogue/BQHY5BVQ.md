@@ -17,10 +17,10 @@ pages: 213
 edition: 1st Scribner trade paperback ed
 series: []
 subjects:
-- Short stories, American
-- Horror fiction
-- Nouvelles américaines
-- Short stories
+- Fiction
+- Horror & Gothic
+- Short Stories
+- United States
 oclc: '746755622'
 exlibris: '2014'
 zotero_key: BQHY5BVQ

@@ -17,16 +17,8 @@ pages: 165
 edition: 1. ed
 series: []
 subjects:
-- History
 - Mexico
-- México Historia
-- Handbooks and manuals
-- Mexico Handbooks, manuals, etc
-- Mexico Historia
-- México Historia Manuales
-- Mexico History
-- México Tratados, manuales, etc
-- Mexique Histoire
+- Modern History
 oclc: '30085492'
 zotero_key: T29WPCLH
 cover: covers/t29wpclh.jpg

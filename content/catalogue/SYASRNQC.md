@@ -20,7 +20,7 @@ edition: 1a ed
 series:
 - Cien del mundo
 subjects:
-- Dante Alighieri, 1265-1321
+- Poetry
 oclc: '23742361'
 exlibris: '1996'
 zotero_key: SYASRNQC

@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 968-5243-35-2
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de autor
 zotero_key: 4GYS9LUH
 cover: covers/4gys9luh.jpg

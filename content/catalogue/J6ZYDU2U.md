@@ -18,10 +18,11 @@ edition: 1. ed
 series:
 - Literatura
 subjects:
-- Novels
-- Romans
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Novel
 oclc: '226316634'
 cover_note: dedicatoria de autora 2007
 zotero_key: J6ZYDU2U

@@ -17,14 +17,13 @@ pages: 219
 series:
 - Serie mayor
 subjects:
-- Autobiographies
-- autobiographies (literary works)
-- CUBA HISTORIA 1868-1902 NOVELA
-- Cuba History 1810-1899 Biography
-- MONTEJO, ESTEBAN, 1860- NOVELA
-- Montejo, Esteban, 1860-1973
-- NOVELAS CUBANAS
-- Slavery Cuba
+- Autobiography & Memoir
+- Biography
+- Cuba
+- Cuban Literature
+- Fiction
+- Modern History
+- Slavery
 oclc: '2208262'
 exlibris: '1980'
 zotero_key: M677PWBF

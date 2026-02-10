@@ -11,7 +11,8 @@ item_types:
 isbn: 01851535
 series:
 - '31'
-subjects: []
+subjects:
+- Fiction
 zotero_key: CFRWICWX
 cover: covers/cfrwicwx.jpg
 ---

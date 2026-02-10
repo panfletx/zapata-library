@@ -18,8 +18,7 @@ edition: 1a ed
 series: []
 subjects:
 - Mexico
-- Folklore
-- Folklore Mexico
+- Oral Tradition & Folklore
 oclc: '947718781'
 zotero_key: SQ78AKEE
 cover: covers/sq78akee.jpg

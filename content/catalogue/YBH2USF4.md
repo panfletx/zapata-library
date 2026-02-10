@@ -15,7 +15,8 @@ item_types:
 pages: 1
 series:
 - Témoins
-subjects: []
+subjects:
+- French Literature
 oclc: '717431402'
 zotero_key: YBH2USF4
 cover: covers/ybh2usf4.jpg

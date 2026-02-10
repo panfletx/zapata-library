@@ -17,8 +17,8 @@ pages: 155
 edition: 4a. ed
 series: []
 subjects:
-- Bach, Edward, 1886-1936
-- Flores Uso terapéutico
+- Medicine & Health
+- Music
 oclc: '956386938'
 zotero_key: 65PVQK7I
 cover: covers/65pvqk7i.jpg

@@ -17,10 +17,7 @@ source_url: https://archive.org/details/tartasdulcesysal0000wils
 pages: 1
 series: []
 subjects:
-- Cocina- Recetas
-- Gozogintza- Sukaldaritzako errezetak
-- Repostería- Recetas de cocina
-- Sukaldaritza- Errezetak
+- Food & Gastronomy
 oclc: '1225857408'
 zotero_key: CC44R7RU
 cover: covers/cc44r7ru.jpg

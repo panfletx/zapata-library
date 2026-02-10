@@ -17,7 +17,8 @@ isbn: 978-84-01-42125-9
 pages: 216
 series:
 - Ave Fénix
-subjects: []
+subjects:
+- Fiction
 oclc: '920124287'
 exlibris: '1992'
 zotero_key: NSRDT376

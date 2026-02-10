@@ -16,9 +16,9 @@ pages: 255
 edition: 1a.ed
 series: []
 subjects:
-- CUENTOS ESTADOUNIDENSES
-- LITERATURA
-- LITERATURA ESTADOUNIDENSE
+- American Literature
+- Literary Criticism
+- Short Stories
 oclc: '1255993224'
 zotero_key: FIMD2IPK
 cover: covers/fimd2ipk.jpg

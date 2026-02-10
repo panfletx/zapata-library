@@ -17,12 +17,13 @@ pages: 179
 series:
 - Colección Narrativa (Editorial Betania)
 subjects:
-- Mexico
-- Gay men
+- Bibliography
 - Fiction
-- Gay men Mexico Fiction
-- Homosexuels masculins Mexique Romans, nouvelles, etc
-- Publishers' advertisements Spain Madrid 1993
+- Gay Literature
+- Madrid
+- Mexico
+- Short Stories
+- Spain
 oclc: '29378965'
 cover_note: ded
 zotero_key: FCPAJMLC

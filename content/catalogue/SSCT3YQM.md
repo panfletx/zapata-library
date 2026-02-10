@@ -15,7 +15,8 @@ item_types:
 pages: 147
 series:
 - Colección austral
-subjects: []
+subjects:
+- Fiction
 oclc: '1404646245'
 exlibris: '2003'
 zotero_key: SSCT3YQM

@@ -10,7 +10,8 @@ languages: []
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: XUPHSD39
 cover: covers/xuphsd39.jpg
 ---

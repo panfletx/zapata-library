@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 225
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '954243614'
 zotero_key: RE7BU9NQ
 cover: covers/re7bu9nq.jpg

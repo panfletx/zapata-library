@@ -19,12 +19,11 @@ edition: Ed. especial 60 aniversario, 8a. ed. especial
 series:
 - Colección diamante
 subjects:
+- Biography
+- Family
 - Fiction
-- Biographical fiction
-- Italia Historia Novela
-- Orsini family
-- Orsini family Fiction
-- Orsini family Novela
+- Italy
+- Modern History
 oclc: '43981941'
 exlibris: '2004'
 zotero_key: LFWBWV8L

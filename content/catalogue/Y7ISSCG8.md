@@ -18,15 +18,12 @@ pages: 57
 series:
 - Colección Cara y cruz
 subjects:
-- Criticism, interpretation, etc
 - Fiction
-- Fitzgerld, F. Scott 1896-1940 Criticism and interpretation
-- Long Island (N.Y.) Fiction
-- Long Island (N.Y.) Romans, nouvelles, etc
-- New York (State) Long Island
-- Rich people
-- Rich people Fiction
-- Riches Romans, nouvelles, etc
+- Literary Criticism
+- Modern History
+- New York
+- Short Stories
+- Travel Writing
 oclc: '49837585'
 zotero_key: Y7ISSCG8
 cover: covers/y7isscg8.jpg

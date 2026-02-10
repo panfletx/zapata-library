@@ -17,9 +17,8 @@ pages: 375
 series:
 - Repertorio Español de Bibliografía Árabe e Islámica
 subjects:
-- Andalus Historia
-- Islam Historia
-- Muḥammad
+- Islam
+- Modern History
 oclc: '1025963746'
 zotero_key: WGRLKC6X
 cover: covers/wgrlkc6x.jpg

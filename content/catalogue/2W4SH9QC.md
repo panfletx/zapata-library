@@ -17,9 +17,9 @@ pages: 311
 series:
 - Fundamentos
 subjects:
-- Historical geography
-- Historical geography Maps
-- Maps
+- Modern History
+- Travel Writing
+- Visual Art
 oclc: '3201147'
 zotero_key: 2W4SH9QC
 cover: covers/2w4sh9qc.jpg

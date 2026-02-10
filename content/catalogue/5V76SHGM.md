@@ -16,11 +16,9 @@ item_types:
 series:
 - Petite Bibliotheque Payot
 subjects:
-- Literatură franceză
-- Baudelaire, Charles, 1821-1867
-- Biografii
-- Scriitori
-- Studii critice
+- Biography
+- Literary Criticism
+- Poetry
 oclc: '935389165'
 cover_note: Olivier Debroisie
 zotero_key: 5V76SHGM

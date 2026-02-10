@@ -15,7 +15,8 @@ item_types:
 pages: 144
 series:
 - Biblioteca Basica Salvat. Libro RTV
-subjects: []
+subjects:
+- Fiction
 oclc: '720120181'
 exlibris: '1974'
 zotero_key: 95FNR8AD

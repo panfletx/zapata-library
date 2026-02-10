@@ -17,19 +17,11 @@ edition: 1a ed
 series:
 - Textos de humanidades
 subjects:
-- Mexico
-- 1900-1999
-- Interviews
 - Interview
-- interviews
-- Arts 20e siècle
-- Arts, Modern
-- Arts, Modern 20th century
-- Écrivains espagnols Entretiens
-- Interviewing in journalism
 - Journalism
-- Journalism Mexico
-- Journalisme Mexique
+- Literary Criticism
+- Mexico
+- Visual Art
 oclc: '14098868'
 exlibris: dedicatoria de autora
 zotero_key: M7BDGYVA

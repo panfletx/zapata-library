@@ -19,14 +19,9 @@ isbn: 978-1-338-54895-2
 pages: 31
 series: []
 subjects:
-- History
+- Children's Literature
 - Mexico
-- Manners and customs
-- Juvenile works
-- 1800-1899
-- Mexico History 19th century Juvenile literature
-- Mexico Social life and customs Juvenile literature
-- Mexique Histoire 19e siècle Ouvrages pour la jeunesse
+- Modern History
 oclc: '1264681577'
 zotero_key: PTD3ZAXD
 cover: covers/ptd3zaxd.jpg

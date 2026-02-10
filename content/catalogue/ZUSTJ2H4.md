@@ -17,8 +17,8 @@ pages: 478
 edition: 3a reimp.
 series: []
 subjects:
-- Religión Diccionario
-- Religiones Diccionario
+- Dictionary
+- Religion
 oclc: '651482021'
 zotero_key: ZUSTJ2H4
 cover: covers/zustj2h4.jpg

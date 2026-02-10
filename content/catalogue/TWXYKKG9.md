@@ -17,7 +17,8 @@ isbn: 978-2-07-037407-6
 pages: 152
 series:
 - Collection Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '43361310'
 zotero_key: TWXYKKG9
 cover: covers/twxykkg9.jpg

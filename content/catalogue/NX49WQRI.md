@@ -18,7 +18,6 @@ series:
 - Colección Rey de bastos
 subjects:
 - Fiction
-- Romans
 oclc: '10932378'
 zotero_key: NX49WQRI
 cover: covers/nx49wqri.jpg

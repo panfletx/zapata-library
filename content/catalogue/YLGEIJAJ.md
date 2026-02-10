@@ -17,26 +17,11 @@ isbn: 978-1-56098-294-4
 pages: 296
 series: []
 subjects:
+- Latin American Politics
 - Mexico
+- Museums & Collections
 - United States
-- In art
-- 1900-1999
-- International relations
-- Exhibition catalogs
-- Amerikanen
-- Art américain 20e siècle Expositions
-- Art moderne États-Unis 20e siècle Catalogues d'exposition
-- Art, American
-- Art, American 20th century Exhibitions
-- Beeldvorming
-- Catalogues d'exposition
-- Etats-Unis Relations Mexique
-- exhibition catalogs
-- Mexico In art Exhibitions
-- Mexico Relations United States
-- Mexique Dans l'art Catalogues d'exposition
-- United States Relations Mexico
-- Visual arts
+- Visual Art
 oclc: '27035875'
 cover_note: dedicatoria de James Oles
 zotero_key: YLGEIJAJ

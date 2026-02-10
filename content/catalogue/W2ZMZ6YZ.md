@@ -14,7 +14,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '1976'
 zotero_key: W2ZMZ6YZ
 cover: covers/w2zmz6yz.jpg

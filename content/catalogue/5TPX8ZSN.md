@@ -16,11 +16,8 @@ pages: 164
 edition: 1. ed
 series: []
 subjects:
-- History
 - Mexico
-- México Historia
-- Mexico History
-- Mexique Histoire
+- Modern History
 oclc: '1064696'
 cover_note: '1974'
 zotero_key: 5TPX8ZSN

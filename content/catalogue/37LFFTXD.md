@@ -17,7 +17,9 @@ pages: 283
 edition: 1a edición
 series:
 - Clun Bruguera
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1089756202'
 exlibris: '1980'
 zotero_key: 37LFFTXD

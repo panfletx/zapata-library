@@ -17,14 +17,8 @@ pages: 344
 edition: 2a. edición
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Spanish language Dictionaries
-- Spanish language Idioms
 - Dictionary
-- Espagnol (Langue) Idiotismes
+- Grammar & Linguistics
 oclc: '22330215'
 zotero_key: 8KSNFMS2
 cover: covers/8ksnfms2.jpg

@@ -17,7 +17,8 @@ pages: 93
 series:
 - Alianza Cien
 subjects:
-- Cuentos neozelandeses Siglo XX Traducciones al español
+- Short Stories
+- Translation Studies
 oclc: '689350545'
 zotero_key: MCE9N4HH
 cover: covers/mce9n4hh.jpg

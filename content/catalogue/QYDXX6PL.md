@@ -17,21 +17,14 @@ pages: 318
 series:
 - Collection folio
 subjects:
-- Europe
-- Racism
-- Novels
+- Autobiography & Memoir
 - Fiction
-- Manners and customs
-- Romans
-- Autobiographical fiction
-- Historical fiction
-- novels
-- Europe Mœurs et coutumes 1945- Romans, nouvelles, etc
-- Europe Social life and customs 1945- Fiction
-- French fiction 20th century
-- Racism Fiction
-- Racisme Romans, nouvelles, etc
-- Since 1945
+- France
+- Historical Fiction
+- Modern History
+- Novel
+- Race & Ethnicity
+- Short Stories
 oclc: '185646'
 zotero_key: QYDXX6PL
 cover: covers/qydxx6pl.jpg

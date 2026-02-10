@@ -17,7 +17,7 @@ pages: 326
 series:
 - Guide EDT
 subjects:
-- Messico centrale Guide
+- Mexico
 oclc: '953779925'
 zotero_key: BF7C2B8K
 cover: covers/bf7c2b8k.jpg

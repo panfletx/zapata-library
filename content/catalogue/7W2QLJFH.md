@@ -15,13 +15,8 @@ isbn: 978-84-294-0623-8
 pages: 848
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Spanish language Dictionaries
-- Español Diccionarios
-- Español Uso Diccionarios
-- Spanish language Idioms
-- Spanish language Idioms Dictionaries
+- Dictionary
+- Grammar & Linguistics
 oclc: '123345378'
 zotero_key: 7W2QLJFH
 cover: covers/7w2qljfh.jpg

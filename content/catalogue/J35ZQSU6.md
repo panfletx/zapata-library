@@ -16,7 +16,8 @@ item_types:
 - book
 pages: 128
 series: []
-subjects: []
+subjects:
+- German Literature
 oclc: '742217354'
 zotero_key: J35ZQSU6
 cover: covers/j35zqsu6.jpg

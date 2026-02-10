@@ -16,7 +16,7 @@ isbn: 978-968-39-1103-2
 pages: 63
 series: []
 subjects:
-- Carranza, Venustiano, 1859-1920 Asesinato
+- Mexican Revolution
 oclc: '651521476'
 exlibris: '1994'
 zotero_key: XT4AGWS3

@@ -16,7 +16,8 @@ item_types:
 - book
 pages: 126
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '19113592'
 zotero_key: CWH3X9N3
 cover: covers/cwh3x9n3.jpg

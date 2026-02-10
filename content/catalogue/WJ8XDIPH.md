@@ -16,9 +16,8 @@ isbn: 978-980-265-039-2
 pages: 245
 series: []
 subjects:
-- Trivia and miscellanea
-- Ettedgui, Marco Antonio, 1958-1981
-- Ettedgui, Marco Antonio, 1958-1981 Miscellanea
+- Anthology
+- Gay Literature
 oclc: '21347201'
 zotero_key: WJ8XDIPH
 cover: covers/wj8xdiph.jpg

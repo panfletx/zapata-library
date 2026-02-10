@@ -17,7 +17,9 @@ pages: 128
 edition: 2. Aufl
 series:
 - Fontamara Col.
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '742624301'
 zotero_key: 5NMBTLKD
 cover: covers/5nmbtlkd.jpg

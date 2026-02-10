@@ -7,8 +7,7 @@ authors:
 - Amador, María Luisa
 - Ayala Blanco, Jorge
 publishers:
-- Centro Universitario de Estudios Cinematográficos, Coordinación General de Difusión
-  Cultural, Dirección de Literatura/UNAM
+- Centro Universitario de Estudios Cinematográficos, Coordinación General de Difusión Cultural, Dirección de Literatura/UNAM
 place: México
 languages:
 - Español
@@ -20,11 +19,7 @@ edition: 1a ed
 series:
 - Textos de humanidades
 subjects:
-- Motion pictures
-- Catalogs
-- filmographies
-- Films Catalogues
-- Motion pictures Catalogs
+- Film & Cinema
 oclc: '20565412'
 zotero_key: Q67LYTL2
 cover: covers/q67lytl2.jpg

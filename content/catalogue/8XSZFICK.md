@@ -17,7 +17,7 @@ pages: 337
 series:
 - Folio
 subjects:
-- Novela francesa Siglo XX
+- Fiction
 oclc: '757204349'
 zotero_key: 8XSZFICK
 cover: covers/8xszfick.jpg

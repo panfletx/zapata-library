@@ -20,17 +20,11 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
-- Motion pictures
+- Drama
+- Film & Cinema
+- Juan Rulfo
+- Screenplay
 - Spain
-- Motion picture plays
-- Scénarios de cinéma
-- screenplays
-- Screenplays
-- Cinéma Espagne
-- Guiones cinematográficas
-- Motion pictures Spain
-- Películas cinematográficas España
-- Rulfo, Juan
 oclc: '6412030'
 zotero_key: U7U5UG8A
 cover: covers/u7u5ug8a.jpg

@@ -19,9 +19,8 @@ edition: Seventh edition
 series:
 - Colección "El pozo de Siquen"
 subjects:
-- Vida espiritual
-- Vida cristiana
-- Meditaciones
+- Catholicism
+- Religion
 oclc: '1344755724'
 zotero_key: HAH56IDE
 cover: covers/hah56ide.jpg

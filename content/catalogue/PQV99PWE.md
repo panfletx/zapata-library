@@ -16,7 +16,8 @@ isbn: 978-968-804-458-2
 pages: 107
 series:
 - Bilbioteca de clasicos mexicanos
-subjects: []
+subjects:
+- Fiction
 oclc: '12210213'
 zotero_key: PQV99PWE
 cover: covers/pqv99pwe.jpg

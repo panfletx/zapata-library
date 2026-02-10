@@ -16,7 +16,8 @@ isbn: 978-968-22-0167-7
 pages: 200
 series:
 - Colec. obras maestras de la literatura contemporánea
-subjects: []
+subjects:
+- Fiction
 oclc: '651189523'
 exlibris: '1989'
 zotero_key: W658VWEH

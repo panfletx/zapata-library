@@ -13,12 +13,9 @@ item_types:
 pages: 186
 series: []
 subjects:
-- Christian life
-- Vie chrétienne
-- Suffering Religious aspects Christianity
-- Sufrimiento Aspectos religiosos Cristianismo
-- Vida cristiana Meditaciones
-- Vida espiritual Iglesia Católica
+- Catholicism
+- Death & Mourning
+- Religion
 oclc: '907017067'
 zotero_key: 87PJFTNG
 cover: covers/87pjftng.jpg

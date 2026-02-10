@@ -16,13 +16,9 @@ isbn: 978-0-944499-68-9
 pages: 384
 series: []
 subjects:
-- Literature
-- Art
-- Dictionaries
-- Art Dictionaries Spanish
-- Arte Diccionarios Español
-- Literatura Diccionarios Español
-- Literature Dictionaries Spanish
+- Dictionary
+- Literary Criticism
+- Visual Art
 oclc: '25267764'
 zotero_key: FMWW2NDF
 cover: covers/fmww2ndf.jpg

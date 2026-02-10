@@ -16,7 +16,8 @@ isbn: 978-84-8130-005-5
 pages: 95
 series:
 - Biblioteca El mundo
-subjects: []
+subjects:
+- Fiction
 oclc: '432155861'
 zotero_key: QXCG8T7U
 cover: covers/qxcg8t7u.jpg

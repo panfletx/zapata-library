@@ -17,9 +17,7 @@ pages: 417
 edition: 3. ed
 series: []
 subjects:
-- Mexico San José de Gracia (Michoacán de Ocampo)
-- San José de Gracia (Michoacán de Ocampo, Mexico)
-- San José de Gracia (Michoacán, Mexique)
+- Mexico
 oclc: '5489802'
 zotero_key: MAQI6NI9
 cover: covers/maqi6ni9.jpg

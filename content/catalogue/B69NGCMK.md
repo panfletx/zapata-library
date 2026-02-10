@@ -19,8 +19,7 @@ edition: 1a. ed
 series:
 - Cien del mundo
 subjects:
-- Novelas francesas
-- NOVELAS FRANCESAS
+- Fiction
 oclc: '55300303'
 zotero_key: B69NGCMK
 cover: covers/b69ngcmk.jpg

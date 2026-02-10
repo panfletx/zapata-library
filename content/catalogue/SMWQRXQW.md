@@ -14,7 +14,7 @@ pages: 158
 series:
 - Clássicos da Literatura
 subjects:
-- Contos brasileiros
+- Brazilian Literature
 oclc: '817043815'
 zotero_key: SMWQRXQW
 cover: covers/smwqrxqw.jpg

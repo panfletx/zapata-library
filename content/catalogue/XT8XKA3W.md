@@ -17,7 +17,8 @@ pages: 191
 edition: 4a ed
 series:
 - Colec. teatro
-subjects: []
+subjects:
+- Fiction
 oclc: '651188712'
 zotero_key: XT8XKA3W
 cover: covers/xt8xka3w.jpg

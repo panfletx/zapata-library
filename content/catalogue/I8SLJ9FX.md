@@ -14,7 +14,7 @@ isbn: 978-84-7953-177-5
 pages: 299
 series: []
 subjects:
-- Salud-neurolingüistica
+- Medicine & Health
 oclc: '906715182'
 zotero_key: I8SLJ9FX
 cover: covers/i8slj9fx.jpg

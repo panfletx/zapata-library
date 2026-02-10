@@ -18,7 +18,7 @@ pages: 90
 edition: 1st HarperCollins pbk. ed
 series: []
 subjects:
-- New Thought
+- Religion
 oclc: '24627839'
 zotero_key: NRVTR6NH
 cover: covers/nrvtr6nh.jpg

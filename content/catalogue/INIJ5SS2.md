@@ -18,12 +18,11 @@ edition: 1st Perennial Classics edition
 series:
 - Harper Perennial modern classics
 subjects:
+- Family
 - Fiction
-- Southern States
-- Fathers and daughters
-- Fathers and daughters Southern States Fiction Race relations
-- Pères et filles États-Unis (Sud) Romans, nouvelles, etc. Relations raciales
-- Trials (Rape) Girls Fiction
+- Race & Ethnicity
+- Short Stories
+- United States
 oclc: '1003073885'
 zotero_key: INIJ5SS2
 cover: covers/inij5ss2.jpg

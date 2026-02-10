@@ -15,7 +15,7 @@ item_types:
 - book
 series: []
 subjects:
-- Santos
+- Saints & Hagiography
 oclc: '651278360'
 zotero_key: FBVNRG26
 cover: covers/fbvnrg26.jpg

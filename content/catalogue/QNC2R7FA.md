@@ -17,8 +17,8 @@ edition: 1. ed. en Clásicos de la literatura mexicana
 series:
 - Clásicos de la literatura mexicana
 subjects:
-- Mexican poetry
-- Poésie mexicaine
+- Mexico
+- Poetry
 oclc: '6232769'
 exlibris: Luis E. Bado
 zotero_key: QNC2R7FA

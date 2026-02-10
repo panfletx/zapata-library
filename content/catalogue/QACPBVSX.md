@@ -19,15 +19,10 @@ edition: 1a ed
 series:
 - Serie Alterna
 subjects:
-- 1900-1999
-- Interviews
-- interviews
-- Authors, Argentine
-- Authors, Argentine 20th century Interviews
-- Borges, Jorge Luis, 1899-1986
-- Borges, Jorge Luis, 1899-1986 Interviews
-- Écrivains argentins 20e siècle Entretiens
-- Borges, Jorge Luis, 1899-1986 Entretiens
+- Argentina
+- Interview
+- Jorge Luis Borges
+- Literary Criticism
 oclc: '16393613'
 exlibris: '1988'
 zotero_key: QACPBVSX

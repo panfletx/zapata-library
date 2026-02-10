@@ -17,18 +17,11 @@ pages: 482
 edition: First edition
 series: []
 subjects:
+- Autobiography & Memoir
+- Biography
+- Diary & Letters
+- Film & Cinema
 - United States
-- Autobiographies
-- Autobiography
-- Biographies
-- Diaries
-- Motion picture actors and actresses
-- diaries
-- Diary
-- Heston, Charlton
-- Heston, Charlton Diaries
-- Journaux intimes
-- Motion picture actors and actresses United States Diaries
 oclc: '4114721'
 zotero_key: RN8KG92M
 cover: covers/rn8kg92m.jpg

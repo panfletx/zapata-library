@@ -17,7 +17,8 @@ pages: 132
 edition: '[1a. ed.]'
 series:
 - Grandes aventuras
-subjects: []
+subjects:
+- Fiction
 oclc: '433814187'
 exlibris: '1990'
 zotero_key: QZ2QH6JH

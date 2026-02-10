@@ -17,10 +17,8 @@ pages: 234
 series:
 - Autoaprendizaje
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Literature History and criticism
-- Littérature Histoire et critique
+- Literary Criticism
+- Modern History
 oclc: '317391300'
 zotero_key: 7LBDHMEB
 cover: covers/7lbdhmeb.jpg

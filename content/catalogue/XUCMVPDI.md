@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 273
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '3807613'
 exlibris: '1986'
 zotero_key: XUCMVPDI

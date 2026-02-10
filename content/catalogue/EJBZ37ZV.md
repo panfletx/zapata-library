@@ -17,7 +17,8 @@ pages: 126
 series:
 - Livre de poche
 subjects:
-- Roman allemand 20e siècle
+- Fiction
+- Modern History
 oclc: '937667934'
 exlibris: '1996'
 zotero_key: EJBZ37ZV

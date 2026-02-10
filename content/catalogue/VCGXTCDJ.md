@@ -13,7 +13,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: VCGXTCDJ
 cover: covers/vcgxtcdj.jpg
 ---

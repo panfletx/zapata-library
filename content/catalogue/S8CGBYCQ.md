@@ -16,7 +16,8 @@ isbn: 978-607-711-017-0
 pages: 84
 edition: Primera edición
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '779477748'
 cover_note: dedicatoria del autor
 zotero_key: S8CGBYCQ

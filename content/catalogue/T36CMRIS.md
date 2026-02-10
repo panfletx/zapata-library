@@ -17,7 +17,7 @@ edition: Reprint
 series:
 - Penguin Modern Classics
 subjects:
-- Gesellschaft
+- Modern History
 oclc: '757915114'
 exlibris: '1978'
 zotero_key: T36CMRIS

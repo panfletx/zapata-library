@@ -15,18 +15,11 @@ isbn: 978-968-36-2617-2
 pages: 254
 series: []
 subjects:
-- Mexico
-- Motion pictures
-- Music
-- Cinéma Mexique
-- Motion pictures Mexico
-- Art, Mexican
 - Architecture
-- Architecture Mexico
-- Architecture Mexique
-- Art mexicain
-- Music Mexico
-- Musique Mexique
+- Film & Cinema
+- Mexico
+- Music
+- Visual Art
 oclc: '42361954'
 zotero_key: 9KJ5C9FV
 cover: covers/9kj5c9fv.jpg

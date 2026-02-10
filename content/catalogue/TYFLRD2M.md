@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: TYFLRD2M
 cover: covers/tyflrd2m.jpg
 ---

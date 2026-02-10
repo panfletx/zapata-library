@@ -18,7 +18,9 @@ pages: 71
 series:
 - Arte contemporaneo
 subjects:
-- Pintura mexicana Exposiciones
+- Mexico
+- Museums & Collections
+- Painting
 oclc: '47142307'
 zotero_key: E7XVF8NX
 cover: covers/e7xvf8nx.jpg

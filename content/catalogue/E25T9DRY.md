@@ -16,7 +16,8 @@ isbn: 978-968-29-3554-1
 pages: 549
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '644993604'
 zotero_key: E25T9DRY
 cover: covers/e25t9dry.jpg

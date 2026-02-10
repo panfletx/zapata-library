@@ -17,7 +17,8 @@ isbn: 978-84-01-90546-9
 pages: 276
 series:
 - 'Clásicos Plaza y Janés : biblioteca crítica de autores españoles'
-subjects: []
+subjects:
+- Fiction
 oclc: '695262245'
 exlibris: '1993'
 zotero_key: MZ5DHKDC

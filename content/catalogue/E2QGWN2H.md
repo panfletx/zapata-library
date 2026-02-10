@@ -18,9 +18,9 @@ edition: 1a. ed., 2a. reimp
 series:
 - Sección de psicología y psicoanálisis
 subjects:
-- Psicoanálisis
-- Biblia. A.T. Job Crítica e interpretación
-- Psicología de la religión
+- Literary Criticism
+- Psychoanalysis
+- Religion
 oclc: '431625705'
 exlibris: '1990'
 zotero_key: E2QGWN2H

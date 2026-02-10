@@ -17,15 +17,11 @@ pages: 118
 series:
 - Biblioteca de Premios Nobel
 subjects:
+- Detective & Mystery
 - Fiction
-- Action and adventure fiction
-- Algeria
-- Algeria Fiction
-- Murder
-- Novela de acción y aventura
-- Novela francesa Siglo XX Traducciones al español
-- Meurtre Algérie Romans, nouvelles, etc
-- Murder Algeria Fiction
+- North Africa
+- Short Stories
+- Translation Studies
 oclc: '48895977'
 zotero_key: 9JFDTA2A
 cover: covers/9jfdta2a.jpg

@@ -17,9 +17,8 @@ pages: 177
 series:
 - Biblioteca básica Salvat
 subjects:
-- English literature
-- Translations
-- English literature Translations into Spanish
+- English Literature
+- Translation Studies
 oclc: '6255969'
 zotero_key: 2INITM22
 cover: covers/2initm22.jpg

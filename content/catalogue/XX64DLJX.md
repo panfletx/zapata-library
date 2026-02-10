@@ -20,7 +20,7 @@ edition: '[1a. ed.]'
 series:
 - Biblioteca breve (Editorial Seix Barral)
 subjects:
-- Novela norteamericana 20
+- Fiction
 oclc: '434288358'
 zotero_key: XX64DLJX
 cover: covers/xx64dljx.jpg

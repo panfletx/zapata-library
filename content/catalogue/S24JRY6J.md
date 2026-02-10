@@ -16,7 +16,8 @@ isbn: 978-84-663-0190-9
 pages: 494
 edition: 2. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '742535609'
 exlibris: '2004'
 zotero_key: S24JRY6J

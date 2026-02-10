@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1107-0
 pages: 94
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521429'
 zotero_key: 2G4V6IED
 cover: covers/2g4v6ied.jpg

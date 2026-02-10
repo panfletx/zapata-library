@@ -17,11 +17,11 @@ pages: 420
 series:
 - Tri-Quarterly
 subjects:
-- Mexican literature
-- 1900-1999
-- Translations
-- Littérature mexicaine 20e siècle Anthologies Traductions anglaises
-- Mexican literature 20th century Translations into English
+- Anthology
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Translation Studies
 oclc: '28115034'
 zotero_key: ATQNQ6NA
 cover: covers/atqnq6na.jpg

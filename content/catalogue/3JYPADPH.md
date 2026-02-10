@@ -17,7 +17,8 @@ pages: 344
 edition: 5. ed
 series:
 - Coleccion de escritores mexicanos
-subjects: []
+subjects:
+- Fiction
 oclc: '221620650'
 zotero_key: 3JYPADPH
 cover: covers/3jypadph.jpg

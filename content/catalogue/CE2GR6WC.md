@@ -17,8 +17,7 @@ pages: 190
 series:
 - Bolsillo Edaf
 subjects:
-- Tantrismo
-- Tantrismoa
+- Religion
 oclc: '920293526'
 zotero_key: CE2GR6WC
 cover: covers/ce2gr6wc.jpg

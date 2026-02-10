@@ -17,8 +17,8 @@ pages: 160
 series:
 - Du monde entier
 subjects:
-- German fiction
-- Roman allemand
+- Fiction
+- Modern History
 oclc: '220329991'
 cover_note: '1986'
 zotero_key: LD53M4PD

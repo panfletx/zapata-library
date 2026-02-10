@@ -17,13 +17,9 @@ isbn: 978-968-29-2771-3
 pages: 156
 series: []
 subjects:
-- Romances
-- Arthurian romances
-- Iseult (Legendary character)
-- Iseult (Legendary character) Romances
-- Tristan (Legendary character)
-- Tristan (Legendary character) Romances
-- Cycle d'Arthur
+- Fiction
+- King Arthur
+- Tristan & Iseult
 oclc: '30808044'
 zotero_key: R2NRBADM
 cover: covers/r2nrbadm.jpg

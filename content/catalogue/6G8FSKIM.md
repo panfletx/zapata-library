@@ -18,16 +18,8 @@ pages: 126
 edition: 1. ed
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Dictionnaires multilingues
-- Multilingual dictionaries
-- polyglot dictionaries
-- English language
-- English language Dictionaries Spanish
-- Spanish language Dictionaries English
+- Dictionary
+- Grammar & Linguistics
 oclc: '15702330'
 zotero_key: 6G8FSKIM
 cover: covers/6g8fskim.jpg

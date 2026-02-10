@@ -18,16 +18,10 @@ edition: 1a. ed
 series:
 - Colección universitaria de bolsillo
 subjects:
-- Historia y crítica
-- Literatura y sociedad
-- Arte Historia
-- Arte y sociedad
-- ARTE Y SOCIEDAD
-- CRITICA LITERARIA
-- HISTORIA DEL ARTE
-- HISTORIA LITERARIA
-- Literatura Historia y crítica
-- LITERATURA Y SOCIEDAD
+- Literary Criticism
+- Literary History
+- Modern History
+- Visual Art
 oclc: '1256005492'
 exlibris: '1974'
 zotero_key: X3IJUCLT

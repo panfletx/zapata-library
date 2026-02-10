@@ -18,10 +18,8 @@ series:
 - Fontana fantástica
 subjects:
 - China
-- Divination
-- Divination China
-- Divination Chine
-- Yi jing
+- Occult & Esoteric
+- Religion
 oclc: '20275118'
 zotero_key: Y6XWRZEY
 cover: covers/y6xwrzey.jpg

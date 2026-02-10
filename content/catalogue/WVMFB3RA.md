@@ -16,7 +16,8 @@ isbn: 978-84-8403-142-0
 pages: 254
 series:
 - Clásicos de siempre (Madrid)
-subjects: []
+subjects:
+- Fiction
 oclc: '432864699'
 zotero_key: WVMFB3RA
 cover: covers/wvmfb3ra.jpg

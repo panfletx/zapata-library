@@ -7,8 +7,7 @@ authors:
 - Haverbeck O., Erwin
 - Arán F., Luis
 publishers:
-- 'Facultad de Filosofía y Humanidades, Dirección de Investigacion, Universidad Austral
-  de Chile : Editorial Andrés Bello'
+- 'Facultad de Filosofía y Humanidades, Dirección de Investigacion, Universidad Austral de Chile : Editorial Andrés Bello'
 place: Santiago, Chile?
 languages:
 - Español
@@ -17,12 +16,8 @@ item_types:
 pages: 228
 series: []
 subjects:
-- Tales
-- Chile Chiloé
-- Contes Chili Chiloé
-- Contes chiliens Chili Chiloé
-- CUENTOS POPULARES CHILE CHILOE
-- Tales Chile Chiloé
+- Chile
+- Short Stories
 oclc: '24172982'
 zotero_key: YIXYHF46
 cover: covers/yixyhf46.jpg

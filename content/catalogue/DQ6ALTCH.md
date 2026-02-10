@@ -17,13 +17,9 @@ pages: 177
 edition: 1a. ed
 series: []
 subjects:
+- Biography
+- Film & Cinema
 - Mexico
-- Biographies
-- Motion picture producers and directors
-- Isaac, Alberto
-- Isaac, Alberto (1923-1998) Vida y obra México
-- Motion picture producers and directors Mexico Biography
-- Producteurs et réalisateurs de cinéma Mexique Biographies
 oclc: '276813585'
 zotero_key: DQ6ALTCH
 cover: covers/dq6altch.jpg

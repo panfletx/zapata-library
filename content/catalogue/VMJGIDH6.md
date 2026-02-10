@@ -20,8 +20,8 @@ edition: '[1a. ed.]'
 series:
 - Ave Fénix
 subjects:
-- Yourcenar, Marguerite 1903-1987 Entrevistas
-- Yourcenar, Marguerite, 1903-1987 Entrevistas
+- French Literature
+- Interview
 oclc: '433997172'
 exlibris: '1991'
 zotero_key: VMJGIDH6

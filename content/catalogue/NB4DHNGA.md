@@ -18,18 +18,11 @@ edition: 1. ed. en Mirada viajera
 series:
 - Mirada viajera
 subjects:
+- Biography
 - Mexico
-- Travel
-- Manners and customs
-- Translations
-- Mexico Description and travel
-- Mexique Descriptions et voyages
-- Mexico Social life and customs
-- México Vida social y costumbres
-- México Descripciones y viajes
-- Travelers' writings, French
-- Travelers' writings, French Mexico Translations into Spanish
-- Viajeros franceses México Siglo XIX
+- Modern History
+- Translation Studies
+- Travel Writing
 oclc: '34158663'
 zotero_key: NB4DHNGA
 cover: covers/nb4dhnga.jpg

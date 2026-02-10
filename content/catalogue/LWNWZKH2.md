@@ -11,7 +11,8 @@ item_types:
 - book
 series:
 - Colección Metamorfosis
-subjects: []
+subjects:
+- Fiction
 oclc: '17429542'
 exlibris: '2004'
 zotero_key: LWNWZKH2

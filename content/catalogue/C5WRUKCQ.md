@@ -19,9 +19,9 @@ pages: 285
 series:
 - Colección Los casos de Sigmund Freud
 subjects:
-- str. 1979
-- Freud, Sigmund, 1856-1939
-- Psicoanálisis Casos, informes clínicos, estadística
+- Psychoanalysis
+- Science
+- Sigmund Freud
 oclc: '52033946'
 zotero_key: C5WRUKCQ
 cover: covers/c5wrukcq.jpg

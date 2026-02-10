@@ -17,18 +17,12 @@ pages: 309
 series:
 - Biblioteca de estudios críticos, 2. Sección literatura
 subjects:
-- Literature, Medieval
-- Criticism, interpretation, etc
-- Romances
-- Fiction, Medieval
-- Fiction, Medieval History and criticism
-- Geschichte 1100-1300
-- Heldenepos
-- Literature, Medieval History and criticism
-- Littérature médiévale Histoire et critique
-- Roman courtois Histoire et critique
-- Roman médiéval Histoire et critique
-- Romances History and criticism
+- Epic
+- Fiction
+- Literary Criticism
+- Medieval History
+- Medieval Literature
+- Modern History
 oclc: '1846384'
 zotero_key: WKSCU8Y4
 cover: covers/wkscu8y4.jpg

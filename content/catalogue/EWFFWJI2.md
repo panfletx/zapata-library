@@ -15,7 +15,7 @@ item_types:
 pages: 155
 series: []
 subjects:
-- Vida espiritual
+- Religion
 oclc: '760500338'
 zotero_key: EWFFWJI2
 cover: covers/ewffwji2.jpg

@@ -17,8 +17,7 @@ pages: 360
 series:
 - Collection "Réponses/santé"
 subjects:
-- Homéopathie
-- Homeopathy
+- Medicine & Health
 oclc: '14897269'
 exlibris: '1988'
 zotero_key: XSPPITDM

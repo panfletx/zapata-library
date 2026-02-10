@@ -20,7 +20,9 @@ pages: 72
 edition: Primera edición
 series:
 - Serie Creación (Universidad Veracruzana)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1256665522'
 cover_note: dedicatoria de Martin Zapata
 zotero_key: MQ7WEL6S

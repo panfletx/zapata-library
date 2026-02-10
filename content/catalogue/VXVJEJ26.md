@@ -17,7 +17,8 @@ pages: 131
 edition: Tercera ed
 series:
 - Debate literature
-subjects: []
+subjects:
+- Fiction
 oclc: '21494754'
 zotero_key: VXVJEJ26
 cover: covers/vxvjej26.jpg

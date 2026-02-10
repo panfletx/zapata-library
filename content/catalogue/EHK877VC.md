@@ -18,9 +18,7 @@ edition: Orig. Ausg
 series:
 - Rororo
 subjects:
-- Lola rennt
-- Tykwer, Tom
-- Tykwer, Tom 1965-
+- Film & Cinema
 oclc: '634712475'
 exlibris: '2004'
 zotero_key: EHK877VC

@@ -17,8 +17,8 @@ isbn: 978-607-03-0225-1
 edition: 1a ed
 series: []
 subjects:
-- Enciclopedias y diccionarios Español
-- Encyclopedias and dictionaries, Spanish
+- Dictionary
+- Encyclopedia
 oclc: '712655848'
 zotero_key: SHNL2P6F
 cover: covers/shnl2p6f.jpg

@@ -15,7 +15,9 @@ item_types:
 - book
 edition: 3rd. edition
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 zotero_key: IY5UADQC
 cover: covers/iy5uadqc.jpg
 ---

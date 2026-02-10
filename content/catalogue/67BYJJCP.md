@@ -15,16 +15,9 @@ pages: 253
 series:
 - Crest reprint
 subjects:
-- 1900-1999
-- Short stories, American
-- Short stories
-- Nouvelles
-- short stories
-- American fiction
-- American fiction 20th century
-- Nouvelles américaines 20e siècle
-- Roman américain 20e siècle
-- Short stories, American 20th century
+- Fiction
+- Short Stories
+- United States
 oclc: '2312308'
 zotero_key: 67BYJJCP
 cover: covers/67byjjcp.jpg

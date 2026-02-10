@@ -18,9 +18,8 @@ edition: 11a ed
 series:
 - Clásicos castellanos
 subjects:
-- Spanish literature
-- Littérature espagnole
-- POESIAS ESPAÑOLAS
+- Poetry
+- Spanish Literature
 oclc: '254120'
 zotero_key: 3D6MDXA2
 cover: covers/3d6mdxa2.jpg

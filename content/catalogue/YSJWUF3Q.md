@@ -18,18 +18,11 @@ pages: 170
 series:
 - Noventa
 subjects:
-- Psychiatry
-- ANTIPSIQUIATRIA
-- Communication dans la famille
-- Communication in families
-- Families
-- Familles
-- LAING, R. D
-- Maladies mentales
-- mental disorders
-- Mental Disorders
-- Mental illness
-- PSIQUIATRIA
+- Family
+- Grammar & Linguistics
+- Madness & Mental Illness
+- Medicine & Health
+- Psychoanalysis
 oclc: '25331021'
 exlibris: '1990'
 zotero_key: YSJWUF3Q

@@ -15,10 +15,10 @@ source_url: http://biblioteca.clacso.edu.ar/gsdl/collect/mx/mx-024/index/assoc/D
 pages: 1
 series: []
 subjects:
-- Arte
-- Comunicación
-- McLuhan, Marshall
-- Teoría
+- Grammar & Linguistics
+- Literary Criticism
+- Philosophy
+- Visual Art
 oclc: '1275367215'
 zotero_key: DRH9W89R
 cover: covers/drh9w89r.jpg

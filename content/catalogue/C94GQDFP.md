@@ -17,14 +17,11 @@ pages: 61
 series:
 - Alianza cien
 subjects:
-- England
 - Fiction
-- Angleterre Romans, nouvelles, etc
-- England Fiction
-- England Novelas
-- Fantasmas, Novelas
-- Ghost stories
-- Histoires de fantômes
+- Horror & Gothic
+- Modern History
+- Short Stories
+- United Kingdom
 oclc: '30856983'
 zotero_key: C94GQDFP
 cover: covers/c94gqdfp.jpg

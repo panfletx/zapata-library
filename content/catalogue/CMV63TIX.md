@@ -17,15 +17,11 @@ isbn: 978-0-88377-042-9
 pages: 348
 series: []
 subjects:
-- Civilization
+- Education
 - France
-- France Civilisation
-- France Civilization
-- Readers (Publications)
-- French language
-- French language Readers
-- Lectures et morceaux choisis
-- readers
+- Grammar & Linguistics
+- Modern History
+- Speech & Lecture
 oclc: '2487496'
 zotero_key: CMV63TIX
 cover: covers/cmv63tix.jpg

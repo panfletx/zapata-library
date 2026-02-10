@@ -19,7 +19,7 @@ edition: Ed. bilingüe
 series:
 - Alfar. Coleccion de poesia
 subjects:
-- Campos, Alvaro de
+- Poetry
 oclc: '7909700'
 exlibris: '1982'
 zotero_key: 4FD8REDF

@@ -16,20 +16,15 @@ isbn: 978-0-09-946594-2
 pages: 172
 series: []
 subjects:
-- Race relations
+- Family
+- Feminism
 - Fiction
-- Man-woman relationships
-- Man-woman relationships Fiction
-- Relations entre hommes et femmes Romans, nouvelles, etc
-- Afrique du Sud Relations raciales Romans, nouvelles, etc
-- Fathers and daughters
-- Fathers and daughters Fiction
-- Pères et filles Romans, nouvelles, etc
-- Roman sud-africain (anglais)
-- South Africa
-- South Africa Fiction
-- South Africa Race relations Fiction
-- South African fiction (English)
+- Gender Studies
+- Latin America
+- Love & Desire
+- Modern History
+- Race & Ethnicity
+- Short Stories
 oclc: '60511437'
 exlibris: '2010'
 zotero_key: YR35TIGD

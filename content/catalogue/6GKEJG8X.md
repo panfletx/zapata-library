@@ -17,13 +17,9 @@ pages: 254
 series:
 - J'ai lu
 subjects:
-- str. 1997
-- 1900-1999
-- Authors, French
-- Authors, French 20th century Diaries
-- Collard, Cyril
-- Collard, Cyril Diaries
-- Diaries
+- Diary & Letters
+- French Literature
+- Literary Criticism
 oclc: '1335738177'
 zotero_key: 6GKEJG8X
 cover: covers/6gkejg8x.jpg

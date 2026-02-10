@@ -20,10 +20,9 @@ edition: 4. ʹed. rev.
 series:
 - Classiques français du Moyen Age
 subjects:
-- Arthurian romances
-- Tristan (Legendary character)
-- Cycle d'Arthur
-- Cycles d'Arthur
+- Fiction
+- King Arthur
+- Tristan & Iseult
 oclc: '20435972'
 zotero_key: 89PLCFTG
 cover: covers/89plcftg.jpg

@@ -18,19 +18,11 @@ edition: 1a. ed
 series:
 - Colección Andanzas
 subjects:
-- Biographies
+- Argentina
+- Argentine Literature
 - Biography
-- 1900-1999
-- Literatura argentina Siglo XX
-- Authors, Argentine
-- Borges, Jorge Luis, 1899-1986
-- Authors, Argentine 20th century Biography
-- AUTORES ARGENTINOS BIOGRAFIAS
-- Biografie
-- Borges Acevedo, Jorge Luis, 1899-1986 Biografía
-- Borges, Jorge Luis
-- Borges, Jorge Luis 1899-1986
-- Écrivains argentins 20e siècle Biographies
+- Jorge Luis Borges
+- Literary Criticism
 oclc: '35086313'
 exlibris: '1999'
 zotero_key: 9GWHKCDB

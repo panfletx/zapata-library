@@ -15,7 +15,8 @@ item_types:
 pages: 108
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '40869864'
 zotero_key: YD8E4ZG3
 cover: covers/yd8e4zg3.jpg

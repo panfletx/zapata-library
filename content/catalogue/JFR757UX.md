@@ -16,7 +16,8 @@ item_types:
 isbn: 978-968-6737-04-2
 pages: 87
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651436647'
 zotero_key: JFR757UX
 cover: covers/jfr757ux.jpg

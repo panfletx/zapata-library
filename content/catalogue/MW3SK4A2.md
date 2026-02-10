@@ -17,16 +17,10 @@ pages: 5
 edition: 6a. edicion castellana
 series: []
 subjects:
+- Economics
 - Mexico
-- Travel
-- México Descripción y viajes
-- Mexico Description and travel
-- México Estadística
-- Mexico Statistics
-- Mexique Descriptions et voyages
-- Mines and mineral resources
-- Mines and mineral resources Mexico
-- Statistics
+- Science
+- Travel Writing
 oclc: '2858472'
 zotero_key: MW3SK4A2
 cover: covers/mw3sk4a2.jpg

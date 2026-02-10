@@ -5,8 +5,7 @@ year: 2008
 decade: 2000s
 authors: []
 publishers:
-- Universidad Nacional Autónoma de México ; Benemérita Universidad Autónoma de Puebla,
-  Instituto de Ciencias Sociales y Humanidades "Alfonso Vélez Pliego"
+- Universidad Nacional Autónoma de México ; Benemérita Universidad Autónoma de Puebla, Instituto de Ciencias Sociales y Humanidades "Alfonso Vélez Pliego"
 place: México, Puebla
 languages:
 - Español
@@ -17,17 +16,12 @@ pages: 219
 series:
 - Memorias (Seminario Nacional de Música en la Nueva España y el México Independiente)
 subjects:
+- Anthology
+- Catholicism
 - Mexico
-- Conference papers and proceedings
-- Church music
-- Church music Mexico Congresses
-- Corpus Christi Festival
-- Corpus Christi Festival Mexico Congresses
-- Corpus Christi Festival music
-- Corpus Christi Festival music Mexico Congresses
-- Fête-Dieu Mexique Congrès
-- Fête-Dieu, Musique de la Mexique Congrès
-- Musique d'église Mexique Congrès
+- Modern History
+- Music
+- Religion
 oclc: '417665123'
 zotero_key: AZ5BM6XK
 cover: covers/az5bm6xk.jpg

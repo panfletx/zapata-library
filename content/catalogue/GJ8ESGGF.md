@@ -19,12 +19,11 @@ edition: 1a ed
 series:
 - Alianza literatura (Mexico City, Mexico)
 subjects:
-- Travel
-- Literatura mexicana
-- Mexico Yucatán (State)
-- 'Yucatán (México : Estado) Descripciones y viajes'
-- 'Yucatán (Mexico : State) Description and travel'
-- 'Yucatán (Mexique : État) Descriptions et voyages'
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Travel Writing
+- Yucatán
 oclc: '23152825'
 zotero_key: GJ8ESGGF
 cover: covers/gj8esggf.jpg

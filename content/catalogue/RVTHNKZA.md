@@ -17,7 +17,9 @@ pages: 156
 edition: 1a. ed
 series:
 - Libros amigos
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '13512446'
 zotero_key: RVTHNKZA
 cover: covers/rvthnkza.jpg

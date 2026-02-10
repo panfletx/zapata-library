@@ -18,7 +18,8 @@ isbn: 978-968-12-0940-7
 pages: 193
 edition: 1. ed. en español
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '46319480'
 zotero_key: 2S95ITHF
 cover: covers/2s95ithf.jpg

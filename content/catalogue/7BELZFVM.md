@@ -15,7 +15,7 @@ pages: 1
 series:
 - Textes et littérature
 subjects:
-- Littérature française 19e siècle
+- French Literature
 oclc: '490561037'
 zotero_key: 7BELZFVM
 cover: covers/7belzfvm.jpg

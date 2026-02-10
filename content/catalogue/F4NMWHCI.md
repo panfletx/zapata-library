@@ -17,7 +17,8 @@ pages: 282
 edition: 2. ed
 series:
 - La creación literaria
-subjects: []
+subjects:
+- Fiction
 oclc: '249145901'
 cover_note: regalo de Toño
 exlibris: '1992'

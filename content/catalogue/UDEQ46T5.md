@@ -10,7 +10,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: UDEQ46T5
 cover: covers/udeq46t5.jpg
 ---

@@ -18,7 +18,8 @@ isbn: 978-2-03-029303-4
 series:
 - DICTIONNAIRE DU LANGAGE
 subjects:
-- Francais (langue), etymologie, dictionnaire
+- Dictionary
+- Grammar & Linguistics
 oclc: '420017127'
 zotero_key: EPU28CN9
 cover: covers/epu28cn9.jpg

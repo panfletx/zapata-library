@@ -17,7 +17,7 @@ pages: 3
 series:
 - Creación literaria
 subjects:
-- Mitos y leyendas de Iberoamérica
+- Oral Tradition & Folklore
 oclc: '913002244'
 exlibris: '1985'
 zotero_key: AIAEB4EF

@@ -18,7 +18,9 @@ pages: 601
 edition: 5ª ed
 series:
 - Libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '919963705'
 exlibris: '1989'
 zotero_key: X8ZQMVNX

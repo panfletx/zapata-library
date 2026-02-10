@@ -18,10 +18,8 @@ edition: 1. ed
 series:
 - Lecturas mexicanas
 subjects:
-- Mexican poetry
-- Poesía mexicana Siglo XX
-- Poesía mexicana
-- Poésie mexicaine
+- Mexico
+- Poetry
 oclc: '11874413'
 zotero_key: QKZTR8KD
 cover: covers/qkztr8kd.jpg

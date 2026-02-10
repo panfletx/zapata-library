@@ -19,10 +19,10 @@ pages: 94
 series:
 - Las novelas del verano
 subjects:
-- Translations
-- Erotic literature, Italian
-- Erotic literature, Italian Translations into Spanish
-- Literatura erótica Traducciones al español
+- Erotic Literature
+- Literary Criticism
+- Sexuality & Eroticism
+- Translation Studies
 oclc: '46834274'
 zotero_key: I8NZA8JS
 cover: covers/i8nza8js.jpg

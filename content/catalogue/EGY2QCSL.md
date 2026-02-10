@@ -16,7 +16,8 @@ item_types:
 isbn: 978-84-08-02226-8
 pages: 620
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '283709849'
 zotero_key: EGY2QCSL
 cover: covers/egy2qcsl.jpg

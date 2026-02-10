@@ -17,15 +17,10 @@ pages: 410
 series:
 - Otros horizontes
 subjects:
-- alchemy
-- Alchemy
-- Alchimie
-- Psychologie religieuse
-- psychology of religion
-- Psychology, Religious
+- Occult & Esoteric
+- Psychoanalysis
+- Religion
 - Symbolism
-- Symbolism (Psychology)
-- Symbolisme (Psychologie)
 oclc: '25809046'
 cover_note: dedicatoria de José Dimayuga
 zotero_key: B7PPKLJC

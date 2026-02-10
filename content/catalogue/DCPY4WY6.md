@@ -15,7 +15,7 @@ pages: 48
 series:
 - Episodios mexicanos
 subjects:
-- Epidemias México
+- Mexico
 oclc: '48355736'
 zotero_key: DCPY4WY6
 cover: covers/dcpy4wy6.jpg

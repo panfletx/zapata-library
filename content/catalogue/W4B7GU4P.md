@@ -17,22 +17,7 @@ pages: 1632
 edition: 1999 ed
 series: []
 subjects:
-- Motion pictures
-- Motion picture producers and directors
-- Motion picture actors and actresses
-- Catalogs
-- Directories
-- filmographies
-- Films Catalogues
-- Motion picture actors and actresses Directories
-- Motion picture producers and directors Directories
-- Motion pictures Catalogs
-- Producteurs et réalisateurs de cinéma Répertoires
-- Video recordings
-- Video recordings Catalogs
-- Video tapes
-- Video tapes Catalogs
-- Vidéos Catalogues
+- Film & Cinema
 oclc: '39693075'
 zotero_key: W4B7GU4P
 cover: covers/w4b7gu4p.jpg

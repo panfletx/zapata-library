@@ -17,13 +17,8 @@ pages: 251
 series:
 - Serie roja (Alfaguara (Firm))
 subjects:
-- Short stories
-- Nouvelles
-- short stories
-- Cuentos humorosos
-- Chistes
-- Humorous stories
-- Récits humoristiques
+- Satire & Humor
+- Short Stories
 oclc: '401880466'
 zotero_key: WHT97MEE
 cover: covers/wht97mee.jpg

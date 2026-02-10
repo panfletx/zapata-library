@@ -18,7 +18,6 @@ edition: Primera edición en esta colección
 series:
 - Colección Dramaturgias
 subjects:
-- Théâtre
 - Drama
 oclc: '721955286'
 zotero_key: 4KQ94PYD

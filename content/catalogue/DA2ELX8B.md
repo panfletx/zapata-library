@@ -17,7 +17,7 @@ pages: 187
 series:
 - Grandes obras del pensamiento contemporáneo
 subjects:
-- Civilización medieval
+- Medieval History
 oclc: '434268091'
 zotero_key: DA2ELX8B
 cover: covers/da2elx8b.jpg

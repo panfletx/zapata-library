@@ -16,8 +16,7 @@ pages: 375
 series:
 - Penguin modern classics
 subjects:
-- Literature
-- Littérature
+- Literary Criticism
 oclc: '757305031'
 zotero_key: XGVZCZB4
 cover: covers/xgvzczb4.jpg

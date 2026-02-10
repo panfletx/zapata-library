@@ -16,7 +16,8 @@ isbn: 978-968-6773-63-7
 pages: 214
 edition: 1a ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '51151984'
 zotero_key: D9HJBL8S
 cover: covers/d9hjbl8s.jpg

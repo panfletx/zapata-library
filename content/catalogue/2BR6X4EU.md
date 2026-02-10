@@ -17,7 +17,7 @@ pages: 275
 series:
 - Biblioteca El mundo
 subjects:
-- Novela norteamericana Siglo XX
+- Fiction
 oclc: '434266596'
 zotero_key: 2BR6X4EU
 cover: covers/2br6x4eu.jpg

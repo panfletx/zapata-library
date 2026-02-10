@@ -19,7 +19,8 @@ series:
 - Nueva narrativa hispánica
 subjects:
 - Fiction
-- Cuento mexicano Siglo XX
+- Mexico
+- Short Stories
 oclc: '6132685'
 zotero_key: HVQZLMCJ
 cover: covers/hvqzlmcj.jpg

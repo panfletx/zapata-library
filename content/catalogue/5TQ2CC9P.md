@@ -17,7 +17,9 @@ pages: 37
 edition: 1a. ed
 series:
 - Colección Bitácoras
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '746927304'
 zotero_key: 5TQ2CC9P
 cover: covers/5tq2cc9p.jpg

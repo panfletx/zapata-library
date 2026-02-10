@@ -16,8 +16,7 @@ isbn: 978-968-456-010-9
 pages: 203
 series: []
 subjects:
-- Poesía mexicana Siglo XX
-- Prosa literaria mexicana Siglo XX
+- Mexico
 oclc: '1097714063'
 exlibris: '1995'
 zotero_key: KUBHL87T

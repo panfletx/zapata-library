@@ -15,7 +15,9 @@ item_types:
 pages: 29
 series:
 - Colección Laberinto
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '15620337'
 zotero_key: SWQDPR7L
 cover: covers/swqdpr7l.jpg

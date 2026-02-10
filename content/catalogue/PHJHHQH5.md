@@ -17,7 +17,8 @@ isbn: 978-84-320-3984-3
 pages: 975
 series:
 - Clásicos universales Planeta (1980)
-subjects: []
+subjects:
+- Fiction
 oclc: '802931584'
 exlibris: '1999'
 zotero_key: PHJHHQH5

@@ -19,7 +19,7 @@ series:
 - Cuaderno de viaje
 subjects:
 - Fiction
-- Novela mexicana Siglo XX
+- Mexico
 oclc: '38890982'
 cover_note: dedicatoria de autora
 zotero_key: KQ7AHS85

@@ -16,14 +16,11 @@ isbn: 978-968-9172-30-7
 pages: 275
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Mexican literature 20th century History and criticism
-- Arredondo, Inés
-- Arredondo, Inés Criticism and interpretation
-- Crítica
-- Good and evil in literature
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Philosophy
 oclc: '247285667'
 cover_note: dedicatoria de autora
 zotero_key: QXT2PN8V

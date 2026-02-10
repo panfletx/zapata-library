@@ -17,9 +17,9 @@ pages: 378
 edition: 1a ed
 series: []
 subjects:
-- Romans (teksten)
-- Spanish-American literature
-- Text edition
+- American Literature
+- Fiction
+- United States
 oclc: '227160362'
 exlibris: Luis Zapata
 zotero_key: U8Q4AU6S

@@ -16,7 +16,9 @@ pages: 123
 edition: 2. ed
 series:
 - Serie del volador
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '13379224'
 zotero_key: KJERU2HM
 cover: covers/kjeru2hm.jpg

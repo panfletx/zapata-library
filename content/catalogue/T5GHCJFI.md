@@ -17,11 +17,11 @@ pages: 113
 series:
 - Harbrace paperbound library
 subjects:
-- dt 1978
-- Amitié Romans
-- Espace extraterrestre Romans, nouvelles, etc
-- Fantasmes
-- Fantasy
+- Fiction
+- Love & Desire
+- Modern History
+- Psychoanalysis
+- Short Stories
 oclc: '5672044'
 zotero_key: T5GHCJFI
 cover: covers/t5ghcjfi.jpg

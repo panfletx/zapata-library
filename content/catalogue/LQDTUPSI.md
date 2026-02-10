@@ -15,7 +15,8 @@ item_types:
 pages: 59
 series:
 - Ciervo herido
-subjects: []
+subjects:
+- Fiction
 oclc: '689544576'
 cover_note: dedicatoria jjb
 zotero_key: LQDTUPSI

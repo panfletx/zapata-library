@@ -16,11 +16,7 @@ pages: 332
 series:
 - El libro de bolsillo
 subjects:
-- Homosexuality
-- homosexuality
-- HOMOSEXUALIDAD
-- HOMOSEXUALIDAD EN LITERATURA
-- Homosexualité
+- Gay Literature
 oclc: '23156325'
 zotero_key: XUVJNT5B
 cover: covers/xuvjnt5b.jpg

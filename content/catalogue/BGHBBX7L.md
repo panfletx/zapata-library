@@ -16,8 +16,8 @@ pages: 340
 series:
 - Clásicos de la literatura Mexicana
 subjects:
-- Mexican poetry
-- Poésie mexicaine
+- Mexico
+- Poetry
 oclc: '7052840'
 zotero_key: BGHBBX7L
 cover: covers/bghbbx7l.jpg

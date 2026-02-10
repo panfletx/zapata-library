@@ -18,8 +18,6 @@ series:
 - Serie del volador
 subjects:
 - Fiction
-- Fictional Work
-- Romans
 oclc: '313030'
 exlibris: '1979'
 zotero_key: 8AWP2WUV

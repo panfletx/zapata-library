@@ -17,12 +17,9 @@ item_types:
 series:
 - Pyramid primary dictionary series
 subjects:
-- Dictionaries
-- Juvenile works
-- English language
-- Anglais (Langue) Dictionnaires pour la jeunesse
-- English language Dictionaries, Juvenile
-- Picture dictionaries
+- Children's Literature
+- Dictionary
+- Grammar & Linguistics
 oclc: '184847064'
 zotero_key: P6RD3T8E
 cover: covers/p6rd3t8e.jpg

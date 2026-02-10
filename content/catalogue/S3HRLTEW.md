@@ -17,7 +17,9 @@ item_types:
 pages: 180
 series:
 - Biblioteca breve de bolsillo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '919716175'
 cover_note: Veronica Gonzalez de Leon 1975
 zotero_key: S3HRLTEW

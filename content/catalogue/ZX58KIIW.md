@@ -18,11 +18,8 @@ edition: 1a ed
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- History
-- Criticism
-- Crítica literària Història
-- Criticism History
-- Critique Histoire
+- Literary Criticism
+- Modern History
 oclc: '14511573'
 exlibris: Arturo 1993
 zotero_key: ZX58KIIW

@@ -18,9 +18,8 @@ pages: 373
 series:
 - Folio classique
 subjects:
-- Literature
-- Diderot, Denis, 1713-1784
-- Littérature
+- French Literature
+- Literary Criticism
 oclc: '1132509184'
 zotero_key: 4Y5VLKQ9
 cover: covers/4y5vlkq9.jpg

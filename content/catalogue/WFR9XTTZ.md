@@ -18,7 +18,8 @@ pages: 271
 series:
 - Los Noventa
 subjects:
-- Culture populaire Amérique latine
+- Latin America
+- Modern History
 oclc: '489653833'
 zotero_key: WFR9XTTZ
 cover: covers/wfr9xttz.jpg

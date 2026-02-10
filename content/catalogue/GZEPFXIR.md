@@ -16,7 +16,9 @@ isbn: 978-968-16-5207-4
 pages: 69
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '39729733'
 zotero_key: GZEPFXIR
 cover: covers/gzepfxir.jpg

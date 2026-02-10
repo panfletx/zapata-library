@@ -18,8 +18,9 @@ pages: 244
 series:
 - Compactos Anagrama
 subjects:
-- Auster, Paul, 1947-
-- Autores norteamericanos Siglo XX Biografía
+- American Literature
+- Biography
+- Literary Criticism
 oclc: '433523492'
 exlibris: '1996'
 zotero_key: FP4ZSUBY

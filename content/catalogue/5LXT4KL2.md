@@ -17,7 +17,9 @@ pages: 127
 edition: 1. ed
 series:
 - Biblioteca Era
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '3971844'
 exlibris: '1975'
 zotero_key: 5LXT4KL2

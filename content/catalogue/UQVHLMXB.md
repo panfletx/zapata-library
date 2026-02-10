@@ -17,7 +17,9 @@ pages: 269
 edition: 1a. ed. en "Narrativa Actual Mexicana."
 series:
 - Narrativa actual mexicana
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '433221965'
 zotero_key: UQVHLMXB
 cover: covers/uqvhlmxb.jpg

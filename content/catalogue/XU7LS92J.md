@@ -18,11 +18,9 @@ edition: 1a ed
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- Criticism, interpretation, etc
-- LITERATURA PICARESCA HISTORIA Y CRITICA
-- Picaresque literature
-- Picaresque literature History and criticism
-- Roman picaresque Histoire et critique
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '13778224'
 exlibris: '1991'
 zotero_key: XU7LS92J

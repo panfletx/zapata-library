@@ -18,13 +18,8 @@ edition: Ed. corr. y aum
 series:
 - Tezontle
 subjects:
-- History
-- Spanish language
-- History (form)
-- Spaans
-- 18.31 Spanish language
-- Espagnol (Langue) Histoire
-- Spanish language History
+- Grammar & Linguistics
+- Modern History
 oclc: '743492306'
 zotero_key: IIR7HX34
 cover: covers/iir7hx34.jpg

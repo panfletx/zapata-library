@@ -18,15 +18,11 @@ pages: 1
 series:
 - Wordsworth classics
 subjects:
-- England
+- Detective & Mystery
 - Fiction
-- Détectives Angleterre Romans, nouvelles, etc
-- Holmes, Sherlock
-- Holmes, Sherlock Fiction
-- Private investigators
-- Private investigators England Fiction
-- Watson, John H. (Fictitious character)
-- Watson, John H. (Fictitious character) Fiction
+- Sherlock Holmes
+- Short Stories
+- United Kingdom
 oclc: '878071652'
 exlibris: '2013'
 zotero_key: FBFNFGKL

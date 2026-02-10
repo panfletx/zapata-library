@@ -17,8 +17,9 @@ pages: 367
 series:
 - Coleccion libros de bolsillo Z
 subjects:
-- Literatura rusa Siglo XIX
-- Novela rusa Siglo XIX
+- Fiction
+- Literary Criticism
+- Russian Literature
 oclc: '964791421'
 zotero_key: QDDYFUMS
 cover: covers/qddyfums.jpg

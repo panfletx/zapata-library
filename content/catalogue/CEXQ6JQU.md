@@ -18,15 +18,10 @@ pages: 236
 edition: 1a ed
 series: []
 subjects:
-- 1900-1999
-- Authors, American
-- Interviews
-- Authors, American 20th century Interviews
-- AUTORES ESTADOUNIDENSES SIGLO 20 ENTREVISTAS
-- Écrivains américains 20e siècle Entretiens
-- Mailer, Norman
-- Mailer, Norman Interviews
-- MAILER, NORMAN, 1925- ENTREVISTAS
+- American Literature
+- Interview
+- Literary Criticism
+- United States
 oclc: '14158124'
 exlibris: '1990'
 zotero_key: CEXQ6JQU

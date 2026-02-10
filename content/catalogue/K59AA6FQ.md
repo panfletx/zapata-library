@@ -13,7 +13,8 @@ item_types:
 isbn: '8488327222'
 edition: 6a ed.
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: K59AA6FQ
 cover: covers/k59aa6fq.jpg
 ---

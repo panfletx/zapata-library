@@ -18,7 +18,8 @@ pages: 911
 edition: Reprint
 series:
 - Penguin English library
-subjects: []
+subjects:
+- Fiction
 oclc: '917697170'
 zotero_key: BM9ZD5ZC
 cover: covers/bm9zd5zc.jpg

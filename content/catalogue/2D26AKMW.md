@@ -18,7 +18,8 @@ edition: Primera edición
 series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:
-- Torres, Eduardo
+- Fiction
+- Mexican Literature
 oclc: '5800393'
 zotero_key: 2D26AKMW
 cover: covers/2d26akmw.jpg

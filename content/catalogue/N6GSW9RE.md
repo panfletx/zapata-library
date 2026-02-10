@@ -16,9 +16,8 @@ isbn: 978-84-376-0118-2
 pages: 582
 series: []
 subjects:
-- Spanish language
-- Readers (Publications)
-- Spanish language Readers
+- Education
+- Grammar & Linguistics
 oclc: '1103448331'
 zotero_key: N6GSW9RE
 cover: covers/n6gsw9re.jpg

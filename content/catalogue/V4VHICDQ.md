@@ -16,15 +16,10 @@ pages: 313
 series:
 - 10/18
 subjects:
-- dedicatoria
-- Albigenses
-- Amour
-- Amour courtois
-- Comparative literature Themes, motives
-- Courtly love
-- Littérature comparée Thèmes, motifs
-- Love
-- Tristan
+- Literary Criticism
+- Love & Desire
+- Medieval History
+- Tristan & Iseult
 oclc: '82658822'
 zotero_key: V4VHICDQ
 cover: covers/v4vhicdq.jpg

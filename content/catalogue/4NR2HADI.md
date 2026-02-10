@@ -18,17 +18,13 @@ pages: 366
 edition: '[2nd ed.]'
 series: []
 subjects:
-- 1900-1999
-- Interviews
-- Authors, Argentine
-- Authors, Argentine 20th century Interviews
-- Borges, Jorge Luis, 1899-1986
-- Borges, Jorge Luís, 1899-1986 Biografía
-- Borges, Jorge Luis, 1899-1986 Interviews
-- Écrivains argentins 20e siècle Entretiens
-- Literatura argentina Poesía Siglo XX
-- Literatura argentina Prosa Siglo XX
-- Literatura hispanoamericana Siglo XX
+- Argentina
+- Argentine Literature
+- Biography
+- Interview
+- Jorge Luis Borges
+- Latin American Literature
+- Literary Criticism
 oclc: '43365299'
 zotero_key: 4NR2HADI
 cover: covers/4nr2hadi.jpg

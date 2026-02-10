@@ -6,8 +6,7 @@ decade: 1990s
 authors:
 - Mendoza, Leo Eduardo
 publishers:
-- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes
-  : Editorial J. Mortiz'
+- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes : Editorial J. Mortiz'
 place: México
 languages:
 - Español
@@ -18,7 +17,8 @@ pages: 100
 edition: 1. ed
 series:
 - Premios bellas artes de literatura
-subjects: []
+subjects:
+- Fiction
 oclc: '28333600'
 zotero_key: XXT2LBCN
 cover: covers/xxt2lbcn.jpg

@@ -1,6 +1,5 @@
 ---
-title: Practicando el poder del ahora enseñanzas, meditaciones y ejercicios esenciales
-  extraídos de el Poder del Ahora
+title: Practicando el poder del ahora enseñanzas, meditaciones y ejercicios esenciales extraídos de el Poder del Ahora
 date: '2024-09-01'
 year: 2010
 decade: 2010s
@@ -18,9 +17,7 @@ source_url: http://banq.lib.overdrive.com/ContentDetails.htm?id=11825060-2289-41
 pages: 1
 series: []
 subjects:
-- Spiritual life
-- Vie spirituelle
-- Livres numériques
+- Religion
 oclc: '937880963'
 zotero_key: IN9DIZE3
 cover: covers/in9dize3.jpg

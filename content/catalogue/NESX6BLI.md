@@ -16,7 +16,8 @@ pages: 422
 edition: '[4. ed.]'
 series:
 - Novelistas contemporáneos
-subjects: []
+subjects:
+- Fiction
 oclc: '1693076'
 exlibris: '1976'
 zotero_key: NESX6BLI

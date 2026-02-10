@@ -16,9 +16,9 @@ isbn: 978-987-00-0589-6
 pages: 190
 series: []
 subjects:
-- Behavior modification
-- Modification du comportement
-- Self-actualization (Psychology) Religious aspects
+- Philosophy
+- Psychoanalysis
+- Religion
 oclc: '740484449'
 exlibris: '1996'
 zotero_key: DYAFJUKA

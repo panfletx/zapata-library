@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 216
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '247817088'
 cover_note: dedicatoria Carol
 zotero_key: 8JKGPD3R

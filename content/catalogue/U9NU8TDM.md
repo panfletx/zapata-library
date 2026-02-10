@@ -16,7 +16,9 @@ pages: 23
 series:
 - Serie A
 subjects:
-- Europa Vida social y costumbres Ilustraciones
+- Biography
+- Modern History
+- Visual Art
 oclc: '44085202'
 zotero_key: U9NU8TDM
 cover: covers/u9nu8tdm.jpg

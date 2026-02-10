@@ -17,11 +17,9 @@ pages: 343
 edition: 1. ed
 series: []
 subjects:
-- Novels
-- 2000-2099
-- Costa Rican literature
-- Costa Rican literature 21st century
-- Littérature costaricienne 21e siècle
+- Latin America
+- Latin American Literature
+- Novel
 oclc: '71822760'
 cover_note: firma del autor
 zotero_key: CD5MSCQ3

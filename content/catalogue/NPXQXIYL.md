@@ -17,12 +17,8 @@ pages: 200
 series:
 - Cuadernos del Seminario de Poética
 subjects:
-- Criticism
-- criticism
-- Critique
-- literary criticism
-- Structuralism (Literary analysis)
-- Structuralisme (Analyse littéraire)
+- Literary Criticism
+- Structuralism & Poststructuralism
 oclc: '9293792'
 exlibris: '1982'
 zotero_key: NPXQXIYL

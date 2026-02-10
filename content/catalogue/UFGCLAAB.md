@@ -1,6 +1,5 @@
 ---
-title: 'Luis Zapata: Ideological Convergences Demythologized in a Contestatory and
-  Contemporary Literature'
+title: 'Luis Zapata: Ideological Convergences Demythologized in a Contestatory and Contemporary Literature'
 date: '2024-09-01'
 year: 1992
 decade: 1990s
@@ -12,7 +11,8 @@ languages:
 item_types:
 - thesis
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: UFGCLAAB
 cover: covers/ufgclaab.jpg
 ---

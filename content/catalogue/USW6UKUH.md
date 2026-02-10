@@ -17,14 +17,8 @@ isbn: 978-968-419-720-6
 pages: 1
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionnaires multilingues
-- Multilingual dictionaries
-- polyglot dictionaries
-- Italian language
-- Italian language Dictionaries Spanish
-- Spanish language Dictionaries Italian
+- Dictionary
+- Grammar & Linguistics
 oclc: '23451663'
 exlibris: Luis Zapata
 zotero_key: USW6UKUH

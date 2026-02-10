@@ -15,7 +15,8 @@ item_types:
 pages: 220
 series:
 - Collection Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '757256700'
 zotero_key: WHV4GVCQ
 cover: covers/whv4gvcq.jpg

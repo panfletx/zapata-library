@@ -18,7 +18,8 @@ edition: Primera edición
 series:
 - Colección Voces/Literatura
 subjects:
-- Novela mexicana Siglo XX
+- Fiction
+- Mexico
 oclc: '846634729'
 cover_note: dedicatoria Enrique Serna
 zotero_key: Q6MCAM7J

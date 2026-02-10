@@ -15,16 +15,9 @@ isbn: 978-970-05-0273-1
 pages: 406
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Alemán Diccionarios Español
-- Dictionnaires multilingues
-- Español Diccionarios Alemán
-- German language
-- German language Dictionaries Spanish
-- Multilingual dictionaries
-- polyglot dictionaries
-- Spanish language Dictionaries German
+- Dictionary
+- Grammar & Linguistics
+- Modern History
 oclc: '41558274'
 zotero_key: 6GZPN3H3
 cover: covers/6gzpn3h3.jpg

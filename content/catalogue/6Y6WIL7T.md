@@ -16,11 +16,9 @@ item_types:
 pages: 231
 series: []
 subjects:
-- Philosophy
 - China
-- Yi jing
-- Philosophie Chine
-- Philosophy China
+- Philosophy
+- Religion
 oclc: '660847376'
 zotero_key: 6Y6WIL7T
 cover: covers/6y6wil7t.jpg

@@ -19,20 +19,10 @@ edition: Primera edición
 series:
 - Documentos (Universidad Autónoma de Nuevo León)
 subjects:
-- 1900-1999
-- Personal correspondence
-- Authors, Mexican
-- Pellicer, Carlos, 1899-1977
-- Authors, Colombian
-- Authors, Colombian 20th century Correspondence
-- Authors, Mexican 20th century Correspondence
-- Correspondance privée
-- Écrivains colombiens 20e siècle Correspondance
-- Écrivains mexicains 20e siècle Correspondance
-- Pardo García, Germán, 1902-1991
-- Pardo García, Germán, 1902-1991 Correspondence
-- Pellicer, Carlos, 1899-1977 Correspondence
-- personal correspondence
+- Correspondence
+- Literary Criticism
+- Mexico
+- Poetry
 oclc: '1085404551'
 zotero_key: JV4F6W5D
 cover: covers/jv4f6w5d.jpg

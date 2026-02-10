@@ -18,7 +18,9 @@ pages: 133
 edition: 1. ed
 series:
 - Colección Thélema
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '317062591'
 zotero_key: 9R3LFVH2
 cover: covers/9r3lfvh2.jpg

@@ -17,7 +17,8 @@ item_types:
 edition: 12a ed
 series:
 - Coleccion Austral
-subjects: []
+subjects:
+- Fiction
 oclc: '638132733'
 zotero_key: UYQVIRER
 cover: covers/uyqvirer.jpg

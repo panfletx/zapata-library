@@ -17,9 +17,8 @@ isbn: 978-84-7628-049-2
 pages: 147
 series: []
 subjects:
-- Translations
-- O'Brien, Flann, 1911-1966
-- O'Brien, Flann, 1911-1966 Translations into Spanish
+- Irish Literature
+- Translation Studies
 oclc: '302357842'
 zotero_key: JVU6HLDS
 cover: covers/jvu6hlds.jpg

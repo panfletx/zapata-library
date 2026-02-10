@@ -11,7 +11,8 @@ item_types:
 - book
 source_url: http://argumentos.xoc.uam.mx/catalogo.html
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '612514405'
 zotero_key: ZTLSFTBN
 cover: covers/ztlsftbn.jpg

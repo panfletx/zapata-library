@@ -17,7 +17,9 @@ pages: 142
 edition: 1a ed
 series:
 - Azor (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '259768096'
 cover_note: dedicatoria
 zotero_key: 42VRK3XF

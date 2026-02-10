@@ -18,11 +18,12 @@ pages: 229
 series:
 - Compactos
 subjects:
-- Ensayos Gran Bretaña Siglo XX
-- FLAUBERT, GUSTAVE, 1821-1880
-- Flaubert, Gustave, 1821-1880 Historia y crítica
-- LITERATURA INGLESA SIGLO XX
-- NOVELAS INGLESAS
+- English Literature
+- Essay
+- Fiction
+- French Literature
+- Literary Criticism
+- Modern History
 oclc: '34236522'
 zotero_key: DLEZQ8ZA
 cover: covers/dlezq8za.jpg

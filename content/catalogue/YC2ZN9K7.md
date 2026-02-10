@@ -19,24 +19,12 @@ item_types:
 pages: 373
 series: []
 subjects:
+- Ancient History
+- Latin America
 - Mexico
-- Travel
-- Mexico Description and travel
-- Mexique Descriptions et voyages
 - Peru
-- Antiquities
-- Andes
-- Andes Antiquities
-- Indians of Mexico Antiquities
-- Indians of South America Andes Antiquities
-- Indians of South America Antiquities
-- Mexico Antiquities
-- Mexique Antiquités
-- Pérou Antiquités
-- Pérou Descriptions et voyages
-- Peru Antiquities
-- Peru Description and travel
-- Peuples autochtones Mexique Antiquités
+- Travel Writing
+- United States
 oclc: '39480514'
 zotero_key: YC2ZN9K7
 cover: covers/yc2zn9k7.jpg

@@ -17,7 +17,8 @@ pages: 525
 edition: '[Rev.]'
 series:
 - Penguin classics
-subjects: []
+subjects:
+- Fiction
 oclc: '974894593'
 zotero_key: 38YBZIBG
 cover: covers/38ybzibg.jpg

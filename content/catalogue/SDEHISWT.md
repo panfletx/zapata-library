@@ -19,7 +19,7 @@ edition: 6a ed
 series:
 - Palabra en el tiempo
 subjects:
-- Cuentos ingleses. Siglo XX
+- Short Stories
 oclc: '70211769'
 exlibris: '2006'
 zotero_key: SDEHISWT

@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '2005'
 zotero_key: 5MR28IMA
 cover: covers/5mr28ima.jpg

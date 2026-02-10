@@ -19,7 +19,7 @@ pages: 642
 series:
 - Letras universales
 subjects:
-- Novela inglesa s. XVIII
+- Fiction
 oclc: '434643561'
 exlibris: '1991'
 zotero_key: FBDZF3GZ

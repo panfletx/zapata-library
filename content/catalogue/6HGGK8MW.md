@@ -15,7 +15,8 @@ item_types:
 pages: 79
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '768119748'
 zotero_key: 6HGGK8MW
 cover: covers/6hggk8mw.jpg

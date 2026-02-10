@@ -15,7 +15,8 @@ item_types:
 pages: 221
 edition: 12. éd
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '971173419'
 exlibris: '1977'
 zotero_key: V5HXHULW

@@ -16,7 +16,7 @@ pages: 663
 edition: 4. ed
 series: []
 subjects:
-- Letteratura italiana Storia
+- Italian Literature
 oclc: '801005321'
 zotero_key: YDSIZYH9
 cover: covers/ydsizyh9.jpg

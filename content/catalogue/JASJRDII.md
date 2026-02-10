@@ -17,7 +17,8 @@ isbn: 978-2-7143-0528-2
 pages: 338
 series:
 - Collection romantique
-subjects: []
+subjects:
+- French Literature
 oclc: '472656324'
 zotero_key: JASJRDII
 cover: covers/jasjrdii.jpg

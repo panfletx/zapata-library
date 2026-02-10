@@ -19,10 +19,8 @@ edition: 1a ed. en español
 series:
 - Sección de obras de lengua y estudios literarios
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Literature History and criticism
-- Littérature Histoire et critique
+- Literary Criticism
+- Modern History
 oclc: '19047179'
 exlibris: '1990'
 zotero_key: XVM7QS5M

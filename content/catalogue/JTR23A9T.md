@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: JTR23A9T
 cover: covers/jtr23a9t.jpg
 ---

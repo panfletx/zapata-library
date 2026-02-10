@@ -14,31 +14,19 @@ item_types:
 - book
 isbn: 978-1-64473-472-8
 pages: 609
-edition: Edición conmemorativa Real Academia Española, Asociación de Academias de
-  la Lengua Española
+edition: Edición conmemorativa Real Academia Española, Asociación de Academias de la Lengua Española
 series: []
 subjects:
-- Social conditions
-- Latin America
-- Novels
+- Epic
 - Fiction
-- Romans
-- Spanish language materials
-- Materiales en español
-- América Latina Condiciones sociales Novela
-- Amérique latine Conditions sociales Romans, nouvelles, etc
-- Cien años de soledad (García Márquez, Gabriel)
-- Epic fiction
-- García Márquez, Gabriel, 1927-2014
-- García Márquez, Gabriel, 1928-
-- García Márquez, Gabriel, 1928- Crítica e interpretación
-- Latin America Social conditions Fiction
-- Macondo (Imaginary place)
-- Macondo (Imaginary place) Fiction
-- Macondo (Lieu imaginaire) Romans, nouvelles, etc
-- Macondo (Lugar imaginario) Novela
-- Novela épica
-- Romans épiques
+- Gabriel García Márquez
+- Latin America
+- Literary Criticism
+- Love & Desire
+- Modern History
+- Novel
+- Short Stories
+- United States
 oclc: '1252414007'
 cover_note: Yolanda
 exlibris: '2007'

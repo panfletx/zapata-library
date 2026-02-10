@@ -16,7 +16,8 @@ isbn: 978-0-917342-63-9
 pages: 288
 edition: First edition
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '991531488'
 zotero_key: Y5AHVCMD
 cover: covers/y5ahvcmd.jpg

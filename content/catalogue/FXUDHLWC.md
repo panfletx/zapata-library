@@ -17,17 +17,14 @@ pages: 122
 series:
 - Picador
 subjects:
-- Gay men
-- Novels
 - Fiction
-- Romans
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
-- Mexico City (Mexico) Fiction
-- Mexico Mexico City
-- novels
-- Fiction in English American writers, 1945- - Texts
-- Romance Norte Americano
+- Gay Literature
+- Mexico
+- Mexico City
+- Novel
+- Short Stories
+- United States
+- Urban Life
 oclc: '14588363'
 zotero_key: FXUDHLWC
 cover: covers/fxudhlwc.jpg

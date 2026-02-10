@@ -17,12 +17,8 @@ edition: 4. ed
 series:
 - Que sais-je? Le point des connaissances actuelles
 subjects:
-- Amour courtois
-- Courtly love
-- Hoofse liefde
-- Liebe
-- Troubadour
-- Troubadours
+- Love & Desire
+- Medieval Literature
 oclc: '12222524'
 exlibris: '1977'
 zotero_key: DZ7BWE2X

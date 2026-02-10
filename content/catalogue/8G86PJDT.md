@@ -17,9 +17,7 @@ pages: 178
 series:
 - Libro amigo
 subjects:
-- Roman espagnol
-- Spanish fiction
-- Spanish fiction 20th century
+- Fiction
 oclc: '22533306'
 zotero_key: 8G86PJDT
 cover: covers/8g86pjdt.jpg

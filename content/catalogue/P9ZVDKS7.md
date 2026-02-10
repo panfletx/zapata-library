@@ -16,9 +16,9 @@ isbn: 978-950-515-750-1
 pages: 526
 series: []
 subjects:
-- Humor
-- Caricaturas e historietas
-- Historias comicas
+- Comics & Graphic Novel
+- Modern History
+- Satire & Humor
 oclc: '906727818'
 zotero_key: P9ZVDKS7
 cover: covers/p9zvdks7.jpg

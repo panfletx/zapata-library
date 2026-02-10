@@ -17,7 +17,8 @@ pages: 194
 edition: 1. ed
 series:
 - Lecturas mexicanas
-subjects: []
+subjects:
+- Mexican Literature
 oclc: '1072540114'
 exlibris: '1996'
 zotero_key: FYHMZLY5

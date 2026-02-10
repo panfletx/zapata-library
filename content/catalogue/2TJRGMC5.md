@@ -11,7 +11,8 @@ item_types:
 - book
 isbn: 84-494-2089-X
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 2TJRGMC5
 cover: covers/2tjrgmc5.jpg
 ---

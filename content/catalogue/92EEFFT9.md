@@ -18,8 +18,9 @@ edition: Quinta edición
 series:
 - Colección austral
 subjects:
-- Prosa poética española Historia y crítica Periodo clásico, 1500-1700
-- Prosa poética española Periodo clásico, 1500-1700
+- Literary Criticism
+- Modern History
+- Poetry
 oclc: '964822205'
 zotero_key: 92EEFFT9
 cover: covers/92eefft9.jpg

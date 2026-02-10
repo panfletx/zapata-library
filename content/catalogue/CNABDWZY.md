@@ -17,14 +17,12 @@ pages: 182
 series: []
 subjects:
 - Fiction
-- 1900-1999
-- Fictional Work
-- Romans
-- France Paris
-- Maghrébins France Paris Romans, nouvelles, etc
-- North Africans
-- North Africans France Paris Fiction
-- Novels (texts)
+- France
+- Modern History
+- North Africa
+- Novel
+- Paris
+- Short Stories
 oclc: '10280816'
 exlibris: '1993'
 zotero_key: CNABDWZY

@@ -16,12 +16,9 @@ pages: 275
 edition: 1a ed
 series: []
 subjects:
-- Gay men
 - Fiction
-- Romans
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
-- Hombres gays Novela
+- Gay Literature
+- Short Stories
 oclc: '17148636'
 zotero_key: TPQAXYRC
 cover: covers/tpqaxyrc.jpg

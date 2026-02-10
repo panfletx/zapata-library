@@ -17,14 +17,8 @@ pages: 21
 series:
 - Collection Le Français dans le monde
 subjects:
-- Vocabulary
-- French language Composition and exercises
-- Français (Langue) Composition et exercices
-- Français (langue) Vocabulaire
-- Frances (Estudo E Ensino)
-- French language Vocabulary
-- Vocabulaire
-- vocabulary
+- Dictionary
+- Grammar & Linguistics
 oclc: '248344'
 zotero_key: 7GWX4RL6
 cover: covers/7gwx4rl6.jpg

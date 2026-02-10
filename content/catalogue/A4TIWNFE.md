@@ -19,7 +19,8 @@ edition: 1a. ed
 series:
 - Tiempos modernos
 subjects:
-- Literatura Italiana Siglo XX
+- Italian Literature
+- Literary Criticism
 oclc: '433991420'
 zotero_key: A4TIWNFE
 cover: covers/a4tiwnfe.jpg

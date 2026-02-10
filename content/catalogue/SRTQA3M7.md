@@ -17,8 +17,8 @@ pages: 180
 series:
 - Letras mexicanas
 subjects:
-- Ensayos mexicanos Siglo XX
-- Prosa literaria mexicana Siglo XX
+- Essay
+- Mexico
 oclc: '2157146'
 exlibris: '1990'
 zotero_key: SRTQA3M7

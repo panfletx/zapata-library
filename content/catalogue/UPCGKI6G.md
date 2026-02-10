@@ -15,7 +15,8 @@ item_types:
 pages: 214
 series:
 - Colección Austral
-subjects: []
+subjects:
+- Fiction
 oclc: '3599124'
 exlibris: '1975'
 zotero_key: UPCGKI6G

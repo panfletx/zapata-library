@@ -20,15 +20,10 @@ edition: 1a. ed
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Biographies
-- 1900-1999
-- Personal correspondence
-- Authors, Austrian
-- Authors, Austrian 20th century Biography
-- Écrivains autrichiens 20e siècle Biographies
-- Kafka, Franz, 1883-1924
-- Kafka, Franz, 1883-1924 Correspondence
-- Kafka, Hermann
+- Biography
+- Correspondence
+- German Literature
+- Literary Criticism
 oclc: '41541399'
 zotero_key: 7KA3GCLI
 cover: covers/7ka3gcli.jpg

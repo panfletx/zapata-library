@@ -18,9 +18,8 @@ edition: 1a ed
 series:
 - Letras mexicanas
 subjects:
-- Mexican poetry
-- Poesía mexicana
-- Poésie mexicaine
+- Mexico
+- Poetry
 oclc: '17049967'
 zotero_key: 4JADF52H
 cover: covers/4jadf52h.jpg

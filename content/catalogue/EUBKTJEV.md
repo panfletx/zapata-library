@@ -18,10 +18,11 @@ edition: '[1. ed'
 series:
 - Letras mexicanas
 subjects:
-- Spanish language materials
-- NOVELAS MEXICANAS
-- LITERATURA MEXICANA
-- Spanish language books
+- Fiction
+- Grammar & Linguistics
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '1136775'
 exlibris: '1980'
 zotero_key: EUBKTJEV

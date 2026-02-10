@@ -1,6 +1,5 @@
 ---
-title: Immortal poems of the English language British and American poetry from Chaucer's
-  time to the present day
+title: Immortal poems of the English language British and American poetry from Chaucer's time to the present day
 date: '2024-09-01'
 year: 1952
 decade: 1950s
@@ -17,10 +16,8 @@ pages: 637
 series:
 - 'Cardinal edition: c-50'
 subjects:
-- American poetry
-- Poésie américaine
-- English poetry
-- Poésie anglaise
+- Poetry
+- United States
 oclc: '987964495'
 zotero_key: QWBWPKKR
 cover: covers/qwbwpkkr.jpg

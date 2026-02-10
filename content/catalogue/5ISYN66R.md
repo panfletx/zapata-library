@@ -19,9 +19,8 @@ edition: 2. ed
 series:
 - Nossos clássicos
 subjects:
-- Criticism, interpretation, etc
-- Machado de Assis, 1839-1908
-- Machado de Assis, 1839-1908 Criticism and interpretation
+- Brazilian Literature
+- Literary Criticism
 oclc: '1071867734'
 zotero_key: 5ISYN66R
 cover: covers/5isyn66r.jpg

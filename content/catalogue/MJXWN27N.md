@@ -1,6 +1,5 @@
 ---
-title: 'The jealous gods: a processional novel of the fifth century, B.C. (concerning
-  one Alcibiades)'
+title: 'The jealous gods: a processional novel of the fifth century, B.C. (concerning one Alcibiades)'
 date: '2024-09-01'
 year: 1928
 decade: 1920s
@@ -16,18 +15,12 @@ item_types:
 pages: 452
 series: []
 subjects:
+- Ancient History
+- Biography
 - Fiction
-- Biographical fiction
-- Alcibiades
-- Alcibiades Fiction
-- Athens (Greece) Fiction
-- Generals
-- Generals Fiction
-- Généraux Romans, nouvelles, etc
-- Greece Athens
-- Hommes d'État Romans, nouvelles, etc
-- Statesmen
-- Statesmen Fiction
+- Greece
+- Modern History
+- Short Stories
 oclc: '908021'
 zotero_key: MJXWN27N
 cover: covers/mjxwn27n.jpg

@@ -16,7 +16,7 @@ item_types:
 pages: 49
 series: []
 subjects:
-- Prosa mexicana s. XX
+- Mexico
 oclc: '1385247068'
 cover_note: dedicatoria Samperio 1987
 zotero_key: WF8MINGV

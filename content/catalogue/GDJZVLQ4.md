@@ -18,7 +18,8 @@ edition: 4a ed
 series:
 - Escuchar con los ojos
 subjects:
-- Cuentos ingleses Siglo XX Traducciones al español
+- Short Stories
+- Translation Studies
 oclc: '906991360'
 cover_note: regalias vampiro
 exlibris: '2006'

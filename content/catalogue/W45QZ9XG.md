@@ -18,8 +18,8 @@ edition: 3. ed
 series:
 - Fontamara
 subjects:
-- CUENTOS JAPONESES
-- HOMOSEXUALIDAD EN LA LITERATURA
+- Gay Literature
+- Short Stories
 oclc: '52404904'
 zotero_key: W45QZ9XG
 cover: covers/w45qz9xg.jpg

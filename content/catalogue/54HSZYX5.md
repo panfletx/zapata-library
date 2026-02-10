@@ -16,13 +16,11 @@ isbn: 978-1-909399-32-7
 pages: 253
 series: []
 subjects:
-- Sex role
 - Fiction
-- Historical fiction
-- Sex role Fiction
-- Nobility
-- Nobility Fiction
-- Rôle selon le sexe Romans, nouvelles, etc
+- Historical Fiction
+- Modern History
+- Sexuality & Eroticism
+- Short Stories
 oclc: '902746309'
 exlibris: '2014'
 zotero_key: 54HSZYX5

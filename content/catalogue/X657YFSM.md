@@ -17,7 +17,9 @@ pages: 219
 edition: 1. ed
 series:
 - Libro Amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '925577011'
 exlibris: '1982'
 zotero_key: X657YFSM

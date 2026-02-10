@@ -15,7 +15,9 @@ item_types:
 pages: 417
 edition: 1a ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '7676950'
 exlibris: '1980'
 zotero_key: Y4TIVRG7

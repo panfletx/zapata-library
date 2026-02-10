@@ -17,10 +17,9 @@ pages: 167
 series:
 - Biblioteca de Sociología
 subjects:
-- Literatura y sociedad
-- Novela
-- Novela estudio
-- Novela Historia y crítica
+- Fiction
+- Literary Criticism
+- Modern History
 oclc: '318447894'
 exlibris: '1979'
 zotero_key: 6P6RVYAI

@@ -17,7 +17,7 @@ pages: 39
 series:
 - Colección minilibros de autoayuda
 subjects:
-- Miedo
+- Psychoanalysis
 oclc: '906853621'
 zotero_key: 9METC3NI
 cover: covers/9metc3ni.jpg

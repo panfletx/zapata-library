@@ -16,16 +16,9 @@ pages: 405
 series:
 - Harper Reference
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionnaires multilingues
-- German language
-- German language Dictionaries Spanish
-- Multilingual dictionaries
-- polyglot dictionaries
-- Spanish language Dictionaries German
-- Alemań Diccionarios Español
-- Español Diccionarios Alemań
+- Dictionary
+- Grammar & Linguistics
+- Modern History
 oclc: '32415387'
 zotero_key: 9U7P3SBP
 cover: covers/9u7p3sbp.jpg

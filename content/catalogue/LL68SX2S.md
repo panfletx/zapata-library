@@ -18,12 +18,7 @@ isbn: 978-2-03-490043-3
 pages: 175
 series: []
 subjects:
-- Tables
-- Spanish language Verb
-- Spanish language Verb Tables
-- Tables (Data)
-- tables (documents)
-- Tables (Données)
+- Grammar & Linguistics
 oclc: '10147215'
 zotero_key: LL68SX2S
 cover: covers/ll68sx2s.jpg

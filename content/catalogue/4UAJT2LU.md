@@ -16,14 +16,8 @@ item_types:
 pages: 954
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionnaires multilingues
-- Multilingual dictionaries
-- polyglot dictionaries
-- English language
-- English language Dictionaries Spanish
-- Spanish language Dictionaries English
+- Dictionary
+- Grammar & Linguistics
 oclc: '3509174'
 zotero_key: 4UAJT2LU
 cover: covers/4uajt2lu.jpg

@@ -19,7 +19,8 @@ isbn: 978-88-11-36614-0
 pages: 1
 series:
 - I Grandi libri (Milano)
-subjects: []
+subjects:
+- Italian Literature
 oclc: '493597858'
 zotero_key: FKU3CIK7
 cover: covers/fku3cik7.jpg

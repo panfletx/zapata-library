@@ -17,12 +17,8 @@ pages: 316
 series:
 - Garnier-Flammarion texte intégral. no. 192
 subjects:
-- French literature
-- Literatura francesa
-- 1700-1799
-- Diderot, Denis, (1713-1784)
-- French literature 18th century
-- Littérature française 18e siècle
+- French Literature
+- Literary Criticism
 oclc: '2211576'
 zotero_key: DE7DE6BE
 cover: covers/de7de6be.jpg

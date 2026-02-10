@@ -16,7 +16,8 @@ isbn: 978-2-253-01844-5
 pages: 1016
 series:
 - Le Livre de poche
-subjects: []
+subjects:
+- French Literature
 oclc: '489828415'
 zotero_key: 7NPSJGEV
 cover: covers/7npsjgev.jpg

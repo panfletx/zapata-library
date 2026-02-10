@@ -18,16 +18,9 @@ pages: 367
 series:
 - Biblioteca de la literatura y el pensamiento universales
 subjects:
-- Romances
-- Arthurian romances
-- Iseult (Legendary character)
-- Iseult (Legendary character) Romances
-- Tristan (Legendary character)
-- Tristan (Legendary character) Romances
-- Cycle d'Arthur
-- Isolda (Personaje legendario) Romances
-- Romances arturianos
-- Tristán (Personaje legendario) Romances
+- Fiction
+- King Arthur
+- Tristan & Iseult
 oclc: '13541049'
 exlibris: '1984'
 zotero_key: HUK46ZFX

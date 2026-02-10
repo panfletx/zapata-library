@@ -15,7 +15,8 @@ item_types:
 isbn: 978-84-7551-445-1
 pages: 463
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '20919696'
 zotero_key: QNNVULBS
 cover: covers/qnnvulbs.jpg

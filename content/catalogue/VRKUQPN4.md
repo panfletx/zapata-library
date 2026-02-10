@@ -18,7 +18,7 @@ pages: 469
 edition: 2a. ed
 series: []
 subjects:
-- Novela inglesa Siglo XX
+- Fiction
 oclc: '34205177'
 cover_note: regalo de José
 exlibris: '1995'

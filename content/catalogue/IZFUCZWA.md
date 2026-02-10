@@ -18,17 +18,11 @@ edition: 1a ed., 2a reimpresión
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- Criticism, interpretation, etc
-- 450-1100
-- English literature Old English
-- English literature Old English, ca. 450-1100 History and criticism
-- German literature Old High German
-- German literature Old High German, 750-1050 History and criticism
-- Littérature allemande 750-1050 (Vieux haut allemand) Histoire et critique
-- Littérature anglaise ca 450-1100 (Vieil anglais) Histoire et critique
-- Littérature vieux norroise Histoire et critique
-- Old Norse literature
-- Old Norse literature History and criticism
+- English Literature
+- German Literature
+- Literary Criticism
+- Medieval Literature
+- Modern History
 oclc: '22755241'
 exlibris: '1979'
 zotero_key: IZFUCZWA

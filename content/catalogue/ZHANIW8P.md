@@ -18,31 +18,12 @@ pages: 284
 series:
 - Synesthesia
 subjects:
+- Biography
+- Film & Cinema
+- Literary Criticism
+- Screenplay
 - United States
-- Biographies
-- Motion picture producers and directors
-- Motion picture producers and directors United States
-- Sources
-- Artists
-- Artistas Estados Unidos Biografía
-- Artistes États-Unis Biographies
-- Artists United States Biography
-- Directores de cine Estados Unidos
-- Guionistas Estados Unidos Biografía
-- Influence (Literary, artistic, etc.)
-- Influence littéraire, artistique, etc
-- Influencia (Literaria, artística, etc.)
-- Motion picture producers and directors United States Biography
-- Producteurs et réalisateurs de cinéma États-Unis Biographies
-- Productores y directores de cine Estados Unidos Biografía
-- Scénaristes États-Unis Biographies
-- Screenwriters
-- Screenwriters United States Biography
-- Waters, John 1946- Biografías
-- Waters, John 1946- Biography
-- Waters, John, 1946-
-- Waters, John, 1946- Fuentes
-- Waters, John, 1946- Sources
+- Visual Art
 oclc: '907002325'
 zotero_key: ZHANIW8P
 cover: covers/zhaniw8p.jpg

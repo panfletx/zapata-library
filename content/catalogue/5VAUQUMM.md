@@ -17,11 +17,10 @@ pages: 317
 series:
 - Colección Hechos en palabras
 subjects:
-- Spanish American literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Littérature hispano-américaine 20e siècle Histoire et critique
-- Spanish American literature 20th century History and criticism
+- American Literature
+- Literary Criticism
+- Modern History
+- United States
 oclc: '430736779'
 zotero_key: 5VAUQUMM
 cover: covers/5vauqumm.jpg

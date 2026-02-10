@@ -19,15 +19,10 @@ edition: 1st ed
 series:
 - Dutton paperback, D552/A
 subjects:
-- History
-- Motion pictures
+- Film & Cinema
+- Modern History
+- Sexuality & Eroticism
 - United States
-- Cinéma États-Unis Histoire
-- Hommes au cinéma
-- Men in motion pictures
-- Motion pictures United States History
-- Sex in motion pictures
-- Sexualité au cinéma
 oclc: '4638106'
 zotero_key: RH9TKZ2J
 cover: covers/rh9tkz2j.jpg

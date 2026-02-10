@@ -16,9 +16,9 @@ pages: 259
 series:
 - 'El Libro de bolsillo. Sección: Artes'
 subjects:
+- Film & Cinema
 - Italy
-- Cine Italia
-- Guions cinematogràfics
+- Screenplay
 oclc: '3754459'
 zotero_key: VZEFMXNG
 cover: covers/vzefmxng.jpg

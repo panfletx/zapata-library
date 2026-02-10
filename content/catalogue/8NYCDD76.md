@@ -17,7 +17,8 @@ pages: 104
 edition: 1. ed
 series:
 - Fondo editorial tierra adentro
-subjects: []
+subjects:
+- Fiction
 oclc: '40280937'
 cover_note: dedicatoria del autor
 zotero_key: 8NYCDD76

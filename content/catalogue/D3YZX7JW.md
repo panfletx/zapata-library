@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 188
 series: []
-subjects: []
+subjects:
+- French Literature
 zotero_key: D3YZX7JW
 cover: covers/d3yzx7jw.jpg
 ---

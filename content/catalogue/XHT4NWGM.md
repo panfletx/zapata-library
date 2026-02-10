@@ -1,6 +1,5 @@
 ---
-title: 'La historia del rey Canamor y del infante Turián, su hijo: la destruición
-  de Jerusalem'
+title: 'La historia del rey Canamor y del infante Turián, su hijo: la destruición de Jerusalem'
 date: '2024-09-01'
 year: 1946
 decade: 1940s
@@ -17,10 +16,8 @@ edition: 2. ed
 series:
 - Colección Austral
 subjects:
-- History
-- Jérusalem Histoire
-- Jerusalem History
-- Middle East Jerusalem
+- Middle East
+- Modern History
 oclc: '2676792'
 exlibris: '1977'
 zotero_key: XHT4NWGM

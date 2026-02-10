@@ -16,12 +16,9 @@ isbn: 978-968-38-0649-9
 pages: 141
 series: []
 subjects:
-- Curación espiritual
-- Guérison par la foi
-- Oracíon Cristianismo
-- Prayer Christianity
-- Prière Christianisme
-- Spiritual healing
+- Catholicism
+- Medicine & Health
+- Religion
 oclc: '37869675'
 zotero_key: VR8MLE2H
 cover: covers/vr8mle2h.jpg

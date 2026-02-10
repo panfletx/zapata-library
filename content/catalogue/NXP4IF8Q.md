@@ -18,9 +18,7 @@ pages: 558
 series:
 - L'evolution de l'humanité
 subjects:
-- Libri Storia
-- Libri Storia Sec. 15.-19
-- Stampa Storia
+- French Literature
 oclc: '859631716'
 exlibris: '1978'
 zotero_key: NXP4IF8Q

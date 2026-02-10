@@ -16,10 +16,7 @@ source_url: https://bac-lac.on.worldcat.org/oclc/396737386
 pages: 163
 series: []
 subjects:
-- French drama
-- French language materials
 - Drama
-- French drama 20th century
 oclc: '3682553'
 zotero_key: VWN82IJ5
 cover: covers/vwn82ij5.jpg

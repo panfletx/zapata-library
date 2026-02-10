@@ -17,7 +17,8 @@ isbn: 978-2-07-037246-1
 pages: 221
 series:
 - Collection Folio. Classique
-subjects: []
+subjects:
+- French Literature
 oclc: '490118190'
 zotero_key: PAMGBAEE
 cover: covers/pamgbaee.jpg

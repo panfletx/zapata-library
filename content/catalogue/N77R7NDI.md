@@ -17,7 +17,8 @@ isbn: 978-968-22-0296-4
 pages: 205
 series:
 - Obras maestras de la literatura contemporánea Seix Barral
-subjects: []
+subjects:
+- Fiction
 oclc: '22689986'
 zotero_key: N77R7NDI
 cover: covers/n77r7ndi.jpg

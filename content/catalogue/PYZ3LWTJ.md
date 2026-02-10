@@ -18,12 +18,10 @@ edition: 1. ed
 series:
 - Creación/ensayo
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- Mexican literature 20th century History and criticism
-- 1800-1999
-- Littérature mexicaine 19e siècle Histoire et critique
-- Mexican literature 19th century History and criticism
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '24091005'
 cover_note: dedicaotria jjb
 zotero_key: PYZ3LWTJ

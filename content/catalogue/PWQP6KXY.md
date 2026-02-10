@@ -1,6 +1,5 @@
 ---
-title: 'Astucia: el jefe de los hermanos de la hoja o los charros contrabandistas
-  de la rama'
+title: 'Astucia: el jefe de los hermanos de la hoja o los charros contrabandistas de la rama'
 date: '2024-09-01'
 year: 1979
 decade: 1970s
@@ -18,7 +17,8 @@ pages: 628
 series:
 - Clásicos de la literatura mexicana
 subjects:
-- Novela mexicana
+- Fiction
+- Mexico
 oclc: '1097729140'
 exlibris: '1979'
 zotero_key: PWQP6KXY

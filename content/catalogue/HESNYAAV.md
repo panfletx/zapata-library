@@ -18,13 +18,11 @@ edition: 1. ed
 series:
 - Colección Andanzas
 subjects:
+- Argentina
 - Fiction
-- Romans
-- Novela argentina Siglo XX
-- Chauffeurs de taxi Romans, nouvelles, etc
-- Taxicab drivers
-- Taxicab drivers Fiction
-- Taxistas España Novela
+- Poetry
+- Short Stories
+- Spain
 oclc: '30356688'
 zotero_key: HESNYAAV
 cover: covers/hesnyaav.jpg

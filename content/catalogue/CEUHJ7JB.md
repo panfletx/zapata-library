@@ -17,18 +17,9 @@ pages: 132
 edition: Primera edición en español
 series: []
 subjects:
-- History
+- Gay Literature
 - Mexico
-- Male homosexuality
-- Homosexualität
-- Mexiko
-- Geschichte
-- Gay liberation movement
-- Gay liberation movement Mexico History
-- Homosexualité masculine Mexique Histoire
-- Homosexuellenbewegung
-- Male homosexuality Mexico History
-- Mouvement de libération des homosexuels Mexique Histoire
+- Modern History
 oclc: '1041939480'
 cover_note: dedicatoria Lumsden
 zotero_key: CEUHJ7JB

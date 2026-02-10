@@ -18,10 +18,10 @@ edition: 1a ed
 series:
 - SepSetentas Diana
 subjects:
-- History
-- Mexico Mexico City
-- Mexico City (Mexico) History
-- Ciudad de México (México) Historia
+- Mexico
+- Mexico City
+- Modern History
+- Urban Life
 oclc: '8176608'
 zotero_key: B8D3L5IH
 cover: covers/b8d3l5ih.jpg

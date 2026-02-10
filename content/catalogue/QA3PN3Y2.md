@@ -20,11 +20,11 @@ edition: 3.ª ed
 series:
 - Colección Arte (Editorial Fundamentos)
 subjects:
-- Cuento Escuelas y teorías
-- Cuento Historia y crítica
-- Tale History and criticism
-- Tale Schools and theories
-- Teorías
+- Education
+- Literary Criticism
+- Modern History
+- Philosophy
+- Short Stories
 oclc: '1024470759'
 zotero_key: QA3PN3Y2
 cover: covers/qa3pn3y2.jpg

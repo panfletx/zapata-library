@@ -17,7 +17,7 @@ pages: 143
 series:
 - Colección Grandes autores (Caracas, Venezuela)
 subjects:
-- Poesía española Siglo XVII
+- Poetry
 oclc: '51370681'
 zotero_key: 5BTGNJXS
 cover: covers/5btgnjxs.jpg

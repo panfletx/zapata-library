@@ -17,8 +17,8 @@ isbn: 978-968-38-1635-1
 pages: 111
 series: []
 subjects:
-- Oración (Religión) Cristianismo
-- Jesucristo Oraciones
+- Catholicism
+- Religion
 oclc: '651203919'
 zotero_key: QJH2H2PR
 cover: covers/qjh2h2pr.jpg

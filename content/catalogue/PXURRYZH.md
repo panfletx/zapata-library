@@ -17,10 +17,7 @@ edition: 3d ed
 series:
 - Biblioteca clásica y contemporánea
 subjects:
-- str. 1974
-- AUTOS SACRAMENTALES Y MISTERIOS DRAMATICOS ESPAÑOLES
-- CALDERON DE LA BARCA, PEDRO, 1600-1681
-- DRAMA ESPAÑOL
+- Drama
 oclc: '2171018'
 zotero_key: PXURRYZH
 cover: covers/pxurryzh.jpg

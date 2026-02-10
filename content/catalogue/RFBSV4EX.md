@@ -20,7 +20,7 @@ edition: '[2a. ed. en Clásicos universales Planeta]'
 series:
 - Clásicos universales Planeta
 subjects:
-- Novela portuguesa s. XIX
+- Fiction
 oclc: '434923661'
 zotero_key: RFBSV4EX
 cover: covers/rfbsv4ex.jpg

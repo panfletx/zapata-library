@@ -6,8 +6,7 @@ decade: 2010s
 authors:
 - Zapata Quiroz, Martín
 publishers:
-- 'Sociedad de Amigos CNT, Compañía Nacional de Teatro : Secretaría de Cultura, Dirección
-  General de Publicaciones'
+- 'Sociedad de Amigos CNT, Compañía Nacional de Teatro : Secretaría de Cultura, Dirección General de Publicaciones'
 place: Ciudad de México
 languages:
 - Español
@@ -19,19 +18,12 @@ edition: Primera edición
 series:
 - Cuadernos de repertorio
 subjects:
-- Mexico
-- Actors
-- Death
-- Interviews
-- interviews
-- Théâtre
-- Acteurs Mexique Entretiens
-- Actors Mexico Interviews
-- Death Drama
+- Death & Mourning
 - Drama
-- Dramatists, Mexican
-- Dramatists, Mexican Interviews
-- Zapata Quiroz, Martín
+- Film & Cinema
+- Interview
+- Luis Zapata
+- Mexico
 oclc: '1121427938'
 cover_note: dedicatoria Martín Zapata 2018
 zotero_key: 39NAXX3Y

@@ -17,11 +17,9 @@ pages: 315
 series:
 - Literatura Alfaguara
 subjects:
-- str. 1991
-- Cuentos estadounidenses Traducciones al español
-- Short stories, American
-- Short stories, American Translations into Spanish
-- Translations
+- Short Stories
+- Translation Studies
+- United States
 oclc: '38024554'
 zotero_key: IF8CIDCM
 cover: covers/if8cidcm.jpg

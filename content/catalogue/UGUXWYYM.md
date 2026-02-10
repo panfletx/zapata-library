@@ -17,9 +17,8 @@ pages: 223
 series:
 - Folio
 subjects:
-- Ghost stories
-- Histoires de fantômes
-- Braille abrégé complet
+- Horror & Gothic
+- Modern History
 oclc: '938003147'
 zotero_key: UGUXWYYM
 cover: covers/uguxwyym.jpg

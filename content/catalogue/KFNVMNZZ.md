@@ -19,8 +19,6 @@ series:
 - Black cat book
 subjects:
 - Fiction
-- Romans
-- Romance fiction
 oclc: '4138895'
 zotero_key: KFNVMNZZ
 cover: covers/kfnvmnzz.jpg

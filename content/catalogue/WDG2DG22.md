@@ -17,7 +17,9 @@ pages: 286
 edition: 1 ed
 series: []
 subjects:
-- México Historia Descubrimiento y conquista, 1517-1521
+- Conquest of Mexico
+- Mexico
+- Modern History
 oclc: '906652940'
 zotero_key: WDG2DG22
 cover: covers/wdg2dg22.jpg

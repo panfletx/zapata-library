@@ -16,12 +16,9 @@ isbn: 978-3-8290-0402-2
 pages: 128
 series: []
 subjects:
-- Cooking, Indic
-- Cuisine de l'Inde
-- Low-fat diet
-- Low-fat diet Recipes
-- Recipes
-- Régimes hypolipidiques Recettes
+- Food & Gastronomy
+- India
+- Medicine & Health
 oclc: '51523257'
 zotero_key: ICIRQG5W
 cover: covers/icirqg5w.jpg

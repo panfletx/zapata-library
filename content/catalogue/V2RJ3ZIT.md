@@ -18,9 +18,8 @@ pages: 137
 series:
 - Collection Folio
 subjects:
-- Motion pictures
-- Motion pictures Miscellanea
-- Trivia and miscellanea
+- Anthology
+- Film & Cinema
 oclc: '1043367097'
 zotero_key: V2RJ3ZIT
 cover: covers/v2rj3zit.jpg

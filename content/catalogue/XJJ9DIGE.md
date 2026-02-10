@@ -17,7 +17,8 @@ isbn: 978-84-7552-660-7
 pages: 147
 series:
 - Clásicos (Editorial Onda)
-subjects: []
+subjects:
+- Fiction
 oclc: '431615515'
 cover_note: Regalo de Mario
 exlibris: '2007'

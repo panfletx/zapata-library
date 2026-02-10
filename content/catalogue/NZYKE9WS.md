@@ -18,15 +18,9 @@ series:
 - Vintage book
 subjects:
 - Fiction
-- Manners and customs
-- Short stories
-- Nouvelles
-- short stories
-- Nebraska
-- Nebraska Mœurs et coutumes Romans, nouvelles, etc
-- Nebraska Social life and customs Fiction
-- Nebraska Social life and customs Fiction.#x1E
-- '7'
+- Modern History
+- Short Stories
+- United States
 oclc: '2162955'
 zotero_key: NZYKE9WS
 cover: covers/nzyke9ws.jpg

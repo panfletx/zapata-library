@@ -16,7 +16,7 @@ pages: 30
 series:
 - Gramercy great masters
 subjects:
-- Klimt, Gustav, 1862-1918
+- Visual Art
 oclc: '1304119707'
 zotero_key: 4SUJMWQQ
 cover: covers/4sujmwqq.jpg

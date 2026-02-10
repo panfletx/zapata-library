@@ -17,7 +17,8 @@ pages: 163
 edition: 1. ed
 series:
 - Clásicos modernos
-subjects: []
+subjects:
+- Fiction
 oclc: '555361724'
 zotero_key: XFH5HF76
 cover: covers/xfh5hf76.jpg

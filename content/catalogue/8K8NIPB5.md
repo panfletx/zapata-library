@@ -18,15 +18,10 @@ edition: 1. ed
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Civilization
-- Criticism, interpretation, etc
 - Brazil
-- Brazilian literature
-- Brazilian literature History and criticism
-- Littérature brésilienne Histoire et critique
-- Brasil Civilización
-- Brazil Civilization
-- Brésil Civilisation
+- Brazilian Literature
+- Literary Criticism
+- Modern History
 oclc: '31079391'
 zotero_key: 8K8NIPB5
 cover: covers/8k8nipb5.jpg

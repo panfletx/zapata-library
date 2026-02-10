@@ -15,10 +15,8 @@ item_types:
 pages: 166
 series: []
 subjects:
-- 1900-1999
-- Italian literature
-- Italian literature 20th century
-- Littérature italienne 20e siècle
+- Italian Literature
+- Literary Criticism
 oclc: '852331'
 zotero_key: USCPID8Y
 cover: covers/uscpid8y.jpg

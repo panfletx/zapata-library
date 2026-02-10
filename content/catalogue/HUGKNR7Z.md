@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: HUGKNR7Z
 cover: covers/hugknr7z.jpg
 ---

@@ -17,28 +17,13 @@ pages: 157
 series:
 - Bard book
 subjects:
-- Gay men
-- Novels
+- Death & Mourning
+- Education
 - Fiction
-- Fictional Work
-- Romans
-- Gay fiction
-- Romans homosexuels
-- Psychological fiction
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
-- Chagrin Romans, nouvelles, etc
-- Gay college teachers
-- Gay college teachers Fiction
-- Grief
-- Grief Fiction
-- Hommes d'âge moyen Romans, nouvelles, etc
-- Loss (Psychology)
-- Loss (Psychology) Fiction
-- Middle-aged men
-- Middle-aged men Fiction
-- Perte (Psychologie) Romans, nouvelles, etc
-- Professeurs homosexuels (Enseignement supérieur) Romans, nouvelles, etc
+- Gay Literature
+- Novel
+- Psychoanalysis
+- Short Stories
 oclc: '5789663'
 exlibris: '1979'
 zotero_key: XZ9VA69V

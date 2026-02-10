@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 exlibris: '1980'
 zotero_key: 9WH2AGZY
 cover: covers/9wh2agzy.jpg

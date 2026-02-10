@@ -1,6 +1,5 @@
 ---
-title: 'Dios, eres increíble!: Dios es la gran cuestión de la vida, para la que sólo
-  el corazón tiene respuesta'
+title: 'Dios, eres increíble!: Dios es la gran cuestión de la vida, para la que sólo el corazón tiene respuesta'
 date: '2024-09-01'
 year: 1996
 decade: 1990s
@@ -18,11 +17,8 @@ pages: 211
 series:
 - Espejo del alma
 subjects:
-- Spanish language materials
-- Vida cristiana
-- Christian life
-- Dios
-- Vie chrétienne
+- Catholicism
+- Religion
 oclc: '1011624169'
 zotero_key: HW2L8SBP
 cover: covers/hw2l8sbp.jpg

@@ -19,15 +19,11 @@ edition: Éd. 1
 series:
 - Pochothèque
 subjects:
-- Literature
-- 1900-1999
-- Littérature
-- Littérature française
-- French fiction
-- French fiction 20th century
-- Roman français 20e siècle
-- French novels anthology 20th century Critical edition
-- Perec, Georges, (1936-1982) Anthologies
+- Anthology
+- Fiction
+- French Literature
+- Literary Criticism
+- Novel
 oclc: '50577802'
 exlibris: '2011'
 zotero_key: RQBRSWQL

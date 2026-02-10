@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: GXXG7Q84
 cover: covers/gxxg7q84.jpg
 ---

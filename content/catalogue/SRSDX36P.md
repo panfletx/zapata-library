@@ -17,7 +17,8 @@ pages: 180
 edition: 1. ed
 series:
 - Lecturas mexicanas
-subjects: []
+subjects:
+- Mexican Literature
 oclc: '631108286'
 zotero_key: SRSDX36P
 cover: covers/srsdx36p.jpg

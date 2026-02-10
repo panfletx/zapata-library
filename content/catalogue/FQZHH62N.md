@@ -18,18 +18,8 @@ edition: 1. ed
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Motion pictures
+- Film & Cinema
 - United States
-- Cinéma États-Unis
-- Hawks, Howard
-- Hitchcock, Alfred
-- Huston, John
-- Minnelli, Vincente
-- Motion picture producers and directors
-- Motion picture producers and directors United States
-- Motion pictures United States
-- Producteurs et réalisateurs de cinéma États-Unis
-- Welles, Orson
 oclc: '5776817'
 zotero_key: FQZHH62N
 cover: covers/fqzhh62n.jpg

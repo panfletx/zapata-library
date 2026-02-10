@@ -16,25 +16,13 @@ pages: 287
 edition: First edition
 series: []
 subjects:
-- Latin American poetry
-- Poetry
-- Gay men
+- Anthology
 - Fiction
-- 1900-1999
-- Translations
-- Gay fiction
-- Romans homosexuels
-- Literary collections
-- Gay poetry
-- Brazilian fiction
-- Brazilian fiction 20th century Translations into English
-- Gay men Literary collections
-- Gay men's writings, Latin American
-- Gay men's writings, Latin American Translations into English
-- Homosexuels masculins Anthologies
-- Latin American poetry 20th century
-- Latin American poetry 20th century Translations into English
-- Poésie latino-américaine 20e siècle
+- Gay Literature
+- Latin America
+- Poetry
+- Translation Studies
+- United States
 oclc: '5029606'
 cover_note: dedicatoria Leyland
 zotero_key: WETVHHT7

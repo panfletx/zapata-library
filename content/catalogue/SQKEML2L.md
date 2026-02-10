@@ -18,7 +18,8 @@ edition: 1a ed
 series:
 - Letras nuevas
 subjects:
-- Novela mexicana Siglo XX
+- Fiction
+- Mexico
 oclc: '14281350'
 cover_note: dedicatoria
 zotero_key: SQKEML2L

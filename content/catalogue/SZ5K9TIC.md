@@ -19,9 +19,11 @@ pages: 94
 series:
 - Nuevo rincón
 subjects:
-- Cuentos alemanes s. XIX-XX
-- Literatura alemana s. XIX-XX
-- Novela alemana Siglo XX Traducciones al español
+- Fiction
+- German Literature
+- Literary Criticism
+- Short Stories
+- Translation Studies
 oclc: '85284901'
 zotero_key: SZ5K9TIC
 cover: covers/sz5k9tic.jpg

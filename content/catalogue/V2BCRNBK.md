@@ -19,10 +19,10 @@ edition: Ed. rev. y aum
 series:
 - Biblioteca clásica y contemporánea
 subjects:
-- str. 1997
-- Cuentos
-- Literatura Colecciones
-- Short stories, Spanish Translations from foreign literature
+- Anthology
+- Literary Criticism
+- Short Stories
+- Translation Studies
 oclc: '44590867'
 zotero_key: V2BCRNBK
 cover: covers/v2bcrnbk.jpg

@@ -10,7 +10,9 @@ languages: []
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 zotero_key: WDIZDG3Q
 cover: covers/wdizdg3q.jpg
 ---

@@ -18,9 +18,10 @@ edition: 10. ed
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Literatura española
-- Literatura picaresca
-- Sátira española
+- Fiction
+- Literary Criticism
+- Satire & Humor
+- Spanish Literature
 oclc: '5739075'
 exlibris: '1974'
 zotero_key: HNVK4T3Y

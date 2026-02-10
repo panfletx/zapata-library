@@ -16,10 +16,8 @@ isbn: 978-0-917342-88-2
 pages: 141
 series: []
 subjects:
-- Fiction
-- Romans
 - Brazil
-- Brazil Fiction
+- Fiction
 oclc: '8591080'
 exlibris: '1982'
 zotero_key: 4FP5VGFN

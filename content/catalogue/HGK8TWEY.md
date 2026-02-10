@@ -16,9 +16,8 @@ pages: 201
 series:
 - SepSetentas
 subjects:
-- Història Mèxic precolombi
-- Literatura Mèxic precolombi
-- Nezahualcóyotl
+- Literary Criticism
+- Pre-Columbian
 oclc: '1331525314'
 zotero_key: HGK8TWEY
 cover: covers/hgk8twey.jpg

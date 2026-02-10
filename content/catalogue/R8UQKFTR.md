@@ -17,7 +17,9 @@ pages: 219
 edition: 1a ed
 series:
 - Letras de México
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '18818803'
 cover_note: dedicatoria del autor 1980
 zotero_key: R8UQKFTR

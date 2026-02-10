@@ -17,17 +17,10 @@ isbn: 978-0-14-118990-1
 pages: 94
 series: []
 subjects:
+- American Literature
+- Animals
+- Beat Generation
 - United States
-- 1900-1999
-- Anecdotes
-- Burroughs, William S., 1914-1997
-- Cats
-- Cats Anecdotes
-- Novelists, American
-- Novelists, American 20th century Anecdotes
-- Pet owners
-- Pet owners United States Anecdotes
-- Romanciers américains 20e siècle Anecdotes
 oclc: '339524700'
 exlibris: '2013'
 zotero_key: C2B5GXE6

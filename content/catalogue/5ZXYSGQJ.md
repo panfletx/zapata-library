@@ -16,7 +16,8 @@ pages: 510
 edition: 2a ed
 series:
 - Linterna Mágica
-subjects: []
+subjects:
+- Fiction
 oclc: '1097744647'
 zotero_key: 5ZXYSGQJ
 cover: covers/5zxysgqj.jpg

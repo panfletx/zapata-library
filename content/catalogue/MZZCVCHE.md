@@ -18,7 +18,7 @@ edition: 1. ed. en español
 series:
 - Colección popular (Fondo de Cultura Económica (Mexico))
 subjects:
-- Mito
+- Mythology
 oclc: '31092497'
 exlibris: '1990'
 zotero_key: MZZCVCHE

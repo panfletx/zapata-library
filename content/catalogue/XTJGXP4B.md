@@ -17,10 +17,10 @@ pages: 175
 series:
 - Biblioteca Básica Salvat
 subjects:
-- Franciscanos Biografías
-- Franciscanos Historia
-- Francisco de Asís, Santo
-- Francisco de Asís, Santo, 1182-1226
+- Biography
+- Catholicism
+- Modern History
+- Saints & Hagiography
 oclc: '318214404'
 exlibris: '1980'
 zotero_key: XTJGXP4B

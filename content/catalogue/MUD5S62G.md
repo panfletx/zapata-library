@@ -19,8 +19,7 @@ series:
 - La Creación literaria
 subjects:
 - Fiction
-- Francia, José Gaspar Rodríguez de, 1766-1840
-- Francia, José Gaspar Rodríguez de, 1766-1840 Fiction
+- Latin American Politics
 oclc: '18508581'
 zotero_key: MUD5S62G
 cover: covers/mud5s62g.jpg

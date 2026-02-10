@@ -15,7 +15,8 @@ item_types:
 pages: 174
 series:
 - Libro de bolsillo
-subjects: []
+subjects:
+- Fiction
 oclc: '799107871'
 zotero_key: HWZJYAVA
 cover: covers/hwzjyava.jpg

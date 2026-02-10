@@ -11,7 +11,8 @@ item_types:
 - book
 pages: 720
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: IV8KQT4K
 cover: covers/iv8kqt4k.jpg
 ---

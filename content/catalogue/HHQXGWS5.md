@@ -16,7 +16,8 @@ item_types:
 isbn: 978-970-91702-4-5
 pages: 165
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '760616985'
 zotero_key: HHQXGWS5
 cover: covers/hhqxgws5.jpg

@@ -17,18 +17,11 @@ pages: 143
 series:
 - Seccion Literatura
 subjects:
+- Detective & Mystery
 - Fiction
-- Action and adventure fiction
-- Algeria
-- Algeria Fiction
-- Argelia Novela
-- Asesinato Novela
-- French fiction 20th century Translations into Spanish
-- Meurtre Romans, nouvelles, etc
-- Murder
-- Murder Fiction
-- Novela de acción y aventura
-- Novela francesa Siglo XX Traducciones al español
+- North Africa
+- Short Stories
+- Translation Studies
 oclc: '970457074'
 zotero_key: UWR82I7Q
 cover: covers/uwr82i7q.jpg

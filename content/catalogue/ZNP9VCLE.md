@@ -18,10 +18,9 @@ edition: 1. ed
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
 subjects:
-- Reading
-- Lecture
-- Literature Appreciation
-- Littérature Appréciation
+- Education
+- Literary Criticism
+- Speech & Lecture
 oclc: '48412401'
 exlibris: '2005'
 zotero_key: ZNP9VCLE

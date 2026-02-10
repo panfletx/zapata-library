@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-7152-48-6
 pages: 22
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '49706810'
 zotero_key: KTY63DT5
 cover: covers/kty63dt5.jpg

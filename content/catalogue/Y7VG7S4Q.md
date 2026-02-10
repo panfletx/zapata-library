@@ -19,8 +19,8 @@ edition: 1a ed
 series:
 - Sergio Pitol traductor
 subjects:
-- Novela estadounidense Siglo XX Traducciones al español
-- Novela inglesa Siglo XX
+- Fiction
+- Translation Studies
 oclc: '460813822'
 zotero_key: Y7VG7S4Q
 cover: covers/y7vg7s4q.jpg

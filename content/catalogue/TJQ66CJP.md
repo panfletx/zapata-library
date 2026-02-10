@@ -16,8 +16,10 @@ pages: 254
 edition: 1a ed
 series: []
 subjects:
-- Cyrano de Bergerac, Savinien Drama Frances (Comedia)
-- Literatura francesa Novela
+- Drama
+- Fiction
+- French Literature
+- Literary Criticism
 oclc: '906690274'
 zotero_key: TJQ66CJP
 cover: covers/tjq66cjp.jpg

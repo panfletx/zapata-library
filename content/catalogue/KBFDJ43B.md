@@ -17,11 +17,9 @@ pages: 210
 edition: 2nd ed
 series: []
 subjects:
+- Autobiography & Memoir
 - Fiction
-- Autobiographical fiction
-- Fiction in English, 1900-1945 - Texts
-- Spender, Stephen, 1909-1995
-- Spender, Stephen, 1909-1995 Fiction
+- Poetry
 oclc: '59165787'
 cover_note: Patrick Patterson Amstedam, August 1, 1990
 zotero_key: KBFDJ43B

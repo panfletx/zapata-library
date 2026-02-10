@@ -16,7 +16,8 @@ isbn: 978-2-253-00287-1
 pages: 287
 series:
 - Livre de poche
-subjects: []
+subjects:
+- French Literature
 oclc: '16859808'
 exlibris: '2014'
 zotero_key: T4CIEX8C

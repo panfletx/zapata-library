@@ -15,7 +15,8 @@ item_types:
 pages: 158
 series:
 - A Four Square book
-subjects: []
+subjects:
+- Fiction
 oclc: '893901'
 zotero_key: XGUADBTR
 cover: covers/xguadbtr.jpg

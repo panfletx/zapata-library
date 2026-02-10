@@ -6,8 +6,7 @@ decade: 2000s
 authors:
 - Bravo Varela, Hernán
 publishers:
-- 'DGE Equilibrista : Universidad Nacional Autónoma de México : Consejo Nacional para
-  la Cultura y las Artes, Dirección General de Publicaciones'
+- 'DGE Equilibrista : Universidad Nacional Autónoma de México : Consejo Nacional para la Cultura y las Artes, Dirección General de Publicaciones'
 place: México, D.F.
 languages:
 - Español
@@ -19,10 +18,10 @@ edition: 1. ed
 series:
 - Pértiga
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Mexican literature 20th century History and criticism
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '642214848'
 cover_note: dedicatoria de autor
 zotero_key: E86WPGSE

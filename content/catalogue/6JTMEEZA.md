@@ -20,14 +20,8 @@ pages: 2171
 edition: Nouv. éd. rev., corr. et mise à jour en 1990
 series: []
 subjects:
-- Dictionaries
-- French language
-- DICTIONARIES
-- Français (langue) Dictionnaires
-- Français (Langue) Dictionnaires
-- Franska språket lexikon
-- FRENCH LANGUAGE
-- French language Dictionaries
+- Dictionary
+- Grammar & Linguistics
 oclc: '20794842'
 zotero_key: 6JTMEEZA
 cover: covers/6jtmeeza.jpg

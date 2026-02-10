@@ -16,7 +16,8 @@ isbn: 978-0-345-25762-8
 pages: 87
 edition: 1st Ballantine books ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '22600730'
 zotero_key: MZ8PF8ED
 cover: covers/mz8pf8ed.jpg

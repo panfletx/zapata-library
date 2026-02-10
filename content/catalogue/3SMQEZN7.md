@@ -16,27 +16,13 @@ pages: 544
 series:
 - A Signet classic
 subjects:
+- Animals
 - Fiction
-- Psychological fiction
-- Achab (Personnage fictif) Romans, nouvelles, etc
-- Adventure stories
-- Ahab, Captain (Fictitious character)
-- Ahab, Captain (Fictitious character) Fiction
-- Baleines Chasse Romans, nouvelles, etc
-- Baleines Romans, nouvelles, etc
-- Capitaines de navire Romans, nouvelles, etc
-- Mentally ill
-- Mentally ill Fiction
-- Personnes vivant avec un trouble de santé mentale Romans, nouvelles, etc
-- Sea stories
-- Ship captains
-- Ship captains Fiction
-- Whales
-- Whales Fiction
-- Whaling
-- Whaling Fiction
-- Whaling ships
-- Whaling ships Fiction
+- Madness & Mental Illness
+- Medicine & Health
+- Psychoanalysis
+- Short Stories
+- Travel Writing
 oclc: '2146189'
 zotero_key: 3SMQEZN7
 cover: covers/3smqezn7.jpg

@@ -18,8 +18,8 @@ pages: 425
 edition: 1a ed., 1a reimp
 series: []
 subjects:
-- Jung, Carl Gustav, 1875-1961
-- Psicoanálisis Suiza Biografía
+- Biography
+- Psychoanalysis
 oclc: '893592906'
 exlibris: '1990'
 zotero_key: 6ZQMY9Z6

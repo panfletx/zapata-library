@@ -16,14 +16,8 @@ isbn: 978-968-39-0179-8
 pages: 96
 series: []
 subjects:
-- Psicoanálisis
-- Psychanalyse
-- psychoanalysis
 - Psychoanalysis
-- Psychologie religieuse
-- psychology of religion
-- Psychology, Religious
-- Psicología de la religión
+- Religion
 oclc: '45206836'
 zotero_key: ETDMRUSC
 cover: covers/etdmrusc.jpg

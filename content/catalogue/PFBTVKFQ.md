@@ -17,10 +17,8 @@ pages: 221
 edition: Warner books ed
 series: []
 subjects:
-- humor
-- Humour
-- Satire, American
-- Wit and humor
+- Satire & Humor
+- United States
 oclc: '7681144'
 exlibris: '1980'
 zotero_key: PFBTVKFQ

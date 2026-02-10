@@ -18,11 +18,9 @@ pages: 521
 series:
 - Libro de bolsillo
 subjects:
-- Literatura griega
-- Greek literature Anthologies
-- Literatura griega Antologías
-- Literatura griega Colecciones de escritos
-- Literatura griega s. VIII a.C.-IV antologías
+- Anthology
+- Classical Literature
+- Literary Criticism
 oclc: '49053878'
 exlibris: '1997'
 zotero_key: LI7JQGCH

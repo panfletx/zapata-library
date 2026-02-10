@@ -19,7 +19,7 @@ edition: 1a ed
 series:
 - Colección Grandes clasicos
 subjects:
-- Novela española Periodo clásico, 1500-1700
+- Fiction
 oclc: '30575919'
 exlibris: '1993'
 zotero_key: BMD5WGGU

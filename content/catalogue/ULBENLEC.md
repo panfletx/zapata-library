@@ -16,7 +16,8 @@ isbn: 978-968-39-0978-7
 pages: 61
 series: []
 subjects:
-- LITERATURA ESPAÑOLA SIGLO XX
+- Literary Criticism
+- Spanish Literature
 oclc: '651521719'
 zotero_key: ULBENLEC
 cover: covers/ulbenlec.jpg

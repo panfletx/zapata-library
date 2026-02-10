@@ -18,16 +18,11 @@ edition: 1a. ed. en Mexico
 series:
 - Alfaguara literaturas
 subjects:
+- Argentina
 - Fiction
-- Argentines
-- Argentines Fiction
-- Argentins Romans, nouvelles, etc
-- Communicable diseases
-- Communicable diseases Fiction
-- Cruise ships
-- Cruise ships Fiction
-- Maladies infectieuses Romans, nouvelles, etc
-- Paquebots de croisière Romans, nouvelles, etc
+- Medicine & Health
+- Short Stories
+- Travel Writing
 oclc: '33470728'
 zotero_key: 7IQEBEAS
 cover: covers/7iqebeas.jpg

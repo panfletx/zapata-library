@@ -16,7 +16,8 @@ isbn: 978-2-213-59291-6
 pages: 102
 series:
 - Œuvres de Julien Green
-subjects: []
+subjects:
+- French Literature
 oclc: '123238737'
 exlibris: '1998'
 zotero_key: DU74VJP3

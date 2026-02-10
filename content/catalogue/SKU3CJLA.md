@@ -17,9 +17,8 @@ pages: 133
 series:
 - Paidós Orientalia
 subjects:
-- PATAÑJALI
-- Yoga
-- YOGA
+- Buddhism
+- Religion
 oclc: '48342468'
 exlibris: '1990'
 zotero_key: SKU3CJLA

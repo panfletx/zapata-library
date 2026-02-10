@@ -18,12 +18,9 @@ edition: '[1a ed.]'
 series:
 - Colección Temas de literatura (Buenos Aires, Argentina)
 subjects:
-- Spanish literature
-- Fiction
-- Romans
 - Argentina
-- Littérature espagnole Argentine
-- Spanish literature Argentina
+- Fiction
+- Spanish Literature
 oclc: '38579140'
 zotero_key: SIXI6PZF
 cover: covers/sixi6pzf.jpg

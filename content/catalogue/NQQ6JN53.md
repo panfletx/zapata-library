@@ -15,7 +15,8 @@ item_types:
 source_url: http://catalogue.bnf.fr/ark:/12148/cb347393791
 pages: 203
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '405587717'
 zotero_key: NQQ6JN53
 cover: covers/nqq6jn53.jpg

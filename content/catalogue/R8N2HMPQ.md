@@ -17,7 +17,8 @@ pages: 99
 edition: 1. ed
 series:
 - Poliedro de El Búho
-subjects: []
+subjects:
+- Fiction
 oclc: '503291548'
 cover_note: dedicatoria de autor, 2011
 zotero_key: R8N2HMPQ

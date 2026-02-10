@@ -18,17 +18,8 @@ pages: 909
 series:
 - Clásicos universales Planeta
 subjects:
-- History
-- Kings and rulers
-- Castile (Spain Kings and rulers
-- Castile (Spain) History
-- Castile (Spain) Kings and rulers
-- Castille (Espagne) Histoire
-- Leon (Kingdom)
-- Leon (Kingdom) History
-- Leon (Kingdom) Kings and rulers
-- León (Royaume) Histoire
-- Spain Castile
+- Modern History
+- Spain
 oclc: '24339246'
 zotero_key: YXISYXN8
 cover: covers/yxisyxn8.jpg

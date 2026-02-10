@@ -18,12 +18,8 @@ edition: 4a ed
 series:
 - Historia universal siglo XXI
 subjects:
-- str. 1978
-- Middle Ages
-- Moyen Âge
-- Historia universal Aspectos políticos Baja Edad Media
-- Historia universal Aspectos sociales Baja Edad Media
-- Historia universal Baja Edad Media
+- Medieval History
+- Modern History
 oclc: '1118047'
 zotero_key: LY2MUC2B
 cover: covers/ly2muc2b.jpg

@@ -17,9 +17,8 @@ pages: 3
 series:
 - Bouquins
 subjects:
-- Proust, Marcel, 1871-1922
-- À la recherche du temps perdu (Proust, Marcel)
-- Fiction in French 1900-1945 Texts
+- Fiction
+- Marcel Proust
 oclc: '17526981'
 zotero_key: 3CMBSXIQ
 cover: covers/3cmbsxiq.jpg

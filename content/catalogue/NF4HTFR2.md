@@ -19,10 +19,9 @@ pages: 22
 edition: '[1. Aufl.]'
 series: []
 subjects:
-- German language
-- Allemand (Langue) Manuels pour allophones
-- German language Textbooks for foreign speakers
-- Textbooks for foreign speakers
+- Education
+- Grammar & Linguistics
+- Modern History
 oclc: '1495169'
 zotero_key: NF4HTFR2
 cover: covers/nf4htfr2.jpg

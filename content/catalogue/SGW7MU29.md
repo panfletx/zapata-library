@@ -16,10 +16,9 @@ isbn: 978-84-03-87007-9
 pages: 345
 series: []
 subjects:
-- Spanisch
-- Nicaragua
-- Poets, Nicaraguan
-- Poets, Spanish American
+- Latin America
+- Poetry
+- United States
 oclc: '20960879'
 zotero_key: SGW7MU29
 cover: covers/sgw7mu29.jpg

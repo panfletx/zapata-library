@@ -13,7 +13,9 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1187134110'
 zotero_key: GRFS7CZS
 cover: covers/grfs7czs.jpg

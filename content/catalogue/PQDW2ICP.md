@@ -11,7 +11,9 @@ languages: []
 item_types:
 - thesis
 series: []
-subjects: []
+subjects:
+- Mexico City
+- Modern History
 cover_note: dedicatoria del autor
 zotero_key: PQDW2ICP
 cover: covers/pqdw2icp.jpg

@@ -17,9 +17,9 @@ pages: 96
 edition: 1a. ed
 series: []
 subjects:
-- EXISTENCIA DE DIOS
-- MUERTE FILOSOFIA
-- VIDA
+- Death & Mourning
+- Philosophy
+- Religion
 oclc: '55287179'
 zotero_key: STUTGAXN
 cover: covers/stutgaxn.jpg

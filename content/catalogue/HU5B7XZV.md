@@ -1,6 +1,5 @@
 ---
-title: 'The quintessence of Queen: best prize stories from 12 years of Ellery Queen''s
-  mystery magazine'
+title: 'The quintessence of Queen: best prize stories from 12 years of Ellery Queen''s mystery magazine'
 date: '2024-09-01'
 year: 1962
 decade: 1960s
@@ -16,10 +15,8 @@ item_types:
 pages: 560
 series: []
 subjects:
-- Detective and mystery fiction
-- Mystery fiction
-- Detective and mystery stories
-- Mystery and detective fiction
+- Detective & Mystery
+- Fiction
 oclc: '1236870'
 zotero_key: HU5B7XZV
 cover: covers/hu5b7xzv.jpg

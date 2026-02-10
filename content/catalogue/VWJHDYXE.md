@@ -17,8 +17,7 @@ pages: 527
 edition: 4a ed
 series: []
 subjects:
-- Spanish language Synonyms and antonyms
-- Espagnol (Langue) Synonymes et antonymes
+- Grammar & Linguistics
 oclc: '1125139'
 zotero_key: VWJHDYXE
 cover: covers/vwjhdyxe.jpg

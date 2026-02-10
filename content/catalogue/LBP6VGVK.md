@@ -13,18 +13,11 @@ item_types:
 isbn: 978-0-451-19203-5
 series: []
 subjects:
-- Race relations
-- Biographies
-- Southern States
-- African Americans
-- African Americans Southern States
-- États-Unis (Sud) Relations raciales
-- Griffin, John Howard, 1920-1980
-- Noirs américains États-Unis (Sud)
-- Southern States Race relations
-- Texas
-- Texas Biographies
-- Texas Biography
+- American Literature
+- Biography
+- Modern History
+- Race & Ethnicity
+- United States
 oclc: '1323094563'
 zotero_key: LBP6VGVK
 cover: covers/lbp6vgvk.jpg

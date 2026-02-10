@@ -19,11 +19,7 @@ series:
 - Letras mexicanas
 subjects:
 - Fiction
-- Romans
-- Novela mexicana Siglo XX
-- Roman espagnol
-- Skönlitteratur Mexiko
-- Spanish fiction
+- Mexico
 oclc: '806512'
 zotero_key: N2QIAS4X
 cover: covers/n2qias4x.jpg

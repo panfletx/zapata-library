@@ -18,7 +18,7 @@ pages: 249
 series:
 - Libros reno
 subjects:
-- Prosa inglesa s. XIX-XX
+- Literary Criticism
 oclc: '431357194'
 zotero_key: 9TZYBH2M
 cover: covers/9tzybh2m.jpg

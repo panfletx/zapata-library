@@ -16,8 +16,8 @@ isbn: 978-968-6737-05-9
 pages: 79
 series: []
 subjects:
-- Literatura estadounidense Siglo XX
-- Literatura estadounidense SIGLO XX
+- American Literature
+- Literary Criticism
 oclc: '906798875'
 zotero_key: CXTM8NEE
 cover: covers/cxtm8nee.jpg

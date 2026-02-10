@@ -18,7 +18,7 @@ edition: 1a ed. en Lecturas mexicanas
 series:
 - Lecturas mexicanas
 subjects:
-- Cuentos mexicanos Siglo XX
+- Short Stories
 oclc: '12645167'
 zotero_key: XPKHYD9W
 cover: covers/xpkhyd9w.jpg

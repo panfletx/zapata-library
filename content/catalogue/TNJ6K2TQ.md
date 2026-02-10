@@ -16,7 +16,8 @@ pages: 397
 edition: Nouv. éd. entièrement refondue
 series:
 - Mille et une nuits
-subjects: []
+subjects:
+- French Literature
 oclc: '716105639'
 zotero_key: TNJ6K2TQ
 cover: covers/tnj6k2tq.jpg

@@ -16,7 +16,7 @@ isbn: 978-968-6332-31-5
 pages: 138
 series: []
 subjects:
-- Poesías Irlandesas
+- Fiction
 oclc: '503285962'
 cover_note: dedicatoria Pura López Colomé
 zotero_key: MIIB6KEA

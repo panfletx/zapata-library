@@ -17,7 +17,8 @@ pages: 91
 series:
 - Popular Práctica (Bruguera)
 subjects:
-- Yoga
+- Buddhism
+- Religion
 oclc: '431689744'
 zotero_key: TMLGEMIK
 cover: covers/tmlgemik.jpg

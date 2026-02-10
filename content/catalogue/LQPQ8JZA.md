@@ -18,7 +18,9 @@ isbn: 978-968-39-1185-8
 pages: 64
 series:
 - Alianza Cien
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '906714062'
 exlibris: '1995'
 zotero_key: LQPQ8JZA

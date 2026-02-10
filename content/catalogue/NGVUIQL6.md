@@ -16,8 +16,8 @@ pages: 180
 series:
 - Collections Microcosme
 subjects:
-- Romance
-- Teoria literária
+- Fiction
+- Literary Criticism
 oclc: '457550705'
 zotero_key: NGVUIQL6
 cover: covers/ngvuiql6.jpg

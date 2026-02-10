@@ -17,10 +17,11 @@ edition: '[2a. ed.]'
 series:
 - Colección Narradores contemporáneos
 subjects:
-- str. 1976
-- Literatura Alemana
-- Novela Alemana
-- Novela de ciencia ficción
+- Fiction
+- German Literature
+- Literary Criticism
+- Science
+- Science Fiction
 oclc: '431311884'
 zotero_key: FSWLXFFE
 cover: covers/fswlxffe.jpg

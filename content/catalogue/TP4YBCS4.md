@@ -17,7 +17,8 @@ isbn: 978-2-7143-0364-6
 pages: 714
 edition: Nouvelleéd. intégrale
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '21547520'
 zotero_key: TP4YBCS4
 cover: covers/tp4ybcs4.jpg

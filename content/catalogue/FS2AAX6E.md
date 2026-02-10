@@ -12,7 +12,8 @@ languages:
 item_types:
 - thesis
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de Arriaga 2017
 zotero_key: FS2AAX6E
 cover: covers/fs2aax6e.jpg

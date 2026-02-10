@@ -18,13 +18,8 @@ edition: Primera edición
 series:
 - Colección Bitácoras
 subjects:
-- poetry
+- Mexico
 - Poetry
-- Poésie
-- Poesía mexicana
-- Poètes
-- poets
-- Poets
 oclc: '297146279'
 cover_note: dedicatoria de autor
 zotero_key: 3ZSA8SY6

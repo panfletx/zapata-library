@@ -15,11 +15,7 @@ item_types:
 pages: 203
 series: []
 subjects:
-- Short stories
-- Nouvelles
-- short stories
-- Nouvelles anglaises
-- Short stories, English
+- Short Stories
 oclc: '10758316'
 zotero_key: LXMQF9C4
 cover: covers/lxmqf9c4.jpg

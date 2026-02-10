@@ -17,8 +17,7 @@ edition: 2a ed
 series:
 - Psicología y etología
 subjects:
-- str. 1979
-- Psicoanálisis
+- Psychoanalysis
 oclc: '1097691102'
 zotero_key: XBIK63QB
 cover: covers/xbik63qb.jpg

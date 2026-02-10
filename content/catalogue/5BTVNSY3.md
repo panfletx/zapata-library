@@ -16,7 +16,9 @@ isbn: 978-84-7178-446-9
 pages: 125
 series: []
 subjects:
-- Literatura francesa Siglo XX Traducciones al española
+- French Literature
+- Literary Criticism
+- Translation Studies
 oclc: '52240686'
 exlibris: '1992'
 zotero_key: 5BTVNSY3

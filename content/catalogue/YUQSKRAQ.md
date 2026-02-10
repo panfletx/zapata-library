@@ -17,7 +17,8 @@ isbn: 978-84-402-1074-6
 pages: 314
 series:
 - Literatura (Barcelona, Spain)
-subjects: []
+subjects:
+- Fiction
 oclc: '34093616'
 exlibris: '1994'
 zotero_key: YUQSKRAQ

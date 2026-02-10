@@ -18,12 +18,9 @@ pages: 186
 edition: 5. ed
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionnaires
-- Spanish language Dictionaries
-- Ecriture
-- Langues
+- Dictionary
+- Grammar & Linguistics
+- Literary Criticism
 oclc: '34775223'
 zotero_key: YUGKLIT2
 cover: covers/yugklit2.jpg

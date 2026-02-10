@@ -18,12 +18,11 @@ pages: 118
 edition: First edition
 series: []
 subjects:
-- Literature
+- Gay Literature
+- Jean Genet
+- Literary Criticism
 - Poetry
-- Translations
-- Genet, Jean, 1910-1986
-- Gay poetry
-- Genet, Jean, 1910-1986 Translations into English
+- Translation Studies
 oclc: '6889758'
 zotero_key: KU3MZ3CY
 cover: covers/ku3mz3cy.jpg

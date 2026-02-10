@@ -16,16 +16,10 @@ pages: 170
 series:
 - Biblioteca básica Salvat
 subjects:
-- Autobiographies
-- autobiographies (literary works)
-- Biographies
-- Biography
-- Presidents
 - Argentina
-- Argentina San Juan (Province)
-- Presidents Argentina Biography
-- Présidents Argentine Biographies
-- 'San Juan (Argentina : Province)'
+- Autobiography & Memoir
+- Biography
+- Modern History
 oclc: '3371436'
 zotero_key: GPITGLJC
 cover: covers/gpitgljc.jpg

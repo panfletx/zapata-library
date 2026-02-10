@@ -21,12 +21,11 @@ edition: 2a ed
 series:
 - Libro de bolsillo. Sección Clásicos
 subjects:
-- Autobiografías
-- Darwin, Charles 1809-1882 Biografías
-- Darwin, Charles Biografías
-- Darwin, Charles Crítica e interpretación
-- Darwin, Charles Robert, 1809-1882 correspondencia
-- Evolución
+- Autobiography & Memoir
+- Biography
+- Correspondence
+- Literary Criticism
+- Science
 oclc: '708275995'
 exlibris: '1990'
 zotero_key: 9DKIPMPL

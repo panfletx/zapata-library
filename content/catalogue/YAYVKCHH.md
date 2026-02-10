@@ -15,7 +15,8 @@ item_types:
 pages: 123
 edition: 21 ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '635111003'
 zotero_key: YAYVKCHH
 cover: covers/yayvkchh.jpg

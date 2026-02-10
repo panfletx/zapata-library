@@ -18,7 +18,8 @@ pages: 98
 edition: 1a. ed. en esta colección
 series:
 - Grandes autores (Ediciones 29)
-subjects: []
+subjects:
+- Fiction
 oclc: '432765753'
 zotero_key: KJZARTXY
 cover: covers/kjzartxy.jpg

@@ -15,7 +15,9 @@ item_types:
 isbn: 978-970-05-0103-1
 pages: 223
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '24422147'
 exlibris: '1991'
 zotero_key: ZPEUPFKQ

@@ -19,11 +19,9 @@ series:
 - Colección Andanzas
 subjects:
 - Fiction
-- Authors, Japanese
-- Authors, Japanese Fiction
-- Écrivains japonais Romans, nouvelles, etc
 - Japan
-- Japan Fiction
+- Literary Criticism
+- Short Stories
 oclc: '31826384'
 zotero_key: UWX4KJ2B
 cover: covers/uwx4kj2b.jpg

@@ -17,26 +17,13 @@ edition: 1. ed
 series:
 - Archivo histórico testimonial
 subjects:
-- History
+- Drama
+- Film & Cinema
+- Literary Criticism
 - Mexico
-- Criticism, interpretation, etc
-- Theater
-- Performing arts
-- Artistes du spectacle Mexique
-- Arts du spectacle Mexique
-- Entertainers
-- Entertainers Mexico
-- Mexiko
-- Music-halls (Variety-theaters, cabarets, etc.)
-- Music-halls (Variety-theaters, cabarets, etc.) Mexico History
-- Musique populaire Mexique Histoire et critique
-- Performing arts Mexico
-- Popular music
-- Popular music Mexico History and criticism
-- Revues
-- Revues (Music-hall) Mexique Histoire et critique
-- Revues Mexico History and criticism
-- Schauspielerin
+- Modern History
+- Music
+- Visual Art
 oclc: '34518016'
 zotero_key: PC6R7EVH
 cover: covers/pc6r7evh.jpg

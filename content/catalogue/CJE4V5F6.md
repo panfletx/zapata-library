@@ -17,8 +17,7 @@ edition: 4a ed
 series:
 - Los Clasicos
 subjects:
-- Cuentos
-- Short stories
+- Short Stories
 oclc: '731468086'
 zotero_key: CJE4V5F6
 cover: covers/cje4v5f6.jpg

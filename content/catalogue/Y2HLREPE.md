@@ -14,11 +14,9 @@ isbn: 978-1-4095-6631-1
 pages: 1
 series: []
 subjects:
-- History
-- Juvenile works
+- Children's Literature
+- Modern History
 - Painting
-- Painting History Juvenile literature
-- Peinture Histoire Ouvrages pour la jeunesse
 oclc: '862657664'
 zotero_key: Y2HLREPE
 cover: covers/y2hlrepe.jpg

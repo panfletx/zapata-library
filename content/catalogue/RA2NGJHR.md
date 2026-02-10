@@ -18,7 +18,7 @@ edition: 1a ed
 series:
 - Fin de siglo
 subjects:
-- Novela francesa Siglo XX
+- Fiction
 oclc: '24925252'
 zotero_key: RA2NGJHR
 cover: covers/ra2ngjhr.jpg

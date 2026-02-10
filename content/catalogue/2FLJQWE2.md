@@ -16,7 +16,8 @@ item_types:
 pages: 310
 series:
 - Collection Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '24052314'
 exlibris: '1975'
 zotero_key: 2FLJQWE2

@@ -16,15 +16,14 @@ isbn: 978-968-23-1228-1
 pages: 6
 series: []
 subjects:
-- Arquitectura S. XX
-- Cultura
-- Escultura S. XX
-- Lingüística
-- Literatura Història i crítica
-- Pintura S. XX
-- S. XX
-- Semiòtica
-- Teatre castellà S. XX Història i crítica
+- Architecture
+- Drama
+- Grammar & Linguistics
+- Literary Criticism
+- Modern History
+- Painting
+- Sculpture
+- Structuralism & Poststructuralism
 oclc: '803273787'
 exlibris: '1990'
 zotero_key: Y4ARNW23

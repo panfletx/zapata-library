@@ -16,7 +16,8 @@ pages: 187
 edition: 1. Aufl
 series:
 - Dialog
-subjects: []
+subjects:
+- German Literature
 oclc: '632306296'
 cover_note: Regalo de José
 exlibris: '2007'

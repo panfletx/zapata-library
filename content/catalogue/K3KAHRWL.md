@@ -16,8 +16,7 @@ pages: 10
 series:
 - Bibliothèque de la Pléiade
 subjects:
-- French language materials
-- French fiction
+- Fiction
 oclc: '2392120'
 zotero_key: K3KAHRWL
 cover: covers/k3kahrwl.jpg

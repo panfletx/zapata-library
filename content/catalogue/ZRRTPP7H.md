@@ -18,13 +18,11 @@ edition: 1. ed
 series: []
 subjects:
 - Fiction
-- Motion picture industry
-- California Los Angeles
-- California Los Angeles Hollywood
-- Cinéma Industrie Californie Los Angeles Romans, nouvelles, etc
-- Hollywood (Los Angeles, Calif.) Fiction
-- Motion picture industry California Los Angeles Fiction
-- Science fiction
+- Film & Cinema
+- Science
+- Science Fiction
+- Short Stories
+- United States
 oclc: '21506611'
 cover_note: CGT Tabasco, Agosto, 1980
 zotero_key: ZRRTPP7H

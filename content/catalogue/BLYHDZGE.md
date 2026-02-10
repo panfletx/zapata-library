@@ -10,7 +10,7 @@ item_types:
 - book
 series: []
 subjects:
-- dedicatoria
+- Fiction
 zotero_key: BLYHDZGE
 cover: covers/blyhdzge.jpg
 ---

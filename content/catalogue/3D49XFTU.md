@@ -12,7 +12,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 3D49XFTU
 cover: covers/3d49xftu.jpg
 ---

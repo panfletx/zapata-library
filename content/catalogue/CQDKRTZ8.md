@@ -17,8 +17,12 @@ item_types:
 pages: 124
 series: []
 subjects:
-- Science fiction
-- American strip cartoons - Collections from individual artists
+- Anthology
+- Fiction
+- Science
+- Science Fiction
+- United States
+- Visual Art
 oclc: '16485318'
 zotero_key: CQDKRTZ8
 cover: covers/cqdkrtz8.jpg

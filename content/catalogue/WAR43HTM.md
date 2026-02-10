@@ -17,7 +17,8 @@ pages: 108
 series:
 - La nave de los locos
 subjects:
-- Literatura francesa Siglo XVI
+- French Literature
+- Literary Criticism
 oclc: '1097214435'
 exlibris: '1980'
 zotero_key: WAR43HTM

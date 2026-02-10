@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 9C3TTUGL
 cover: covers/9c3ttugl.jpg
 ---

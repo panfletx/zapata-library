@@ -17,22 +17,12 @@ pages: 726
 edition: Avenel 1980 edition
 series: []
 subjects:
+- Detective & Mystery
 - Fiction
-- Private investigators
-- Charles, Nick (Fictitious character)
-- Charles, Nick (Fictitious character) Fiction
-- Continental Op (Fictitious character)
-- Continental Op (Fictitious character) Fiction
-- Conto
-- Detective and mystery fiction
-- Detective and mystery stories, American
-- Détectives Romans, nouvelles, etc
-- Literatura norte-americana
-- Mystery fiction
-- Private investigators Fiction
-- Spade, Sam (Fictitious character)
-- Spade, Sam (Fictitious character) Fiction
-- Spade, Sam (Personnage fictif) Romans, nouvelles, etc
+- Latin American Literature
+- Literary Criticism
+- Short Stories
+- United States
 oclc: '7007261'
 zotero_key: U9UCNWHF
 cover: covers/u9ucnwhf.jpg

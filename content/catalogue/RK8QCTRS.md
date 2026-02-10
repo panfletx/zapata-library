@@ -16,7 +16,9 @@ item_types:
 isbn: 978-968-837-754-3
 pages: 22
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '651477417'
 zotero_key: RK8QCTRS
 cover: covers/rk8qctrs.jpg

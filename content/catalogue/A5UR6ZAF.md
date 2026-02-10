@@ -16,19 +16,11 @@ isbn: 978-2-213-02782-1
 pages: 350
 series: []
 subjects:
+- Biography
 - France
-- Biographies
-- 1500-1599
-- Rabelais, François, approximately 1490-1553?
-- Authors, French
-- collective biographies
-- Authors, French 16th century Biography
-- Écrivains français 16e siècle Biographies
-- Physicians
-- Physicians France Biography
-- Rabelais François
-- Rabelais, François, approximately 1490-1553? Criticism and interpretation
-- Rabelais, François, approximately 1495-1553 Critique et interprétation
+- François Rabelais
+- Literary Criticism
+- Medicine & Health
 oclc: '24624457'
 zotero_key: A5UR6ZAF
 cover: covers/a5ur6zaf.jpg

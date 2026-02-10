@@ -15,8 +15,8 @@ item_types:
 pages: 235
 series: []
 subjects:
-- Poesía griega Siglo XIX
-- Poesía griega SiglO XIX Traducciones al español
+- Poetry
+- Translation Studies
 oclc: '52799996'
 exlibris: '1986'
 zotero_key: W28WJKX3

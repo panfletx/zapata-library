@@ -19,7 +19,9 @@ pages: 509
 edition: 6a. ed
 series:
 - Libro clásico
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '434299001'
 zotero_key: QHM4FDTM
 cover: covers/qhm4fdtm.jpg

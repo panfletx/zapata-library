@@ -17,10 +17,8 @@ pages: 392
 series:
 - Historia de la Literatura Latinoamericana
 subjects:
-- Authors, Spanish American
-- Authors, Uruguayan
-- Écrivains hispano-américains
-- Écrivains uruguayens
+- Literary Criticism
+- United States
 oclc: '21893768'
 zotero_key: DU7CH2NC
 cover: covers/du7ch2nc.jpg

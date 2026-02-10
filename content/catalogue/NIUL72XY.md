@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: NIUL72XY
 cover: covers/niul72xy.jpg
 ---

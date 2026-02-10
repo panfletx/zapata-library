@@ -17,7 +17,8 @@ isbn: 978-84-339-2057-7
 pages: 205
 series:
 - Colección compactos
-subjects: []
+subjects:
+- Fiction
 oclc: '237689271'
 exlibris: '1994'
 zotero_key: HMLPE42S

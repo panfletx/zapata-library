@@ -16,18 +16,13 @@ pages: 250
 edition: 1st American ed.
 series: []
 subjects:
+- Egypt
+- Feminism
 - Fiction
-- Married women
-- Alexandria (Egypt) Fiction
-- Amitié Romans, nouvelles, etc
-- Armes Trafic Romans, nouvelles, etc
-- Egypt Alexandria
-- Femmes mariées Romans, nouvelles, etc
-- Friendship
-- Friendship Fiction
-- Illegal arms transfers
-- Illegal arms transfers Fiction
-- Married women Fiction
+- Gender Studies
+- Love & Desire
+- Short Stories
+- War & Conflict
 oclc: '226073868'
 exlibris: '1977'
 zotero_key: QXKFXJ82

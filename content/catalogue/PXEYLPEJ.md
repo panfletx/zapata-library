@@ -21,12 +21,9 @@ edition: 1a ed
 series:
 - Genio y figura (Mexico City, Mexico)
 subjects:
+- Film & Cinema
+- Interview
 - Spain
-- Motion picture producers and directors
-- Interviews
-- Bu~nuel, Luis, 1900- Interviews
-- Motion picture producers and directors Spain Interviews
-- Producteurs et réalisateurs de cinéma Espagne Entretiens
 oclc: '759878731'
 exlibris: '1986'
 zotero_key: PXEYLPEJ

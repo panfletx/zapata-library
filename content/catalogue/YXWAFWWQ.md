@@ -17,8 +17,10 @@ pages: 162
 edition: 1a ed
 series: []
 subjects:
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '25385656'
 cover_note: dedicatoria autora
 zotero_key: YXWAFWWQ

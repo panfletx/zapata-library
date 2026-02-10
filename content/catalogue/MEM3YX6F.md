@@ -16,18 +16,12 @@ isbn: 978-0-380-01404-0
 pages: 336
 series: []
 subjects:
-- Gay men
-- Homosexuality
+- Erotic Literature
 - Fiction
-- Gay fiction
-- Romans homosexuels
-- Erotic fiction
-- Gay men Sexual behavior
-- Gay men Sexual behavior Fiction
-- Homosexualité Romans, nouvelles, etc
-- Homosexuality Fiction
-- Homosexuels masculins Sexualité Romans, nouvelles, etc
-- Queer pulps
+- Gay Literature
+- Queer Studies
+- Sexuality & Eroticism
+- Short Stories
 oclc: '10473884'
 exlibris: '1974'
 zotero_key: MEM3YX6F

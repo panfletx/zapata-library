@@ -18,14 +18,9 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
-- History
+- Latin American Politics
 - Mexico
-- Politics and government
-- Mexico History
-- Mexique Histoire
-- México Política y gobierno Siglo XX
-- Mexico Politics and government
-- Mexique Politique et gouvernement
+- Modern History
 oclc: '50232328'
 zotero_key: VD829DRT
 cover: covers/vd829drt.jpg

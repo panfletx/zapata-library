@@ -16,7 +16,8 @@ isbn: 978-2-9515821-0-1
 pages: 185
 series: []
 subjects:
-- Psychoanalysis Narration
+- Literary Criticism
+- Psychoanalysis
 oclc: '47896055'
 zotero_key: IUF9KAKU
 cover: covers/iuf9kaku.jpg

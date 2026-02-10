@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: GAW4C2IP
 cover: covers/gaw4c2ip.jpg
 ---

@@ -17,26 +17,12 @@ pages: 209
 series:
 - Collection Essais sur le Moyen Age
 subjects:
-- Criticism, interpretation, etc
-- To 1500
-- Frans
-- French fiction
-- Altfranzösisch
-- Epen
-- French fiction Themes, motives
-- French fiction To 1500 History and criticism
-- French fiction To 1500 Themes, motives
-- Geschichte 1100-1200
-- Höfisches Epos
-- Roman
-- Roman français Jusqu'à 1500 Histoire et critique
-- Roman français Jusqu'à 1500 Thèmes, motifs
-- Suicide dans la littérature
-- Suicide in literature
-- Suizid
-- Temptation in literature
-- Tentation dans la littérature
-- Zelfmoord
+- Death & Mourning
+- Epic
+- Fiction
+- Literary Criticism
+- Modern History
+- Religion
 oclc: '6285510'
 exlibris: '1979'
 zotero_key: G25YSCKB

@@ -19,11 +19,8 @@ pages: 306
 series:
 - Paidos studio
 subjects:
-- Sex customs
-- Male homosexuality
-- Homosexualité masculine
-- Paraphilias
-- Vie sexuelle
+- Gay Literature
+- Sexuality & Eroticism
 oclc: '40458551'
 zotero_key: R7HEKW29
 cover: covers/r7hekw29.jpg

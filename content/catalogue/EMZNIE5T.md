@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 cover_note: dedicatoria
 zotero_key: EMZNIE5T
 cover: covers/emznie5t.jpg

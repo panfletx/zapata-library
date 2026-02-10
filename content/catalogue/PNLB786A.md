@@ -19,7 +19,7 @@ edition: '[1a. ed. en Clásicos universales Planeta]'
 series:
 - Clásicos universales Planeta
 subjects:
-- Novela portuguesa
+- Fiction
 oclc: '434545559'
 zotero_key: PNLB786A
 cover: covers/pnlb786a.jpg

@@ -15,20 +15,13 @@ item_types:
 pages: 169
 series: []
 subjects:
-- History
-- Fiction
 - Cuba
-- 1909-1933
-- Actresses
-- Actresses Cuba Fiction
-- Actrices Cuba Romans, nouvelles, etc
-- Cuba Histoire 1909-1933 Romans, nouvelles, etc
-- Cuba History 1909-1933 Fiction
-- Dancers
-- Dancers Cuba Fiction
-- Danseurs Cuba Romans, nouvelles, etc
-- Theaters
-- Theaters Cuba Fiction
+- Dance
+- Drama
+- Fiction
+- Film & Cinema
+- Modern History
+- Short Stories
 oclc: '838515'
 zotero_key: 5CREXMUP
 cover: covers/5crexmup.jpg

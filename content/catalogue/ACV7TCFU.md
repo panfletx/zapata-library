@@ -16,8 +16,7 @@ pages: 187
 series:
 - Pozo de Siquem
 subjects:
-- Dios
-- Existencia de Dios
+- Religion
 oclc: '433972187'
 zotero_key: ACV7TCFU
 cover: covers/acv7tcfu.jpg

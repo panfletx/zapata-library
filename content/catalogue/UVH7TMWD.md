@@ -17,11 +17,7 @@ pages: 99
 edition: Primera edición
 series: []
 subjects:
-- Bipolar disorder
-- Bipolar Disorder
-- Bipolar disorder Social aspects
-- Troubles bipolaires
-- Troubles bipolaires Aspect social
+- Medicine & Health
 oclc: '1029736094'
 zotero_key: UVH7TMWD
 cover: covers/uvh7tmwd.jpg

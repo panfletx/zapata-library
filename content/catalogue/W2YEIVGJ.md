@@ -18,23 +18,11 @@ edition: 1. ed
 series:
 - Colección Enlace
 subjects:
+- Fiction
+- Literary Criticism
+- Mexican Literature
 - Mexico
-- Literature and society
-- Mexican fiction
-- Criticism, interpretation, etc
-- Intellectual life
-- Literatur
-- Mexiko
-- Mexico Intellectual life
-- Roman
-- Literature and society Mexico
-- Literatursoziologie
-- Littérature et société Mexique
-- Littérature mexicaine Aspect social
-- Mexican fiction History and criticism
-- Mexican literature Social aspects
-- Roman mexicain Histoire et critique
-- Soziologie
+- Modern History
 oclc: '22452318'
 exlibris: '1990'
 zotero_key: W2YEIVGJ

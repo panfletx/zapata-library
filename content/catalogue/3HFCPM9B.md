@@ -17,8 +17,7 @@ pages: 315
 series:
 - Livre de poche
 subjects:
-- Nouvelles françaises
-- Short stories, French
+- Short Stories
 oclc: '31143051'
 zotero_key: 3HFCPM9B
 cover: covers/3hfcpm9b.jpg

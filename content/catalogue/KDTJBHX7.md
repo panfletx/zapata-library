@@ -16,8 +16,8 @@ pages: 434
 edition: 2a ed
 series: []
 subjects:
-- Castellà Diccionaris Portuguès
-- Portuguès Diccionaris Castellà
+- Dictionary
+- Grammar & Linguistics
 oclc: '804538808'
 zotero_key: KDTJBHX7
 cover: covers/kdtjbhx7.jpg

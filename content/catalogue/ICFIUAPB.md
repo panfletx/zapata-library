@@ -17,9 +17,7 @@ pages: 78
 series:
 - Arca de Sabiduría
 subjects:
-- Théosophie
-- theosophy
-- Theosophy
+- Occult & Esoteric
 oclc: '31697696'
 zotero_key: ICFIUAPB
 cover: covers/icfiuapb.jpg

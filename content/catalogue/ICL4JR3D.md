@@ -18,14 +18,11 @@ pages: 320
 series:
 - Espejo de tinta
 subjects:
-- Man-woman relationships
-- Marriage
-- Nicolson, Harold, 1886-1968
-- Nicolson, Harold, 1886-1968 Marriage
-- Sackville-West, V. 1892-1962
-- Sackville-West, V. 1892-1962 Marriage
-- Sackville-West, V. 1892-1962 Relations with women Violet Keppel Trefusis
-- Trefusis, Violet, 1894-1972
+- English Literature
+- Family
+- Feminism
+- Gender Studies
+- Love & Desire
 oclc: '22392546'
 cover_note: Regalo de José
 exlibris: '1997'

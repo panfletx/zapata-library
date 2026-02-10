@@ -18,11 +18,12 @@ edition: 1a ed
 series:
 - Biblioteca Era
 subjects:
+- Literary Criticism
+- Mexican Literature
 - Mexico
-- Manners and customs
-- Littérature mexicaine 20e siècle Histoire et critique
-- Ciudad de México Vida intelectual
-- Mexico Social life and customs
+- Mexico City
+- Modern History
+- Urban Life
 oclc: '17054662'
 zotero_key: AT2G4KL7
 cover: covers/at2g4kl7.jpg

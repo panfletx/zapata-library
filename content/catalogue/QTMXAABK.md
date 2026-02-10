@@ -16,7 +16,7 @@ pages: 356
 series:
 - Obras maestras del siglo XX
 subjects:
-- Novela española Siglo XX
+- Fiction
 oclc: '865155208'
 zotero_key: QTMXAABK
 cover: covers/qtmxaabk.jpg

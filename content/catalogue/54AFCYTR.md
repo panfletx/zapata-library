@@ -16,11 +16,9 @@ item_types:
 pages: 424
 series: []
 subjects:
-- Personal correspondence
-- Miller, Henry, 1891-1980
-- Miller, Henry, 1891-1980 Correspondence
-- Durrell, Lawrence
-- Durrell, Lawrence Correspondence
+- American Literature
+- Correspondence
+- English Literature
 oclc: '8327694'
 zotero_key: 54AFCYTR
 cover: covers/54afcytr.jpg

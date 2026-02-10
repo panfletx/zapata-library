@@ -19,10 +19,9 @@ edition: 1a. ed
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Criticism, interpretation, etc
-- English literature
-- English literature History and criticism
-- Littérature anglaise Histoire et critique
+- English Literature
+- Literary Criticism
+- Modern History
 oclc: '16892578'
 exlibris: '1995'
 zotero_key: MELPM4DH

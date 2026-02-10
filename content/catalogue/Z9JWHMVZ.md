@@ -17,9 +17,7 @@ pages: 297
 series:
 - Autoayuda y superación
 subjects:
-- Depresión mental
-- Dépression
-- Depression, Mental
+- Madness & Mental Illness
 oclc: '18865309'
 zotero_key: Z9JWHMVZ
 cover: covers/z9jwhmvz.jpg

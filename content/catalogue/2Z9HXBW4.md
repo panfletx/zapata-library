@@ -1,6 +1,5 @@
 ---
-title: 'O grande mentecapto: relato das aventuras e desventuras de Viramundo e de
-  suas inenarráveis peregrinações : romance'
+title: 'O grande mentecapto: relato das aventuras e desventuras de Viramundo e de suas inenarráveis peregrinações : romance'
 date: '2024-09-01'
 year: 1980
 decade: 1980s
@@ -17,8 +16,9 @@ pages: 236
 edition: 7. ed., rev
 series: []
 subjects:
-- Literatura brasileira
-- Romance
+- Brazilian Literature
+- Fiction
+- Literary Criticism
 oclc: '6799590'
 cover_note: dedicatoria
 zotero_key: 2Z9HXBW4

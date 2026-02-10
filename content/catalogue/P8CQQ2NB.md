@@ -16,7 +16,9 @@ isbn: 978-84-02-07001-2
 pages: 310
 series:
 - Club Bruguera
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '803070026'
 zotero_key: P8CQQ2NB
 cover: covers/p8cqq2nb.jpg

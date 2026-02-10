@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-22-0253-7
 pages: 421
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '689525041'
 exlibris: '1989'
 zotero_key: VK2AWUTW

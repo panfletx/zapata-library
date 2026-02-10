@@ -15,16 +15,11 @@ item_types:
 pages: 338
 series: []
 subjects:
-- Autobiographies
-- autobiographies (literary works)
-- Biographies
-- 1900-1999
-- Authors, Austrian
-- Authors, Austrian 20th century Biography
-- Canetti, Elias, 1905-1994
-- Canetti, Elias, 1905-1994 Childhood and youth
-- Childhood and youth of a person
-- Écrivains autrichiens 20e siècle Biographies
+- Autobiography & Memoir
+- Biography
+- Childhood
+- German Literature
+- Literary Criticism
 oclc: '43907004'
 exlibris: '1998'
 zotero_key: E5DL3I5V

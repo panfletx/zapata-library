@@ -19,7 +19,8 @@ edition: 1a. ed
 series:
 - Cien del mundo
 subjects:
-- Literatura latina
+- Classical Literature
+- Literary Criticism
 oclc: '21920200'
 zotero_key: C67RY9FR
 cover: covers/c67ry9fr.jpg

@@ -17,8 +17,7 @@ pages: 205
 series:
 - Alfaguara literaturas
 subjects:
-- Novela uruguaya Siglo XX
-- NOVELAS URUGUAYAS
+- Fiction
 oclc: '29678270'
 exlibris: '1993'
 zotero_key: SRSDFGMM

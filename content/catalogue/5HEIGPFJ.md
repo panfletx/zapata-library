@@ -19,8 +19,8 @@ edition: 1a ed
 series:
 - Colección Hogarth. Serie Narrativa
 subjects:
-- American fiction 20th century
-- Novela estadounidense Siglo XX
+- Fiction
+- United States
 oclc: '807327609'
 zotero_key: 5HEIGPFJ
 cover: covers/5heigpfj.jpg

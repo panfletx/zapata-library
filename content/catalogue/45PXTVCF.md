@@ -15,7 +15,8 @@ item_types:
 pages: 311
 edition: '[Nuova ed.]'
 series: []
-subjects: []
+subjects:
+- Italian Literature
 oclc: '955440419'
 zotero_key: 45PXTVCF
 cover: covers/45pxtvcf.jpg

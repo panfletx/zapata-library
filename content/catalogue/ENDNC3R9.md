@@ -16,7 +16,8 @@ item_types:
 series:
 - DICTIONNAIRE DU LANGAGE
 subjects:
-- Francais (langue), etymologie, dictionnaire
+- Dictionary
+- Grammar & Linguistics
 oclc: '420017127'
 zotero_key: ENDNC3R9
 cover: covers/endnc3r9.jpg

@@ -19,7 +19,7 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
-- Autores Franceses
+- Literary Criticism
 oclc: '36215636'
 zotero_key: PG7Q78FW
 cover: covers/pg7q78fw.jpg

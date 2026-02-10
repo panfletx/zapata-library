@@ -18,7 +18,10 @@ edition: 2a. ed
 series:
 - Alfaguara hispánica
 subjects:
-- Literatura mexicana- Novela- S. XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '433612023'
 exlibris: '1995'
 zotero_key: A3JBCFJB

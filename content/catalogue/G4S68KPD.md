@@ -16,8 +16,7 @@ pages: 79
 series:
 - Colección Vila
 subjects:
-- Musée du Louvre
-- MUSEE DU LOUVRE (FRANCIA)
+- Museums & Collections
 oclc: '55321676'
 exlibris: '1973'
 zotero_key: G4S68KPD

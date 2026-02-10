@@ -18,11 +18,8 @@ pages: 365
 series: []
 subjects:
 - Fiction
-- Romans
-- French fiction
-- Literatura francesa
-- Romance
-- Roman français
+- French Literature
+- Literary Criticism
 oclc: '20671744'
 exlibris: '1997'
 zotero_key: DUKEHXAW

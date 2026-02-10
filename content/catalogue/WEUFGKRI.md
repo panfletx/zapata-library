@@ -17,18 +17,7 @@ pages: 1637
 edition: 2005 ed
 series: []
 subjects:
-- Motion pictures
-- Catalogs
-- filmographies
-- Films Catalogues
-- Motion pictures Catalogs
-- Video recordings
-- Video recordings Catalogs
-- Vidéos Catalogues
-- Cinéma Comptes rendus
-- Motion pictures Reviews
-- Reviews
-- Video recordings Reviews
+- Film & Cinema
 oclc: '56050710'
 zotero_key: WEUFGKRI
 cover: covers/weufgkri.jpg

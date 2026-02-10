@@ -16,7 +16,7 @@ pages: 60
 series:
 - Aguamarina
 subjects:
-- Viajes Citas
+- Travel Writing
 oclc: '434383176'
 zotero_key: ZPFB4SK8
 cover: covers/zpfb4sk8.jpg

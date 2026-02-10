@@ -17,16 +17,12 @@ pages: 359
 edition: 1. ed
 series: []
 subjects:
-- Homosexuality
+- Autobiography & Memoir
 - Fiction
-- 18.33 Spanish-American literature
-- Autobiographical fiction
-- Novels (texts)
-- Homosexualité Romans, nouvelles, etc
-- Homosexuality Fiction
+- Gay Literature
+- Novel
 - Peru
-- Homosexualidad Novela
-- Novela autobiográfica
+- Short Stories
 oclc: '31117931'
 exlibris: '1995'
 zotero_key: 2DLHRYSN

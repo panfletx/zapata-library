@@ -17,13 +17,9 @@ edition: 2. ed
 series:
 - Colección Piragua
 subjects:
-- Civilization
-- Travel
-- Italy, Southern Civilization
-- Italy, Southern Description and travel
-- Mezzogiorno (Italie) Civilisation
-- Mezzogiorno (Italie) Descriptions et voyages
-- Southern Italy
+- Italy
+- Modern History
+- Travel Writing
 oclc: '13023272'
 zotero_key: L2F5AN9E
 cover: covers/l2f5an9e.jpg

@@ -17,14 +17,10 @@ pages: 247
 edition: 1. ed
 series: []
 subjects:
+- Detective & Mystery
 - Mexico
-- Mexican wit and humor
-- Black humor
-- Black humor Mexico
-- Cuentos humorosos
-- Humorismo mexicano
-- Humorous stories, Mexican
-- Humour noir
+- Satire & Humor
+- Short Stories
 oclc: '191750013'
 zotero_key: 2L4K9PZQ
 cover: covers/2l4k9pzq.jpg

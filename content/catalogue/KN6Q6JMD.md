@@ -16,20 +16,11 @@ pages: 30
 series:
 - Colección Narrativa (Textos de Cartón)
 subjects:
+- Argentina
+- Bibliography
 - Fiction
-- Short stories
-- Nouvelles
-- short stories
-- Cartonera books
-- Corrugated board bindings (Binding)
-- Specimens
-- Argentina Córdoba
-- Cartonera books Argentina Córdoba Specimens
-- Chapbooks, Argentine
-- Chapbooks, Argentine Argentina Córdoba Specimens
-- Japan Kyoto
-- Kyoto (Japan) Fiction
-- Littérature de colportage argentine Argentine Córdoba Spécimens
+- Japan
+- Short Stories
 oclc: '1043903880'
 zotero_key: KN6Q6JMD
 cover: covers/kn6q6jmd.jpg

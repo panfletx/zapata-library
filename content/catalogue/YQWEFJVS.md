@@ -17,7 +17,8 @@ pages: 223
 edition: 8a ed
 series:
 - Coleccion horizonte
-subjects: []
+subjects:
+- Fiction
 oclc: '427513895'
 exlibris: Luis Zapata
 zotero_key: YQWEFJVS

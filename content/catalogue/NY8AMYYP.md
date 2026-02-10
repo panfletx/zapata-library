@@ -18,10 +18,8 @@ edition: Primera edición
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Théâtre
 - Drama
-- Cross-dressers
-- Cross-dressers Drama
+- Transgender Studies
 oclc: '30468604'
 cover_note: dedicatoria de Dimayuga
 zotero_key: NY8AMYYP

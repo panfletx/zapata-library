@@ -18,19 +18,10 @@ pages: 360
 edition: 1. ed
 series: []
 subjects:
-- Cuentos
-- 1900-1999
-- 18.33 Spanish-American literature
-- Stories (texts)
-- Guatemalan literature
-- Guatemalan literature 20th century
-- Littérature guatémaltèque 20e siècle
-- Conto hispano-americano
-- Cuentos guatemaltecos
 - Guatemala
-- Literatura guatelmateca Siglo XX
-- Literatura guatemalteca Siglo XX
-- Short stories, Guatemalan
+- Latin American Literature
+- Literary Criticism
+- Short Stories
 oclc: '34927440'
 exlibris: '1997'
 zotero_key: KNB3PFD5

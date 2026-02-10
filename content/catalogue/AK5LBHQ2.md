@@ -14,7 +14,9 @@ item_types:
 isbn: 978-968-419-137-2
 pages: 478
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '748295548'
 zotero_key: AK5LBHQ2
 cover: covers/ak5lbhq2.jpg

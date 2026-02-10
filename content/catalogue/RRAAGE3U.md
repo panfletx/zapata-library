@@ -1,6 +1,5 @@
 ---
-title: 'Generación del 2000: literatura mexicana hacia el tercer milenio : poesía,
-  narrativa, ensayo'
+title: 'Generación del 2000: literatura mexicana hacia el tercer milenio : poesía, narrativa, ensayo'
 date: '2024-09-01'
 year: 2000
 decade: 2000s
@@ -21,10 +20,9 @@ edition: 1. ed
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Mexican literature
-- 1900-1999
-- Littérature mexicaine 20e siècle
-- Mexican literature 20th century
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '46642941'
 zotero_key: RRAAGE3U
 cover: covers/rraage3u.jpg

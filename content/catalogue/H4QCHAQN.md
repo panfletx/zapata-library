@@ -17,7 +17,8 @@ pages: 223
 edition: 4a ed
 series:
 - El Libro de bolsillo. Sección literatura
-subjects: []
+subjects:
+- Fiction
 oclc: '491658748'
 zotero_key: H4QCHAQN
 cover: covers/h4qchaqn.jpg

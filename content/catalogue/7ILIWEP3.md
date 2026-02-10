@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 5
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '610275620'
 exlibris: '1976'
 zotero_key: 7ILIWEP3

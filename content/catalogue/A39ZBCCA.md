@@ -17,9 +17,8 @@ pages: 89
 series:
 - Colección lettras
 subjects:
-- Cuentos mexicanos
-- Nouvelles mexicaines
-- Short stories, Mexican
+- Mexico
+- Short Stories
 oclc: '30315444'
 zotero_key: A39ZBCCA
 cover: covers/a39zbcca.jpg

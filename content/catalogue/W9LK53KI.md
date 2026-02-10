@@ -16,7 +16,7 @@ pages: 179
 edition: 1 ed
 series: []
 subjects:
-- Teatro
+- Drama
 oclc: '906781496'
 zotero_key: W9LK53KI
 cover: covers/w9lk53ki.jpg

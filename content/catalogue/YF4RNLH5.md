@@ -16,8 +16,8 @@ pages: 200
 edition: 3. ed
 series: []
 subjects:
-- Literatura africana
-- Literatura expressao portuguesa
+- Latin American Literature
+- Literary Criticism
 oclc: '7001342'
 zotero_key: YF4RNLH5
 cover: covers/yf4rnlh5.jpg

@@ -16,7 +16,8 @@ pages: 143
 edition: Popular library ed
 series:
 - Popular library
-subjects: []
+subjects:
+- Fiction
 oclc: '1057068315'
 zotero_key: 6APE7NSS
 cover: covers/6ape7nss.jpg

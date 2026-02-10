@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 302
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '489920920'
 zotero_key: BDESWU94
 cover: covers/bdeswu94.jpg

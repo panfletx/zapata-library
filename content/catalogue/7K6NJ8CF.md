@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1111-7
 pages: 62
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521622'
 zotero_key: 7K6NJ8CF
 cover: covers/7k6nj8cf.jpg

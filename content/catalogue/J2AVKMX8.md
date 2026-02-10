@@ -18,12 +18,10 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
+- Literary Criticism
+- Mexican Literature
 - Mexico
-- Civilization
-- 1900-1999
-- Literatura mexicana Siglo XX Historia y crítica
-- Mexico Civilization 20th century
-- Mexique Civilisation 20e siècle
+- Modern History
 oclc: '24903911'
 cover_note: dedicatoria jjb
 zotero_key: J2AVKMX8

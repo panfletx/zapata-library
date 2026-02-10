@@ -18,10 +18,9 @@ edition: 1a ed. en español
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Criticism, interpretation, etc
-- Brazilian literature
-- Brazilian literature History and criticism
-- Littérature brésilienne Histoire et critique
+- Brazilian Literature
+- Literary Criticism
+- Modern History
 oclc: '10285395'
 zotero_key: PKRZMH6N
 cover: covers/pkrzmh6n.jpg

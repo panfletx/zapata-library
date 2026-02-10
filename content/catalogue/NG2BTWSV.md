@@ -1,6 +1,5 @@
 ---
-title: 'La invención de América: investigación acerca de la estructura histórica del
-  Nuevo Mundo y del sentido de su devenir'
+title: 'La invención de América: investigación acerca de la estructura histórica del Nuevo Mundo y del sentido de su devenir'
 date: '2024-09-01'
 year: 1984
 decade: 1980s
@@ -19,22 +18,12 @@ pages: 193
 series:
 - Lecturas mexicanas
 subjects:
-- History
+- Colonialism & Postcolonialism
+- Latin America
+- Modern History
 - Philosophy
-- America
-- América Descubrimiento y exploraciones
-- America Discovery and exploration
-- América Historia Filosofía
-- America History Philosophy
-- Amerika
-- Amerikabild
-- Amérique Découverte et exploration
-- Begriff
-- Discoveries in geography
-- Entstehung
-- Geschichte
-- Historia da america
-- Historia da america cultura
+- Travel Writing
+- United States
 oclc: '13352327'
 zotero_key: NG2BTWSV
 cover: covers/ng2btwsv.jpg

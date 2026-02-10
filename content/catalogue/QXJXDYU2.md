@@ -18,7 +18,8 @@ pages: 298
 edition: 1. ed
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
 oclc: '630501183'
 zotero_key: QXJXDYU2
 cover: covers/qxjxdyu2.jpg

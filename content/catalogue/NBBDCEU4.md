@@ -15,11 +15,9 @@ item_types:
 pages: 128
 series: []
 subjects:
+- Film & Cinema
+- Satire & Humor
 - United States
-- Humor
-- Broadcasting
-- Broadcasting United States Humor
-- Radiodiffusion États-Unis Humour
 oclc: '10632092'
 zotero_key: NBBDCEU4
 cover: covers/nbbdceu4.jpg

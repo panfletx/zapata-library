@@ -17,7 +17,7 @@ pages: 255
 series:
 - Serie azul
 subjects:
-- Cavafis, Constantino, 1863-1933
+- Poetry
 oclc: '879712493'
 zotero_key: 7YRI8LS9
 cover: covers/7yri8ls9.jpg

@@ -17,10 +17,8 @@ edition: 2a ed
 series:
 - Fontamara
 subjects:
-- Catholic Church
-- Prayers and devotions
-- Catholic Church Prayers and devotions Spanish
-- Iglesia católica Devocionarios
+- Catholicism
+- Religion
 oclc: '34060133'
 zotero_key: GGNILFWA
 cover: covers/ggnilfwa.jpg

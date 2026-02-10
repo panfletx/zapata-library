@@ -18,9 +18,7 @@ pages: 233
 series:
 - Libros del viajero
 subjects:
-- Descripción
-- Guías
-- Jerusalén Descripciones Guías
+- Middle East
 oclc: '645268859'
 zotero_key: 4Z9TS4ZB
 cover: covers/4z9ts4zb.jpg

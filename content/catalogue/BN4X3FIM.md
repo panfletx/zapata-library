@@ -20,10 +20,7 @@ series:
 - Aldus festina lente
 subjects:
 - Mexico
-- Travel
-- México Descripción y viajes
-- Mexico Description and travel
-- Mexique Descriptions et voyages
+- Travel Writing
 oclc: '906931600'
 zotero_key: BN4X3FIM
 cover: covers/bn4x3fim.jpg

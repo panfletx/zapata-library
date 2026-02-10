@@ -17,11 +17,9 @@ pages: 344
 series:
 - Clásicos de la literatura Mexicana
 subjects:
-- History
+- Conquest of Mexico
 - Mexico
-- 1519-1540
-- Mexico History Conquest, 1519-1540
-- Mexique Histoire 1519-1540 (Conquête)
+- Modern History
 oclc: '7052987'
 zotero_key: 8SILZRIS
 cover: covers/8silzris.jpg

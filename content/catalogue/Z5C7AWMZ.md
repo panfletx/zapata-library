@@ -17,8 +17,10 @@ pages: 112
 series:
 - Biblioteca clásica y contemporánea
 subjects:
-- Cuentos argentinos Siglo XX
-- Literatura argentina Siglo XX
+- Argentina
+- Argentine Literature
+- Literary Criticism
+- Short Stories
 oclc: '42018020'
 exlibris: '1998'
 zotero_key: Z5C7AWMZ

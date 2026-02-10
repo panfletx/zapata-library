@@ -16,7 +16,7 @@ isbn: 978-970-91553-0-3
 pages: 198
 series: []
 subjects:
-- Lord's prayer
+- Religion
 oclc: '36850133'
 zotero_key: 4FIP25TZ
 cover: covers/4fip25tz.jpg

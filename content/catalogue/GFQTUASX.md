@@ -19,13 +19,7 @@ series:
 - Colección Consejeros
 subjects:
 - Mexico
-- Intellectual life
-- Enlightenment
-- Enlightenment Influence
-- Enlightenment Mexico
-- Mexico Intellectual life
-- Siècle des Lumières Influence
-- Siècle des Lumières Mexique
+- Modern History
 oclc: '752814895'
 zotero_key: GFQTUASX
 cover: covers/gfqtuasx.jpg

@@ -18,11 +18,10 @@ edition: 1a. ed
 series:
 - Cuadernos de la salamandra
 subjects:
-- poetry
+- Literary Criticism
+- Mexican Literature
+- Mexico
 - Poetry
-- Poésie
-- Literatura mexicana Siglo XXI
-- Poesía mexicana Siglo XXI
 oclc: '77559791'
 cover_note: dedicatoria de autor 2007
 zotero_key: 3LA9GHKN

@@ -16,7 +16,8 @@ item_types:
 pages: 85
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '767829208'
 zotero_key: I4IKC4P4
 cover: covers/i4ikc4p4.jpg

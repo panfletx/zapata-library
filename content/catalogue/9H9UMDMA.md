@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 9H9UMDMA
 cover: covers/9h9umdma.jpg
 ---

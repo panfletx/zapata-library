@@ -17,10 +17,7 @@ pages: 140
 series:
 - Libro de bolsillo
 subjects:
-- Short stories
-- Nouvelles
-- short stories
-- Short stories, Austrian
+- Short Stories
 oclc: '939738510'
 exlibris: '2011'
 zotero_key: UTFL8G5C

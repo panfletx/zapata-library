@@ -17,9 +17,10 @@ pages: 63
 edition: 1a. ed
 series: []
 subjects:
+- Mexico
+- Mexico City
 - Poetry
-- Mexican poetry 21st century
-- Mexican poetry Mexico Mexico City
+- Urban Life
 oclc: '277588861'
 cover_note: dedicatoria 2007
 zotero_key: LJXATPL2

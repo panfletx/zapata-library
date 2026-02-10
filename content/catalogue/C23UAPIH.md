@@ -17,7 +17,8 @@ pages: 144
 series:
 - Saber más
 subjects:
-- Religious life Buddhism
+- Buddhism
+- Religion
 oclc: '33338466'
 zotero_key: C23UAPIH
 cover: covers/c23uapih.jpg

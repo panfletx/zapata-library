@@ -17,7 +17,7 @@ pages: 91
 series:
 - Textos de teatro
 subjects:
-- Artaud, Antonin, 1896-1948
+- Drama
 oclc: '610963214'
 cover_note: dedicatoria 1977
 zotero_key: 2GETU29R

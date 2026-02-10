@@ -18,24 +18,11 @@ edition: 1a ed
 series:
 - Escritores mexicanos (Editorial Grijalbo)
 subjects:
+- Anthology
+- Fiction
 - Mexico
-- Mexican fiction
-- 1900-1999
-- Short stories
-- Nouvelles
-- short stories
-- 18.33 Spanish-American literature
-- Anthologie
-- Mexiko
-- Mexican fiction 20th century
-- Roman mexicain 20e siècle
-- Nouvelles mexicaines
-- Short stories, Mexican
-- Anthologies (form)
-- Geschichte 1970-1980
-- Kurzgeschichte
-- Prose (texts)
-- Nouvelles mexicaines Anthologies
+- Modern History
+- Short Stories
 oclc: '8473674'
 exlibris: '1991'
 zotero_key: ZTE7GN9F

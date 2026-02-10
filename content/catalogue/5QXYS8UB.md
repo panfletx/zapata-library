@@ -19,21 +19,11 @@ edition: 1a. ed
 series:
 - Colección La sombra del viajero
 subjects:
-- Biographies
-- 1900-1999
-- Personal correspondence
-- Authors, English
-- Archives
-- Authors, English 20th century Biography
-- Écrivains anglais 20e siècle Biographies
-- Facsimiles
-- Lowry, Malcolm, 1909-1957
-- Lowry, Malcolm, 1909-1957 Archives
-- Lowry, Malcolm, 1909-1957 Correspondence
-- Lowry, Malcolm, 1909-1957 Manuscripts Facsimiles
-- Manuscripts
-- Ortiz y Ortiz, Raúl, 1931-2016 Correspondence
-- Under the volcano (Lowry, Malcolm)
+- Bibliography
+- Biography
+- Correspondence
+- English Literature
+- Literary Criticism
 oclc: '813224835'
 zotero_key: 5QXYS8UB
 cover: covers/5qxys8ub.jpg

@@ -1,8 +1,6 @@
 ---
-title: 'El oficio de escritor: entrevistas con E.M. Forster, François Mauriac, Ezra
-  Pound, T.S. Eliot, Boris Pasternak, Katherine Anne Porter, Henry Miller, Aldous
-  Huxley, James Thurber, William Faulkner, Thornton Wilder, Ernest Hemingway, Alberto
-  Moravia, Lawrence Durrell, Mary McCarthy, Angus Wilson, Ralph Ellison, Truman Capote'
+title: 'El oficio de escritor: entrevistas con E.M. Forster, François Mauriac, Ezra Pound, T.S. Eliot, Boris Pasternak, Katherine Anne Porter, Henry Miller, Aldous Huxley, James Thurber, William Faulkner,
+  Thornton Wilder, Ernest Hemingway, Alberto Moravia, Lawrence Durrell, Mary McCarthy, Angus Wilson, Ralph Ellison, Truman Capote'
 date: '2024-09-01'
 year: 1968
 decade: 1960s
@@ -18,17 +16,11 @@ isbn: 978-968-411-212-4
 pages: 326
 series: []
 subjects:
-- Authorship
-- Interviews
-- Art d'écrire
-- authorship
-- Fiction Technique
-- Authors
-- Authors Interviews
-- AUTORES SIGLO 20 ENTREVISTAS
+- Fiction
 - Interview
-- interviews
-- LITERATURA MODERNA SIGLO 20 HISTORIA Y CRITICA
+- Literary Criticism
+- Modern History
+- Visual Art
 oclc: '23011743'
 exlibris: '1999'
 zotero_key: URD2KUES

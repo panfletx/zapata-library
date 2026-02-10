@@ -19,17 +19,13 @@ pages: 193
 series:
 - Letras hispánicas
 subjects:
-- Criticism, interpretation, etc
-- 18.33 Spanish-American literature
-- Cuentos uruguayos Siglo XX
-- Hernández, Felisberto
-- Hernández, Felisberto Criticism and interpretation
-- Hernández, Felisberto, (1902-1964) Critique et interprétation
-- Hernández, Felisberto, 1902-1964 Historia y crítica
-- Literatura uruguaya Cuentos Siglo XX
-- Litterature uruguayenne 20e s Histoire et critique
-- Stories (texts)
-- Uruguay Vida social y costumbres Novela
+- Biography
+- Fiction
+- Latin American Literature
+- Literary Criticism
+- Modern History
+- Short Stories
+- Uruguay
 oclc: '28350674'
 exlibris: '1997'
 zotero_key: Z5ZB9W7S

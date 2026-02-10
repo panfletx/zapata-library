@@ -16,9 +16,9 @@ pages: 2
 series:
 - Nouveaux classiques Larousse
 subjects:
-- Epic poetry, French
-- Roland (Legendary character) Romances
-- Romances
+- Epic
+- Fiction
+- Poetry
 oclc: '27741390'
 zotero_key: DBTDZ7ZL
 cover: covers/dbtdz7zl.jpg

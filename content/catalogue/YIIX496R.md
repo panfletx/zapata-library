@@ -17,7 +17,7 @@ pages: 96
 edition: '[2 ed. rev. y modificada]'
 series: []
 subjects:
-- Inglés Estudio y enseñanza
+- Education
 oclc: '651330656'
 zotero_key: YIIX496R
 cover: covers/yiix496r.jpg

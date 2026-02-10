@@ -17,8 +17,9 @@ pages: 169
 series:
 - Lecturas mexicanas
 subjects:
-- Literatura mexicana Siglo XX
-- Poesía mexicana Siglo XX
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '17698009'
 zotero_key: H2LCXKP2
 cover: covers/h2lcxkp2.jpg

@@ -19,18 +19,10 @@ edition: Primera edición electrónica
 series:
 - Letras mexicanas
 subjects:
-- Mexico
-- Mexican literature
 - Fiction
-- Short stories
-- Nouvelles
-- short stories
-- 2000-2099
-- Mexico Fiction
-- Nouvelles mexicaines
-- Short stories, Mexican
-- Littérature mexicaine 21e siècle
-- Mexican literature 21st century
+- Mexican Literature
+- Mexico
+- Short Stories
 oclc: '1001307691'
 zotero_key: BKZHGRBV
 cover: covers/bkzhgrbv.jpg

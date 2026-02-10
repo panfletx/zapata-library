@@ -18,13 +18,11 @@ edition: 1a. ed
 series:
 - Palabra en el tiempo
 subjects:
-- Great Britain
+- Feminism
 - Fiction
-- Cuentos Autoras
-- Écrits de femmes
-- Gran Bretaña Novela
-- Great Britain Fiction
-- Short stories Women authors
+- Gender Studies
+- Short Stories
+- United Kingdom
 oclc: '43414002'
 zotero_key: EU99RXVT
 cover: covers/eu99rxvt.jpg

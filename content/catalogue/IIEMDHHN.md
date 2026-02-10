@@ -17,8 +17,8 @@ pages: 151
 edition: 1a. ed
 series: []
 subjects:
-- Méditation Emploi en thérapeutique
-- Meditation Therapeutic use
+- Buddhism
+- Religion
 oclc: '1345489051'
 zotero_key: IIEMDHHN
 cover: covers/iiemdhhn.jpg

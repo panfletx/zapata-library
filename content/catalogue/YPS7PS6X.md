@@ -15,9 +15,8 @@ pages: 1
 series: []
 subjects:
 - Mexico
-- Maps
-- Roads
-- Roads Mexico Maps
+- Travel Writing
+- Visual Art
 oclc: '27030445'
 zotero_key: YPS7PS6X
 cover: covers/yps7ps6x.jpg

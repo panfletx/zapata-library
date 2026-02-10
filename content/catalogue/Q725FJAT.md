@@ -17,10 +17,8 @@ pages: 329
 edition: 1a. ed
 series: []
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Literature History and criticism
-- Littérature Histoire et critique
+- Literary Criticism
+- Modern History
 oclc: '649687333'
 zotero_key: Q725FJAT
 cover: covers/q725fjat.jpg

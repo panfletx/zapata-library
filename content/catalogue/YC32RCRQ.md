@@ -19,23 +19,14 @@ edition: 1. ed
 series:
 - Para lectores que empiezan
 subjects:
-- Music
-- Composers
-- Novels
+- Children's Literature
+- Education
 - Fiction
-- Romans
-- Juvenile works
-- novels
-- Composers Fiction
-- Composers Juvenile fiction
-- Compositeurs Romans, nouvelles, etc. pour la jeunesse
-- Compositores (Música) Novela juvenil
-- Music Fiction
-- Music Juvenile fiction
-- Música Novela juvenil
-- Musique Romans, nouvelles, etc. pour la jeunesse
-- Spanish language Reading materials
-- Stories in rhyme
+- Grammar & Linguistics
+- Music
+- Novel
+- Poetry
+- Short Stories
 oclc: '244417045'
 zotero_key: YC32RCRQ
 cover: covers/yc32rcrq.jpg

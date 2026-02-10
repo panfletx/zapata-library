@@ -18,22 +18,11 @@ edition: 1a. ed. en Maxi
 series:
 - Colección Maxi
 subjects:
-- History
+- Biography
+- Latin American Politics
 - Mexico
-- 1910-1946
-- Biographies
-- Caudillos
-- Caudillos Mexico Biography
-- Caudillos Mexique Biographies
-- Mexico History 1910-1946 Biography
-- Mexico History Revolution, 1910-1920 Biography
-- Mexique Histoire 1910-1920 (Révolution) Biographies
-- Mexique Histoire 1910-1946 Biographies
-- Presidents
-- Presidents Mexico Biography
-- Revolutionaries
-- Revolutionaries Mexico Biography
-- Révolutionnaires Mexique Biographies
+- Modern History
+- Social Movements
 oclc: '878465606'
 cover_note: dedicatoria
 exlibris: '2011'

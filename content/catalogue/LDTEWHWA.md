@@ -18,12 +18,9 @@ edition: 1a. ed
 series:
 - Colección Nueva consciencia
 subjects:
-- Adicción Obras de divulgación
-- Conducta
-- Conducta Modificación Obras de divulgación
-- Felicidad
-- Jokabidea
-- Zoriona
+- Education
+- Medicine & Health
+- Philosophy
 oclc: '434322100'
 zotero_key: LDTEWHWA
 cover: covers/ldtewhwa.jpg

@@ -15,7 +15,8 @@ item_types:
 pages: 846
 series:
 - Gigantes de la Literatura Universal
-subjects: []
+subjects:
+- Fiction
 oclc: '432963843'
 zotero_key: JFBDPRUM
 cover: covers/jfbdprum.jpg

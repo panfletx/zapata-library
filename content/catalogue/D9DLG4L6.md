@@ -18,14 +18,11 @@ edition: 1. ed. en castellano
 series:
 - 'La red de Jonás : ensayo'
 subjects:
-- Social conditions
-- Developing countries
-- Developing countries Economic policy
-- Developing countries Social conditions
-- Economic policy
-- Morale politique
-- Political ethics
-- Right and left (Political science)
+- Economics
+- Ethics
+- Latin American Politics
+- Modern History
+- Science
 oclc: '6714618'
 zotero_key: D9DLG4L6
 cover: covers/d9dlg4l6.jpg

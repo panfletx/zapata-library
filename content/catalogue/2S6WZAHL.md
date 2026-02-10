@@ -12,7 +12,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 2S6WZAHL
 cover: covers/2s6wzahl.jpg
 ---

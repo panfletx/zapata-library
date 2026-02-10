@@ -16,12 +16,8 @@ pages: 119
 series: []
 subjects:
 - Mexico
-- Catalogs
-- Ruiz, Antonio, 1892?-1964
-- Ruiz, Antonio, 1892?-1964 Catalogs
 - Surrealism
-- Surrealism Mexico Catalogs
-- Surréalisme Catalogues Mexique
+- Visual Art
 oclc: '37688642'
 zotero_key: 79RWZD9T
 cover: covers/79rwzd9t.jpg

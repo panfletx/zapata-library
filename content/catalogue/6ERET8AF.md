@@ -16,7 +16,7 @@ isbn: 978-968-39-1179-7
 pages: 93
 series: []
 subjects:
-- Astronomía Trabajos anteriores a 1800
+- Science
 oclc: '651521480'
 exlibris: '1994'
 zotero_key: 6ERET8AF

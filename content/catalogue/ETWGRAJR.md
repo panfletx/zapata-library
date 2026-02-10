@@ -17,7 +17,8 @@ isbn: 978-968-39-0129-3
 pages: 159
 series: []
 subjects:
-- México- Historia- S. XX
+- Mexico
+- Modern History
 oclc: '1367328848'
 zotero_key: ETWGRAJR
 cover: covers/etwgrajr.jpg

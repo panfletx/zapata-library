@@ -16,9 +16,8 @@ pages: 237
 series:
 - Colección Continente
 subjects:
-- '[Anthologie]'
-- nouvelle brésilienne
-- nouvelle brésilienne 20e s. anthologie
+- Anthology
+- Short Stories
 oclc: '716869954'
 zotero_key: ESBCNGBK
 cover: covers/esbcngbk.jpg

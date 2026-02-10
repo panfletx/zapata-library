@@ -18,11 +18,8 @@ pages: 64
 edition: Edición española
 series: []
 subjects:
-- cookbooks
-- Cookbooks
-- Cooking, Lebanese
-- Cuisine libanaise
-- Livres de cuisine
+- Food & Gastronomy
+- Modern History
 oclc: '42721390'
 zotero_key: 7U9MI2HN
 cover: covers/7u9mi2hn.jpg

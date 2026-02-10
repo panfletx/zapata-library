@@ -15,7 +15,8 @@ item_types:
 pages: 92
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '184842667'
 zotero_key: AVHDPDK7
 cover: covers/avhdpdk7.jpg

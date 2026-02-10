@@ -17,9 +17,8 @@ pages: 251
 series:
 - Biblioteca de premios Nobel
 subjects:
-- Ética
-- Ética política
-- Ética social
+- Ethics
+- Latin American Politics
 oclc: '433605362'
 exlibris: '2011'
 zotero_key: EA3L58VG

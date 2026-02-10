@@ -18,15 +18,11 @@ edition: 1a ed. en Lecturas mexicanas
 series:
 - Lecturas mexicanas
 subjects:
-- Folklore
-- Frau
-- Kulturanthropologie
-- Nabel
-- Navel
-- Navel Folklore
-- Navel Religious aspects
-- Ombilic Aspect religieux
-- Volkskunde
+- Feminism
+- Modern History
+- Oral Tradition & Folklore
+- Philosophy
+- Religion
 oclc: '13548877'
 zotero_key: Q8VR2BGM
 cover: covers/q8vr2bgm.jpg

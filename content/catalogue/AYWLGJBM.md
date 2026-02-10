@@ -19,9 +19,9 @@ series:
 - Lecturas mexicanas
 subjects:
 - Fiction
-- Fictional Work
-- Romans
-- Literatura mexicana Novela Siglo XX
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '43486818'
 exlibris: '2004'
 zotero_key: AYWLGJBM

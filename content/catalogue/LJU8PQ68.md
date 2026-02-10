@@ -19,7 +19,7 @@ edition: 1a ed
 series:
 - Biblioteca del universitario
 subjects:
-- Cuentos rusos Siglo XIX
+- Short Stories
 oclc: '502259972'
 exlibris: '2014'
 zotero_key: LJU8PQ68

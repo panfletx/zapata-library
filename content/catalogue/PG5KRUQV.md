@@ -13,7 +13,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de Enríquez
 zotero_key: PG5KRUQV
 cover: covers/pg5kruqv.jpg

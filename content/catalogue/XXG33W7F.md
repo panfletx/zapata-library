@@ -16,9 +16,8 @@ pages: 377
 series:
 - Everyman's library
 subjects:
-- Arthurian romances
-- Cycle d'Arthur
-- Cycles d'Arthur
+- Fiction
+- King Arthur
 oclc: '1814239'
 zotero_key: XXG33W7F
 cover: covers/xxg33w7f.jpg

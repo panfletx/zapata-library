@@ -19,18 +19,9 @@ series:
 - Colección compactos
 subjects:
 - Fiction
-- Fictional Work
-- Romans
-- Spanish language materials
-- Materiales en español
-- Authors
-- Authors Fiction
-- Autores Novela
-- Écrivains Romans, nouvelles, etc
-- literatura nazi Novela
-- Littérature nazie Romans, nouvelles, etc
-- Nazi literature
-- Nazi literature Fiction
+- German Literature
+- Literary Criticism
+- Short Stories
 oclc: '922883881'
 zotero_key: I8HBY8GX
 cover: covers/i8hby8gx.jpg

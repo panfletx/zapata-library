@@ -14,7 +14,8 @@ item_types:
 - book
 isbn: 978-84-254-1922-5
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '934148599'
 zotero_key: HCKUM4Z5
 cover: covers/hckum4z5.jpg

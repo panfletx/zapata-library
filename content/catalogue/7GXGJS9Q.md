@@ -17,8 +17,10 @@ isbn: 978-968-22-0169-1
 pages: 291
 series: []
 subjects:
-- Cuentos argentinos Siglo XX
-- Literatura argentina Siglo XX
+- Argentina
+- Argentine Literature
+- Literary Criticism
+- Short Stories
 oclc: '651210200'
 zotero_key: 7GXGJS9Q
 cover: covers/7gxgjs9q.jpg

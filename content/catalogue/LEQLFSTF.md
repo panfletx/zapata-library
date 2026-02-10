@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: LEQLFSTF
 cover: covers/leqlfstf.jpg
 ---

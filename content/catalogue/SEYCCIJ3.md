@@ -16,7 +16,9 @@ isbn: 978-84-204-2515-3
 pages: 173
 series:
 - Literatura Alfaguara
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '803079266'
 zotero_key: SEYCCIJ3
 cover: covers/seyccij3.jpg

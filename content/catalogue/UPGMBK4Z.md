@@ -19,8 +19,8 @@ edition: '[2a ed]'
 series:
 - El Libro de Bolsillo (Alianza)
 subjects:
-- Autobiografía
-- Darwin, Charles, 1809-1882
+- Autobiography & Memoir
+- Science
 oclc: '1055062404'
 exlibris: '1990'
 zotero_key: UPGMBK4Z

@@ -18,7 +18,7 @@ pages: 63
 series:
 - Textos completos
 subjects:
-- Chinago
+- Fiction
 oclc: '50879912'
 zotero_key: PMFT93G9
 cover: covers/pmft93g9.jpg

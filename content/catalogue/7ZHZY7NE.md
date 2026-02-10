@@ -15,7 +15,9 @@ item_types:
 isbn: 978-84-8346-507-3
 pages: 213
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '963554509'
 exlibris: '2010'
 zotero_key: 7ZHZY7NE

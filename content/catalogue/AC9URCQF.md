@@ -16,7 +16,8 @@ isbn: 978-968-39-1091-2
 pages: 61
 series: []
 subjects:
-- Literatura francesa SIGLO XIX
+- French Literature
+- Literary Criticism
 oclc: '651521454'
 zotero_key: AC9URCQF
 cover: covers/ac9urcqf.jpg

@@ -15,7 +15,8 @@ item_types:
 pages: 207
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '24318956'
 cover_note: dedicatoria jjb
 zotero_key: D5LD5W8A

@@ -16,7 +16,8 @@ item_types:
 pages: 360
 edition: Nouvelle édition, ornée de huit superbes gravures
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '965817012'
 zotero_key: FD82WIT9
 cover: covers/fd82wit9.jpg

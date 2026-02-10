@@ -18,16 +18,11 @@ edition: 1. ed
 series:
 - Leega literaria
 subjects:
-- Mexican fiction
-- Criticism, interpretation, etc
-- 1900-1999
-- Authors, Mexican
-- Authors, Mexican 20th century Interviews
-- Écrivains mexicains 20e siècle Entretiens
-- Interviews
-- interviews
-- Mexican fiction 20th century History and criticism
-- Roman mexicain 20e siècle Histoire et critique
+- Fiction
+- Interview
+- Literary Criticism
+- Mexico
+- Modern History
 oclc: '24862125'
 zotero_key: ZDHEPPR9
 cover: covers/zdheppr9.jpg

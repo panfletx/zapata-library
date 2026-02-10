@@ -17,7 +17,8 @@ pages: 238
 edition: 3a ed
 series:
 - El pozo de Siquem
-subjects: []
+subjects:
+- Fiction
 oclc: '636340158'
 zotero_key: DX75EZEF
 cover: covers/dx75ezef.jpg

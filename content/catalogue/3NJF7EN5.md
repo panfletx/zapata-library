@@ -16,8 +16,7 @@ source_url: http://biblioteca.galiciana.gal/es/consulta/registro.do?id=355111
 pages: 147
 series: []
 subjects:
-- Libros
-- Scott, Walter - Biografías
+- Biography
 oclc: '1079966611'
 exlibris: '1975'
 zotero_key: 3NJF7EN5

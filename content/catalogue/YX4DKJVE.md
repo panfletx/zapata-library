@@ -18,9 +18,9 @@ edition: 1. ed
 series:
 - Colección Meridiano (Puebla, Mexico)
 subjects:
-- Criticism, interpretation, etc
-- Literature, Modern
-- Literature, Modern History and criticism
+- Literary Criticism
+- Literary History
+- Modern History
 oclc: '31090742'
 cover_note: dedicatoria de jjb
 zotero_key: YX4DKJVE

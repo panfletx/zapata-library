@@ -18,17 +18,11 @@ pages: 467
 series:
 - Básica de bolsillo Akal
 subjects:
+- Epic
+- Fiction
+- Mythology
 - Poetry
-- Translations
-- Achilles (Mythological character)
-- Achilles (Mythological character) Poetry
-- Aquiles (Mitología griega) Poesía
-- Epic poetry, Greek
-- Epic poetry, Greek Translations into Spanish
-- Homer
-- Homer Translations into Spanish
-- Homero Traducciones al español
-- Poesía épica greiga Traducciones al español
+- Translation Studies
 oclc: '49652086'
 exlibris: '2011'
 zotero_key: 9KL5X9PT

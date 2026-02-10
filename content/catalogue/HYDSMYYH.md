@@ -17,13 +17,8 @@ pages: 223
 series:
 - Manual práctico
 subjects:
-- Cooking (Pasta)
-- Cooking (Rice)
-- Cooking, Mexican
-- Cuisine (Pâtes alimentaires)
-- Cuisine (Riz)
-- Cuisine mexicaine
-- Sauces
+- Food & Gastronomy
+- Mexico
 oclc: '28171547'
 zotero_key: HYDSMYYH
 cover: covers/hydsmyyh.jpg

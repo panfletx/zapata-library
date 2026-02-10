@@ -14,10 +14,8 @@ isbn: 978-84-330-0431-4
 pages: 4
 series: []
 subjects:
-- History
+- Modern History
 - Painting
-- Painting History
-- Peinture Histoire
 oclc: '1230339277'
 zotero_key: QYKWEHIS
 cover: covers/qykwehis.jpg

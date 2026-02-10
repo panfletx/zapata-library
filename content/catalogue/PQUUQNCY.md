@@ -16,7 +16,8 @@ isbn: 978-2-02-009907-3
 pages: 208
 series:
 - Collection Points. Roman
-subjects: []
+subjects:
+- French Literature
 oclc: '23191413'
 zotero_key: PQUUQNCY
 cover: covers/pquuqncy.jpg

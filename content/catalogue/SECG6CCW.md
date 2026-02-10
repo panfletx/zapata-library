@@ -16,8 +16,7 @@ pages: 191
 edition: '[Nachdr.]'
 series: []
 subjects:
-- Französisch
-- Wortschatz
+- Dictionary
 oclc: '601109128'
 zotero_key: SECG6CCW
 cover: covers/secg6ccw.jpg

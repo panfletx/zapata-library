@@ -20,22 +20,13 @@ edition: 1. ed
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
+- American Literature
+- Diary & Letters
+- Literary Criticism
+- Modern History
+- Music
+- North Africa
 - United States
-- Composers
-- Manners and customs
-- 1900-1999
-- Authors, American
-- Diaries
-- Homes
-- Authors, American 20th century Diaries
-- Bowles, Paul, 1910-1999
-- Bowles, Paul, 1910-1999 Diaries
-- Bowles, Paul, 1910-1999 Homes and haunts Morocco Tangier
-- Composers United States Diaries
-- Compositeurs États-Unis Journaux intimes
-- Écrivains américains 20e siècle Journaux intimes
-- Morocco Tangier
-- Tangier (Morocco) Social life and customs
 oclc: '71357908'
 exlibris: '1994'
 zotero_key: KL4W7DYY

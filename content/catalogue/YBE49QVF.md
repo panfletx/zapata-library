@@ -17,15 +17,12 @@ pages: 159
 series:
 - Espejo de tinta
 subjects:
-- Civilization
-- Latin America
+- Anthology
 - Fiction
-- 18.33 Spanish-American literature
-- Dostoyevsky, Fyodor, 1821-1881
-- 1900-2000
-- Conference papers and proceedings
-- Amérique latine Civilisation Congrès
-- Latin America Civilization Congresses
+- Latin America
+- Modern History
+- Russian Literature
+- United States
 - Uruguay
 oclc: '26992301'
 exlibris: '2003'

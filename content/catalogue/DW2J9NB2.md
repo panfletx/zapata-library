@@ -16,7 +16,8 @@ item_types:
 - book
 pages: 181
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '5436438'
 zotero_key: DW2J9NB2
 cover: covers/dw2j9nb2.jpg

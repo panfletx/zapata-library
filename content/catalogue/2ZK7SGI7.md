@@ -17,22 +17,13 @@ pages: 109
 edition: 1a ed
 series: []
 subjects:
-- Prostitutes
 - Colombia
+- Family
 - Fiction
-- 1900-1999
-- Romance fiction
-- Journalistes Romans, nouvelles, etc
-- Journalists
-- Journalists Fiction
-- Old age
-- Old age Fiction
-- Prostituées Romans, nouvelles, etc
-- Prostitutes Fiction
-- Roman en langues romanes Colombie 20e siècle
-- Romance-language fiction
-- Romance-language fiction Colombia 20th century
-- Vieillesse Romans, nouvelles, etc
+- Grammar & Linguistics
+- Journalism
+- Sexuality & Eroticism
+- Short Stories
 oclc: '922641678'
 cover_note: regalo de Beto
 exlibris: '2004'

@@ -15,8 +15,8 @@ item_types:
 pages: 63
 series: []
 subjects:
-- Ciencia
-- Vocación
+- Education
+- Science
 oclc: '651521559'
 exlibris: '1994'
 zotero_key: V7ZVB7KJ

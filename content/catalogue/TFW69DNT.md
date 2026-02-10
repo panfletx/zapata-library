@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 978-607-98374-7-1
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 cover_note: dedicatoria
 zotero_key: TFW69DNT
 cover: covers/tfw69dnt.jpg

@@ -17,11 +17,8 @@ pages: 178
 series: []
 subjects:
 - Fiction
-- Manners and customs
-- Fictional Work
-- Romans
-- Manners and customs Fiction
-- Mœurs et coutumes Romans, nouvelles, etc
+- Modern History
+- Short Stories
 oclc: '13180020'
 zotero_key: ELUUYY3P
 cover: covers/eluuyy3p.jpg

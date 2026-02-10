@@ -19,20 +19,13 @@ edition: 1a. ed
 series:
 - Serie Reporter (Buenos Aires, Argentina)
 subjects:
-- Civilization
+- Interview
 - Latin America
-- 1900-1999
-- Interviews
-- International relations
-- América Latina Civilización Siglo XX
-- Amérique latine Civilisation 20e siècle
-- Latin America Civilization 20th century
-- América Latina Relaciones exteriores Siglo XX
-- Authors, Latin American
-- Authors, Latin American Interviews
-- Autores latinoamericanos Entrevistas
-- Écrivains latino-américains Entretiens
-- Latin America Relations
+- Latin American Politics
+- Literary Criticism
+- Love & Desire
+- Modern History
+- United States
 oclc: '29522616'
 zotero_key: GYPVXGA2
 cover: covers/gypvxga2.jpg

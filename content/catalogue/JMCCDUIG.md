@@ -17,7 +17,9 @@ isbn: 978-84-7223-040-8
 pages: 82
 series:
 - Cuadernos marginales
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '489785525'
 zotero_key: JMCCDUIG
 cover: covers/jmccduig.jpg

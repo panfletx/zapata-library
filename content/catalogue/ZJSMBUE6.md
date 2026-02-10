@@ -19,8 +19,8 @@ edition: 18ª ed
 series:
 - Pastoral (Sal Terrae)
 subjects:
-- Oración
-- Otoitza
+- Education
+- Religion
 oclc: '971692939'
 zotero_key: ZJSMBUE6
 cover: covers/zjsmbue6.jpg

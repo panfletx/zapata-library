@@ -15,7 +15,9 @@ item_types:
 isbn: 978-607-07-0418-5
 pages: 326
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '838488577'
 cover_note: dedicatoria de Enrique
 exlibris: José Dimayuga

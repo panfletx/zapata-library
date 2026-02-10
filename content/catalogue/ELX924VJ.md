@@ -19,7 +19,7 @@ pages: 77
 series:
 - Folger Library general reader's Shakespeare
 subjects:
-- Shakespeare, William, 1564-1616
+- Drama
 oclc: '4636120'
 zotero_key: ELX924VJ
 cover: covers/elx924vj.jpg

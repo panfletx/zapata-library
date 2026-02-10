@@ -18,9 +18,10 @@ pages: 19
 series:
 - Grandes cl'asicos
 subjects:
-- Literatura mexicana Siglo XX
-- Literatura mexicana Colecciones
-- Poesía mexicana Siglo XX
+- Anthology
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '39825547'
 exlibris: '1993'
 zotero_key: GLMLARN7

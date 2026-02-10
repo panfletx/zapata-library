@@ -11,7 +11,8 @@ item_types:
 isbn: 01851535
 series:
 - '31'
-subjects: []
+subjects:
+- Fiction
 zotero_key: K3NXTECA
 cover: covers/k3nxteca.jpg
 ---

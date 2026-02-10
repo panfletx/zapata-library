@@ -17,10 +17,8 @@ pages: 402
 series:
 - Tezontle
 subjects:
-- 1900-1999
-- English essays
-- English essays 20th century
-- New Yorker (Periódico)
+- Essay
+- Journalism
 oclc: '648993587'
 exlibris: '2010'
 zotero_key: GFPWN5MP

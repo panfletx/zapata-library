@@ -17,9 +17,9 @@ edition: 1a ed
 series:
 - Populibros
 subjects:
-- Literatura sueca Novela Siglo XIX
-- Muerte Novela
-- Novela sueca Siglo XIX
+- Death & Mourning
+- Fiction
+- Literary Criticism
 oclc: '906982851'
 zotero_key: I56YVG8M
 cover: covers/i56yvg8m.jpg

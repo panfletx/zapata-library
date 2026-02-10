@@ -18,16 +18,11 @@ edition: 1. ed
 series:
 - Biblioteca Era
 subjects:
-- Gay men
-- Fiction
 - Cuba
-- Manners and customs
-- Romans
-- Cuba Social life and customs 1959- Fiction
-- Cuban fiction
-- Gay men Cuba Fiction
-- Homosexuels masculins Cuba Romans, nouvelles, etc
-- Since 1959
+- Fiction
+- Gay Literature
+- Modern History
+- Short Stories
 oclc: '25035163'
 exlibris: '1992'
 zotero_key: MRX5ALJS

@@ -15,21 +15,18 @@ isbn: 978-968-34-0188-5
 pages: 13
 series: []
 subjects:
-- Latin American literature
-- Literature
-- German literature
-- Spanish literature
-- English literature
-- French literature
-- Translations
-- Littérature espagnole
-- English literature Translations into Spanish
-- French literature Translations into Spanish
-- German literature Translations into Spanish
-- Latin American literature Translations into Spanish
-- Literature Translations into Spanish
-- Russian literature
-- Russian literature Translations into Spanish
+- American Literature
+- English Literature
+- French Literature
+- German Literature
+- Latin America
+- Latin American Literature
+- Literary Criticism
+- Modern History
+- Russian Literature
+- Spanish Literature
+- Translation Studies
+- United States
 oclc: '50759510'
 zotero_key: GETD268Y
 cover: covers/getd268y.jpg

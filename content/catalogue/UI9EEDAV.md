@@ -17,8 +17,9 @@ pages: 380
 series:
 - Cal y arena
 subjects:
-- Historical fiction
-- Novela histórica
+- Fiction
+- Historical Fiction
+- Modern History
 oclc: '1024168808'
 zotero_key: UI9EEDAV
 cover: covers/ui9eedav.jpg

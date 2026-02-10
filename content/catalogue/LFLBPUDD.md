@@ -16,8 +16,7 @@ pages: 442
 series:
 - Lévolution de l'humanité
 subjects:
-- Filosofia Metafísica
-- Filosofia Séc. 16
+- Philosophy
 oclc: '958997208'
 exlibris: '1976'
 zotero_key: LFLBPUDD

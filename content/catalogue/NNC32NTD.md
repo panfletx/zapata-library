@@ -18,7 +18,9 @@ edition: '[5 ed., 2 reimp.]'
 series:
 - Breviarios
 subjects:
-- Literatura hispanoamericana- Historia y crítica
+- Latin American Literature
+- Literary Criticism
+- Modern History
 oclc: '1187114551'
 zotero_key: NNC32NTD
 cover: covers/nnc32ntd.jpg

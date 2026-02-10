@@ -18,8 +18,7 @@ edition: 1. ed
 series:
 - Nueva narrativa hispánica
 subjects:
-- Roman espagnol
-- Spanish fiction
+- Fiction
 oclc: '5430929'
 exlibris: '1982'
 zotero_key: 6D79YEGX

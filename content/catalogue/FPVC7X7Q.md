@@ -17,20 +17,10 @@ pages: 327
 edition: 1. ed
 series: []
 subjects:
+- Biography
+- Literary Criticism
+- Mexican Literature
 - Mexico
-- Biographies
-- 1900-1999
-- Authors, Mexican
-- 18.33 Spanish-American literature
-- Authors, Mexican 20th century Biography
-- collective biographies
-- Écrivains mexicains 20e siècle Biographies
-- 1900-2000
-- 2000-2010
-- Autores mexicanos Siglo XX Biografía
-- Biographies (form)
-- Poniatowska, Elena
-- Poniatowska, Elena, 1932-
 oclc: '54380896'
 cover_note: dedicatoria del autor 2003
 zotero_key: FPVC7X7Q

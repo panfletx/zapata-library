@@ -19,9 +19,8 @@ edition: 2a ed
 series:
 - Personalia
 subjects:
-- Chatwin, Bruce, 1940-1989
-- Autores ingleses Siglo XX Bibliografía
-- Chatwin, Bruce 1940-1989
+- Bibliography
+- English Literature
 oclc: '44970019'
 exlibris: '2000'
 zotero_key: DMS2KYB9

@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: SEG7XXDL
 cover: covers/seg7xxdl.jpg
 ---

@@ -16,16 +16,11 @@ isbn: 978-0-14-018411-2
 pages: 426
 series: []
 subjects:
-- Racism
+- Death & Mourning
 - Fiction
-- Racism Fiction
-- Racisme Romans, nouvelles, etc
-- African Americans
-- African Americans Fiction
-- Noirs américains Romans, nouvelles, etc
-- Suicide victims
-- Suicide victims Fiction
-- Suicidés Romans, nouvelles, etc
+- Modern History
+- Race & Ethnicity
+- Short Stories
 oclc: '1027277862'
 exlibris: '2001'
 zotero_key: YVPVKKL6

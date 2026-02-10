@@ -15,7 +15,9 @@ item_types:
 pages: 183
 series:
 - Textos de humanidades
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '893551518'
 zotero_key: SQC9ZEBQ
 cover: covers/sqc9zebq.jpg

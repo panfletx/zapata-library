@@ -17,7 +17,7 @@ pages: 224
 series:
 - Libro Clasico
 subjects:
-- Novela inglesa s. XVIII
+- Fiction
 oclc: '432867467'
 zotero_key: R4YDMJQK
 cover: covers/r4ydmjqk.jpg

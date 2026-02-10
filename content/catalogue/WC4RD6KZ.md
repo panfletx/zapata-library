@@ -17,17 +17,13 @@ pages: 655
 edition: 1. ed
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Letterkunde
-- Literatur
-- 18.33 Spanish-American literature
-- Mexican literature 20th century History and criticism
-- Mexiko
-- Spaans
-- Geschichte 1900-1996
-- Literatura mexicana Crónica literaria Ensayos, conferencias, etc
+- Chronicle
+- Essay
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Speech & Lecture
 oclc: '35693149'
 cover_note: dedicatoria del autor
 zotero_key: WC4RD6KZ

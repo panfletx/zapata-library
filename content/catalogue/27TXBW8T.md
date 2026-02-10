@@ -19,7 +19,7 @@ pages: 355
 series:
 - Alfaguara XIX
 subjects:
-- Novela finlandesa s. XX
+- Fiction
 oclc: '434542101'
 zotero_key: 27TXBW8T
 cover: covers/27txbw8t.jpg

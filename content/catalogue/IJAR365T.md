@@ -10,7 +10,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '1009595390'
 exlibris: '1977'
 zotero_key: IJAR365T

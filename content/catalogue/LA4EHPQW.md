@@ -19,7 +19,8 @@ edition: 1a. ed. en Debolsillo
 series:
 - Contemporánea (Barcelona)
 subjects:
-- Spanish language materials
+- Fiction
+- Mexican Literature
 oclc: '433659234'
 zotero_key: LA4EHPQW
 cover: covers/la4ehpqw.jpg

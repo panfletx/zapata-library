@@ -17,9 +17,7 @@ pages: 139
 series:
 - Drawings of the masters (Boston, Mass.)
 subjects:
-- Dessin japonais
-- Drawing, Japanese
-- Tekeningen
+- Visual Art
 oclc: '1288503'
 zotero_key: FRACD65Q
 cover: covers/fracd65q.jpg

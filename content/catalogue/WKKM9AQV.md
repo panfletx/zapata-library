@@ -19,9 +19,7 @@ pages: 80
 series:
 - Reclams Universal-Bibliothek
 subjects:
-- Romances
-- Perceval (Legendary character)
-- Perceval (Legendary character) Romances
+- Fiction
 oclc: '72439981'
 exlibris: '1978'
 zotero_key: WKKM9AQV

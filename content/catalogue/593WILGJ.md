@@ -18,7 +18,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb347575994
 pages: 633
 series:
 - Livre de poche
-subjects: []
+subjects:
+- French Literature
 oclc: '715799491'
 zotero_key: 593WILGJ
 cover: covers/593wilgj.jpg

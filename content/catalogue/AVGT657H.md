@@ -15,9 +15,7 @@ item_types:
 pages: 166
 series: []
 subjects:
-- Future life
-- Vida futura
-- Vie future
+- Religion
 oclc: '20209914'
 zotero_key: AVGT657H
 cover: covers/avgt657h.jpg

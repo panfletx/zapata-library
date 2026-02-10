@@ -17,9 +17,7 @@ pages: 188
 series:
 - Collection points / Roman
 subjects:
-- Französisch
-- Französisch Schweiz
-- Schweiz
+- France
 oclc: '230936008'
 zotero_key: VBV38PML
 cover: covers/vbv38pml.jpg

@@ -17,12 +17,8 @@ edition: 1a ed
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Literature
-- Literatura Colecciones
-- Collections
-- anthologies
-- Anthologies
-- Literature Collections
+- Anthology
+- Literary Criticism
 oclc: '906937915'
 zotero_key: 9LR5AYW7
 cover: covers/9lr5ayw7.jpg

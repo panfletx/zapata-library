@@ -19,10 +19,10 @@ pages: 79
 series:
 - Mille et une nuits (Series)
 subjects:
-- Books and reading
-- Livres et lecture
-- Proust, Marcel, 1871-1922
-- Proust, Marcel, 1871-1922 Books and reading
+- Education
+- Literary Criticism
+- Marcel Proust
+- Speech & Lecture
 oclc: '956552033'
 exlibris: '1995'
 zotero_key: 89TGIH6B

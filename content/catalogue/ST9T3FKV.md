@@ -16,13 +16,11 @@ pages: 360
 series:
 - A Bantam dual-language book
 subjects:
-- Translations
-- Readers (Publications)
-- German language
-- German language Readers
-- Short stories, German
-- Short stories, English Translations from German
-- Short stories, German Translations into English
+- Education
+- Grammar & Linguistics
+- Modern History
+- Short Stories
+- Translation Studies
 oclc: '719766478'
 zotero_key: ST9T3FKV
 cover: covers/st9t3fkv.jpg

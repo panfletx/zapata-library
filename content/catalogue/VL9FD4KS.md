@@ -17,8 +17,7 @@ edition: 4. ed. rev
 series:
 - Biblioteca románica hispánica
 subjects:
-- Literature
-- Littérature
+- Literary Criticism
 oclc: '2023350'
 zotero_key: VL9FD4KS
 cover: covers/vl9fd4ks.jpg

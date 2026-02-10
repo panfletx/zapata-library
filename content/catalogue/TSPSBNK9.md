@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 102
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '22916343'
 zotero_key: TSPSBNK9
 cover: covers/tspsbnk9.jpg

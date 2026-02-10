@@ -18,8 +18,9 @@ pages: 142
 series:
 - Biblioteca Salvat de grandes temas
 subjects:
-- Teatro s.20
-- Teatro Siglo 20o. Historia y crítica
+- Drama
+- Literary Criticism
+- Modern History
 oclc: '644812413'
 zotero_key: 4DMXDH5V
 cover: covers/4dmxdh5v.jpg

@@ -18,9 +18,9 @@ edition: 1. ed. para México y Latinoamérica
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Spanish language materials
-- Novela mexicana Siglo XX
-- Cuentos mexicanos
+- Fiction
+- Mexico
+- Short Stories
 oclc: '22199439'
 zotero_key: QESUL6NI
 cover: covers/qesul6ni.jpg

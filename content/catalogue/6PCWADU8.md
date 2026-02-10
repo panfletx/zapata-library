@@ -17,7 +17,8 @@ pages: 110
 edition: 1a ed
 series:
 - Relatos (Plaza & Janés)
-subjects: []
+subjects:
+- Fiction
 oclc: '44789176'
 zotero_key: 6PCWADU8
 cover: covers/6pcwadu8.jpg

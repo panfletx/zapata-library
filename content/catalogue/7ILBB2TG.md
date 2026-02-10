@@ -8,7 +8,10 @@ languages: []
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Gay Literature
+- Literary Criticism
+- Luis Zapata
 zotero_key: 7ILBB2TG
 cover: covers/7ilbb2tg.jpg
 ---

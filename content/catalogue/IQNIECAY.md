@@ -17,7 +17,8 @@ pages: 93
 edition: 3. ed
 series:
 - La Red Jonás
-subjects: []
+subjects:
+- Fiction
 oclc: '6542092'
 cover_note: dedicatoria de jjb
 zotero_key: IQNIECAY

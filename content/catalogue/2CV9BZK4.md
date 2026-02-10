@@ -18,24 +18,12 @@ pages: 297
 series:
 - Vintage classics
 subjects:
+- Catholicism
 - Fiction
-- Clergy
-- Historical fiction
-- Allegorical fiction
-- Allegories
-- Christian fiction
-- Clergé Romans, nouvelles, etc
-- Clergy Fiction
-- FICTION / Classics
-- FICTION / Literary
-- FICTION / Westerns
-- New Mexico
-- New Mexico - History - 1848 -
-- New Mexico Fiction
-- New Mexico History 1848 -Fiction
-- New Mexico History Fiction
-- Nouveau-Mexique (Etats-Unis) Histoire 1848- ... Romans
-- Nouveau-Mexique Romans, nouvelles, etc
+- Historical Fiction
+- Mexico
+- Modern History
+- Short Stories
 oclc: '21196384'
 exlibris: 1994, regalo de Kieran
 zotero_key: 2CV9BZK4

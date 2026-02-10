@@ -20,7 +20,7 @@ edition: 1a. ed. en " Otra vuelta de tuerca."
 series:
 - Otra vuelta de tuerca
 subjects:
-- Novela italiana s. XX
+- Fiction
 oclc: '758080845'
 exlibris: '2011'
 zotero_key: 4RIX6E6M

@@ -17,10 +17,7 @@ pages: 538
 series:
 - Classiques Garnier
 subjects:
-- 1800-1899
-- French fiction
-- French fiction 19th century
-- Roman français 19e siècle
+- Fiction
 oclc: '671277'
 zotero_key: U9J5RTWW
 cover: covers/u9j5rtww.jpg

@@ -17,12 +17,10 @@ pages: 203
 edition: 1a ed
 series: []
 subjects:
-- Sex
 - Fiction
-- Sex Fiction
-- Dystopias
-- Dystopias Fiction
-- Dystopies Romans, nouvelles, etc
+- Philosophy
+- Sexuality & Eroticism
+- Short Stories
 oclc: '897508513'
 zotero_key: CWJBDPZ3
 cover: covers/cwjbdpz3.jpg

@@ -18,7 +18,8 @@ isbn: 978-2-07-037109-9
 pages: 527
 series:
 - Collection Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '22915108'
 exlibris: '1992'
 zotero_key: PJ8VYN9N

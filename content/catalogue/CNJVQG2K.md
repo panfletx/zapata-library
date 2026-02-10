@@ -17,7 +17,8 @@ pages: 208
 edition: 9a ed
 series:
 - Coleccion Austral
-subjects: []
+subjects:
+- Fiction
 oclc: '823268515'
 zotero_key: CNJVQG2K
 cover: covers/cnjvqg2k.jpg

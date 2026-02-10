@@ -10,7 +10,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- French Literature
 zotero_key: 4MG9S9KB
 cover: covers/4mg9s9kb.jpg
 ---

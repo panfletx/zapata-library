@@ -16,11 +16,11 @@ pages: 399
 series:
 - His La règle du jeu
 subjects:
-- Biographies
-- Anthropologists France 20th century Biography
-- Authors, French 20th century Biography
-- Leiris, Michel, 1901-1990
-- Surrealism (Literature) France
+- Biography
+- France
+- French Literature
+- Literary Criticism
+- Surrealism
 oclc: '2841178'
 zotero_key: NG9HPQ9M
 cover: covers/ng9hpq9m.jpg

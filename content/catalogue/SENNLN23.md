@@ -15,18 +15,8 @@ pages: 813
 series:
 - Punto de lectura
 subjects:
-- History
-- Culture
-- Civilisation occidentale Histoire
-- Civilization, Western
-- Civilization, Western History
-- Civilización occidental Historia
-- Cultura Historia
-- Culture History
-- Erudición Historia
-- Learning and scholarship
-- Learning and scholarship History
-- Savoir et érudition Histoire
+- Education
+- Modern History
 oclc: '1345559914'
 zotero_key: SENNLN23
 cover: covers/sennln23.jpg

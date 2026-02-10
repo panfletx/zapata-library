@@ -18,8 +18,7 @@ edition: 1a ed
 series:
 - Colección Andanzas
 subjects:
-- Spanish language
-- Espagnol (Langue)
+- Grammar & Linguistics
 oclc: '24522949'
 exlibris: '1992'
 zotero_key: 4SQDJMB7

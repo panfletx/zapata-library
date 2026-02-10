@@ -18,13 +18,9 @@ edition: 4. ed
 series:
 - Biblioteca Románica Hispánica
 subjects:
-- Criticism
-- Literature Philosophy
-- Critique
-- Literature Aesthetics
-- Literature Study and teaching
-- Littérature Esthétique
-- Littérature Étude et enseignement
+- Aesthetics
+- Literary Criticism
+- Philosophy
 oclc: '2305908'
 cover_note: '1975'
 zotero_key: K24SZNKT

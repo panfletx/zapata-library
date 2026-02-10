@@ -16,7 +16,8 @@ pages: 358
 edition: 3. ed
 series:
 - Biblioteca moderna Mondadori
-subjects: []
+subjects:
+- Italian Literature
 oclc: '6765678'
 exlibris: '1978'
 zotero_key: 3T8QRGX7

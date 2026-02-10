@@ -15,8 +15,8 @@ item_types:
 series:
 - Ouvrages de poche
 subjects:
-- Literatură franceză
-- Poezie
+- Literary Criticism
+- Poetry
 oclc: '935440621'
 exlibris: '1973'
 zotero_key: 446DUCSV

@@ -18,7 +18,8 @@ edition: Primera edición
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Drama mexicano Siglo XXI
+- Drama
+- Mexico
 oclc: '756663289'
 cover_note: dedicatoria de autor
 zotero_key: NNLIPHWF

@@ -18,14 +18,9 @@ source_url: http://catdir.loc.gov/catdir/enhancements/fy1111/2010424309-b.html
 pages: 139
 series: []
 subjects:
-- 18.33 Spanish-American literature
-- Stories (texts)
-- Adaptations
 - Drama
-- Arabian nights
-- Arabian nights Adaptations
-- Arabian nights Drama
-- Mil noches y una noche Teatro
+- Middle East
+- Oral Tradition & Folklore
 - Peru
 oclc: '649829811'
 exlibris: '2010'

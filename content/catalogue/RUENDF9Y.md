@@ -18,7 +18,8 @@ edition: 3a ed
 series:
 - Colección Duda Grandes
 subjects:
-- Hatha yoga
+- Buddhism
+- Religion
 oclc: '83041759'
 zotero_key: RUENDF9Y
 cover: covers/ruendf9y.jpg

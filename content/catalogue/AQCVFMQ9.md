@@ -18,7 +18,7 @@ edition: '[3a ed.]'
 series:
 - Libro Aguilar
 subjects:
-- Atlas
+- Visual Art
 oclc: '954536241'
 zotero_key: AQCVFMQ9
 cover: covers/aqcvfmq9.jpg

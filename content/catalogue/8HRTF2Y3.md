@@ -17,7 +17,9 @@ pages: 116
 edition: 1. ed
 series:
 - Cuadernos del Seminario de Poesía
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '931888036'
 cover_note: dedicatoria de Rossi
 zotero_key: 8HRTF2Y3

@@ -16,7 +16,7 @@ isbn: 978-950-724-946-4
 pages: 223
 series: []
 subjects:
-- APTITUD CREADORA
+- Literary Criticism
 oclc: '1395841266'
 zotero_key: USKTMN7U
 cover: covers/usktmn7u.jpg

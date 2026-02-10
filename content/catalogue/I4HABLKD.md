@@ -19,8 +19,6 @@ series:
 - Lecturas mexicanas
 subjects:
 - Fiction
-- Spanish language materials
-- NOVELAS MEXICANAS
 oclc: '29175719'
 zotero_key: I4HABLKD
 cover: covers/i4hablkd.jpg

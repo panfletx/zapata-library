@@ -11,7 +11,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de Ricardo Venegas
 zotero_key: DJISI4WP
 cover: covers/djisi4wp.jpg

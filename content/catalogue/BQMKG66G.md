@@ -17,10 +17,9 @@ pages: 93
 series:
 - Idiomas Hoy
 subjects:
-- Ingelesa Hizkera eta esaldiak
-- Inglés Gramática comparada y general Verbo Enseñanza
-- Lengua inglesa Verbos Ejercicios prácticos
-- Lengua inglesa- Conversación y frases
+- Education
+- Grammar & Linguistics
+- Modern History
 oclc: '39871077'
 zotero_key: BQMKG66G
 cover: covers/bqmkg66g.jpg

@@ -17,10 +17,9 @@ pages: 115
 edition: 1. ed. en español
 series: []
 subjects:
-- Mexico Jalisco
-- Art populaire Mexique Jalisco (État)
-- Folk art
-- Folk art Mexico Jalisco
+- Jalisco
+- Mexico
+- Visual Art
 oclc: '826786639'
 zotero_key: SGTRBF2W
 cover: covers/sgtrbf2w.jpg

@@ -17,11 +17,9 @@ pages: 540
 series:
 - Coleccion otros mundos
 subjects:
+- Modern History
 - Mysticism
-- Civilisation Philosophie
-- Civilization Philosophy
-- mysticism
-- Mysticisme
+- Philosophy
 oclc: '5010271'
 zotero_key: BVBJST9U
 cover: covers/bvbjst9u.jpg

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1062-2
 pages: 94
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521618'
 zotero_key: E4TQBSCA
 cover: covers/e4tqbsca.jpg

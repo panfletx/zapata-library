@@ -16,7 +16,8 @@ isbn: 978-84-473-2535-1
 pages: 225
 series:
 - Historia de la literatura (RBA Editores. 2002)
-subjects: []
+subjects:
+- Fiction
 oclc: '432915117'
 zotero_key: 3KWBYTQS
 cover: covers/3kwbytqs.jpg

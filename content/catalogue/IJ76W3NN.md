@@ -14,7 +14,8 @@ item_types:
 isbn: 978-968-39-0129-3
 series: []
 subjects:
-- México- Historia- S. XX
+- Mexico
+- Modern History
 oclc: '1367337714'
 zotero_key: IJ76W3NN
 cover: covers/ij76w3nn.jpg

@@ -19,15 +19,7 @@ edition: Ed. rev. et corr
 series:
 - Collection Folio/essais
 subjects:
-- str. 1989
-- Inconscient
-- Moi
-- Psychanalyse
-- psychoanalysis
 - Psychoanalysis
-- Psychoanalytic Theory
-- Subconsciousness
-- Unconscious, Psychology
 oclc: '28946617'
 zotero_key: LYLQPFPH
 cover: covers/lylqpfph.jpg

@@ -13,7 +13,8 @@ item_types:
 - book
 isbn: 968-7532-00-9
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de Óscar Cortés 1995
 zotero_key: AE4MYLAK
 cover: covers/ae4mylak.jpg

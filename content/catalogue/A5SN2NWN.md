@@ -11,7 +11,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: A5SN2NWN
 cover: covers/a5sn2nwn.jpg
 ---

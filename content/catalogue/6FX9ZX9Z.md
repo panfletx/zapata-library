@@ -18,18 +18,11 @@ edition: 1. ed
 series:
 - Colección Andanzas
 subjects:
-- Fiction
 - Dreams
-- Dreams Fiction
-- Einstein, Albert, 1879-1955
-- Einstein, Albert, 1879-1955 Fiction
-- Physiciens Romans, nouvelles, etc
-- Physicists
-- Physicists Fiction
-- Rêves Romans, nouvelles, etc
-- Temps Romans, nouvelles, etc
-- Time
-- Time Fiction
+- Fiction
+- Philosophy
+- Science
+- Short Stories
 oclc: '32129014'
 exlibris: '1994'
 zotero_key: 6FX9ZX9Z

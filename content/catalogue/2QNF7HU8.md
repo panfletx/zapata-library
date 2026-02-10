@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-16-1526-0
 pages: 110
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1080842836'
 zotero_key: 2QNF7HU8
 cover: covers/2qnf7hu8.jpg

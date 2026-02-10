@@ -17,7 +17,7 @@ pages: 702
 series:
 - Garnier-Flammarion. Texte Integral
 subjects:
-- Foreign languages French
+- French Literature
 oclc: '3296704'
 exlibris: '1975'
 zotero_key: KDHABVZZ

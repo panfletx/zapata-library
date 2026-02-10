@@ -19,15 +19,9 @@ edition: 1. ed
 series:
 - Cultura e historia mexicana
 subjects:
-- History
 - Mexico
-- Geography
-- Mexico Geography
-- Mexico History 19th century
-- Mexico History To 1810
-- Mexique Histoire 19e siècle
-- Mexique Histoire Jusqu'à 1810
-- To 1899
+- Modern History
+- Travel Writing
 oclc: '39341481'
 zotero_key: F9WWUKW9
 cover: covers/f9wwukw9.jpg

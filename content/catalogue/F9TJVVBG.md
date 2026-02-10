@@ -16,7 +16,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb31715395g
 pages: 1
 series:
 - Collection Tous les jours
-subjects: []
+subjects:
+- French Literature
 oclc: '458433012'
 zotero_key: F9TJVVBG
 cover: covers/f9tjvvbg.jpg

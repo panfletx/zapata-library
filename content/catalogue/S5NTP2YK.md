@@ -1,6 +1,5 @@
 ---
-title: 'Borges oral: El libro, La immortalidad, Emanuel Swedenborg, El cuento policial,
-  El tiempo'
+title: 'Borges oral: El libro, La immortalidad, Emanuel Swedenborg, El cuento policial, El tiempo'
 date: '2024-09-01'
 year: 1980
 decade: 1980s
@@ -17,7 +16,9 @@ isbn: 978-84-02-07110-1
 pages: 121
 series:
 - Libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '847845598'
 exlibris: 1981, 1982
 zotero_key: S5NTP2YK

@@ -19,10 +19,9 @@ edition: 1a. ed
 series:
 - Biografía Circe
 subjects:
-- Biografías
-- Crítica e interpretación
-- Kerouac, Jack 1922-1969 Biografías
-- Kerouac, Jack, 1922-1969
+- Beat Generation
+- Biography
+- Literary Criticism
 oclc: '431160400'
 zotero_key: RBN6IE4Q
 cover: covers/rbn6ie4q.jpg

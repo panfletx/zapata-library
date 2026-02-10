@@ -16,13 +16,8 @@ pages: 102
 edition: 1. ed
 series: []
 subjects:
-- Mexican poetry
-- 2000-2099
-- Mexican poetry 21st century
-- Poésie mexicaine 21e siècle
-- Mexican poetry Mexico Nuevo León (State)
-- Mexico Nuevo León (State)
-- Poésie mexicaine Mexique Nuevo León (État)
+- Mexico
+- Poetry
 oclc: '812183490'
 zotero_key: AN4PUT3N
 cover: covers/an4put3n.jpg

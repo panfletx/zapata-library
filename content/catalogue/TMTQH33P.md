@@ -17,11 +17,11 @@ pages: 578
 series:
 - Colección Hechos en palabras
 subjects:
-- History
+- Chiapas
 - Fiction
-- Mexico Chiapas
-- Chiapas (Mexico) History Fiction
-- Chiapas (Mexique) Histoire Romans, nouvelles, etc
+- Mexico
+- Modern History
+- Short Stories
 oclc: '739713821'
 exlibris: '2003'
 zotero_key: TMTQH33P

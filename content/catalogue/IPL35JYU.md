@@ -19,7 +19,6 @@ series:
 - Colección Sulayom
 subjects:
 - Fiction
-- Romans
 oclc: '246888779'
 cover_note: Uriel Quesada
 zotero_key: IPL35JYU

@@ -17,7 +17,8 @@ pages: 215
 edition: 7a ed
 series:
 - Libro de bolsillo (Alianza)
-subjects: []
+subjects:
+- Fiction
 oclc: '805587414'
 exlibris: '1992'
 zotero_key: VNINB76Z

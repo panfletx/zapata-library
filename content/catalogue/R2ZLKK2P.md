@@ -18,10 +18,9 @@ pages: 380
 edition: 1a ed
 series: []
 subjects:
-- Fellini, Federico 1920-1993 Biografías
-- Fellini, Federico, 1920-1993
-- Fellini, Federico, 1920-1993 biografías
-- Productores y directores de cine Italia
+- Biography
+- Film & Cinema
+- Italy
 oclc: '981358751'
 exlibris: '2003'
 zotero_key: R2ZLKK2P

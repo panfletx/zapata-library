@@ -16,7 +16,9 @@ item_types:
 isbn: 978-968-6005-38-7
 pages: 219
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '81707208'
 cover_note: dedicatoria
 exlibris: '1988'

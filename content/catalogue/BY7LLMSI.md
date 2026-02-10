@@ -17,9 +17,10 @@ pages: 78
 series:
 - Relato corto Aguilar
 subjects:
-- Cuentos franceses Siglo XIX
-- Cuentos franceses Traducciones al español
-- Francia Vida social y costumbres Siglo XIX Colecciones literarias
+- Biography
+- Modern History
+- Short Stories
+- Translation Studies
 oclc: '431918992'
 zotero_key: BY7LLMSI
 cover: covers/by7llmsi.jpg

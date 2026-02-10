@@ -18,20 +18,14 @@ edition: 1. ed
 series:
 - Biblioteca Carlos Fuentes
 subjects:
+- Feminism
 - Fiction
-- Spanish language materials
-- Man-woman relationships
-- Man-woman relationships Fiction
-- Relations entre hommes et femmes Romans, nouvelles, etc
-- Romance fiction
-- Novela mexicana Siglo XX
-- Español
-- Love stories
-- Amor Novela
-- Literatura mexicana Novela Siglo XX
-- Músicos Novela
-- Novela en español
-- Relaciones hombre-mujer Novela
+- Gender Studies
+- Literary Criticism
+- Love & Desire
+- Mexican Literature
+- Mexico
+- Short Stories
 oclc: '46824151'
 cover_note: Jose Dimayuga
 zotero_key: YMT2DETY

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-2-253-93213-0
 pages: 377
 series: []
-subjects: []
+subjects:
+- French Literature
 zotero_key: U5HWNHDU
 cover: covers/u5hwnhdu.jpg
 ---

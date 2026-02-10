@@ -18,8 +18,7 @@ pages: 259
 series:
 - Libros del viajero
 subjects:
-- Descripción
-- Río de Janeiro (Brasil) Descripciones Guías
+- Brazil
 oclc: '645268813'
 zotero_key: FTP24VRA
 cover: covers/ftp24vra.jpg

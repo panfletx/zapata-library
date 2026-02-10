@@ -18,10 +18,9 @@ edition: 1. ed
 series:
 - Crónica (Distrito Federal, Mexico)
 subjects:
+- Essay
 - Fiction
-- Romans
-- Ensayos mexicanos Siglo XX
-- Prosa literaria mexicana Siglo XX
+- Mexico
 oclc: '28402330'
 cover_note: dedicatoria jjb
 zotero_key: BDA6UCN3

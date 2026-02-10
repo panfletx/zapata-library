@@ -15,7 +15,8 @@ item_types:
 pages: 79
 series:
 - Amores
-subjects: []
+subjects:
+- Fiction
 oclc: '1249342222'
 exlibris: '1974'
 zotero_key: BMP9NDHV

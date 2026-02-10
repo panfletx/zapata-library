@@ -17,7 +17,8 @@ pages: 77
 edition: 1. ed
 series:
 - Colección Hechos en palabras
-subjects: []
+subjects:
+- Fiction
 oclc: '594081323'
 zotero_key: W5P6RPQ4
 cover: covers/w5p6rpq4.jpg

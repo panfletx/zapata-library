@@ -17,7 +17,7 @@ pages: 166
 series:
 - Colección austral
 subjects:
-- Novela rusa 18..
+- Fiction
 oclc: '1123664057'
 zotero_key: YB6SQZWS
 cover: covers/yb6sqzws.jpg

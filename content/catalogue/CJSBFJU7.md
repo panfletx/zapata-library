@@ -17,11 +17,8 @@ pages: 209
 series: []
 subjects:
 - Fiction
-- Fictional Work
-- Romans
-- Nouvelles mexicaines
-- Short stories, Mexican
-- Mexican stories
+- Mexico
+- Short Stories
 oclc: '56496269'
 zotero_key: CJSBFJU7
 cover: covers/cjsbfju7.jpg

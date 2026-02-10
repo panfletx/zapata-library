@@ -19,8 +19,8 @@ pages: 189
 series:
 - Cultura
 subjects:
-- Omar Khayyám Crítica i interpretació
-- Poesia sufí persa Iran
+- Literary Criticism
+- Poetry
 oclc: '807559932'
 zotero_key: YMZ3C3GE
 cover: covers/ymz3c3ge.jpg

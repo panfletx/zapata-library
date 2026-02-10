@@ -6,8 +6,7 @@ decade: 1990s
 authors:
 - Ramírez, Luis Enrique
 publishers:
-- Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de
-  Comunicación Social
+- Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de Comunicación Social
 place: San Angel, D.F. [México]
 languages:
 - Español
@@ -19,16 +18,10 @@ edition: 1. ed
 series:
 - Periodismo cultural
 subjects:
+- Interview
 - Mexico
-- Intellectual life
-- 1900-1999
-- Interviews
-- Arts
-- Arts Mexico 20th century
-- Arts Mexique 20e siècle
-- Entretiens Mexique
-- Interviews Mexico
-- Mexico Intellectual life 20th century
+- Modern History
+- Visual Art
 oclc: '34350829'
 zotero_key: QANGUY79
 cover: covers/qanguy79.jpg

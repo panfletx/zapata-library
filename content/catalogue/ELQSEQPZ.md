@@ -18,11 +18,8 @@ edition: 1a ed
 series:
 - Colección superación personal
 subjects:
-- Bibia Meditaciones
-- Bible
-- Bible Meditations
-- Bible Méditations
-- Meditations
+- Buddhism
+- Religion
 oclc: '36827609'
 zotero_key: ELQSEQPZ
 cover: covers/elqseqpz.jpg

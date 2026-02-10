@@ -1,6 +1,5 @@
 ---
-title: Poética de la hibridez en la literatura mexicana posmodernista (Laura Esquivel,
-  Margo Glantz, Luis Zapata)
+title: Poética de la hibridez en la literatura mexicana posmodernista (Laura Esquivel, Margo Glantz, Luis Zapata)
 date: '2024-09-01'
 year: 2014
 decade: 2010s
@@ -18,26 +17,13 @@ pages: 471
 series:
 - Pliegos de ensayo
 subjects:
+- Literary Criticism
+- Luis Zapata
+- Mexican Literature
 - Mexico
-- Mexican literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Literatur
-- Mexican literature 20th century History and criticism
-- Mexiko
-- Como agua para chocolate (Esquivel, Laura)
-- Cultural fusion in literature
-- Double appartenance (Sciences sociales) dans la littérature
-- Esquivel, Laura 1950-
-- Esquivel, Laura, 1950-
-- Glantz, Margo
-- Glantz, Margo 1930-
-- Postmoderne
-- Postmodernism (Literature)
-- Postmodernism (Literature) Mexico
-- Postmodernisme (Littérature) Mexique
-- Zapata, Luis 1951-2020
-- Zapata, Luis, 1951-
+- Modern History
+- Postmodernism
+- Science
 oclc: '910182998'
 zotero_key: WJM925ME
 cover: covers/wjm925me.jpg

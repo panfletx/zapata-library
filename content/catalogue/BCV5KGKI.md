@@ -18,24 +18,12 @@ edition: Primera edición
 series:
 - Dinámica (Barcelona, Spain)
 subjects:
-- Meditation
-- Méditation
-- Meditación
-- Relajación
-- Popular Work
-- Atención
-- Attention
-- Awareness
-- existentialism
+- Buddhism
+- Education
 - Existentialism
-- Existentialisme
-- Higiene mental Obras de divulgación
-- mental health
-- Mental health
-- Mental Health
-- Prise de conscience
-- Relaxation Therapy
-- Santé mentale
+- Medicine & Health
+- Psychoanalysis
+- Religion
 oclc: '33055350'
 zotero_key: BCV5KGKI
 cover: covers/bcv5kgki.jpg

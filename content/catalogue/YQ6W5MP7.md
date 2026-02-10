@@ -18,7 +18,6 @@ edition: 1a ed
 series: []
 subjects:
 - Fiction
-- Romans
 oclc: '9236446'
 zotero_key: YQ6W5MP7
 cover: covers/yq6w5mp7.jpg

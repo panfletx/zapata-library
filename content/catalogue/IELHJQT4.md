@@ -18,11 +18,8 @@ edition: '[Rev. ed'
 series:
 - Libro Aguilar
 subjects:
-- History
-- Civilization
+- Modern History
 - Spain
-- Espagne Civilisation Histoire
-- Spain Civilization History
 oclc: '61655889'
 exlibris: '1986'
 zotero_key: IELHJQT4

@@ -16,12 +16,8 @@ isbn: 978-968-13-2510-7
 pages: 159
 series: []
 subjects:
-- Médecine naturelle
-- Naturaleza, Poder curativo de la
-- Nature, Healing power of
-- Naturopathie
-- Naturopathy
-- Naturopatía
+- Medicine & Health
+- Nature & Environment
 oclc: '30147244'
 zotero_key: LM4SJFKH
 cover: covers/lm4sjfkh.jpg

@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 215
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '983473303'
 zotero_key: 9FEPQ4BC
 cover: covers/9fepq4bc.jpg

@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 970-94403-0-7
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria jjb
 zotero_key: FLVFVUAM
 cover: covers/flvfvuam.jpg

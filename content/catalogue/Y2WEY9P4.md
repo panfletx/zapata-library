@@ -19,18 +19,13 @@ edition: Ed. íntegra
 series:
 - Clásicos universales (JM Ediciones)
 subjects:
+- Epic
+- Fiction
+- Modern History
+- Oral Tradition & Folklore
 - Poetry
-- Translations
-- Aeneas (Legendary character)
-- Epic poetry, Latin
-- Legends
-- Rome (Empire)
-- Aeneas (Legendary character) Poetry
-- Epic poetry, Latin Translations into English
-- Légendes Rome Poésie
-- Legends Rome Poetry
-- Leyendas Roma Poesía
-- Poesía épica latina Traducciones al inglés
+- Rome
+- Translation Studies
 oclc: '56937613'
 zotero_key: Y2WEY9P4
 cover: covers/y2wey9p4.jpg

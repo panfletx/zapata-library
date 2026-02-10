@@ -18,7 +18,8 @@ edition: 1a ed
 series:
 - Colección Andanzas
 subjects:
-- LITERATURA BELGA SIGLO XX
+- French Literature
+- Literary Criticism
 oclc: '30541758'
 zotero_key: NF4VNU2W
 cover: covers/nf4vnu2w.jpg

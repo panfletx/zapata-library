@@ -19,7 +19,7 @@ edition: 1a ed
 series:
 - Contemporánea
 subjects:
-- Estambul (Turquía) Descripción y viajes
+- Travel Writing
 oclc: '906918459'
 exlibris: '2010'
 zotero_key: FJJ7WSL6

@@ -17,17 +17,12 @@ pages: 121
 edition: 1a ed
 series: []
 subjects:
-- History
-- Mexico
-- Gay men
 - Fiction
-- Gay men Mexico Fiction
-- Homosexuels masculins Mexique Romans, nouvelles, etc
-- 1910-1920
-- Hombres gays México Novela
-- México Historia Revolución, 1910-1920 Novela
-- Mexico History Revolution, 1910-1920 Fiction
-- Mexique Histoire 1910-1920 (Révolution) Romans, nouvelles, etc
+- Gay Literature
+- Mexico
+- Modern History
+- Short Stories
+- Social Movements
 oclc: '16545920'
 cover_note: dedicatoria de Olivier
 zotero_key: 8Q5WGNUT

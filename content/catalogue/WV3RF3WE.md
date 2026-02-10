@@ -15,7 +15,8 @@ item_types:
 isbn: 978-958-04-3928-8
 pages: 156
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '777782131'
 zotero_key: WV3RF3WE
 cover: covers/wv3rf3we.jpg

@@ -16,7 +16,8 @@ item_types:
 pages: 192
 series:
 - Ecrivains de toujours
-subjects: []
+subjects:
+- Fiction
 oclc: '1023823987'
 zotero_key: 3RV8P9DU
 cover: covers/3rv8p9du.jpg

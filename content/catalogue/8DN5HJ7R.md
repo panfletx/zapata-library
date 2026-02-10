@@ -16,7 +16,8 @@ pages: 141
 edition: 7. ed
 series:
 - Nuevos valores
-subjects: []
+subjects:
+- Fiction
 oclc: '2997495'
 zotero_key: 8DN5HJ7R
 cover: covers/8dn5hj7r.jpg

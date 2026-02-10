@@ -16,7 +16,7 @@ pages: 251
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Poesía épica alemana
+- Epic
 oclc: '8890928'
 zotero_key: K7KKI6BF
 cover: covers/k7kki6bf.jpg

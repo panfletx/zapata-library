@@ -20,8 +20,9 @@ edition: 2a reimp
 series:
 - Colección azul celeste
 subjects:
-- Curación espiritual
-- Oración (Religión) Cristianismo
+- Catholicism
+- Medicine & Health
+- Religion
 oclc: '651563528'
 zotero_key: R6HJ3XML
 cover: covers/r6hj3xml.jpg

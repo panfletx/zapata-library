@@ -15,7 +15,8 @@ item_types:
 isbn: 978-2-07-071890-0
 pages: 265
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '883568769'
 zotero_key: WHPRTXHQ
 cover: covers/whprtxhq.jpg

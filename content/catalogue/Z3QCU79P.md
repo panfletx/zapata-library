@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: Z3QCU79P
 cover: covers/z3qcu79p.jpg
 ---

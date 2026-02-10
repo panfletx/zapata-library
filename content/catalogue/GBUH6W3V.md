@@ -15,7 +15,7 @@ item_types:
 pages: 277
 series: []
 subjects:
-- Ficção americana
+- American Literature
 oclc: '816899561'
 zotero_key: GBUH6W3V
 cover: covers/gbuh6w3v.jpg

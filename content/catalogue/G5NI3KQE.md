@@ -15,7 +15,9 @@ item_types:
 isbn: 978-607-7742-72-2
 edition: 1st
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 zotero_key: G5NI3KQE
 cover: covers/g5ni3kqe.jpg
 ---

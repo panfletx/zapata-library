@@ -18,7 +18,8 @@ pages: 121
 edition: 2a ed
 series:
 - Alianza tres
-subjects: []
+subjects:
+- Fiction
 oclc: '1344136220'
 exlibris: '1986'
 zotero_key: 6EWFI6X2

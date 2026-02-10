@@ -17,7 +17,9 @@ pages: 191
 edition: 1a ed
 series:
 - Libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '81340175'
 zotero_key: WGMEVIUS
 cover: covers/wgmevius.jpg

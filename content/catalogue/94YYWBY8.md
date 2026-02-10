@@ -17,10 +17,8 @@ pages: 1126
 series:
 - Letras mexicanas
 subjects:
-- Spanish literature
-- 1900-1999
-- Littérature espagnole 20e siècle
-- Spanish literature 20th century
+- Literary Criticism
+- Spanish Literature
 oclc: '1181482718'
 zotero_key: 94YYWBY8
 cover: covers/94yywby8.jpg

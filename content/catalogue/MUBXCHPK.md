@@ -17,7 +17,7 @@ pages: 157
 series:
 - Fuera de Colección
 subjects:
-- Cuentos argentinos Siglo XX
+- Short Stories
 oclc: '970501252'
 zotero_key: MUBXCHPK
 cover: covers/mubxchpk.jpg

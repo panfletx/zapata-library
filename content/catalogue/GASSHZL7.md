@@ -17,7 +17,9 @@ pages: 141
 edition: 1. ed
 series:
 - Colección Thélema
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '456377669'
 zotero_key: GASSHZL7
 cover: covers/gasshzl7.jpg

@@ -15,7 +15,7 @@ item_types:
 pages: 266
 series: []
 subjects:
-- Novela picaresca
+- Fiction
 oclc: '651258357'
 zotero_key: 5MHMYEDU
 cover: covers/5mhmyedu.jpg

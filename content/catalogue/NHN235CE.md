@@ -10,7 +10,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: NHN235CE
 cover: covers/nhn235ce.jpg
 ---

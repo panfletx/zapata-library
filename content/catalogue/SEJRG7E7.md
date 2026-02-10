@@ -16,9 +16,7 @@ isbn: 978-968-39-1088-2
 pages: 93
 series: []
 subjects:
-- Spanish language materials
-- Nouvelles irlandaises
-- Short stories, Irish
+- Short Stories
 oclc: '651521422'
 zotero_key: SEJRG7E7
 cover: covers/sejrg7e7.jpg

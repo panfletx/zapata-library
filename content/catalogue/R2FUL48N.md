@@ -15,7 +15,8 @@ item_types:
 pages: 70
 edition: '[18. Aufl.]'
 series: []
-subjects: []
+subjects:
+- German Literature
 oclc: '39636028'
 zotero_key: R2FUL48N
 cover: covers/r2ful48n.jpg

@@ -18,14 +18,9 @@ pages: 206
 series:
 - Atuel teatro
 subjects:
+- Anthology
+- Drama
 - Mexico
-- 1900-1999
-- 18.33 Spanish-American literature
-- Anthologies (form)
-- Drama (texts)
-- Mexican drama
-- Mexican drama 20th century
-- Théâtre mexicain 20e siècle
 oclc: '63190345'
 zotero_key: AXCJXZA9
 cover: covers/axcjxza9.jpg

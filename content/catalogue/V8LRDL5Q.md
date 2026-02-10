@@ -16,16 +16,10 @@ pages: 95
 series:
 - Alianza cien
 subjects:
+- Biography
 - Mexico
-- Festivals
-- Manners and customs
-- Legends
-- Mexico Social life and customs
-- México Vida social y costumbres
-- Festivales México
-- Festivals Mexico
-- Legends Mexico
-- Leyendas México
+- Modern History
+- Oral Tradition & Folklore
 oclc: '34462836'
 zotero_key: V8LRDL5Q
 cover: covers/v8lrdl5q.jpg

@@ -6,8 +6,7 @@ decade: 2010s
 authors:
 - Conde, Rosina
 publishers:
-- 'Instituto Municipal de Arte y Cultura : Facultad de Humanidades, UABC : Unión de
-  Libreros de Tijuana ; Desliz Ediciones'
+- 'Instituto Municipal de Arte y Cultura : Facultad de Humanidades, UABC : Unión de Libreros de Tijuana ; Desliz Ediciones'
 place: Tijuana, México, D.F.
 languages:
 - Español
@@ -16,10 +15,11 @@ item_types:
 pages: 91
 series: []
 subjects:
+- Feminism
 - Fiction
-- Man-woman relationships
-- Man-woman relationships Fiction
-- Relations entre hommes et femmes Romans, nouvelles, etc
+- Gender Studies
+- Love & Desire
+- Short Stories
 oclc: '722913707'
 zotero_key: KMFQDGAF
 cover: covers/kmfqdgaf.jpg

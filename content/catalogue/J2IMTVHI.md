@@ -15,7 +15,8 @@ item_types:
 pages: 187
 series:
 - Idées
-subjects: []
+subjects:
+- French Literature
 oclc: '1400580166'
 exlibris: '1994'
 zotero_key: J2IMTVHI

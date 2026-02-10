@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria del autor
 zotero_key: 2TT8RITW
 cover: covers/2tt8ritw.jpg

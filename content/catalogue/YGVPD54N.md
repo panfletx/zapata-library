@@ -19,20 +19,12 @@ edition: 1a. ed. en Clásicos para hoy
 series:
 - Clásicos para hoy
 subjects:
-- Europeans
-- Imperialism
-- Novels
+- Colonialism & Postcolonialism
 - Fiction
-- Romans
-- Spanish language materials
-- novels
-- Africa
-- Africa Fiction
-- Afrique Romans, nouvelles, etc
-- Europeans Africa Fiction
-- Européens Afrique Romans, nouvelles, etc
-- Imperialism Fiction
-- Impérialisme Romans, nouvelles, etc
+- Latin America
+- Modern History
+- Novel
+- Short Stories
 oclc: '64578351'
 exlibris: '1999'
 zotero_key: YGVPD54N

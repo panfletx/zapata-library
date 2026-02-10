@@ -18,9 +18,7 @@ pages: 129
 series:
 - Biblioteca Humanitas de material didáctico
 subjects:
-- Romances
-- Yvain (Legendary character)
-- Ywain (Legendary character) Romances
+- Fiction
 oclc: '17531241'
 zotero_key: 9SUHLMZQ
 cover: covers/9suhlmzq.jpg

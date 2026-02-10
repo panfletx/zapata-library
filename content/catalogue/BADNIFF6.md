@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 968-39-1215-X
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: BADNIFF6
 cover: covers/badniff6.jpg
 ---

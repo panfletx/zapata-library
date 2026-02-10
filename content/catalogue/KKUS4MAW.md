@@ -18,12 +18,9 @@ isbn: 978-970-607-325-9
 pages: 288
 series: []
 subjects:
-- German language
-- Textbooks for Spanish speakers
-- Allemand (Langue) Grammaire
-- German language Grammar
-- German language Study and teaching
-- German language Textbooks for foreign speakers Spanish
+- Education
+- Grammar & Linguistics
+- Modern History
 oclc: '43974343'
 zotero_key: KKUS4MAW
 cover: covers/kkus4maw.jpg

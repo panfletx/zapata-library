@@ -18,16 +18,10 @@ edition: 1a ed
 series:
 - Colección Enlace
 subjects:
-- Mexican fiction
-- Criticism, interpretation, etc
-- 1900-1999
-- Romans
-- Mexiko
-- Mexican fiction 20th century History and criticism
-- Roman mexicain 20e siècle Histoire et critique
-- Spaans
-- Roman
-- Geschichte 1967-1982
+- Fiction
+- Literary Criticism
+- Mexico
+- Modern History
 oclc: '12436248'
 zotero_key: NX4FV8KB
 cover: covers/nx4fv8kb.jpg

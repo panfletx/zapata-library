@@ -16,7 +16,7 @@ isbn: 978-607-07-1929-5
 pages: 141
 series: []
 subjects:
-- Pérez Gay, Rafael, 1957-
+- Gay Literature
 oclc: '931764211'
 zotero_key: 6AIXBZEK
 cover: covers/6aixbzek.jpg

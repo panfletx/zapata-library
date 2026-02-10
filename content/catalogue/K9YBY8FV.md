@@ -18,7 +18,7 @@ pages: 651
 series:
 - Libro Aguilar
 subjects:
-- Novelas históricas
+- Fiction
 oclc: '434302058'
 zotero_key: K9YBY8FV
 cover: covers/k9yby8fv.jpg

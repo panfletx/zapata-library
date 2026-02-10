@@ -15,7 +15,8 @@ item_types:
 isbn: 978-9972-40-062-9
 pages: 91
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '47723891'
 cover_note: regalo de Toño
 exlibris: '2007'

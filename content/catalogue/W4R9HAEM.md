@@ -17,8 +17,8 @@ pages: 209
 series:
 - '[Grandes mujeres]'
 subjects:
-- Biografías
-- Curie, Marie 1867-1934
+- Biography
+- Science
 oclc: '1117401759'
 zotero_key: W4R9HAEM
 cover: covers/w4r9haem.jpg

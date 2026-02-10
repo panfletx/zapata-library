@@ -18,9 +18,7 @@ series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
 - Fiction
-- Romans
-- Novels (texts)
-- 18.32 Spanish literature
+- Novel
 oclc: '17724358'
 cover_note: AMC, Ammie et Marie Paule 1989
 zotero_key: NG8Y8DNT

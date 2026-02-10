@@ -18,7 +18,8 @@ pages: 370
 edition: 1a. ed. en Pocket Edhasa
 series:
 - Pocket/Edhasa
-subjects: []
+subjects:
+- Fiction
 oclc: '433123161'
 exlibris: '2008'
 zotero_key: QHVCVYPR

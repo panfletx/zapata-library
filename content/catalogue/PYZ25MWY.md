@@ -19,7 +19,8 @@ edition: '[2a. ed.]'
 series:
 - Libro amigo (Bruguera)
 subjects:
-- str. 1984
+- Fiction
+- Mexican Literature
 oclc: '434343577'
 zotero_key: PYZ25MWY
 cover: covers/pyz25mwy.jpg

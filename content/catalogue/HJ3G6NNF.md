@@ -18,7 +18,7 @@ edition: 9a ed
 series:
 - Historia Universal de la literatura
 subjects:
-- Novela francesa Siglo XIX
+- Fiction
 oclc: '31505709'
 zotero_key: HJ3G6NNF
 cover: covers/hj3g6nnf.jpg

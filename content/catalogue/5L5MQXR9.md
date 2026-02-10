@@ -16,7 +16,8 @@ isbn: 978-9972-37-114-1
 pages: 2
 series:
 - Los Clasicos de la Opera. 400 anos
-subjects: []
+subjects:
+- Italian Literature
 oclc: '1395407182'
 zotero_key: 5L5MQXR9
 cover: covers/5l5mqxr9.jpg

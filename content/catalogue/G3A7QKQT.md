@@ -19,18 +19,12 @@ edition: 1. ed
 series:
 - Colección Grandes autores (Mexico City, Mexico)
 subjects:
-- Mexican fiction
-- 1900-1999
-- Novela mexicana Siglo XX
-- Anthologie
-- Mexican fiction 21st century
-- Mexican fiction Mexico Mexico City
-- Mexican fiction 20th century
-- Roman mexicain 20e siècle
-- Erzählung
-- Geschichte 1900-2000
-- Land Mexiko
-- Novela mexicana Antología Siglo XX
+- Anthology
+- Fiction
+- Mexico
+- Mexico City
+- Modern History
+- Urban Life
 oclc: '61168511'
 exlibris: '2005'
 zotero_key: G3A7QKQT

@@ -15,12 +15,9 @@ item_types:
 pages: 322
 series: []
 subjects:
-- History
+- Conquest of Mexico
 - Mexico
-- 1519-1540
-- México Historia Conquista, 1519-1540
-- Mexico History Conquest, 1519-1540
-- Mexique Histoire 1519-1540 (Conquête)
+- Modern History
 oclc: '17796698'
 zotero_key: TBNWY9I2
 cover: covers/tbnwy9i2.jpg

@@ -17,9 +17,12 @@ pages: 127
 series:
 - Marginales
 subjects:
-- Duras, Marguerite, 1914-1996 Cine Guiones
-- Ensayos franceses Siglo XX
-- Literatura francesa s. XX
+- Essay
+- Film & Cinema
+- French Literature
+- Literary Criticism
+- Marguerite Duras
+- Screenplay
 oclc: '318159307'
 zotero_key: R73W6LPT
 cover: covers/r73w6lpt.jpg

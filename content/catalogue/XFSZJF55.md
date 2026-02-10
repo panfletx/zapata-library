@@ -16,7 +16,9 @@ isbn: 978-968-837-072-8
 pages: 238
 series:
 - Nuestros clásicos (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '21707817'
 zotero_key: XFSZJF55
 cover: covers/xfszjf55.jpg

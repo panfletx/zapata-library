@@ -17,8 +17,7 @@ pages: 93
 series:
 - Alianza Cien
 subjects:
-- Teatro español
-- Teatro español Siglo XX
+- Drama
 oclc: '589331284'
 zotero_key: W3GRBK5K
 cover: covers/w3grbk5k.jpg

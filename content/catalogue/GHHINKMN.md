@@ -16,7 +16,9 @@ isbn: 978-968-493-248-7
 pages: 172
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '28641897'
 zotero_key: GHHINKMN
 cover: covers/ghhinkmn.jpg

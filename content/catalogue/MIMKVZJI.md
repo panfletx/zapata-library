@@ -6,8 +6,7 @@ decade: 2000s
 authors:
 - Salazar, Antonio
 publishers:
-- 'Escuela Nacional de Artes Plásticas, Posgrado en Artes Visuales : UNAM : Grupo
-  Fogra'
+- 'Escuela Nacional de Artes Plásticas, Posgrado en Artes Visuales : UNAM : Grupo Fogra'
 place: México, D.F.
 languages:
 - Español
@@ -18,11 +17,11 @@ pages: 270
 edition: Primera edición
 series: []
 subjects:
-- Erotic photography Male nude Photographs
-- Gay erotic photography
-- Photographie d'hommes
-- Photographie érotique homosexuelle
-- Photography of men
+- Erotic Literature
+- Gay Literature
+- Photography
+- Sexuality & Eroticism
+- Visual Art
 oclc: '465305330'
 zotero_key: MIMKVZJI
 cover: covers/mimkvzji.jpg

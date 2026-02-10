@@ -17,15 +17,7 @@ pages: 333
 edition: 2. ed. en México
 series: []
 subjects:
-- Vida espiritual
-- Dieu Cognoscibilité
-- Dios Conocimiento
-- Experience (Religion)
-- Expérience religieuse
-- Experiencia (Religión)
-- God Knowableness
-- Spiritual life
-- Vie spirituelle
+- Religion
 oclc: '53319221'
 zotero_key: IP2AV3LE
 cover: covers/ip2av3le.jpg

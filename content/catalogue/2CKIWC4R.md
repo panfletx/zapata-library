@@ -15,8 +15,7 @@ pages: 68
 series: []
 subjects:
 - Fiction
-- Romans
-- Aucassin et Nicolette
+- Medieval Literature
 oclc: '2943569'
 zotero_key: 2CKIWC4R
 cover: covers/2ckiwc4r.jpg

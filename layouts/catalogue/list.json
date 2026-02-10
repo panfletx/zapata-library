@@ -5,6 +5,11 @@
     {{- $key := printf "lang_%s" . -}}
     {{- $translatedLangs = $translatedLangs | append (i18n $key | default .) -}}
   {{- end -}}
+  {{- $translatedSubjects := slice -}}
+  {{- range (default (slice) .Params.subjects) -}}
+    {{- $subjKey := printf "subj_%s" (. | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+    {{- $translatedSubjects = $translatedSubjects | append (i18n $subjKey | default .) -}}
+  {{- end -}}
   {{- $item := dict
     "title" .Title
     "authors" (default (slice) .Params.authors)
@@ -15,7 +20,7 @@
     "languages" $translatedLangs
     "item_types" (default (slice) .Params.item_types)
     "series" (default (slice) .Params.series)
-    "subjects" (default (slice) .Params.subjects)
+    "subjects" $translatedSubjects
     "isbn" (default "" .Params.isbn)
     "pages" (default 0 .Params.pages)
     "cover" ((default "" .Params.cover) | relURL)

@@ -16,11 +16,8 @@ edition: 1. ed
 series:
 - Nuestros clásicos
 subjects:
-- History
 - Brazil
-- 1893-1897
-- Brazil History Canudos Campaign, 1893-1897
-- Brésil Histoire 1893-1897 (Guerre de Canudos)
+- Modern History
 oclc: '4600459'
 zotero_key: 8ZWXH2CT
 cover: covers/8zwxh2ct.jpg

@@ -16,7 +16,9 @@ isbn: 978-607-9357-10-8
 pages: 220
 edition: Primera edición en Cal y arena
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '894558294'
 zotero_key: AXTN9UNH
 cover: covers/axtn9unh.jpg

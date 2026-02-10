@@ -16,7 +16,8 @@ isbn: 978-968-22-0189-9
 pages: 312
 series:
 - Obras Maestras Contemporáneo.
-subjects: []
+subjects:
+- Fiction
 oclc: '1097209441'
 zotero_key: U9XLGE38
 cover: covers/u9xlge38.jpg

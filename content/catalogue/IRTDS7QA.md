@@ -17,42 +17,16 @@ pages: 347
 edition: First Atria Books hardcover edition
 series: []
 subjects:
-- Novels
+- Childhood
+- Children's Literature
+- Family
 - Fiction
-- Fictional Work
-- Romans
-- Family secrets
-- Family secrets Fiction
-- Secrets de famille Romans, nouvelles, etc
-- Bildungsromans
-- Families
-- Roman
-- Adolescence Fiction
-- Amerikanisches Englisch
-- Brothers
-- Brothers Fiction
-- Coming of age Fiction
-- Enfants intersexués Romans, nouvelles, etc
-- Families Fiction
-- Familles Romans, nouvelles, etc
-- Family life Fiction
-- Frères Romans, nouvelles, etc
-- Gender identity
-- Gender identity Fiction
-- Guilt Fiction
-- Identité de genre Romans, nouvelles, etc
-- Intersex children
-- Intersex children Fiction
-- Intersex fiction
-- Intersexuality
-- Intersexuality Fiction
-- Rape Fiction
-- Secrecy Fiction
-- Sex Physiological aspects Fiction
-- Sex role Fiction
-- Teen fiction
-- Young adult fiction
-- Young adult works
+- Gender Studies
+- National Identity
+- Novel
+- Sexuality & Eroticism
+- Short Stories
+- Transgender Studies
 oclc: '826526529'
 zotero_key: IRTDS7QA
 cover: covers/irtds7qa.jpg

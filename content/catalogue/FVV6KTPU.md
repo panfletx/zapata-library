@@ -19,7 +19,6 @@ series:
 - Red de Jonás
 subjects:
 - Fiction
-- Romans
 oclc: '26435837'
 zotero_key: FVV6KTPU
 cover: covers/fvv6ktpu.jpg

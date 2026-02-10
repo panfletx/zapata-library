@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 126
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '637268601'
 exlibris: '1978'
 zotero_key: Y7HXW48F

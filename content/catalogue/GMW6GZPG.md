@@ -18,12 +18,8 @@ edition: 1. ed
 series:
 - Diccionario práctico Larousse
 subjects:
-- Spanish language
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Spanish language Dictionaries
-- Español Diccionarios
+- Dictionary
+- Grammar & Linguistics
 oclc: '15799576'
 zotero_key: GMW6GZPG
 cover: covers/gmw6gzpg.jpg

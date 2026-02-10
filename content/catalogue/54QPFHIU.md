@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-0973-2
 pages: 63
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521468'
 zotero_key: 54QPFHIU
 cover: covers/54qpfhiu.jpg

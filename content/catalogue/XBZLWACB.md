@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-19-0150-9
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '742557500'
 zotero_key: XBZLWACB
 cover: covers/xbzlwacb.jpg

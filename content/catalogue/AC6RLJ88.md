@@ -17,8 +17,9 @@ pages: 121
 series:
 - Biblioteca clásica y contemporánea
 subjects:
-- Literatura estadounidense Siglo XIX
-- Literatura norteamericana Traducciones al español
+- American Literature
+- Literary Criticism
+- Translation Studies
 oclc: '41930688'
 zotero_key: AC6RLJ88
 cover: covers/ac6rlj88.jpg

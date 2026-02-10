@@ -17,16 +17,11 @@ edition: 2. ed
 series:
 - Novelá Extemporáneos
 subjects:
+- Biography
+- Literary Criticism
+- Marxism
+- Mexican Literature
 - Mexico
-- Biographies
-- 1900-1999
-- Authors, Mexican
-- Authors, Mexican 20th century Biography
-- collective biographies
-- Communists
-- Communists Mexico Biography
-- Écrivains mexicains 20e siècle Biographies
-- Galeana, Benita
 oclc: '1490139'
 zotero_key: DCJNJB6Y
 cover: covers/dcjnjb6y.jpg

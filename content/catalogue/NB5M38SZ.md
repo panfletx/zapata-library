@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: NB5M38SZ
 cover: covers/nb5m38sz.jpg
 ---

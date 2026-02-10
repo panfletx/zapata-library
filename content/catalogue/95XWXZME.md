@@ -17,18 +17,11 @@ pages: 85
 edition: First trade edition
 series: []
 subjects:
-- 1900-1999
-- Diaries
-- Friendship
-- Authors, English
-- Isherwood, Christopher, 1904-1986
-- Portraits
-- diaries
-- Journaux intimes
-- Authors, English 20th century Diaries
-- Écrivains anglais 20e siècle Journaux intimes
-- Isherwood, Christopher, 1904-1986 Diaries
-- Isherwood, Christopher, 1904-1986 Friends and associates Portraits
+- Diary & Letters
+- Gay Literature
+- Literary Criticism
+- Love & Desire
+- Visual Art
 oclc: '8230287'
 cover_note: dedicatoria de Kieran
 zotero_key: 95XWXZME

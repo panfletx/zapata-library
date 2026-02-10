@@ -17,15 +17,9 @@ pages: 331
 series:
 - Punto de lectura (2006)
 subjects:
-- Arts del llenguatge
-- Castellà
-- Castellà (Llengua)
-- Competència comunicativa
-- Comunicació escrita
-- Comunicació oral
-- Etimologia
-- Persuasió (Retòrica)
-- Psicolingüística
+- Grammar & Linguistics
+- Rhetoric
+- Visual Art
 oclc: '804194478'
 cover_note: regalo de Arturo
 exlibris: '2010'

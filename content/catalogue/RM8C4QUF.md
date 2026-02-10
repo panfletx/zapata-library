@@ -13,7 +13,9 @@ item_types:
 isbn: 978-84-02-05478-4
 pages: 1
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '863124081'
 exlibris: '1997'
 zotero_key: RM8C4QUF

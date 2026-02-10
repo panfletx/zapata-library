@@ -15,7 +15,8 @@ item_types:
 pages: 99
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '816523947'
 cover_note: dedicatoria José Dimayuga 2005
 zotero_key: RJBPRFBI

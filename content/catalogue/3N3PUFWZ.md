@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-6245-05-9
 pages: 22
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1187145081'
 exlibris: dedicatoria del autor
 zotero_key: 3N3PUFWZ

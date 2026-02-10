@@ -18,8 +18,8 @@ edition: 9 ed
 series:
 - Biblioteca Breve de Bolsillo (Seix Barral)
 subjects:
-- Psicoanálisis
-- Freud, Sigmund, 1856-1939 estudio
+- Psychoanalysis
+- Sigmund Freud
 oclc: '850682848'
 exlibris: '1977'
 zotero_key: CQ6XX7UA

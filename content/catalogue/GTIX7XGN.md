@@ -16,7 +16,9 @@ isbn: 978-84-02-09056-0
 pages: 284
 series:
 - Libro amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '906461508'
 zotero_key: GTIX7XGN
 cover: covers/gtix7xgn.jpg

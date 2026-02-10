@@ -16,7 +16,7 @@ item_types:
 pages: 3
 series: []
 subjects:
-- Santos
+- Saints & Hagiography
 oclc: '651278360'
 zotero_key: ELEDUESC
 cover: covers/eleduesc.jpg

@@ -16,14 +16,10 @@ pages: 278
 series:
 - Biblioteca Francisco Javier Clavijero
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- Literatur
-- Mexiko
-- Aufsatzsammlung
-- Geschichte 1900-1970
-- Littérature mexicaine Histoire et critique
-- Mexican literature History and criticism
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
 oclc: '20132161'
 zotero_key: 2YVAG8VR
 cover: covers/2yvag8vr.jpg

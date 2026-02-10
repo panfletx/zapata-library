@@ -16,9 +16,7 @@ pages: 337
 edition: 4. ed., corr. y aumentada
 series: []
 subjects:
-- 1870-1975
-- Latin language Grammar
-- Latin language Grammar 1870-1975
+- Grammar & Linguistics
 oclc: '4823053'
 zotero_key: 7DXRN78A
 cover: covers/7dxrn78a.jpg

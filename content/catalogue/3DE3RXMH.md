@@ -17,7 +17,8 @@ pages: 141
 edition: 2. reimprésion
 series:
 - Alfaguara literaturas México
-subjects: []
+subjects:
+- Mexican Literature
 oclc: '1070609296'
 zotero_key: 3DE3RXMH
 cover: covers/3de3rxmh.jpg

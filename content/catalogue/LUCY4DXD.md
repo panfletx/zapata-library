@@ -16,7 +16,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb352845728
 pages: 107
 edition: Tiré à 1000 exemplaires
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '406450923'
 zotero_key: LUCY4DXD
 cover: covers/lucy4dxd.jpg

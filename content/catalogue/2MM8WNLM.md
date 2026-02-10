@@ -16,17 +16,11 @@ pages: 2
 series:
 - Bibliotheca romanica
 subjects:
-- French literature
-- To 1500
-- Readers (Publications)
-- French language
-- Lectures et morceaux choisis
-- readers
-- Français (langue) Avant 1300 (ancien français) Lectures et morceaux choisis
-- French language To 1300 Readers
-- French literature To 1500
-- French literature To 1500 Readers
-- Littérature française Avant 1500 Anthologies
+- Anthology
+- Education
+- French Literature
+- Grammar & Linguistics
+- Speech & Lecture
 oclc: '6512218'
 zotero_key: 2MM8WNLM
 cover: covers/2mm8wnlm.jpg

@@ -18,9 +18,8 @@ edition: 1a ed
 series:
 - Biblioteca de cuento contemporáneo
 subjects:
-- Cuentos mexicanos
-- Nouvelles mexicaines
-- Short stories, Mexican
+- Mexico
+- Short Stories
 oclc: '907087307'
 zotero_key: DUSNDJI7
 cover: covers/dusndji7.jpg

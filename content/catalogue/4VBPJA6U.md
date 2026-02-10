@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 123
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '237701268'
 zotero_key: 4VBPJA6U
 cover: covers/4vbpja6u.jpg

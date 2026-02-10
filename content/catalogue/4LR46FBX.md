@@ -16,8 +16,7 @@ pages: 256
 series:
 - Classiques de poche
 subjects:
-- French language
-- Français (Langue)
+- Grammar & Linguistics
 oclc: '43436615'
 zotero_key: 4LR46FBX
 cover: covers/4lr46fbx.jpg

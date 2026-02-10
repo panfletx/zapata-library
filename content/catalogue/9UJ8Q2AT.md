@@ -18,9 +18,7 @@ pages: 238
 series:
 - 'Psicologia practica : autoayuda'
 subjects:
-- addiction
-- Comportement compulsif
-- Compulsive behavior
+- Medicine & Health
 oclc: '28565177'
 zotero_key: 9UJ8Q2AT
 cover: covers/9uj8q2at.jpg

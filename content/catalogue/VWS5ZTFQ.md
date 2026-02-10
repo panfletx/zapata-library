@@ -9,7 +9,8 @@ item_types:
 - book
 source_url: https://www.worldcat.org/title/47686585
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: VWS5ZTFQ
 cover: covers/vws5ztfq.jpg
 ---

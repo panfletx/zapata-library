@@ -17,8 +17,8 @@ pages: 960
 edition: Nueva ed
 series: []
 subjects:
-- Filmak- Antologiak
-- Películas cinematográficas- Antologías
+- Anthology
+- Film & Cinema
 oclc: '920212093'
 zotero_key: BHWM2EVW
 cover: covers/bhwm2evw.jpg

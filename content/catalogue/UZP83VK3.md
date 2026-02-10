@@ -17,7 +17,8 @@ pages: 80
 edition: 1. ed
 series:
 - Fondo editorial tierra adentro
-subjects: []
+subjects:
+- Fiction
 oclc: '29287740'
 cover_note: dedicatoria de autora
 zotero_key: UZP83VK3

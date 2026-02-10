@@ -19,19 +19,12 @@ pages: 1
 edition: '[Nouv. tirage]'
 series: []
 subjects:
-- History
 - Fiction
-- 1900-1999
-- Isherwood, Christopher, 1904-1986
+- Gay Literature
 - Germany
-- Allemagne Histoire 1918-1933 Romans, nouvelles, etc
-- Auden, W. H. 1907-1973
-- Auden, W. H. 1907-1973 Fiction
-- Germany History 1918-1933 Fiction
-- Isherwood, Christopher, 1904-1986 Fiction
-- Poètes anglais 20e siècle Romans, nouvelles, etc
-- Poets, English
-- Poets, English 20th century Fiction
+- Modern History
+- Poetry
+- Short Stories
 oclc: '489988691'
 zotero_key: L7NBNJ4V
 cover: covers/l7nbnj4v.jpg

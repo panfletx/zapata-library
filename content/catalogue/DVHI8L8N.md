@@ -18,15 +18,8 @@ series:
 - Libro clásico
 subjects:
 - Fiction
-- Gargantua (Legendary character)
-- Gargantua (Legendary character) Fiction
-- Gargantua (Personnage légendaire) Romans, nouvelles, etc
-- Giants
-- Fantasy fiction, French
-- Géants Romans, nouvelles, etc
-- Giants (Folklore) Fiction
-- Gigantes Novela
-- Novela fantástica francesa
+- Oral Tradition & Folklore
+- Short Stories
 oclc: '8172563'
 exlibris: '1974'
 zotero_key: DVHI8L8N

@@ -17,8 +17,10 @@ pages: 181
 edition: 1. ed
 series: []
 subjects:
-- Literatura mexicana
-- Novela mexicana
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '48716234'
 zotero_key: YJBN38GC
 cover: covers/yjbn38gc.jpg

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-84-01-42114-3
 pages: 251
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '19700299'
 cover_note: dedicatoria José Dimayuga
 zotero_key: 6YVYIXB3

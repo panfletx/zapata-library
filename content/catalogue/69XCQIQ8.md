@@ -18,9 +18,8 @@ pages: 378
 series:
 - Artes escénicas
 subjects:
-- Actores Enseñanza
-- Actuación teatral
-- Métodos (Actuación)
+- Drama
+- Education
 oclc: '657093813'
 exlibris: '2007'
 zotero_key: 69XCQIQ8

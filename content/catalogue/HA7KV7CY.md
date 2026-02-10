@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: 01855727
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: HA7KV7CY
 cover: covers/ha7kv7cy.jpg
 ---

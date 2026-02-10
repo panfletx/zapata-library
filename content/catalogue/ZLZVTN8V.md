@@ -18,8 +18,7 @@ edition: 1a ed
 series:
 - Colección Comunicación
 subjects:
-- Literature
-- Littérature
+- Literary Criticism
 oclc: '8238441'
 exlibris: '1979'
 zotero_key: ZLZVTN8V

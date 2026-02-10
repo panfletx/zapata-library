@@ -18,18 +18,14 @@ edition: 1. ed
 series:
 - Sección de lengua y estudios literarios
 subjects:
-- Latin American literature
-- Criticism, interpretation, etc
-- 1900-1999
-- Latin American literature 20th century History and criticism
-- Literatura brasileira
-- Literatura hispanoamericana
-- Literatura hispanoamericana Historia y crítica
-- Literatura portuguesa
-- Littérature latino-américaine 20e siècle Histoire et critique
-- Littérature portugaise Histoire et critique
-- Portuguese literature
-- Portuguese literature History and criticism
+- American Literature
+- Brazilian Literature
+- Latin America
+- Latin American Literature
+- Literary Criticism
+- Modern History
+- Spanish Literature
+- United States
 oclc: '42253109'
 exlibris: '2011'
 zotero_key: RLCCKLMJ

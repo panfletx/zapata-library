@@ -17,10 +17,9 @@ pages: 307
 edition: 1. ed
 series: []
 subjects:
-- Gay men
 - Fiction
-- Gay men Fiction
-- Homosexuels masculins Romans, nouvelles, etc
+- Gay Literature
+- Short Stories
 oclc: '226215125'
 cover_note: dedicatoria
 zotero_key: WLL92KLL

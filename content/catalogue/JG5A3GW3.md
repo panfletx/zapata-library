@@ -10,7 +10,8 @@ item_types:
 - book
 isbn: 968-433-290-4
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: JG5A3GW3
 cover: covers/jg5a3gw3.jpg
 ---

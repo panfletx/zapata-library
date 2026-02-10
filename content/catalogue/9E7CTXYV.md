@@ -18,9 +18,7 @@ pages: 129
 series:
 - Biblioteca Humanitas de material didáctico
 subjects:
-- Romances
-- Yvain (Legendary character)
-- Ywain (Legendary character) Romances
+- Fiction
 oclc: '17531241'
 cover_note: dedicatoria de Luis Zapata para AM
 zotero_key: 9E7CTXYV

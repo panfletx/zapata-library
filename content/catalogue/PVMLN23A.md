@@ -15,8 +15,7 @@ isbn: 978-84-7020-371-8
 pages: 1970
 series: []
 subjects:
-- Bible
-- Bible. Spanish
+- Religion
 oclc: '40416621'
 zotero_key: PVMLN23A
 cover: covers/pvmln23a.jpg

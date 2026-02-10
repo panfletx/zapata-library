@@ -13,10 +13,8 @@ item_types:
 pages: 159
 series: []
 subjects:
-- Civilisation médiévale
-- Civilization, Medieval
-- Middle Ages
-- Moyen Âge
+- Medieval History
+- Modern History
 oclc: '50256154'
 exlibris: regalo de Alberto Paredes 2003
 zotero_key: NG5TBHY3

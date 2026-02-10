@@ -17,10 +17,9 @@ source_url: http://i1382.photobucket.com/albums/ah249/CMA2016/eplstockimage_worl
 pages: 156
 series: []
 subjects:
-- Arthurian romances
-- Iseult (Legendary character)
-- Tristan (Legendary character)
-- Cycle d'Arthur
+- Fiction
+- King Arthur
+- Tristan & Iseult
 oclc: '732330610'
 zotero_key: PHPJE6N9
 cover: covers/phpje6n9.jpg

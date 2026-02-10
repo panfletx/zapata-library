@@ -16,18 +16,12 @@ isbn: 978-968-497-064-9
 pages: 357
 series: []
 subjects:
-- Autobiographies
-- autobiographies (literary works)
-- Biographies
-- 1900-1999
-- Authors, American
-- collective biographies
-- Authors, American 20th century Biography
-- Autores estadounidenses Siglo XX Biografía
-- Bach, Richard
-- Bach, Richard Marriage
-- Écrivains américains 20e siècle Biographies
-- Marriage
+- Autobiography & Memoir
+- Biography
+- Family
+- Literary Criticism
+- Music
+- United States
 oclc: '14950759'
 zotero_key: QXK3CDML
 cover: covers/qxk3cdml.jpg

@@ -19,8 +19,7 @@ edition: 1a reimpr
 series: []
 subjects:
 - Mexico
-- 18.33 Spanish-American literature
-- Gedichten (teksten)
+- Poetry
 oclc: '773496533'
 cover_note: dedicatoria Hector
 zotero_key: STWPBJTJ

@@ -17,7 +17,9 @@ pages: 317
 edition: 2. ed
 series:
 - Biblioteca del estudiante universitario (Universidad Nacional Autónoma de México)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '32436903'
 zotero_key: HQ5GCGEX
 cover: covers/hq5gcgex.jpg

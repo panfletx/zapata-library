@@ -18,17 +18,8 @@ pages: 1711
 edition: 3. ed., corr. y ampliada
 series: []
 subjects:
-- Spanish language
-- Dictionaries
-- Dictionaries (form)
-- Wörterbuch
-- dictionaries
-- Dictionnaires
-- Spanisch
-- Spanish language Dictionaries
-- Spaans
-- 18.31 Spanish language
-- Espagnol (Langue) Dictionnaires
+- Dictionary
+- Grammar & Linguistics
 oclc: '2578897'
 zotero_key: E6EYNKXP
 cover: covers/e6eynkxp.jpg

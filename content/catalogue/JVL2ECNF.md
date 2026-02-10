@@ -17,8 +17,8 @@ pages: 499
 series:
 - Fin de Siglo
 subjects:
-- Novela brasileña Siglo XX
-- Novela brasileña Traducciones al español
+- Fiction
+- Translation Studies
 oclc: '34405953'
 exlibris: '1997'
 zotero_key: JVL2ECNF

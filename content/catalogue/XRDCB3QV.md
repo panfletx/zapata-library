@@ -17,16 +17,10 @@ pages: 232
 series:
 - L'Ordinaire
 subjects:
-- Yoga
-- Christianity and yoga
-- Meditation
-- Méditation Christianisme
-- Meditation Christianity
-- Painting, Japanese Western style
-- Yōga (Japanese painting styles)
-- Yōga (Peinture japonaise)
-- Yoga (philosophy)
-- Yoga Christianisme
+- Buddhism
+- Painting
+- Philosophy
+- Religion
 oclc: '5895022'
 zotero_key: XRDCB3QV
 cover: covers/xrdcb3qv.jpg

@@ -17,16 +17,10 @@ isbn: 978-1-84513-367-2
 pages: 240
 series: []
 subjects:
-- History
-- Criticism, interpretation, etc
-- Animated films
-- Animated films History and criticism
-- Animation (Cinéma) Histoire
-- Animation (Cinematography)
-- Animation (Cinematography) History
-- Animationsfilm
-- Computeranimation
-- Ungeheuer
+- Film & Cinema
+- Literary Criticism
+- Modern History
+- Oral Tradition & Folklore
 oclc: '236120426'
 zotero_key: F7WF7B3L
 cover: covers/f7wf7b3l.jpg

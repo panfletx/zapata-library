@@ -18,7 +18,7 @@ series:
 - Las novelas del verano
 subjects:
 - Fiction
-- Horror tales, Spanish
+- Horror & Gothic
 oclc: '47124177'
 zotero_key: M3Z4B9WX
 cover: covers/m3z4b9wx.jpg

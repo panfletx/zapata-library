@@ -15,7 +15,8 @@ item_types:
 isbn: 978-0-7148-8060-0
 pages: 80
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1067661743'
 zotero_key: R28CTI8N
 cover: covers/r28cti8n.jpg

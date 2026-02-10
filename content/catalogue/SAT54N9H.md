@@ -17,7 +17,8 @@ pages: 45
 edition: Primera edición
 series:
 - Colección simonía
-subjects: []
+subjects:
+- Fiction
 oclc: '874811679'
 cover_note: dedicatoria de autor 2013
 zotero_key: SAT54N9H

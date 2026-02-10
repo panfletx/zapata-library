@@ -16,7 +16,7 @@ edition: Tercera edición
 series:
 - Colección horizonte (Editorial Sudamericana)
 subjects:
-- Novela inglesa
+- Fiction
 oclc: '1344959037'
 zotero_key: MCDEEKI3
 cover: covers/mcdeeki3.jpg

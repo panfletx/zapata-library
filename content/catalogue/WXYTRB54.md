@@ -15,7 +15,8 @@ isbn: 978-84-7175-318-2
 edition: 10a ed
 series: []
 subjects:
-- Cuentos árabes Traducciones al español
+- Short Stories
+- Translation Studies
 oclc: '689520086'
 zotero_key: WXYTRB54
 cover: covers/wxytrb54.jpg

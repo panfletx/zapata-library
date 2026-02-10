@@ -18,18 +18,12 @@ edition: 1. ed
 series:
 - Colección Thélema
 subjects:
-- Mexico
+- Education
 - Fiction
-- Triangles (Interpersonal relations)
-- Triangles (Interpersonal relations) Fiction
-- Enseignants Mexique Romans, nouvelles, etc
-- Lesbians
-- Lesbians Fiction
-- Lesbiennes Romans, nouvelles, etc
-- Love stories
-- Teachers
-- Teachers Mexico Fiction
-- Triangle (Relations humaines) Romans, nouvelles, etc
+- Lesbian Studies
+- Love & Desire
+- Mexico
+- Short Stories
 oclc: '313657146'
 zotero_key: HZ4KXL69
 cover: covers/hz4kxl69.jpg

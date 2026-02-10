@@ -17,7 +17,9 @@ pages: 1212
 edition: '[5a. ed.]'
 series:
 - Joyas Literarias
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '431987290'
 zotero_key: 72J3CMXA
 cover: covers/72j3cmxa.jpg

@@ -17,8 +17,7 @@ edition: 4a ed
 series:
 - Colección Poesía
 subjects:
-- Spanish poetry
-- Poésie espagnole
+- Poetry
 oclc: '22037229'
 zotero_key: RDFJTDG5
 cover: covers/rdfjtdg5.jpg

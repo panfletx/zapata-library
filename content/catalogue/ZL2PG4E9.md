@@ -19,8 +19,7 @@ edition: 1. ed
 series:
 - Colección 80 mundos
 subjects:
-- Roman vénézuélien
-- Venezuelan fiction
+- Fiction
 oclc: '1153085805'
 cover_note: dedicatoria de Varderi
 zotero_key: ZL2PG4E9

@@ -17,7 +17,9 @@ pages: 151
 edition: 1a. ed
 series:
 - Biblioteca breve. Novela
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '5778365'
 zotero_key: JYNNGGI5
 cover: covers/jynnggi5.jpg

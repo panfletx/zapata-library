@@ -19,7 +19,6 @@ series:
 - Agenda de Hoy
 subjects:
 - Memory
-- Memoria
 oclc: '801559112'
 zotero_key: DM3QNHNP
 cover: covers/dm3qnhnp.jpg

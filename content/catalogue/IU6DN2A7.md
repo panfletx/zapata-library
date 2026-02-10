@@ -16,10 +16,9 @@ isbn: 978-968-410-026-8
 pages: 188
 series: []
 subjects:
-- str. 1994
-- Lógica simbólica y matemática Problemas, ejercicios, etc
-- Matemáticas Estudio y enseñanza
-- Matématicas Problemas, ejercicios, etc
+- Education
+- Philosophy
+- Science
 oclc: '893513479'
 zotero_key: IU6DN2A7
 cover: covers/iu6dn2a7.jpg

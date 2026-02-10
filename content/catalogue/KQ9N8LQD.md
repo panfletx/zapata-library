@@ -15,7 +15,9 @@ item_types:
 pages: 95
 series:
 - Colección "La Biblia contra el Protestantismo"
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '35690236'
 zotero_key: KQ9N8LQD
 cover: covers/kq9n8lqd.jpg

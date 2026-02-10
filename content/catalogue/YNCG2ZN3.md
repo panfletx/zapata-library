@@ -17,7 +17,8 @@ pages: 148
 edition: Segunda edición
 series:
 - Biblioteca de cuento contemporáneo
-subjects: []
+subjects:
+- Fiction
 oclc: '875560859'
 cover_note: dedicatoria de Carlos Martín
 exlibris: '2014'

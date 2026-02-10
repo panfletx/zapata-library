@@ -17,19 +17,10 @@ pages: 228
 series:
 - Memórias de um escritor
 subjects:
-- History
-- Intellectual life
 - Brazil
-- Kultur
-- Brasilien
-- Brazil History 1930-1945
-- Brazil History 1954-
-- Brazil Intellectual life 20th century
-- Brésil Histoire 1930-1945
-- Geschichte (1945-1964)
-- Politik
-- Since 1900
-- Sodré, Nelson Werneck, 1911-1999
+- Brazilian Literature
+- Latin American Politics
+- Modern History
 oclc: '25368924'
 exlibris: '1991'
 zotero_key: B6SZH6RA

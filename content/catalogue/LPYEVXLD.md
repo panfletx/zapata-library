@@ -18,9 +18,8 @@ pages: 168
 series:
 - Paidos Studio
 subjects:
-- Psychologie religieuse
-- psychology of religion
-- Psychology, Religious
+- Psychoanalysis
+- Religion
 - Symbolism
 oclc: '1090681027'
 zotero_key: LPYEVXLD

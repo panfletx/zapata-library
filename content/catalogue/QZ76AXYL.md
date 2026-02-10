@@ -17,12 +17,8 @@ pages: 246
 series:
 - Collection Idées
 subjects:
-- Theater
-- theater (discipline)
-- Théâtre
-- Estetica
-- Theater Philosophy
-- Toneel
+- Drama
+- Philosophy
 oclc: '493661'
 zotero_key: QZ76AXYL
 cover: covers/qz76axyl.jpg

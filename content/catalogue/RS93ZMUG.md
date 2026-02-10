@@ -19,15 +19,10 @@ edition: 1a ed
 series:
 - Colección Archivos
 subjects:
-- Criticism, interpretation, etc
-- NOVELAS CUBANAS
-- Authors, Cuban
-- Cuban literature
-- Écrivains cubains
-- Lezama Lima, José
-- Lezama Lima, José Criticism and interpretation
-- LEZAMA LIMA, JOSE, 1912-1976 CRITICA E. INTERPRETACION
-- Littérature cubaine
+- Cuban Literature
+- Fiction
+- José Lezama Lima
+- Literary Criticism
 oclc: '25494935'
 exlibris: '1992'
 zotero_key: RS93ZMUG

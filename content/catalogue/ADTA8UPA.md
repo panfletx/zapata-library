@@ -19,10 +19,8 @@ series:
 - Colección Andanzas
 subjects:
 - Fiction
-- NOVELAS CHECOSLOVACAS
-- Perception de soi Romans, nouvelles, etc
-- Self-perception
-- Self-perception Fiction
+- Philosophy
+- Short Stories
 oclc: '22919527'
 exlibris: '1990'
 zotero_key: ADTA8UPA

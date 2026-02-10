@@ -15,8 +15,7 @@ item_types:
 pages: 4
 series: []
 subjects:
-- Jarchas mozárabes
-- Poesía lírica románica
+- Poetry
 oclc: '48309605'
 exlibris: '1979'
 zotero_key: DFSXPRRC

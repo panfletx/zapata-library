@@ -17,7 +17,7 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb34904658d
 pages: 245
 series: []
 subjects:
-- Léonard, de Vinci, 1452-1519 Critique et interprétation
+- Literary Criticism
 oclc: '319769252'
 zotero_key: PGHK4FLP
 cover: covers/pghk4flp.jpg

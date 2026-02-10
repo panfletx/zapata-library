@@ -18,8 +18,8 @@ pages: 112
 series:
 - Libro Aguilar
 subjects:
-- Ética
-- Estoicismo
+- Ethics
+- Philosophy
 oclc: '434244236'
 exlibris: '1989'
 zotero_key: FTATYLJF

@@ -17,8 +17,10 @@ pages: 148
 edition: 1a ed
 series: []
 subjects:
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '24451605'
 exlibris: '1992'
 zotero_key: 3EXC5USL

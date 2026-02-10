@@ -168,3 +168,608 @@ other = "Árabe"
 
 [lang_Chinese]
 other = "Chino"
+
+# ── Categorías de temas ──
+
+[subj_AIDS_and_HIV]
+other = "SIDA y VIH"
+
+[subj_Aesthetics]
+other = "Estética"
+
+[subj_Alfonso_Reyes]
+other = "Alfonso Reyes"
+
+[subj_American_Literature]
+other = "Literatura estadounidense"
+
+[subj_Ancient_History]
+other = "Historia antigua"
+
+[subj_Animals]
+other = "Animales"
+
+[subj_Anthology]
+other = "Antología"
+
+[subj_Aphorism]
+other = "Aforismo"
+
+[subj_Arabic_Literature]
+other = "Literatura árabe"
+
+[subj_Architecture]
+other = "Arquitectura"
+
+[subj_Argentina]
+other = "Argentina"
+
+[subj_Argentine_Literature]
+other = "Literatura argentina"
+
+[subj_Autobiography_and_Memoir]
+other = "Autobiografía y memorias"
+
+["subj_Avant-garde"]
+other = "Vanguardia"
+
+[subj_Beat_Generation]
+other = "Generación Beat"
+
+[subj_Berlin]
+other = "Berlín"
+
+[subj_Bibliography]
+other = "Bibliografía"
+
+[subj_Biography]
+other = "Biografía"
+
+[subj_Bisexuality]
+other = "Bisexualidad"
+
+[subj_Brazil]
+other = "Brasil"
+
+[subj_Brazilian_Literature]
+other = "Literatura brasileña"
+
+[subj_Buddhism]
+other = "Budismo"
+
+[subj_Canada]
+other = "Canadá"
+
+[subj_Caribbean]
+other = "Caribe"
+
+[subj_Carlos_Fuentes]
+other = "Carlos Fuentes"
+
+[subj_Catholicism]
+other = "Catolicismo"
+
+[subj_Chiapas]
+other = "Chiapas"
+
+[subj_Childhood]
+other = "Infancia"
+
+[subj_Childrens_Literature]
+other = "Literatura infantil"
+
+[subj_Chile]
+other = "Chile"
+
+[subj_Chilean_Literature]
+other = "Literatura chilena"
+
+[subj_China]
+other = "China"
+
+[subj_Chronicle]
+other = "Crónica"
+
+[subj_Classical_Literature]
+other = "Literatura clásica"
+
+[subj_Colombia]
+other = "Colombia"
+
+[subj_Colonialism_and_Postcolonialism]
+other = "Colonialismo y poscolonialismo"
+
+[subj_Comics_and_Graphic_Novel]
+other = "Cómic y novela gráfica"
+
+[subj_Conquest_of_Mexico]
+other = "Conquista de México"
+
+[subj_Contemporary_History]
+other = "Historia contemporánea"
+
+[subj_Correspondence]
+other = "Correspondencia"
+
+[subj_Cuba]
+other = "Cuba"
+
+[subj_Cuban_Literature]
+other = "Literatura cubana"
+
+[subj_Dance]
+other = "Danza"
+
+[subj_Death_and_Mourning]
+other = "Muerte y duelo"
+
+[subj_Detective_and_Mystery]
+other = "Policial y misterio"
+
+[subj_Diary_and_Letters]
+other = "Diario y cartas"
+
+[subj_Dictionary]
+other = "Diccionario"
+
+[subj_Diego_Rivera]
+other = "Diego Rivera"
+
+[subj_Drama]
+other = "Drama"
+
+[subj_Dreams]
+other = "Sueños"
+
+[subj_Dublin]
+other = "Dublín"
+
+[subj_Economics]
+other = "Economía"
+
+[subj_Ecuador]
+other = "Ecuador"
+
+[subj_Education]
+other = "Educación"
+
+[subj_Egypt]
+other = "Egipto"
+
+[subj_Encyclopedia]
+other = "Enciclopedia"
+
+[subj_English_Literature]
+other = "Literatura inglesa"
+
+[subj_Epic]
+other = "Épica"
+
+[subj_Erotic_Literature]
+other = "Literatura erótica"
+
+[subj_Essay]
+other = "Ensayo"
+
+[subj_Ethics]
+other = "Ética"
+
+[subj_Existentialism]
+other = "Existencialismo"
+
+[subj_Experimental_Literature]
+other = "Literatura experimental"
+
+[subj_Fable_and_Parable]
+other = "Fábula y parábola"
+
+[subj_Family]
+other = "Familia"
+
+[subj_Fashion]
+other = "Moda"
+
+[subj_Feminism]
+other = "Feminismo"
+
+[subj_Fiction]
+other = "Ficción"
+
+[subj_Film_and_Cinema]
+other = "Cine"
+
+[subj_Food_and_Gastronomy]
+other = "Gastronomía"
+
+[subj_France]
+other = "Francia"
+
+["subj_François_Rabelais"]
+other = "François Rabelais"
+
+[subj_French_Literature]
+other = "Literatura francesa"
+
+["subj_Gabriel_García_Márquez"]
+other = "Gabriel García Márquez"
+
+[subj_Gay_Literature]
+other = "Literatura gay"
+
+[subj_Gender_Studies]
+other = "Estudios de género"
+
+[subj_German_Literature]
+other = "Literatura alemana"
+
+[subj_Germany]
+other = "Alemania"
+
+[subj_Grammar_and_Linguistics]
+other = "Gramática y lingüística"
+
+[subj_Greece]
+other = "Grecia"
+
+[subj_Guatemala]
+other = "Guatemala"
+
+[subj_Haiti]
+other = "Haití"
+
+[subj_Havana]
+other = "La Habana"
+
+[subj_Historical_Fiction]
+other = "Ficción histórica"
+
+[subj_Horror_and_Gothic]
+other = "Terror y gótico"
+
+[subj_Human_Rights]
+other = "Derechos humanos"
+
+[subj_India]
+other = "India"
+
+[subj_Indigenous_Peoples]
+other = "Pueblos indígenas"
+
+[subj_Interview]
+other = "Entrevista"
+
+[subj_Irish_Literature]
+other = "Literatura irlandesa"
+
+[subj_Islam]
+other = "Islam"
+
+[subj_Italian_Literature]
+other = "Literatura italiana"
+
+[subj_Italy]
+other = "Italia"
+
+[subj_Jalisco]
+other = "Jalisco"
+
+[subj_Japan]
+other = "Japón"
+
+[subj_Japanese_Literature]
+other = "Literatura japonesa"
+
+[subj_Jean_Genet]
+other = "Jean Genet"
+
+[subj_Jorge_Luis_Borges]
+other = "Jorge Luis Borges"
+
+["subj_José_Lezama_Lima"]
+other = "José Lezama Lima"
+
+[subj_Journalism]
+other = "Periodismo"
+
+[subj_Juan_Rulfo]
+other = "Juan Rulfo"
+
+[subj_Judaism]
+other = "Judaísmo"
+
+["subj_Julio_Cortázar"]
+other = "Julio Cortázar"
+
+[subj_King_Arthur]
+other = "Rey Arturo"
+
+[subj_Latin_America]
+other = "América Latina"
+
+[subj_Latin_American_Literature]
+other = "Literatura latinoamericana"
+
+[subj_Latin_American_Politics]
+other = "Política latinoamericana"
+
+[subj_Law]
+other = "Derecho"
+
+[subj_Lesbian_Studies]
+other = "Estudios lésbicos"
+
+[subj_Literary_Criticism]
+other = "Crítica literaria"
+
+[subj_Literary_History]
+other = "Historia literaria"
+
+[subj_Love_and_Desire]
+other = "Amor y deseo"
+
+["subj_Luis_Buñuel"]
+other = "Luis Buñuel"
+
+[subj_Luis_Zapata]
+other = "Luis Zapata"
+
+[subj_Madness_and_Mental_Illness]
+other = "Locura y enfermedad mental"
+
+[subj_Madrid]
+other = "Madrid"
+
+[subj_Marcel_Proust]
+other = "Marcel Proust"
+
+[subj_Marguerite_Duras]
+other = "Marguerite Duras"
+
+[subj_Marxism]
+other = "Marxismo"
+
+[subj_Masculinity]
+other = "Masculinidad"
+
+[subj_Medicine_and_Health]
+other = "Medicina y salud"
+
+[subj_Medieval_History]
+other = "Historia medieval"
+
+[subj_Medieval_Literature]
+other = "Literatura medieval"
+
+[subj_Memory]
+other = "Memoria"
+
+[subj_Mexican_Literature]
+other = "Literatura mexicana"
+
+[subj_Mexican_Revolution]
+other = "Revolución mexicana"
+
+[subj_Mexico]
+other = "México"
+
+[subj_Mexico_City]
+other = "Ciudad de México"
+
+[subj_Middle_East]
+other = "Oriente Medio"
+
+[subj_Migration_and_Exile]
+other = "Migración y exilio"
+
+[subj_Modern_History]
+other = "Historia moderna"
+
+[subj_Museums_and_Collections]
+other = "Museos y colecciones"
+
+[subj_Music]
+other = "Música"
+
+[subj_Mysticism]
+other = "Misticismo"
+
+[subj_Mythology]
+other = "Mitología"
+
+[subj_National_Identity]
+other = "Identidad nacional"
+
+[subj_Nature_and_Environment]
+other = "Naturaleza y medio ambiente"
+
+[subj_Netherlands]
+other = "Países Bajos"
+
+[subj_New_York]
+other = "Nueva York"
+
+[subj_North_Africa]
+other = "África del Norte"
+
+[subj_Novel]
+other = "Novela"
+
+[subj_Novella]
+other = "Novela corta"
+
+[subj_Oaxaca]
+other = "Oaxaca"
+
+[subj_Occult_and_Esoteric]
+other = "Ocultismo y esoterismo"
+
+[subj_Opera]
+other = "Ópera"
+
+[subj_Oral_Tradition_and_Folklore]
+other = "Tradición oral y folclore"
+
+[subj_Painting]
+other = "Pintura"
+
+[subj_Paris]
+other = "París"
+
+["subj_Pedro_Almodóvar"]
+other = "Pedro Almodóvar"
+
+[subj_Peru]
+other = "Perú"
+
+[subj_Philosophy]
+other = "Filosofía"
+
+[subj_Photography]
+other = "Fotografía"
+
+[subj_Poetry]
+other = "Poesía"
+
+[subj_Portugal]
+other = "Portugal"
+
+[subj_Postmodernism]
+other = "Posmodernismo"
+
+[subj_Poverty_and_Class]
+other = "Pobreza y clase social"
+
+["subj_Pre-Columbian"]
+other = "Precolombino"
+
+[subj_Prison]
+other = "Prisión"
+
+[subj_Psychoanalysis]
+other = "Psicoanálisis"
+
+[subj_Puerto_Rico]
+other = "Puerto Rico"
+
+[subj_Queer_Studies]
+other = "Estudios queer"
+
+[subj_Race_and_Ethnicity]
+other = "Raza y etnicidad"
+
+[subj_Religion]
+other = "Religión"
+
+[subj_Rhetoric]
+other = "Retórica"
+
+[subj_Rio_de_Janeiro]
+other = "Río de Janeiro"
+
+[subj_Rome]
+other = "Roma"
+
+[subj_Rural_Life]
+other = "Vida rural"
+
+[subj_Russia]
+other = "Rusia"
+
+[subj_Russian_Literature]
+other = "Literatura rusa"
+
+[subj_Saints_and_Hagiography]
+other = "Santos y hagiografía"
+
+[subj_Satire_and_Humor]
+other = "Sátira y humor"
+
+[subj_Science]
+other = "Ciencia"
+
+[subj_Science_Fiction]
+other = "Ciencia ficción"
+
+[subj_Screenplay]
+other = "Guión"
+
+[subj_Sculpture]
+other = "Escultura"
+
+[subj_Severo_Sarduy]
+other = "Severo Sarduy"
+
+[subj_Sexuality_and_Eroticism]
+other = "Sexualidad y erotismo"
+
+[subj_Sherlock_Holmes]
+other = "Sherlock Holmes"
+
+[subj_Short_Stories]
+other = "Cuento"
+
+[subj_Sigmund_Freud]
+other = "Sigmund Freud"
+
+[subj_Slavery]
+other = "Esclavitud"
+
+[subj_Social_Movements]
+other = "Movimientos sociales"
+
+["subj_Sor_Juana_Inés_de_la_Cruz"]
+other = "Sor Juana Inés de la Cruz"
+
+[subj_Spain]
+other = "España"
+
+[subj_Spanish_Literature]
+other = "Literatura española"
+
+[subj_Speech_and_Lecture]
+other = "Discurso y conferencia"
+
+[subj_Structuralism_and_Poststructuralism]
+other = "Estructuralismo y posestructuralismo"
+
+[subj_Surrealism]
+other = "Surrealismo"
+
+[subj_Symbolism]
+other = "Simbolismo"
+
+[subj_Transgender_Studies]
+other = "Estudios transgénero"
+
+[subj_Translation_Studies]
+other = "Traductología"
+
+[subj_Travel_Writing]
+other = "Literatura de viajes"
+
+[subj_Tristan_and_Iseult]
+other = "Tristán e Isolda"
+
+[subj_United_Kingdom]
+other = "Reino Unido"
+
+[subj_United_States]
+other = "Estados Unidos"
+
+[subj_Urban_Life]
+other = "Vida urbana"
+
+[subj_Uruguay]
+other = "Uruguay"
+
+[subj_Vienna]
+other = "Viena"
+
+[subj_Visual_Art]
+other = "Arte visual"
+
+[subj_War_and_Conflict]
+other = "Guerra y conflicto"
+
+["subj_Yucatán"]
+other = "Yucatán"

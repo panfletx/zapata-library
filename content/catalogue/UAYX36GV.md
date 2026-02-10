@@ -17,7 +17,8 @@ pages: 483
 edition: 1. ed. en Clásicos de la literatura mexicana
 series:
 - Clásicos de la literatura Mexicana
-subjects: []
+subjects:
+- Fiction
 oclc: '6074774'
 zotero_key: UAYX36GV
 cover: covers/uayx36gv.jpg

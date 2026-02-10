@@ -18,17 +18,11 @@ pages: 160
 edition: 1st edition
 series: []
 subjects:
-- Gay men
+- Erotic Literature
 - Fiction
-- Gay fiction
-- Romans homosexuels
-- Short stories
-- Nouvelles
-- short stories
-- Erotic fiction
-- Gay men Sexual behavior
-- Gay men Sexual behavior Fiction
-- Homosexuels masculins Sexualité Romans, nouvelles, etc
+- Gay Literature
+- Sexuality & Eroticism
+- Short Stories
 oclc: '9466011'
 zotero_key: ZVAIMHRQ
 cover: covers/zvaimhrq.jpg

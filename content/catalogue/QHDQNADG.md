@@ -17,8 +17,8 @@ pages: 156
 series:
 - De la gran literatura
 subjects:
-- Novela noruega Siglo XX Traducciones al español
-- Novela noruega Traducciones al español
+- Fiction
+- Translation Studies
 oclc: '14878091'
 zotero_key: QHDQNADG
 cover: covers/qhdqnadg.jpg

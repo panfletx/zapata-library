@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: MGDINGQ3
 cover: covers/mgdingq3.jpg
 ---

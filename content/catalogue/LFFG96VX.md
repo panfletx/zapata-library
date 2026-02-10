@@ -19,10 +19,7 @@ edition: 1. ed
 series:
 - Círculo de arte
 subjects:
-- Art
-- Œuvres d'art
-- Villalpando, Cristóbal de, approximately 1649-1714
-- works of art
+- Visual Art
 oclc: '39903555'
 zotero_key: LFFG96VX
 cover: covers/lffg96vx.jpg

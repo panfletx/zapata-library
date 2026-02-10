@@ -16,7 +16,9 @@ isbn: 978-968-39-0129-3
 pages: 160
 series: []
 subjects:
-- México- Historia- 1521-1821 (Época colonial)
+- Colonialism & Postcolonialism
+- Mexico
+- Modern History
 oclc: '1367339785'
 zotero_key: RVPS3P49
 cover: covers/rvps3p49.jpg

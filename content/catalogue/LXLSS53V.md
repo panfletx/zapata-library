@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: LXLSS53V
 cover: covers/lxlss53v.jpg
 ---

@@ -17,9 +17,11 @@ pages: 191
 series:
 - Escritores argentinos (Emecé Editores)
 subjects:
-- Cuentos argentinos Siglo XX
-- Literatura argentina Siglo XX
-- NOVELAS ARGENTINAS SIGLO XX
+- Argentina
+- Argentine Literature
+- Fiction
+- Literary Criticism
+- Short Stories
 oclc: '39750020'
 zotero_key: FYCH9UHY
 cover: covers/fych9uhy.jpg

@@ -17,14 +17,13 @@ pages: 438
 edition: 1. ed
 series: []
 subjects:
-- Mexican literature
+- Erotic Literature
 - Fiction
-- 1900-1999
-- Romans
-- Erotic stories, Mexican
-- Littérature mexicaine 20e siècle
-- Mexican literature 20th century
-- Cuentos eróticos mexicanos
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Sexuality & Eroticism
+- Short Stories
 oclc: '30662357'
 zotero_key: KBFXA9M5
 cover: covers/kbfxa9m5.jpg

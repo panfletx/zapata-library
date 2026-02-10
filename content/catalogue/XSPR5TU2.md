@@ -16,8 +16,7 @@ pages: 172
 series:
 - Biblioteca Mundo Moderno
 subjects:
-- Familia aspectos psicológicos
-- Familia aspectos sociales
+- Family
 oclc: '48323923'
 zotero_key: XSPR5TU2
 cover: covers/xspr5tu2.jpg

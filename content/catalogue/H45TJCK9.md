@@ -17,11 +17,9 @@ edition: 1. ed
 series:
 - Mexico City (Mexico)
 subjects:
-- Criticism, interpretation, etc
-- French literature
-- 1600-1699
-- French literature 17th century History and criticism
-- Littérature française 17e siècle Histoire et critique
+- French Literature
+- Literary Criticism
+- Modern History
 oclc: '5719141'
 zotero_key: H45TJCK9
 cover: covers/h45tjck9.jpg

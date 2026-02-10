@@ -17,7 +17,8 @@ pages: 55
 edition: 1. ed
 series:
 - Fondo editorial tierra adentro
-subjects: []
+subjects:
+- Fiction
 oclc: '30111817'
 cover_note: José Joaquín
 zotero_key: ARYJWCGN

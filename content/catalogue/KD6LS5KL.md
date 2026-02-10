@@ -11,10 +11,9 @@ item_types:
 isbn: 978-0-14-004259-7
 series: []
 subjects:
+- Beat Generation
 - Fiction
-- Beatniks Romans, nouvelles, etc
-- Beats (Persons)
-- Beats (Persons) Fiction
+- Short Stories
 oclc: '438422057'
 exlibris: '1998'
 zotero_key: KD6LS5KL

@@ -16,7 +16,8 @@ pages: 211
 edition: '[2. ed.]'
 series:
 - Nueva narrativa hispánica
-subjects: []
+subjects:
+- Fiction
 oclc: '2003929'
 cover_note: dedicaotria de autora
 zotero_key: 8HWSTD95

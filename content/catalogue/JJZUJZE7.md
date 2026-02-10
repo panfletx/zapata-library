@@ -17,14 +17,9 @@ pages: 574
 edition: 1st ed
 series: []
 subjects:
-- Biographies
-- 1900-1999
-- Authors, French 20th century Biography
-- Spanish language materials
-- Authors, French
-- Autores franceses Siglo XX Biografia
-- Écrivains français 20e siècle Biographies
-- Yourcenar, Marguerite
+- Biography
+- French Literature
+- Literary Criticism
 oclc: '26146819'
 exlibris: '1992'
 zotero_key: JJZUJZE7

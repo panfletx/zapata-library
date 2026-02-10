@@ -16,7 +16,8 @@ isbn: 978-84-8403-414-8
 pages: 160
 series:
 - Clásicos selección
-subjects: []
+subjects:
+- Fiction
 oclc: '47039553'
 exlibris: '2006'
 zotero_key: CJH7PSKK

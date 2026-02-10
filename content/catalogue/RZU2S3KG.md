@@ -18,12 +18,9 @@ edition: 1. ed
 series:
 - Nueva narrativa hispánica
 subjects:
+- Argentina
 - Fiction
-- Romans
-- Argentine fiction
-- Fiction in Spanish 1900- Texts
-- Roman argentin
-- Spanisch Argentinien
+- Grammar & Linguistics
 oclc: '5433462'
 zotero_key: RZU2S3KG
 cover: covers/rzu2s3kg.jpg

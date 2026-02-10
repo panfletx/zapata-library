@@ -18,7 +18,7 @@ edition: 1. ed
 series:
 - Fin de siglo
 subjects:
-- NOVELAS ESTADOUNIDENSES
+- Fiction
 oclc: '24925224'
 zotero_key: KQX3VYQW
 cover: covers/kqx3vyqw.jpg

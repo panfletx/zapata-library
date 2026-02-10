@@ -17,14 +17,11 @@ pages: 511
 series:
 - Evolution de l'humanité
 subjects:
-- str. 1994
+- France
+- François Rabelais
+- Literary Criticism
+- Modern History
 - Religion
-- Athéisme Europe histoire 16e siècle
-- athéisme Rabelais, François 16e s
-- Rabelais, François, 1494-1533 critique et interprétation
-- Rabelais, François, approximately 1490-1553?
-- Rabelais, François, approximately 1490-1553? Religion
-- Rabelais, François, ca. 1490-1553? Religion
 oclc: '20424278'
 zotero_key: NU2SIHTL
 cover: covers/nu2sihtl.jpg

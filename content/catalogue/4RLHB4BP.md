@@ -19,9 +19,8 @@ edition: 2a ed. rev
 series:
 - Biblioteca románica hispánica
 subjects:
-- Theorie
-- Translating and interpreting
-- Übersetzung
+- Literary Criticism
+- Translation Studies
 oclc: '10804219'
 exlibris: '1988'
 zotero_key: 4RLHB4BP

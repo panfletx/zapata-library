@@ -16,7 +16,6 @@ pages: 153
 series: []
 subjects:
 - Fiction
-- Romans
 oclc: '1123981'
 zotero_key: EG2PIBYK
 cover: covers/eg2pibyk.jpg

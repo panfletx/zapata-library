@@ -18,11 +18,9 @@ edition: 1a ed
 series: []
 subjects:
 - Fiction
-- Novela mexicana Siglo XX
-- Mexican fiction 20th century
-- Mexico City (Mexico) Fiction
-- Mexico Mexico City
-- México (Ciudad) Novela
+- Mexico
+- Mexico City
+- Urban Life
 oclc: '15236402'
 exlibris: '1986'
 zotero_key: T5TX8G5Z

@@ -17,7 +17,9 @@ pages: 66
 edition: 1a. ed
 series:
 - Colección Quaderna
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '746493893'
 zotero_key: A5S45UPG
 cover: covers/a5s45upg.jpg

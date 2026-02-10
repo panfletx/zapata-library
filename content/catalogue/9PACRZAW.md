@@ -17,10 +17,7 @@ pages: 199
 series:
 - Biblioteca general Salvat
 subjects:
-- Spanish poetry
-- To 1500
-- Poésie espagnole Jusqu'à 1500
-- Spanish poetry To 1500
+- Poetry
 oclc: '4398284'
 exlibris: '1976'
 zotero_key: 9PACRZAW

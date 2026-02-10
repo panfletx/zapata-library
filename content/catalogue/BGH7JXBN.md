@@ -9,7 +9,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: BGH7JXBN
 cover: covers/bgh7jxbn.jpg
 ---

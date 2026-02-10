@@ -15,7 +15,7 @@ isbn: 978-970-607-027-2
 pages: 4
 series: []
 subjects:
-- Inglés Estudio y enseñanza
+- Education
 oclc: '651183920'
 zotero_key: DIJDZZXM
 cover: covers/dijdzzxm.jpg

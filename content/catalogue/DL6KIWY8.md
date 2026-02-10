@@ -17,10 +17,7 @@ pages: 126
 series:
 - Plus vitae
 subjects:
-- Cooking (Pasta)
-- Cuisine (Pâtes alimentaires)
-- Cuisine végétarienne
-- Vegetarian cooking
+- Food & Gastronomy
 oclc: '12138783'
 zotero_key: DL6KIWY8
 cover: covers/dl6kiwy8.jpg

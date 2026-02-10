@@ -18,7 +18,7 @@ edition: 1a ed
 series:
 - Libro amigo
 subjects:
-- Novela
+- Fiction
 oclc: '9587748'
 zotero_key: NWFAGD3D
 cover: covers/nwfagd3d.jpg

@@ -17,7 +17,8 @@ pages: 259
 edition: Di 1 ban
 series:
 - A Bantam Classic
-subjects: []
+subjects:
+- Fiction
 oclc: '966032595'
 exlibris: '1993'
 zotero_key: NIUTUA43

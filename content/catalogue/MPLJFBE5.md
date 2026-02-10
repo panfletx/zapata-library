@@ -19,23 +19,13 @@ edition: 1. ed
 series:
 - Pre-textos
 subjects:
-- Mexico
-- Intellectual life
+- Biography
 - Fiction
-- Biographies
-- 1900-1999
-- Romans
-- Authors, Mexican
-- Literatura
-- 18.33 Spanish-American literature
-- Authors, Mexican 20th century Biography
-- Écrivains mexicains 20e siècle Biographies
-- Prose (texts)
-- Mexico Intellectual life 20th century
-- '7.310'
-- Arte de escribir
-- Autores mexicanos Biografía
-- Pitol, Sergio, 1933-2018
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Visual Art
 oclc: '62353211'
 zotero_key: MPLJFBE5
 cover: covers/mpljfbe5.jpg

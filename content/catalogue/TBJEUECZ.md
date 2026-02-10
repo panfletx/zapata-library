@@ -17,15 +17,10 @@ pages: 323
 edition: 1. ed
 series: []
 subjects:
-- Gay men
 - Chile
 - Fiction
-- Spanish language materials
-- Chile Novela
-- Domestic fiction
-- Gay men Chile Fiction
-- Homosexualidad Chile Novela
-- Homosexuels masculins Chili Romans, nouvelles, etc
+- Gay Literature
+- Short Stories
 oclc: '74896735'
 zotero_key: TBJEUECZ
 cover: covers/tbjeuecz.jpg

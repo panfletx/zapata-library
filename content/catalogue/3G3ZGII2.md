@@ -18,21 +18,10 @@ edition: Erstausg
 series:
 - Diogenes-Taschenbücher
 subjects:
+- Biography
+- Drama
+- Film & Cinema
 - Italy
-- Biographies
-- Motion picture producers and directors
-- Cinéma Production et réalisation
-- Fellini, Federico
-- Motion pictures Production and direction
-- Aufsatzsammlung
-- Fellini, Federico 1920-1993
-- Film
-- Film Länder, Gebiete, Völker // Italien
-- Italien
-- Italien Musik, Theater, Tanz, Film
-- Motion picture producers and directors Italy Biography
-- Producteurs et réalisateurs de cinéma Italie Biographies
-- Verzeichnis
 oclc: '74144687'
 zotero_key: 3G3ZGII2
 cover: covers/3g3zgii2.jpg

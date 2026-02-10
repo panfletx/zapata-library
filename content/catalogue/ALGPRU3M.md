@@ -17,10 +17,8 @@ pages: 160
 edition: 1st American ed
 series: []
 subjects:
-- Nu
-- Nude in art
-- nudes (representations)
-- Painting Technique
+- Painting
+- Visual Art
 oclc: '23179511'
 zotero_key: ALGPRU3M
 cover: covers/algpru3m.jpg

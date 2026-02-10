@@ -18,8 +18,8 @@ edition: 1a ed., 1a reimp
 series:
 - Mensajes idiomaticos
 subjects:
-- Lengua española Redacción
-- Lengua española Estilística
+- Grammar & Linguistics
+- Literary Criticism
 oclc: '911674410'
 exlibris: '1992'
 zotero_key: YBXJANQ8

@@ -16,7 +16,7 @@ isbn: 978-84-8130-426-8
 pages: 121
 series: []
 subjects:
-- Cuentos guatemaltecos Siglo XX
+- Short Stories
 oclc: '433166985'
 exlibris: '2006'
 zotero_key: NH3KBRIT

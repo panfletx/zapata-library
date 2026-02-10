@@ -16,14 +16,10 @@ isbn: 978-0-944499-43-6
 pages: 352
 series: []
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Books and reading
-- Livres et lecture
-- Literature History and criticism
-- Littérature Histoire et critique
-- Best books
-- Meilleurs ouvrages
+- Education
+- Literary Criticism
+- Modern History
+- Speech & Lecture
 oclc: '22165559'
 zotero_key: ILAX8IS7
 cover: covers/ilax8is7.jpg

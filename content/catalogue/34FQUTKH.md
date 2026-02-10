@@ -20,9 +20,8 @@ edition: Primera edición
 series:
 - Colección Discursus
 subjects:
-- Criticism, interpretation, etc
-- Blanco, José Joaquín, 1951-
-- Blanco, José Joaquín, 1951- Criticism and interpretation
+- Literary Criticism
+- Mexican Literature
 oclc: '856655165'
 zotero_key: 34FQUTKH
 cover: covers/34fqutkh.jpg

@@ -1,6 +1,5 @@
 ---
-title: Obras completas ; Los trabajos y los días ; História natural das Laranjeiras.
-  IX, Norte y Sur
+title: Obras completas ; Los trabajos y los días ; História natural das Laranjeiras. IX, Norte y Sur
 date: '2024-09-01'
 year: 1981
 decade: 1980s
@@ -18,7 +17,9 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb37380015j
 pages: 527
 series:
 - Letras mexicanas
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '468240236'
 zotero_key: GLLGHJM6
 cover: covers/gllghjm6.jpg

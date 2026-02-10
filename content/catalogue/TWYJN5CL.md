@@ -17,11 +17,7 @@ edition: 1. ed
 series:
 - Naturismo cientifico
 subjects:
-- Diet therapy
-- Diétothérapie
-- Jus d'orange Emploi en thérapeutique
-- Orange juice Therapeutic use
-- Oranges Therapeutic use
+- Medicine & Health
 oclc: '30097137'
 zotero_key: TWYJN5CL
 cover: covers/twyjn5cl.jpg

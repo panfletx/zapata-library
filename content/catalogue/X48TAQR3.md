@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 253
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '21930297'
 zotero_key: X48TAQR3
 cover: covers/x48taqr3.jpg

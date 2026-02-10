@@ -18,10 +18,11 @@ edition: 1. ed
 series:
 - Literatura
 subjects:
-- Novels
-- Romans
-- Novela mexicana Siglo XX
-- Literatura mexicana Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Novel
 oclc: '226316634'
 zotero_key: NU6YC2HS
 cover: covers/nu6yc2hs.jpg

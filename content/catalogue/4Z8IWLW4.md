@@ -17,8 +17,9 @@ isbn: 978-968-39-0129-3
 pages: 10
 series: []
 subjects:
-- México Historia
-- México Historia Obras ilustradas
+- Mexico
+- Modern History
+- Visual Art
 oclc: '651468790'
 zotero_key: 4Z8IWLW4
 cover: covers/4z8iwlw4.jpg

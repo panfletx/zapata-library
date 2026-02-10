@@ -16,7 +16,8 @@ item_types:
 pages: 172
 series:
 - Classiques français du Moyen Age
-subjects: []
+subjects:
+- French Literature
 oclc: '35623835'
 exlibris: '1978'
 zotero_key: UGDYIXBY

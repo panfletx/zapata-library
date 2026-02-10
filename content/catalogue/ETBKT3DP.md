@@ -15,7 +15,8 @@ item_types:
 pages: 11
 series:
 - Cuadernos del unicornio
-subjects: []
+subjects:
+- Fiction
 oclc: '16919603'
 exlibris: dedicaotrias de Melo 1993
 zotero_key: ETBKT3DP

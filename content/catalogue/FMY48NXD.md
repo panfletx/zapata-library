@@ -16,7 +16,9 @@ isbn: 978-607-8485-47-5
 pages: 103
 series:
 - Colección Coétanos
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1139709995'
 zotero_key: FMY48NXD
 cover: covers/fmy48nxd.jpg

@@ -18,11 +18,12 @@ pages: 353
 series:
 - Alfaguara
 subjects:
-- Criticism, interpretation, etc
-- Civilization, Modern
-- Literature, Modern
-- Literature, Modern History and criticism
-- Novela hispanoamericana Uruguay Siglo XX
+- Fiction
+- Latin American Literature
+- Literary Criticism
+- Literary History
+- Modern History
+- Uruguay
 oclc: '33023340'
 zotero_key: J9RTU92D
 cover: covers/j9rtu92d.jpg

@@ -17,8 +17,8 @@ isbn: 978-968-36-0513-9
 pages: 548
 series: []
 subjects:
-- Cine- Distribución- México- 1970-1979- Directorios
-- Industria cinematográfica- México
+- Film & Cinema
+- Mexico
 oclc: '1186944449'
 zotero_key: 4UDSLRUT
 cover: covers/4udslrut.jpg

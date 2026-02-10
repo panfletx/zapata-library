@@ -18,11 +18,10 @@ edition: 1a. ed
 series:
 - Tezontle
 subjects:
-- Buñuel, Luis, 1900-1983
-- Portraits
-- Buñuel, Luis, 1900-1983 Libros da láminas
-- Buñuel, Luis, 1900-1983 Portraits
-- Productores y directores de cinematografía España Libros da láminas
+- Film & Cinema
+- Luis Buñuel
+- Spain
+- Visual Art
 oclc: '32468762'
 zotero_key: 2N3WGZRE
 cover: covers/2n3wgzre.jpg

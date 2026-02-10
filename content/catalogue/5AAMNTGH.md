@@ -19,10 +19,9 @@ edition: 4a ed
 series:
 - Biblioteca universal contemporánea
 subjects:
-- anotations
-- Psicoanálisis
-- Simbolismo (Psicología)
-- Simbolismo en el arte
+- Psychoanalysis
+- Symbolism
+- Visual Art
 oclc: '1033559792'
 zotero_key: 5AAMNTGH
 cover: covers/5aamntgh.jpg

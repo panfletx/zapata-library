@@ -17,10 +17,8 @@ pages: 152
 series:
 - Colección Austral
 subjects:
-- Roman espagnol
-- Spanish fiction
-- Nouvelles espagnoles
-- Short stories, Spanish
+- Fiction
+- Short Stories
 oclc: '912556'
 exlibris: '2003'
 zotero_key: 39E5XVWN

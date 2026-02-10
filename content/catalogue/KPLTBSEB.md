@@ -18,7 +18,8 @@ pages: 93
 edition: 1a. ed. en esta colección
 series:
 - Grandes autores (Ediciones 29)
-subjects: []
+subjects:
+- Fiction
 oclc: '432777491'
 zotero_key: KPLTBSEB
 cover: covers/kpltbseb.jpg

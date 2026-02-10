@@ -17,16 +17,10 @@ pages: 275
 series:
 - Ils étaient une fois
 subjects:
+- Biography
 - France
-- Biographies
-- Bildband
-- Delacroix, Eugène
-- Delacroix, Eugène 1798-1863
-- Delacroix, Eugène, (1798-1863)
-- Delacroix, Eugène, 1798-1863
-- Painters
-- Painters France Biography
-- Peintres France Biographies
+- Painting
+- Visual Art
 oclc: '24629002'
 zotero_key: QRALRU55
 cover: covers/qralru55.jpg

@@ -19,10 +19,8 @@ series:
 - Obras de Jorge Ibargüengoitia. Obra periodística
 subjects:
 - Latin America
-- Travel
-- América Latina Descripciones y viajes
-- Amérique latine Descriptions et voyages
-- Latin America Description and travel
+- Travel Writing
+- United States
 oclc: '20365327'
 exlibris: '1989'
 zotero_key: 9HUQMBNP

@@ -16,17 +16,12 @@ isbn: 978-0-00-614277-5
 pages: 188
 series: []
 subjects:
-- England
-- English literature
+- Detective & Mystery
+- English Literature
 - Fiction
-- Détectives Angleterre Romans, nouvelles, etc
-- Private investigators
-- Private investigators England Fiction
-- English prose literature
-- Littérature anglaise
-- Poirot, Hercule (Fictitious character)
-- Poirot, Hercule (Fictitious character) Fiction
-- Prose anglaise
+- Literary Criticism
+- Short Stories
+- United Kingdom
 oclc: '862352360'
 zotero_key: EW3YHRBD
 cover: covers/ew3yhrbd.jpg

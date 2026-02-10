@@ -18,10 +18,7 @@ edition: 1a ed. en la Colección "Sepan cuantos--"
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- 1800-1899
-- Short stories, Spanish
-- Nouvelles espagnoles 19e siècle
-- Short stories, Spanish 19th century
+- Short Stories
 oclc: '18054930'
 zotero_key: AQXG6P2M
 cover: covers/aqxg6p2m.jpg

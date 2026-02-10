@@ -16,8 +16,8 @@ pages: 192
 edition: 1a ed
 series: []
 subjects:
-- Alemán Gramática Libros de texto para extranjeros
-- Alemán Vocabulario
+- Dictionary
+- Grammar & Linguistics
 oclc: '906931111'
 zotero_key: D6T3YN2P
 cover: covers/d6t3yn2p.jpg

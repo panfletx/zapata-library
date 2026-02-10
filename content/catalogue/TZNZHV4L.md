@@ -18,9 +18,7 @@ edition: 1a. ed
 series:
 - Fondo editorial tierra adentro
 subjects:
-- poetry
 - Poetry
-- Poésie
 oclc: '301746350'
 cover_note: dedicatoria Sergio Loo
 zotero_key: TZNZHV4L

@@ -19,13 +19,9 @@ edition: 1. ed
 series:
 - Círculo de arte
 subjects:
+- Biography
 - Mexico
-- Biographies
-- Photographers
-- Photographers Mexico Biography
-- Photographes Mexique Biographies
-- Fotografía
-- García, Héctor, 1923-2012
+- Photography
 oclc: '48474190'
 zotero_key: TRRWJ875
 cover: covers/trrwj875.jpg

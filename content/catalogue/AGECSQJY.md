@@ -17,7 +17,9 @@ pages: 154
 edition: 1. ed. mexicana
 series:
 - Fontamara
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '28514916'
 exlibris: '2008'
 zotero_key: AGECSQJY

@@ -16,9 +16,8 @@ isbn: 978-950-15-0633-4
 pages: 346
 series: []
 subjects:
-- Autobiographies
-- Autobiography
-- Eisenstein, Sergei, 1898-1948
+- Autobiography & Memoir
+- Film & Cinema
 oclc: '17941089'
 zotero_key: S66PCBZE
 cover: covers/s66pcbze.jpg

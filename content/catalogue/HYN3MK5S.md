@@ -8,7 +8,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: HYN3MK5S
 cover: covers/hyn3mk5s.jpg
 ---

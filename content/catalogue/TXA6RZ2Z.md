@@ -20,9 +20,8 @@ series:
 - Signet Classic poetry series
 subjects:
 - Poetry
-- Christian pilgrims and pilgrimages
-- Christian pilgrims and pilgrimages England Canterbury Poetry
-- England Canterbury
+- Religion
+- United Kingdom
 oclc: '37139172'
 zotero_key: TXA6RZ2Z
 cover: covers/txa6rz2z.jpg

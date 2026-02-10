@@ -15,8 +15,7 @@ source_url: http://biblioteca.aranjuez.es/i18n/consulta/registro.cmd?id=38092
 pages: 95
 series: []
 subjects:
-- Libros
-- Salud - Bienestar
+- Medicine & Health
 oclc: '743731736'
 zotero_key: QEDKJEI4
 cover: covers/qedkjei4.jpg

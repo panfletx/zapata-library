@@ -18,13 +18,10 @@ pages: 71
 edition: 1. ed
 series: []
 subjects:
-- 1900-1999
-- Authors, Mexican
-- Authors, Mexican 20th century Interviews
-- Écrivains mexicains 20e siècle Entretiens
-- Garibay, Ricardo
-- Garibay, Ricardo Interviews
-- Interviews
+- Interview
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '50427274'
 cover_note: dedicatoria Ricardo Venegas
 zotero_key: TGCGRRGN

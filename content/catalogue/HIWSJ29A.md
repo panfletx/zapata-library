@@ -15,7 +15,9 @@ item_types:
 - book
 pages: 558
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '433851096'
 exlibris: '1973'
 zotero_key: HIWSJ29A

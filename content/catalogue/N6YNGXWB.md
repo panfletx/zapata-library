@@ -16,11 +16,7 @@ pages: 504
 series:
 - Garnier Flammarion (Series)
 subjects:
-- str. 1976
-- 1500-1599
-- French poetry
-- French poetry 16th century
-- Poésie française 16e siècle
+- Poetry
 oclc: '1046455'
 zotero_key: N6YNGXWB
 cover: covers/n6yngxwb.jpg

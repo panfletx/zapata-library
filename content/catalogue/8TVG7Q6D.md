@@ -17,14 +17,11 @@ pages: 2
 edition: 1. ed
 series: []
 subjects:
-- Mexican literature
-- Criticism, interpretation, etc
-- LITERATURA ESPAÑOLA 1500-1700 HISTORIA Y CRITICA
-- Littérature mexicaine Jusqu'à 1800 Histoire et critique
-- Mexican literature To 1800 History and criticism
-- Spanish literature Classical period
-- Spanish literature Classical period, 1500-1700 History and criticism
-- To 1800
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Spanish Literature
 oclc: '22578500'
 cover_note: dedicatoria jjb
 zotero_key: 8TVG7Q6D

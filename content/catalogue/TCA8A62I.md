@@ -17,19 +17,12 @@ pages: 207
 series:
 - Narrativa actual, autores de lengua española
 subjects:
-- Travel
-- Biographies
-- 1900-1999
-- Diaries
-- Authors, Spanish
-- Authors, Spanish 20th century Biography
-- Écrivains espagnols 20e siècle Biographies
-- Gil de Biedma, Jaime, 1929-1990
-- Gil de Biedma, Jaime, 1929-1990 Diaries
-- Gil de Biedma, Jaime, 1929-1990 Travel Philippines
-- Philippines
-- Philippines Description and travel
-- Philippines Descriptions et voyages
+- Biography
+- Diary & Letters
+- Japan
+- Literary Criticism
+- Poetry
+- Travel Writing
 oclc: '32566655'
 exlibris: '1998'
 zotero_key: TCA8A62I

@@ -17,10 +17,8 @@ pages: 70
 series:
 - Mitos poesía
 subjects:
-- Translations
-- Arabic poetry
-- Arabic poetry Translations into Spanish
-- Poesía árabe Traducciones al español
+- Poetry
+- Translation Studies
 oclc: '52345965'
 zotero_key: VE3R7DLZ
 cover: covers/ve3r7dlz.jpg

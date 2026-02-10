@@ -10,7 +10,8 @@ languages:
 item_types:
 - magazineArticle
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 7UHXMRK5
 cover: covers/7uhxmrk5.jpg
 ---

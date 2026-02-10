@@ -17,7 +17,8 @@ source_url: https://archive.org/details/oateneu0000pomp_a4f3
 pages: 128
 series:
 - Coleção Prestígio
-subjects: []
+subjects:
+- Fiction
 oclc: '1285754652'
 exlibris: '1988'
 zotero_key: UMGLQTBC

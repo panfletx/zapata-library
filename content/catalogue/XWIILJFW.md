@@ -15,7 +15,9 @@ item_types:
 pages: 202
 series:
 - Breviarios
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '610409331'
 exlibris: '1974'
 zotero_key: XWIILJFW

@@ -16,7 +16,8 @@ isbn: 978-3-15-018522-3
 pages: 64
 series:
 - Universal-Bibliothek (Stuttgart, Germany)
-subjects: []
+subjects:
+- German Literature
 oclc: '878079391'
 zotero_key: FTMD7E5V
 cover: covers/ftmd7e5v.jpg

@@ -1,6 +1,5 @@
 ---
-title: 'El Lazarillo de ciegos caminantes: sacado de las memorias que hizo don Alonso
-  Carrió de la Vandera'
+title: 'El Lazarillo de ciegos caminantes: sacado de las memorias que hizo don Alonso Carrió de la Vandera'
 date: '2024-09-01'
 year: 1982
 decade: 1980s
@@ -20,7 +19,7 @@ pages: 290
 series:
 - Clásicos americanos
 subjects:
-- América del Sur Descripción y viajes
+- Travel Writing
 oclc: '651358793'
 zotero_key: 4R29MTTP
 cover: covers/4r29mttp.jpg

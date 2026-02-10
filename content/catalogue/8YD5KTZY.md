@@ -18,13 +18,10 @@ pages: 185
 edition: 1st U.S. ed
 series: []
 subjects:
-- Criticism, interpretation, etc
-- Books and reading
-- Literature - History and criticism - Theory, etc
-- Literature History and criticism Theory, etc
-- Literature Theory, etc
-- Littérature Histoire et critique Théorie, etc
-- Livres et lecture
+- Education
+- Literary Criticism
+- Modern History
+- Speech & Lecture
 oclc: '154677642'
 zotero_key: 8YD5KTZY
 cover: covers/8yd5ktzy.jpg

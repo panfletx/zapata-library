@@ -16,15 +16,9 @@ pages: 318
 series:
 - Point de la question
 subjects:
-- Language and languages
-- Communication
-- Information
-- Langage et langues
-- language (general communication)
-- languages (study discipline)
-- linguistics
-- Linguistics
-- Linguistique
+- Education
+- Grammar & Linguistics
+- Modern History
 oclc: '225477991'
 zotero_key: QLYDGSEJ
 cover: covers/qlydgsej.jpg

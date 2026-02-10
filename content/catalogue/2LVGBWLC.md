@@ -19,7 +19,7 @@ edition: 2a. ed
 series:
 - Panorama de narrativas
 subjects:
-- Novela inglesa s. XX
+- Fiction
 oclc: '433892038'
 exlibris: '1994'
 zotero_key: 2LVGBWLC

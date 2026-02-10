@@ -16,11 +16,9 @@ pages: 78
 series:
 - Documentos literarios (Mexico City, Mexico)
 subjects:
-- Personal correspondence
-- Novo, Salvador, 1904-1974
-- Novo, Salvador 1904- Correspondencia
-- Villaurrutia, Xavier, 1903-1950
-- Villaurrutia, Xavier, 1903-1950 Correspondence
+- Correspondence
+- Luis Zapata
+- Poetry
 oclc: '3547608'
 zotero_key: BMJECWXZ
 cover: covers/bmjecwxz.jpg

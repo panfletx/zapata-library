@@ -17,19 +17,12 @@ pages: 125
 series:
 - Anagrama panorama narrativas
 subjects:
+- Economics
 - Fiction
-- Romance fiction
-- Historical fiction
-- Novela histórica
-- Businessmen
-- Businessmen Fiction
-- Comerciantes Novela
-- Cuentos de amor
-- Hommes d'affaires Romans, nouvelles, etc
-- Seda Industria y comercio Novela
-- Silk industry
-- Silk industry Fiction
-- Soie Industrie Romans, nouvelles, etc
+- Historical Fiction
+- Love & Desire
+- Modern History
+- Short Stories
 oclc: '647766836'
 exlibris: '2014'
 zotero_key: IJWEPXEK

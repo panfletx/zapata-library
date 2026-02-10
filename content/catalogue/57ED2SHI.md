@@ -12,7 +12,7 @@ item_types:
 - book
 series: []
 subjects:
-- Italiano Verbo
+- Grammar & Linguistics
 oclc: '906647273'
 zotero_key: 57ED2SHI
 cover: covers/57ed2shi.jpg

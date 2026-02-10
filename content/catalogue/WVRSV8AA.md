@@ -18,7 +18,7 @@ series:
 - Lecturas universitarias
 subjects:
 - Aesthetics
-- Arts
+- Visual Art
 oclc: '872479'
 zotero_key: WVRSV8AA
 cover: covers/wvrsv8aa.jpg

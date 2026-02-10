@@ -18,10 +18,8 @@ edition: 15a. ed
 series:
 - Psicologia y etologia
 subjects:
-- Death Psychological aspects
-- Mort Aspect psychologique
-- Bereavement Psychological aspects
-- Deuil Aspect psychologique
+- Death & Mourning
+- Psychoanalysis
 oclc: '20072712'
 zotero_key: M4GY7GQU
 cover: covers/m4gy7gqu.jpg

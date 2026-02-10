@@ -16,7 +16,7 @@ pages: 103
 series:
 - Arc (Aix-en-Provence, France)
 subjects:
-- Groddeck, Georg, 1866-1934
+- Psychoanalysis
 oclc: '6995692'
 zotero_key: RJT7SJ3Z
 cover: covers/rjt7sj3z.jpg

@@ -15,8 +15,8 @@ item_types:
 isbn: 978-0-385-24937-9
 series: []
 subjects:
-- Spiritual life Catholic authors
-- Stroud, J. Francis
+- Catholicism
+- Religion
 oclc: '855188235'
 zotero_key: QXYHUGQU
 cover: covers/qxyhugqu.jpg

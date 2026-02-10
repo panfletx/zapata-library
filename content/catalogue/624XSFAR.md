@@ -17,12 +17,10 @@ pages: 111
 series:
 - Infini (Gallimard (Firm))
 subjects:
-- Diaries
-- Dépression
-- Depression, Mental
-- Autobiographical Narration
-- Rosset, Clément
-- Rosset, Clément Diaries
+- Autobiography & Memoir
+- Diary & Letters
+- Literary Criticism
+- Madness & Mental Illness
 oclc: '42933570'
 zotero_key: 624XSFAR
 cover: covers/624xsfar.jpg

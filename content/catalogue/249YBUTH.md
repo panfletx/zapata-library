@@ -17,12 +17,8 @@ edition: Primera edición
 series: []
 subjects:
 - Mexico
+- Music
 - Spain
-- Musique populaire Aspect social Espagne
-- Musique populaire Aspect social Mexique
-- Popular music Social aspects
-- Popular music Social aspects Mexico
-- Popular music Social aspects Spain
 oclc: '778789916'
 zotero_key: 249YBUTH
 cover: covers/249ybuth.jpg

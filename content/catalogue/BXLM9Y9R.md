@@ -17,17 +17,10 @@ pages: 239
 series:
 - Obras maestras del Siglo XX
 subjects:
-- Mexico
+- Catholicism
 - Fiction
-- Catholic Church
-- Clergy
-- Mexico Fiction
-- Clergé Romans, nouvelles, etc
-- Clergy Fiction
-- Anti-clericalism
-- Anti-clericalism Fiction
-- Anticléricalisme Romans, nouvelles, etc
-- Catholic Church Fiction
+- Mexico
+- Short Stories
 oclc: '13895164'
 zotero_key: BXLM9Y9R
 cover: covers/bxlm9y9r.jpg

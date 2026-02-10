@@ -19,10 +19,9 @@ edition: Primera edición
 series:
 - Grandes ideas
 subjects:
-- Conducta de vida
-- Ética
-- Filósofos romanos
-- Séneca, Luci Anneu, 4 A.C-65 D.C., traducciones al español
+- Ethics
+- Philosophy
+- Translation Studies
 oclc: '1097726628'
 zotero_key: Z35HRRTN
 cover: covers/z35hrrtn.jpg

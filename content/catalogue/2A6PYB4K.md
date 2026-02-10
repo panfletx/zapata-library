@@ -17,8 +17,7 @@ isbn: 978-970-652-025-8
 pages: 32
 series: []
 subjects:
-- Adviento
-- Iglesia Católica Devocionarios
+- Catholicism
 oclc: '651534906'
 zotero_key: 2A6PYB4K
 cover: covers/2a6pyb4k.jpg

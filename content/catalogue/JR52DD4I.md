@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 314
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: JR52DD4I
 cover: covers/jr52dd4i.jpg
 ---

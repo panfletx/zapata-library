@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-899-006-3
 pages: 249
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651485703'
 exlibris: '1992'
 zotero_key: 9UFKPDHM

@@ -16,7 +16,8 @@ isbn: 978-607-8099-37-5
 pages: 64
 series:
 - Colección Reino de nadie
-subjects: []
+subjects:
+- Fiction
 oclc: '829393448'
 zotero_key: GPNN4H2A
 cover: covers/gpnn4h2a.jpg

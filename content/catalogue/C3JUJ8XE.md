@@ -17,7 +17,7 @@ pages: 187
 series:
 - Clásicos de siempre (Madrid)
 subjects:
-- Cuentos estadounidenses Siglo XX
+- Short Stories
 oclc: '431577772'
 zotero_key: C3JUJ8XE
 cover: covers/c3juj8xe.jpg

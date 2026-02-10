@@ -17,8 +17,9 @@ pages: 451
 series:
 - '"Sepan cuantos-- "'
 subjects:
-- Literatura española
-- Poesía española
+- Literary Criticism
+- Poetry
+- Spanish Literature
 oclc: '1097705248'
 exlibris: '1991'
 zotero_key: GIU6FP8C

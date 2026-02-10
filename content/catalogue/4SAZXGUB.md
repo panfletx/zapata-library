@@ -17,8 +17,7 @@ edition: '[1. ed.]'
 series:
 - Serie del volador
 subjects:
-- Spanish literature
-- Littérature espagnole
+- Spanish Literature
 oclc: '1348668'
 exlibris: '1970'
 zotero_key: 4SAZXGUB

@@ -20,10 +20,8 @@ pages: 850
 edition: Primera edición de esta colección
 series: []
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Literature History and criticism
-- Littérature Histoire et critique
+- Literary Criticism
+- Modern History
 oclc: '1350425063'
 zotero_key: GLLPWZ5C
 cover: covers/gllpwz5c.jpg

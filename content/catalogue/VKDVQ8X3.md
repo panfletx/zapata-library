@@ -19,13 +19,7 @@ series:
 - Lecturas mexicanas
 subjects:
 - Mexico
-- Civilization
-- National characteristics, Mexican
-- Manners and customs
-- Mexicains
-- Mexico Social life and customs
-- Mexico Civilization
-- Mexique Civilisation
+- Modern History
 oclc: '17450998'
 zotero_key: VKDVQ8X3
 cover: covers/vkdvq8x3.jpg

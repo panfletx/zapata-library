@@ -16,7 +16,7 @@ isbn: 978-968-6149-15-9
 pages: 58
 series: []
 subjects:
-- Alcoforada, Mariana, 1640-1723
+- Correspondence
 oclc: '651508243'
 cover_note: dedicatoria de Luis Zapata a José
 exlibris: '1992'

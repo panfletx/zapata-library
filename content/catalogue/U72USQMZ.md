@@ -16,7 +16,8 @@ item_types:
 pages: 151
 series:
 - Biblioteca básica Salvat
-subjects: []
+subjects:
+- Fiction
 oclc: '920066370'
 exlibris: Luis Zapata
 zotero_key: U72USQMZ

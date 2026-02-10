@@ -17,7 +17,9 @@ pages: 248
 edition: 1a. ed.
 series:
 - Alfaguara literaturas
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '632121059'
 exlibris: '1994'
 zotero_key: KSV7X9DC

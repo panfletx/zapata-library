@@ -17,17 +17,12 @@ pages: 226
 series:
 - Colección Biblioteca de las decisiones
 subjects:
-- Homosexuality in literature
-- Erotica
-- Male homosexuality
-- Rome (Empire)
-- Homosexualité dans la littérature
-- Érotisme
+- Erotic Literature
+- Gay Literature
 - Greece
-- Homosexualité masculine Grèce
-- Homosexualité masculine Rome
-- Male homosexuality Greece
-- Male homosexuality Rome
+- Modern History
+- Rome
+- Sexuality & Eroticism
 oclc: '13992037'
 zotero_key: S2IQXQ4Y
 cover: covers/s2iqxq4y.jpg

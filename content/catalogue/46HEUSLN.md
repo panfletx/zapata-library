@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1109-4
 pages: 61
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521437'
 zotero_key: 46HEUSLN
 cover: covers/46heusln.jpg

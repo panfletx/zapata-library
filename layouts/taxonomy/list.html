@@ -1,14 +1,50 @@
 {{ define "main" }}
 <section class="section">
-  <h1>{{ .Title }}</h1>
-  <p class="taxonomy-count-label">{{ len .Pages }} {{ i18n "items" }}</p>
+  {{- $title := .Title -}}
+  {{- if eq .Section "subjects" -}}
+    {{- $subjKey := printf "subj_%s" ($title | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+    {{- $translated := i18n $subjKey -}}
+    {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
+  {{- else if eq .Section "languages" -}}
+    {{- $langKey := printf "lang_%s" $title -}}
+    {{- $translated := i18n $langKey -}}
+    {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
+  {{- end -}}
 
-  <div class="book-grid">
-    {{ range .Paginator.Pages }}
-      {{ partial "book-card.html" . }}
-    {{ end }}
-  </div>
+  {{ if .Data.Terms }}
+    {{/* Taxonomy terms listing page (e.g., /subjects/) */}}
+    <h1>{{ .Title }}</h1>
+    <div class="taxonomy-list">
+      {{ range .Data.Terms.Alphabetical }}
+        {{- $termTitle := .Page.Title -}}
+        {{- $section := $.Section -}}
+        {{- if eq $section "subjects" -}}
+          {{- $subjKey := printf "subj_%s" ($termTitle | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+          {{- $translated := i18n $subjKey -}}
+          {{- if $translated -}}{{- $termTitle = $translated -}}{{- end -}}
+        {{- else if eq $section "languages" -}}
+          {{- $langKey := printf "lang_%s" $termTitle -}}
+          {{- $translated := i18n $langKey -}}
+          {{- if $translated -}}{{- $termTitle = $translated -}}{{- end -}}
+        {{- end -}}
+        <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">
+          <span class="taxonomy-name">{{ $termTitle }}</span>
+          <span class="taxonomy-count">{{ .Count }}</span>
+        </a>
+      {{ end }}
+    </div>
+  {{ else }}
+    {{/* Individual taxonomy term page (e.g., /subjects/fiction/) */}}
+    <h1>{{ $title }}</h1>
+    <p class="taxonomy-count-label">{{ len .Pages }} {{ i18n "items" }}</p>
 
-  {{ template "_internal/pagination.html" . }}
+    <div class="book-grid">
+      {{ range .Paginator.Pages }}
+        {{ partial "book-card.html" . }}
+      {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+  {{ end }}
 </section>
 {{ end }}

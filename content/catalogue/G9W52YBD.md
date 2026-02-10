@@ -16,7 +16,8 @@ isbn: 978-84-220-0819-4
 pages: 298
 series: []
 subjects:
-- LITERATURA DICCIONARIO (A-Z)
+- Dictionary
+- Literary Criticism
 oclc: '1105281809'
 zotero_key: G9W52YBD
 cover: covers/g9w52ybd.jpg

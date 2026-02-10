@@ -14,7 +14,8 @@ item_types:
 isbn: 978-84-395-1585-2
 pages: 48
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '906801093'
 zotero_key: GQEVAA73
 cover: covers/gqevaa73.jpg

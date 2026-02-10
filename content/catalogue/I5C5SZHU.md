@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 4
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '805650010'
 exlibris: '1976'
 zotero_key: I5C5SZHU

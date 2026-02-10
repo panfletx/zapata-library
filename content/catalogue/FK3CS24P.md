@@ -15,7 +15,7 @@ isbn: 978-968-19-0200-1
 pages: 598
 series: []
 subjects:
-- SPANISH LANGUAGE MATERIALS
+- Fiction
 oclc: '1334615630'
 exlibris: '2001'
 zotero_key: FK3CS24P

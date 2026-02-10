@@ -15,8 +15,7 @@ item_types:
 pages: 184
 series: []
 subjects:
-- Reyes, Alfonso, 1889-1959
-- Reyes, Alfonso, 1889-1959,
+- Alfonso Reyes
 oclc: '39820358'
 zotero_key: QB9B74ET
 cover: covers/qb9b74et.jpg

@@ -16,7 +16,9 @@ pages: 60
 edition: '[1. ed.]'
 series:
 - Serie Nuevos escritores
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '30076160'
 zotero_key: YNATXDXI
 cover: covers/ynatxdxi.jpg

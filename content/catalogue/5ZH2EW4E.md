@@ -17,7 +17,8 @@ isbn: 978-2-08-070022-3
 pages: 311
 series:
 - GF-Flammarion
-subjects: []
+subjects:
+- French Literature
 oclc: '29606634'
 zotero_key: 5ZH2EW4E
 cover: covers/5zh2ew4e.jpg

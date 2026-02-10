@@ -16,8 +16,7 @@ edition: Cuarta edición
 series:
 - El libro de bolsillo (Alianza Editorial)
 subjects:
-- str.
-- Sueños
+- Dreams
 oclc: '1132663496'
 zotero_key: CE97IIBT
 cover: covers/ce97iibt.jpg

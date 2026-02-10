@@ -16,7 +16,8 @@ pages: 21
 edition: 1a. ed
 series:
 - Colección Trilce-Pireni
-subjects: []
+subjects:
+- Fiction
 oclc: '37217715'
 zotero_key: 5PVCUP8Z
 cover: covers/5pvcup8z.jpg

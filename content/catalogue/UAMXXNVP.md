@@ -15,7 +15,9 @@ item_types:
 isbn: 978-970-35-0689-7
 pages: 254
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '75183531'
 zotero_key: UAMXXNVP
 cover: covers/uamxxnvp.jpg

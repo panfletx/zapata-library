@@ -17,16 +17,12 @@ edition: 1. ed
 series:
 - Biblioteca total
 subjects:
-- Europeans
+- Death & Mourning
 - Fiction
-- Africa
-- Europeans Africa Fiction
-- Européens Afrique Romans, nouvelles, etc
-- Congo (Democratic Republic)
-- Congo (Democratic Republic) Fiction
-- Souffrance Romans, nouvelles, etc
-- Suffering
-- Suffering Fiction
+- Latin America
+- Latin American Politics
+- Modern History
+- Short Stories
 oclc: '37922753'
 zotero_key: ZV5SMPIX
 cover: covers/zv5smpix.jpg

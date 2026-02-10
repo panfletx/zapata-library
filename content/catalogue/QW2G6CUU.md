@@ -18,21 +18,14 @@ edition: Primera edición
 series:
 - Colección biblioteca (Universidad Veracruzana)
 subjects:
-- Mexican literature
-- Homosexuality in literature
-- Criticism, interpretation, etc
-- Essays
-- essays
-- Mexican literature 20th century History and criticism
-- Homosexualité dans la littérature
-- 1800-1999
-- Littérature mexicaine 19e siècle Histoire et critique
-- Mexican literature 19th century History and criticism
-- Gays in literature
-- Homosexuels dans la littérature
-- Essais
-- Gay erotic literature, Mexican
-- Gay erotic literature, Mexican History and criticism
+- Erotic Literature
+- Essay
+- Gay Literature
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Modern History
+- Sexuality & Eroticism
 oclc: '982086248'
 cover_note: dedicatoria de Gutierrez
 zotero_key: QW2G6CUU

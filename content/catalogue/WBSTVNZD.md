@@ -17,8 +17,8 @@ pages: 421
 series:
 - Colección Hechos en palabras
 subjects:
-- Mexican essays 21st century
-- Mexican essays Mexico Tuxtla Gutiérrez
+- Essay
+- Mexico
 oclc: '503946604'
 zotero_key: WBSTVNZD
 cover: covers/wbstvnzd.jpg

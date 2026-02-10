@@ -17,12 +17,10 @@ pages: 135
 edition: 1a ed
 series: []
 subjects:
+- Biography
+- Diego Rivera
 - Mexico
-- Biographies
-- Painters
-- Painters Mexico Biography
-- Peintres Mexique Biographies
-- Rivera, Diego, 1886-1957
+- Painting
 oclc: '7463058'
 cover_note: dedicatoria Olivier
 zotero_key: YVY58C2D

@@ -16,7 +16,8 @@ isbn: 978-84-8130-047-5
 pages: 94
 series:
 - Novelas del verano
-subjects: []
+subjects:
+- Fiction
 oclc: '893548603'
 zotero_key: 6YAJVWWI
 cover: covers/6yajvwwi.jpg

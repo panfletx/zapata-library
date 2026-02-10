@@ -19,11 +19,10 @@ edition: 1a. ed. en bolsillo
 series:
 - RBA bolsillo
 subjects:
-- Echave-Sustaeta, Javier
-- Echave-Sustaeta, Javier de
-- Poesía épica latina
-- Poesía épica latina Traducciones al español
-- Vidal, Jose Luis
+- Epic
+- Poetry
+- Translation Studies
+- Visual Art
 oclc: '433814716'
 exlibris: '2010'
 zotero_key: UFB4TXYX

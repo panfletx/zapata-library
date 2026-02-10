@@ -6,8 +6,7 @@ decade: 2000s
 authors:
 - Margot, Sebastián
 publishers:
-- Gobierno del Estado de Coahuila, Secretaría de Educación y Cultura, Instituto Coahuilense
-  de Cultura
+- Gobierno del Estado de Coahuila, Secretaría de Educación y Cultura, Instituto Coahuilense de Cultura
 place: Coahuila, Mexico
 languages:
 - Español
@@ -18,7 +17,8 @@ pages: 75
 edition: 1. ed
 series:
 - Fragua (Saltillo, Coahuila, Mexico)
-subjects: []
+subjects:
+- Fiction
 oclc: '713801741'
 cover_note: dedicatoria de Margot 2011
 zotero_key: DVXE4K7R

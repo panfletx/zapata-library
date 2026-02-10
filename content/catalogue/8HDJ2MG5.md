@@ -13,16 +13,12 @@ item_types:
 - book
 series: []
 subjects:
-- Spanish American literature
-- Periodicals
-- Criticism, interpretation, etc
-- Spanish literature
-- Spanish language
-- Spanish American literature History and criticism Periodicals
-- Spanish language Periodicals
-- Spanish literature History and criticism Periodicals
-- Spanish philology
-- Spanish philology Periodicals
+- American Literature
+- Grammar & Linguistics
+- Literary Criticism
+- Modern History
+- Spanish Literature
+- United States
 oclc: '62770970'
 cover_note: dedicatoria
 zotero_key: 8HDJ2MG5

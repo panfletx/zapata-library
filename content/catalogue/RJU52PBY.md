@@ -9,7 +9,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: RJU52PBY
 cover: covers/rju52pby.jpg
 ---

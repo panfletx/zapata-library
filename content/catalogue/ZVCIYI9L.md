@@ -20,12 +20,8 @@ edition: 1a ed
 series:
 - Colección Hogarth. Serie Epistolar
 subjects:
-- Personal correspondence
-- Laughlin, James, 1914-1997
-- Laughlin, James, 1914-1997 Correspondence
-- Laughlin, James, 1914-1997 Correspondencia
-- Miller, Henry, 1891-1980
-- Miller, Henry, 1891-1980 Correspondence
+- American Literature
+- Correspondence
 oclc: '807340116'
 zotero_key: ZVCIYI9L
 cover: covers/zvciyi9l.jpg

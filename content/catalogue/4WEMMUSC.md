@@ -16,7 +16,8 @@ pages: 149
 edition: 1. ed
 series:
 - Grandes escritores de nuestro tiempo
-subjects: []
+subjects:
+- Fiction
 oclc: '2040080'
 cover_note: Efrain Ernesto Pacheco Cedillo
 zotero_key: 4WEMMUSC

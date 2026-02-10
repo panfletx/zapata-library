@@ -18,7 +18,8 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb350849694
 pages: 285
 series:
 - Les langues modernes-bilingue, Série italienne
-subjects: []
+subjects:
+- French Literature
 oclc: '462151527'
 zotero_key: KM3STJZD
 cover: covers/km3stjzd.jpg

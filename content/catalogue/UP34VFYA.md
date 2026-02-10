@@ -18,12 +18,8 @@ edition: 1a ed. en español
 series:
 - Biblioteca de psicología y psicoanálisis
 subjects:
-- Biographies
 - Biography
-- Jung, C. G. 1875-1961
-- Psychanalystes Biographies
-- Psychoanalysts
-- Psychoanalysts Biography
+- Psychoanalysis
 oclc: '10240623'
 zotero_key: UP34VFYA
 cover: covers/up34vfya.jpg

@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: G8CCGV96
 cover: covers/g8ccgv96.jpg
 ---

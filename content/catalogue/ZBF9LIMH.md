@@ -1,6 +1,5 @@
 ---
-title: 'Cómo sanar las heridas de la vida: la curación de los recuerdos en las cinco
-  etapas del perdón'
+title: 'Cómo sanar las heridas de la vida: la curación de los recuerdos en las cinco etapas del perdón'
 date: '2024-09-01'
 year: 1996
 decade: 1990s
@@ -18,7 +17,8 @@ pages: 422
 series:
 - Autoayuda
 subjects:
-- Curación espiritual
+- Medicine & Health
+- Religion
 oclc: '906685059'
 zotero_key: ZBF9LIMH
 cover: covers/zbf9limh.jpg

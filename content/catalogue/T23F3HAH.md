@@ -20,11 +20,10 @@ edition: '[1a. ed.]'
 series:
 - Clásicos universales Planeta
 subjects:
-- Griegos Biografías
-- Personajes célebres Grecia Edad Antigua biografías
-- Personajes célebres Roma Edad Antigua biografías
-- Prosa griega s.I-II
-- Romanos Biografías
+- Biography
+- Greece
+- Literary Criticism
+- Rome
 oclc: '435437565'
 zotero_key: T23F3HAH
 cover: covers/t23f3hah.jpg

@@ -8,7 +8,8 @@ item_types:
 - book
 isbn: 01888056
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: C28XGRBV
 cover: covers/c28xgrbv.jpg
 ---

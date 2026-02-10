@@ -19,13 +19,8 @@ pages: 343
 series:
 - Points. Série Point-virgule
 subjects:
-- Scénarios de cinéma
-- screenplays
-- Cinéma Scénarios
-- Fellini, Federico (1920-1993)
-- Otto e mezzo (Film cinématographique)
-- Otto e mezzo (Motion picture)
-- Screenplays
+- Film & Cinema
+- Screenplay
 oclc: '36541642'
 cover_note: Regalo de Angelina
 exlibris: '2004'

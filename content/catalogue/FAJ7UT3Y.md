@@ -11,7 +11,8 @@ item_types:
 - magazineArticle
 issn: '16653629'
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: FAJ7UT3Y
 cover: covers/faj7ut3y.jpg
 ---

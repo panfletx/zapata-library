@@ -17,11 +17,9 @@ pages: 255
 edition: 1st Ballantine books ed
 series: []
 subjects:
+- Detective & Mystery
 - Fiction
-- Affaires Pratiques déloyales Romans, nouvelles, etc
-- Business Corrupt practices Fiction
-- Swindlers and swindling
-- Swindlers and swindling Fiction
+- Short Stories
 oclc: '9238949'
 zotero_key: S9AEWXCT
 cover: covers/s9aewxct.jpg

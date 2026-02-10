@@ -16,7 +16,7 @@ pages: 296
 series:
 - Harvest books
 subjects:
-- dedicatoria
+- Fiction
 oclc: '301697517'
 zotero_key: IDKEMKZC
 cover: covers/idkemkzc.jpg

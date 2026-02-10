@@ -17,7 +17,9 @@ pages: 69
 edition: 1. ed
 series:
 - Colección Dánae
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '49773903'
 cover_note: dedicatoria
 zotero_key: 9QUJ7UM8

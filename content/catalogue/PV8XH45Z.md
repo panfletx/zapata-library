@@ -16,8 +16,10 @@ isbn: 978-970-92237-7-4
 pages: 100
 series: []
 subjects:
-- Literatura mexicana Siglo XX
-- Novela mexicana Siglo XXI
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '530255580'
 exlibris: '2007'
 zotero_key: PV8XH45Z

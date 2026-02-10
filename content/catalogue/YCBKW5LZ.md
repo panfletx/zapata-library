@@ -16,7 +16,8 @@ isbn: 978-2-903669-08-9
 pages: 202
 series:
 - (Collection mémoire)
-subjects: []
+subjects:
+- Fiction
 oclc: '252233344'
 zotero_key: YCBKW5LZ
 cover: covers/ycbkw5lz.jpg

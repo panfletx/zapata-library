@@ -17,7 +17,8 @@ pages: 124
 edition: 1. ed
 series:
 - Colección Textos literarios
-subjects: []
+subjects:
+- Fiction
 oclc: '29369000'
 cover_note: dedicatoria del autor
 zotero_key: E6KGEXEH

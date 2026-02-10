@@ -18,7 +18,8 @@ isbn: 978-968-39-0129-3
 pages: 158
 series: []
 subjects:
-- México- Historia- S.XIX
+- Mexico
+- Modern History
 oclc: '1367349081'
 zotero_key: I8ZYAB59
 cover: covers/i8zyab59.jpg

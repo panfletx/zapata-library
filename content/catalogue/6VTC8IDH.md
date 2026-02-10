@@ -19,11 +19,8 @@ series:
 - Extra Alfaguara
 subjects:
 - Mexico
-- Prisiones México
-- Prisiones México Historia Siglo XX
-- Prisons
-- Prisons Mexico
-- Tornero Díaz, Carlos
+- Modern History
+- Prison
 oclc: '40513641'
 zotero_key: 6VTC8IDH
 cover: covers/6vtc8idh.jpg

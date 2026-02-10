@@ -16,11 +16,7 @@ pages: 205
 series:
 - Rotativa
 subjects:
-- Psychanalyse
-- psychoanalysis
 - Psychoanalysis
-- Jungian psychology
-- Psychologie analytique
 oclc: '615568806'
 exlibris: Luis Zapata
 zotero_key: LDBUHPHG

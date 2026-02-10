@@ -1,6 +1,5 @@
 ---
-title: 'Claro que sí! 2ème année d''espagnol: nouveau programme. Guide pédagogique.
-  Cahier d''exercices'
+title: 'Claro que sí! 2ème année d''espagnol: nouveau programme. Guide pédagogique. Cahier d''exercices'
 date: '2024-09-01'
 year: 1989
 decade: 1980s
@@ -20,8 +19,7 @@ source_url: http://catalogue.bnf.fr/ark:/12148/cb382817448
 pages: 3
 series: []
 subjects:
-- Méthode de langue
-- Méthode de langue Espagnol
+- Grammar & Linguistics
 oclc: '691718643'
 cover_note: dedicatoria de Miguel 1990
 zotero_key: YUFY2D8V

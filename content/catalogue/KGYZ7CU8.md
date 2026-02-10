@@ -18,17 +18,13 @@ pages: 1
 series:
 - Les Langues pour tous (Paris)
 subjects:
-- 1900-1999
-- Literary collections
-- Readers (Publications)
-- German language
-- Allemand (langue) Lectures et morceaux choisis
-- Allemand (Langue) Lectures et morceaux choisis
-- German language Readers
-- Nouvelles allemandes 20e siècle Anthologies
-- Nouvelles allemandes 20e siècle Traductions françaises
-- Short stories, German
-- Short stories, German 20th century Literary collections
+- Anthology
+- Education
+- Grammar & Linguistics
+- Modern History
+- Short Stories
+- Speech & Lecture
+- Translation Studies
 oclc: '490509445'
 zotero_key: KGYZ7CU8
 cover: covers/kgyz7cu8.jpg

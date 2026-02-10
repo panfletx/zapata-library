@@ -17,8 +17,9 @@ pages: 282
 series:
 - Biblioteca de iniciacion al humanismo
 subjects:
-- Literatura latina
-- Satira e humor latino
+- Classical Literature
+- Literary Criticism
+- Satire & Humor
 oclc: '17961306'
 exlibris: '1973'
 zotero_key: SNN6MMZS

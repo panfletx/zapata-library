@@ -16,7 +16,9 @@ item_types:
 pages: 331
 series:
 - Libro clásico (Bruguera)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '807817035'
 zotero_key: S2J8BJQH
 cover: covers/s2j8bjqh.jpg

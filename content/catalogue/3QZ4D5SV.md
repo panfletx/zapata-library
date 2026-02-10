@@ -17,11 +17,8 @@ pages: 77
 series:
 - Manuales Integral
 subjects:
-- Nutrition
-- Nutrition Ouvrages de vulgarisation
-- Nutrition Physiology Popular Works
-- Nutrition Popular works
-- Popular works
+- Food & Gastronomy
+- Science
 oclc: '813964778'
 zotero_key: 3QZ4D5SV
 cover: covers/3qz4d5sv.jpg

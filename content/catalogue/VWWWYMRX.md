@@ -9,7 +9,8 @@ item_types:
 - book
 source_url: https://search.worldcat.org/title/613144193
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: VWWWYMRX
 cover: covers/vwwwymrx.jpg
 ---

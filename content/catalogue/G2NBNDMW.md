@@ -17,9 +17,10 @@ isbn: 978-968-19-0139-4
 series:
 - Grandes cl'asicos
 subjects:
-- Literatura mexicana Siglo XX
-- Literatura mexicana Colecciones
-- Poesía mexicana Siglo XX
+- Anthology
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '39825547'
 exlibris: '1992'
 zotero_key: G2NBNDMW

@@ -19,19 +19,14 @@ edition: 2. ed
 series:
 - Colección Renacimiento
 subjects:
-- Criticism, interpretation, etc
+- Latin American Politics
+- Literary Criticism
+- Modern History
 - Music
+- Russia
+- Saints & Hagiography
+- Travel Writing
 - United States
-- Travel
-- 1900-1999
-- International relations
-- Music Russia (Federation) Saint Petersburg 20th century History and criticism
-- Russia (Federation) Saint Petersburg
-- Soviet Union
-- Soviet Union Description and travel
-- Soviet Union Relations United States
-- United States Relations Soviet Union
-- URSS Descriptions et voyages
 oclc: '15203895'
 exlibris: '1986'
 zotero_key: 44JWXSHV

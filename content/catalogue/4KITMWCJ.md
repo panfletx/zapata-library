@@ -17,7 +17,8 @@ isbn: 978-2-07-036009-3
 pages: 155
 series:
 - Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '1410714840'
 zotero_key: 4KITMWCJ
 cover: covers/4kitmwcj.jpg

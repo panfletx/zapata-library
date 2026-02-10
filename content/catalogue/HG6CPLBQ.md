@@ -17,14 +17,9 @@ edition: 1a ed
 series:
 - Temas de nuestro tiempo
 subjects:
-- Motion pictures
-- Biographies
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Cinéma Biographies
-- Motion pictures Biography
-- Motion pictures Dictionaries
+- Biography
+- Dictionary
+- Film & Cinema
 oclc: '15710059'
 zotero_key: HG6CPLBQ
 cover: covers/hg6cplbq.jpg

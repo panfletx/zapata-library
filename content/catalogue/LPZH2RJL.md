@@ -17,13 +17,9 @@ pages: 333
 series:
 - Théorie
 subjects:
-- Literature Philosophy
-- 17.90 literature in relation with other areas of science and culture
-- Annotations (Provenance) 20th century
-- Création (esthétique)
-- Literatuursociologie
-- Littérature Philosophie
-- Productie
+- Economics
+- Literary Criticism
+- Philosophy
 oclc: '5014343'
 zotero_key: LPZH2RJL
 cover: covers/lpzh2rjl.jpg

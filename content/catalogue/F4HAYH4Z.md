@@ -1,6 +1,5 @@
 ---
-title: 'Amor que se atreve a decir su nombre: antología del cuento mexicano de tema
-  gay'
+title: 'Amor que se atreve a decir su nombre: antología del cuento mexicano de tema gay'
 date: '2024-09-01'
 year: 2014
 decade: 2010s
@@ -18,27 +17,11 @@ edition: Primera edición
 series:
 - Ficción (Universidad Veracruzana)
 subjects:
-- Mexican fiction
-- Homosexuality
-- Novels
 - Fiction
-- Gays
-- Romans
-- Short stories
-- Nouvelles
-- short stories
-- Mexican fiction 21st century
-- Mexican fiction 20th century
-- Roman mexicain 20e siècle
-- Nouvelles mexicaines
-- Short stories, Mexican
-- novels
-- 1900-2099
-- Homosexualité Romans, nouvelles, etc
-- Homosexuality Fiction
-- Gays Fiction
-- Homosexuels Romans, nouvelles, etc
-- Roman mexicain 21e siècle
+- Gay Literature
+- Mexico
+- Novel
+- Short Stories
 oclc: '896881064'
 cover_note: dedicatoria Leon Guillermo Gutierrez
 zotero_key: F4HAYH4Z

@@ -17,15 +17,10 @@ pages: 103
 edition: Cuarta edición
 series: []
 subjects:
-- Homosexuality in literature
 - Fiction
-- Short stories
-- 2000-2099
-- Puerto Rican literature
-- Puerto Rican literature 21st century
-- Puerto Rico San Juan Santurce
-- Santurce (San Juan, P.R.) Fiction
-- Short stories, Puerto Rican
+- Gay Literature
+- Puerto Rico
+- Short Stories
 oclc: '1034013989'
 zotero_key: NNBT22R3
 cover: covers/nnbt22r3.jpg

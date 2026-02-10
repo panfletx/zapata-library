@@ -16,13 +16,10 @@ item_types:
 pages: 246
 series: []
 subjects:
-- Biographies
-- California
-- California San Francisco
-- Crime and criminals California San Francisco
-- Ehrlich, J. W. 1900-1971
-- Lawyers
-- Lawyers California Biography
+- Biography
+- Detective & Mystery
+- Modern History
+- United States
 oclc: '6597325'
 zotero_key: NFC8TX86
 cover: covers/nfc8tx86.jpg

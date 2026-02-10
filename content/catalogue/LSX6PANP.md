@@ -16,8 +16,10 @@ pages: 141
 series:
 - Acervo (Breve Fondo Editorial)
 subjects:
-- Novela mexicana Siglo XX
-- Literatura mexicana Novela Siglo XX
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
 oclc: '44482043'
 zotero_key: LSX6PANP
 cover: covers/lsx6panp.jpg

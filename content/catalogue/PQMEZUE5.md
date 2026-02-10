@@ -17,12 +17,9 @@ pages: 95
 series:
 - Ronda de clásicos mexicanos
 subjects:
+- Mexican Literature
 - Mexico
-- Mexican literature
-- Travel
-- Mexico Description and travel
-- Mexique Descriptions et voyages
-- Littérature mexicaine
+- Travel Writing
 oclc: '72901123'
 exlibris: '2003'
 zotero_key: PQMEZUE5

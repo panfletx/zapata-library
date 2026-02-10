@@ -17,12 +17,9 @@ pages: 77
 series:
 - Poesía en el andén
 subjects:
-- queer
-- dedicatoria
+- Gay Literature
 - Poetry
-- Homosexuality
-- Homosexualité Poésie
-- Homosexuality Poetry
+- Queer Studies
 oclc: '228160882'
 zotero_key: XNFDZMU5
 cover: covers/xnfdzmu5.jpg

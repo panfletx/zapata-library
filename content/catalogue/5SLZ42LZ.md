@@ -17,18 +17,9 @@ pages: 4
 series:
 - Bibliothèque des histoires
 subjects:
-- History
-- Sex
-- Sex customs
-- Collected works
-- Seksualiteit
-- Sex customs History
-- Sex History
-- Sex relations
-- Sexual Behavior history
-- Sexualité Histoire
-- Vie sexuelle Histoire
-- Vie sexuelle Histoire Collections
+- Anthology
+- Modern History
+- Sexuality & Eroticism
 oclc: '2971668'
 zotero_key: 5SLZ42LZ
 cover: covers/5slz42lz.jpg

@@ -1,6 +1,5 @@
 ---
-title: 'El Homosexual, o: la dificultad de expresarse ; Las cuatro gemelas ; Loretta
-  strong ; El refri'
+title: 'El Homosexual, o: la dificultad de expresarse ; Las cuatro gemelas ; Loretta strong ; El refri'
 date: '2024-09-01'
 year: 2004
 decade: 2000s
@@ -17,7 +16,8 @@ item_types:
 isbn: 978-968-6773-95-8
 pages: 148
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1225731515'
 cover_note: prologo de Luis Zapata
 zotero_key: FNWPYABW

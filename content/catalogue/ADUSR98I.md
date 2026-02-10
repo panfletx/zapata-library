@@ -17,10 +17,10 @@ edition: 1a. ed
 series:
 - Escritores de lengua española
 subjects:
-- jjb
-- dt. 1972
-- Mier, Jose Servando de Santa Teresa, 1763-1827
-- Novelas historicas (Cuba)
+- Cuba
+- Fiction
+- Mexican Literature
+- Modern History
 oclc: '1024786612'
 zotero_key: ADUSR98I
 cover: covers/adusr98i.jpg

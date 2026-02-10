@@ -18,8 +18,8 @@ edition: 1. ed
 series:
 - Narradores de hoy
 subjects:
-- Spanish language materials
-- Conto hispano-americano
+- Latin American Literature
+- Short Stories
 oclc: '6870476'
 exlibris: '1981'
 zotero_key: 54XXXCUF

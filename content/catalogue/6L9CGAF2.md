@@ -19,7 +19,8 @@ edition: 2a. ed
 series:
 - Narrativas hispánicas
 subjects:
-- Roman mexicain 20e siècle
+- Fiction
+- Mexico
 oclc: '468897316'
 cover_note: Angelica y Luis
 zotero_key: 6L9CGAF2

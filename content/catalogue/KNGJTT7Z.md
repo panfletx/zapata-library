@@ -17,7 +17,9 @@ item_types:
 isbn: 978-968-834-256-5
 pages: 81
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '651171734'
 zotero_key: KNGJTT7Z
 cover: covers/kngjtt7z.jpg

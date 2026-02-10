@@ -18,14 +18,13 @@ pages: 351
 series:
 - Colección Malva
 subjects:
-- Translations
-- Aeneas (Legendary character)
-- Epic poetry, Latin
-- Epic poetry, Latin Translations into Spanish
-- Légendes Rome
-- Legends
-- Legends Rome
-- Rome (Empire)
+- Epic
+- Fiction
+- Modern History
+- Oral Tradition & Folklore
+- Poetry
+- Rome
+- Translation Studies
 oclc: '1348972730'
 exlibris: '2010'
 zotero_key: KFSWGJEM

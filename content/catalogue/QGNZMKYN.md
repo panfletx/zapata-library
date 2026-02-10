@@ -16,10 +16,8 @@ isbn: 978-0-89922-731-3
 pages: 111
 series: []
 subjects:
-- Chagrin Aspect religieux Christianisme
-- Consolation
-- Consuelo
-- Grief Religious aspects Christianity
+- Death & Mourning
+- Religion
 oclc: '82203817'
 exlibris: '2011'
 zotero_key: QGNZMKYN

@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 zotero_key: FTWV9LAY
 cover: covers/ftwv9lay.jpg
 ---

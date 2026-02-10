@@ -6,9 +6,7 @@ decade: 1990s
 authors:
 - Muñoz, Mario
 publishers:
-- 'Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección
-  de Literatura : Consejo Nacional para la Cultura y las Artes, Instituto Nacional
-  de Bellas Artes'
+- 'Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección de Literatura : Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes'
 place: México
 languages:
 - Español
@@ -20,17 +18,11 @@ edition: 1. ed
 series:
 - Textos de difusión cultural
 subjects:
-- Mexican fiction
-- 1900-1999
-- Spanisch
-- Mexiko
-- Mexican fiction 20th century
-- Roman mexicain 20e siècle
-- Nouvelles mexicaines
-- Short stories, Mexican
-- Cuentos mexicanos Selecciones
-- Erzählung
-- Literatura mexicana Cuentos
+- Fiction
+- Literary Criticism
+- Mexican Literature
+- Mexico
+- Short Stories
 oclc: '31230017'
 zotero_key: LWMSENCJ
 cover: covers/lwmsencj.jpg

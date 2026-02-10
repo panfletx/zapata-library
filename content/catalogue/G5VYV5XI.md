@@ -19,16 +19,10 @@ series:
 - Biblioteca breve (Mexico City, Mexico)
 subjects:
 - Fiction
-- Romans
-- Journalistes Romans, nouvelles, etc
-- Journalists
-- Journalists Fiction
-- Huracanes México Acapulco Novela
-- Hurricanes
-- Hurricanes Mexico Acapulco Fiction
-- Mexico Acapulco
-- Ouragans Mexique Acapulco Romans, nouvelles, etc
-- Periodistas Novela
+- Journalism
+- Mexico
+- Nature & Environment
+- Short Stories
 oclc: '32196254'
 zotero_key: G5VYV5XI
 cover: covers/g5vyv5xi.jpg

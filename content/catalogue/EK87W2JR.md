@@ -16,21 +16,16 @@ isbn: 978-0-87286-061-2
 pages: 478
 series: []
 subjects:
-- Novels
+- Death & Mourning
+- Family
+- Feminism
 - Fiction
-- Romans
-- Man-woman relationships
-- Man-woman relationships Fiction
-- Relations entre hommes et femmes Romans, nouvelles, etc
-- Psychological fiction
-- novels
-- Domestic fiction
-- Désespoir Romans, nouvelles, etc
-- Despair
-- Despair Fiction
-- Quartiers malfamés
-- Roman familial
-- Skid row
+- Gender Studies
+- Love & Desire
+- Novel
+- Psychoanalysis
+- Short Stories
+- Urban Life
 oclc: '376005'
 zotero_key: EK87W2JR
 cover: covers/ek87w2jr.jpg

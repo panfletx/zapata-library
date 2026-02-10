@@ -16,7 +16,8 @@ pages: 160
 edition: 2. ed
 series:
 - Colección Lince
-subjects: []
+subjects:
+- Fiction
 oclc: '2400858'
 exlibris: '1978'
 zotero_key: 2T3PV7WY

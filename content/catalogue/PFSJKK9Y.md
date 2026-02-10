@@ -16,9 +16,8 @@ isbn: 978-968-39-0977-0
 pages: 93
 series: []
 subjects:
-- Autobiographies
-- autobiographies (literary works)
-- Darwin, Charles Robert, 1809-1882
+- Autobiography & Memoir
+- Science
 oclc: '651521788'
 zotero_key: PFSJKK9Y
 cover: covers/pfsjkk9y.jpg

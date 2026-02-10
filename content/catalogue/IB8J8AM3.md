@@ -16,9 +16,8 @@ pages: 83
 series:
 - Manteau d'Arlequin
 subjects:
-- French literature
-- Littérature française
-- Teatro Frances
+- Drama
+- French Literature
 oclc: '47167981'
 zotero_key: IB8J8AM3
 cover: covers/ib8j8am3.jpg

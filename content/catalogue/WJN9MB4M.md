@@ -7,7 +7,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: WJN9MB4M
 cover: covers/wjn9mb4m.jpg
 ---

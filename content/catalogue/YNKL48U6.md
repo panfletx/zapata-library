@@ -19,10 +19,10 @@ edition: 2. ed
 series:
 - Ficción breve
 subjects:
-- Autores polacos
-- Literatura polaca Traducciones al español
-- Novela polaca
-- Novelistas polacos
+- Fiction
+- Literary Criticism
+- Russian Literature
+- Translation Studies
 oclc: '38077053'
 zotero_key: YNKL48U6
 cover: covers/ynkl48u6.jpg

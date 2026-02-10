@@ -6,8 +6,7 @@ decade: 1990s
 authors:
 - Zavala, Lauro
 publishers:
-- Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección
-  de Literatura
+- Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección de Literatura
 place: México, D.F.
 languages:
 - Español
@@ -19,10 +18,8 @@ edition: 2. ed
 series:
 - Textos de difusión cultural
 subjects:
-- Cuento Teoría
-- Nouvelle Technique
-- Short story Technique
-- Short story Theory, etc
+- Philosophy
+- Short Stories
 oclc: '34841884'
 exlibris: '1995'
 zotero_key: ENC8WWIF

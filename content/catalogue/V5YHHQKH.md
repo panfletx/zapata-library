@@ -18,7 +18,9 @@ pages: 745
 edition: 17a ed
 series:
 - '"Sepan cuantos-- "'
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '230137136'
 zotero_key: V5YHHQKH
 cover: covers/v5yhhqkh.jpg

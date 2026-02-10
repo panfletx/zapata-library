@@ -14,7 +14,9 @@ item_types:
 - book
 pages: 486
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '19500682'
 zotero_key: FPPTIVIZ
 cover: covers/fpptiviz.jpg

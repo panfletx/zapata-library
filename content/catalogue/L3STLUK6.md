@@ -18,8 +18,7 @@ edition: 3ª ed
 series:
 - Libro de bolsillo (Alianza)
 subjects:
-- Cinematografia
-- Hitchcock, Alfred, 1899-1980
+- Film & Cinema
 oclc: '803038417'
 cover_note: regalo de José
 exlibris: '1995'

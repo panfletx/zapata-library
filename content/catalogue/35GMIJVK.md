@@ -17,9 +17,9 @@ pages: 358
 series:
 - Booket / Seix Barral
 subjects:
-- Mexican essays
-- Ensayos mexicanos
-- Fuentes, Carlos
+- Carlos Fuentes
+- Essay
+- Mexico
 oclc: '52310369'
 exlibris: Luis Zapata
 zotero_key: 35GMIJVK

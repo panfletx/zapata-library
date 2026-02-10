@@ -1,6 +1,5 @@
 ---
-title: 'Besar, hacer cosquillas y aburrirse: ensayos psicoanalíticos sobre la vida
-  no psicoanalizada'
+title: 'Besar, hacer cosquillas y aburrirse: ensayos psicoanalíticos sobre la vida no psicoanalizada'
 date: '2024-09-01'
 year: 2002
 decade: 2000s
@@ -19,9 +18,9 @@ pages: 183
 series:
 - Ojo infalible
 subjects:
-- Psicoanálisis
-- Freud, Sigmund, 1856-1939
-- Teoría psicoanalítica
+- Philosophy
+- Psychoanalysis
+- Sigmund Freud
 oclc: '57733380'
 zotero_key: ZXEHP37V
 cover: covers/zxehp37v.jpg

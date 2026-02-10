@@ -18,7 +18,7 @@ edition: 2a ed
 series:
 - Fontamara
 subjects:
-- Cuentos ingleses Siglo XIX
+- Short Stories
 oclc: '906601238'
 zotero_key: M7XLIUHQ
 cover: covers/m7xliuhq.jpg

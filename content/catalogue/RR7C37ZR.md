@@ -17,17 +17,9 @@ isbn: 978-968-419-706-0
 pages: 249
 series: []
 subjects:
-- Meditation
-- Méditation
-- Guérison par la foi
-- Spiritual healing
-- Curación mental
-- Guérison par l'esprit
-- Meditación
-- Mental healing
-- Mental Healing
-- Relajación
-- Relaxation
+- Buddhism
+- Medicine & Health
+- Religion
 oclc: '20663005'
 zotero_key: RR7C37ZR
 cover: covers/rr7c37zr.jpg

@@ -17,7 +17,9 @@ pages: 77
 edition: 1. ed
 series:
 - Fontamara Colección
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '645770823'
 cover_note: dedicatoria del autor
 zotero_key: QCIAGJ3K

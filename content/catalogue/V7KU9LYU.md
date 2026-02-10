@@ -18,9 +18,8 @@ edition: 1. ed
 series:
 - Colección Guiones de cine
 subjects:
-- Cuando las luces se enciendan (Motion picture)
-- Guiones cinematográficos mexicanos
-- Películas cinematográficas mexicanas Argumentos, tramas, etc
+- Film & Cinema
+- Screenplay
 oclc: '34529219'
 zotero_key: V7KU9LYU
 cover: covers/v7ku9lyu.jpg

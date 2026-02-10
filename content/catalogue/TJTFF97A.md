@@ -18,9 +18,10 @@ pages: 20
 edition: 1. ed
 series: []
 subjects:
+- Comics & Graphic Novel
 - Mexico
-- Mexico History, Comic, satirical, etc
-- World history Humor
+- Modern History
+- Satire & Humor
 oclc: '77662408'
 zotero_key: TJTFF97A
 cover: covers/tjtff97a.jpg

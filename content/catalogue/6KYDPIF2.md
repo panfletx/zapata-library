@@ -17,10 +17,9 @@ pages: 234
 edition: 2. ed., 11. reimpr
 series: []
 subjects:
-- Meditation
-- Méditation
-- Prayer Psychological aspects
-- Prière Aspect psychologique
+- Buddhism
+- Psychoanalysis
+- Religion
 oclc: '34924912'
 zotero_key: 6KYDPIF2
 cover: covers/6kydpif2.jpg

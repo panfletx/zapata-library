@@ -17,11 +17,8 @@ item_types:
 pages: 253
 series: []
 subjects:
-- Readers (Publications)
-- French language
-- French language Readers
-- French language Study and teaching (Secondary)
-- French language Usage
+- Education
+- Grammar & Linguistics
 oclc: '216561351'
 zotero_key: H34A7VVV
 cover: covers/h34a7vvv.jpg

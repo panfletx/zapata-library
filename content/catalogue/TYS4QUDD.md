@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 37
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '19097246'
 cover_note: dedicatoria de autora
 zotero_key: TYS4QUDD

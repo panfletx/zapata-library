@@ -18,8 +18,8 @@ edition: 1a. ed
 series:
 - Día Nacional del Libro (Series)
 subjects:
-- Cuentos mexicanos Siglo XX
-- Antologia
+- Anthology
+- Short Stories
 oclc: '44575779'
 zotero_key: GAGJLMHQ
 cover: covers/gagjlmhq.jpg

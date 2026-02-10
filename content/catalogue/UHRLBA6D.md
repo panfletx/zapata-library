@@ -16,7 +16,8 @@ item_types:
 pages: 877
 series:
 - Classiques Garnier
-subjects: []
+subjects:
+- French Literature
 oclc: '466601482'
 zotero_key: UHRLBA6D
 cover: covers/uhrlba6d.jpg

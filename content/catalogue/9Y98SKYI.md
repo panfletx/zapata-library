@@ -12,7 +12,8 @@ languages: []
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 9Y98SKYI
 cover: covers/9y98skyi.jpg
 ---

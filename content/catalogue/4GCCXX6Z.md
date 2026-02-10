@@ -16,7 +16,7 @@ pages: 124
 series:
 - Biblioteca general Salvat
 subjects:
-- Novela alemana- S.XX
+- Fiction
 oclc: '1190927451'
 exlibris: '1976'
 zotero_key: 4GCCXX6Z

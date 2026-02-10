@@ -18,13 +18,11 @@ pages: 81
 series:
 - Biblioteca Era
 subjects:
+- Carlos Fuentes
 - Fiction
-- Fuentes, Carlos
-- Science fiction
-- Clonage humain Romans, nouvelles, etc
-- Fuentes, Carlos Fiction
-- Human cloning
-- Human cloning Fiction
+- Science
+- Science Fiction
+- Short Stories
 oclc: '56995252'
 zotero_key: XU5APNK5
 cover: covers/xu5apnk5.jpg

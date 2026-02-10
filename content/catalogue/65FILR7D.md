@@ -1,6 +1,5 @@
 ---
-title: 'Compact diccionario didáctico alemán: para aprender alemán en alemán : con
-  la nueva ortografía alemana'
+title: 'Compact diccionario didáctico alemán: para aprender alemán en alemán : con la nueva ortografía alemana'
 date: '2024-09-01'
 year: 1999
 decade: 1990s
@@ -20,10 +19,9 @@ pages: 1216
 series:
 - Oceano Langenscheidt
 subjects:
-- Dictionaries
-- German language
-- Alemán Diccionarios
-- German language Dictionaries
+- Dictionary
+- Grammar & Linguistics
+- Modern History
 oclc: '41835878'
 zotero_key: 65FILR7D
 cover: covers/65filr7d.jpg

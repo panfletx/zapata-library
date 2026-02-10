@@ -16,12 +16,9 @@ pages: 351
 series:
 - Guide du routard
 subjects:
-- Belize [guide]
-- Belize guide
-- Guatemala [guide]
-- Guatemala guide
-- Mexique [guide]
-- Mexique guide
+- Guatemala
+- Latin America
+- Mexico
 oclc: '715774005'
 zotero_key: IXANN3ZU
 cover: covers/ixann3zu.jpg

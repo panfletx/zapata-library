@@ -19,11 +19,9 @@ pages: 318
 series:
 - Biblioteca de la literatura y el pensamiento universales
 subjects:
-- Crónicas
-- Gran Bretaña Historia 449-1066 (Periodo anglosajón)
-- Gran Bretaña Historia 55 a.C.-449 d.C. (Época romana)
-- Leyendas
-- Leyendas célticas
+- Chronicle
+- Modern History
+- Oral Tradition & Folklore
 oclc: '57049131'
 exlibris: '1990'
 zotero_key: 9G5E6WZY

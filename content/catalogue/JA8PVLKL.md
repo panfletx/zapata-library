@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 221
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '42628850'
 exlibris: '1991'
 zotero_key: JA8PVLKL

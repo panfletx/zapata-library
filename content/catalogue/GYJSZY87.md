@@ -16,7 +16,8 @@ pages: 99
 edition: 1. ed
 series:
 - Textos de humanidades
-subjects: []
+subjects:
+- Fiction
 oclc: '39910395'
 cover_note: dedicatoria del autor 1977
 zotero_key: GYJSZY87

@@ -17,9 +17,9 @@ isbn: 978-84-85269-69-3
 pages: 208
 series: []
 subjects:
-- Artes marciales
-- Borroka-arteak
-- Jeet Kune Do
+- Education
+- Visual Art
+- War & Conflict
 oclc: '435360468'
 zotero_key: RJHTWMSC
 cover: covers/rjhtwmsc.jpg

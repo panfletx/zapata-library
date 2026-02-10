@@ -15,7 +15,8 @@ item_types:
 pages: 302
 edition: 5. ed
 series: []
-subjects: []
+subjects:
+- Mexican Literature
 oclc: '778097365'
 exlibris: '1977'
 zotero_key: H5SU3VVD

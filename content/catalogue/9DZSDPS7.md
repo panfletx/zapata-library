@@ -8,7 +8,8 @@ item_types:
 - book
 edition: '32'
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: 9DZSDPS7
 cover: covers/9dzsdps7.jpg
 ---

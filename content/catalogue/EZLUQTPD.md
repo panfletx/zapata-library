@@ -20,9 +20,7 @@ pages: 262
 series: []
 subjects:
 - Mexico
-- Travel
-- Mexico Description and travel
-- Mexique Descriptions et voyages
+- Travel Writing
 oclc: '32659655'
 cover_note: Regalo de Arturo C.
 exlibris: '1994'

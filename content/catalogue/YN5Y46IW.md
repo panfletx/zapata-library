@@ -16,9 +16,8 @@ isbn: 978-84-7069-285-7
 pages: 215
 series: []
 subjects:
-- 1900-1999
-- Painting, Mexican
-- Painting, Mexican 20th century
+- Mexico
+- Painting
 oclc: '11227698'
 zotero_key: YN5Y46IW
 cover: covers/yn5y46iw.jpg

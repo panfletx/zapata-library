@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 208
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '253982384'
 cover_note: José Dimayuga 99
 zotero_key: 7AN7HTS4

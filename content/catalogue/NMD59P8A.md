@@ -17,10 +17,8 @@ pages: 421
 series:
 - Documento
 subjects:
-- History
-- Male homosexuality
-- Homosexualité masculine Histoire
-- Male homosexuality History
+- Gay Literature
+- Modern History
 oclc: '8211945'
 zotero_key: NMD59P8A
 cover: covers/nmd59p8a.jpg

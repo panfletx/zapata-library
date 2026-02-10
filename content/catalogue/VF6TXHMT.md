@@ -16,7 +16,9 @@ pages: 55
 edition: 7a ed
 series:
 - Biblioteca Era
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '803490644'
 zotero_key: VF6TXHMT
 cover: covers/vf6txhmt.jpg

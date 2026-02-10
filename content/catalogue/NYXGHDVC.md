@@ -19,10 +19,10 @@ pages: 251
 edition: 1a ed
 series: []
 subjects:
-- Spanish American poetry
-- 1900-1999
-- Experimental poetry, Latin American
-- Spanish American poetry 20th century
+- Experimental Literature
+- Latin America
+- Poetry
+- United States
 oclc: '55126294'
 cover_note: '2011'
 zotero_key: NYXGHDVC

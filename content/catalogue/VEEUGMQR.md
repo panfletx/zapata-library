@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-1108-7
 pages: 94
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521499'
 exlibris: '1994'
 zotero_key: VEEUGMQR

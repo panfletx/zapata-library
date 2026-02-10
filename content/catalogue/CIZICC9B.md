@@ -17,7 +17,8 @@ pages: 125
 edition: 4. ed
 series:
 - Fabula / Adelphi
-subjects: []
+subjects:
+- Italian Literature
 oclc: '982268472'
 zotero_key: CIZICC9B
 cover: covers/cizicc9b.jpg

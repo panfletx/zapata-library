@@ -18,9 +18,11 @@ pages: 195
 edition: 2. ed
 series: []
 subjects:
-- Poesía mexicana
-- Literatura mexicana Poesía
-- Love poetry, Mexican
+- Literary Criticism
+- Love & Desire
+- Mexican Literature
+- Mexico
+- Poetry
 oclc: '52168983'
 zotero_key: BXC3NV54
 cover: covers/bxc3nv54.jpg

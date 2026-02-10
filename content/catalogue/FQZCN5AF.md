@@ -15,7 +15,8 @@ item_types:
 source_url: https://archive.org/details/goldennotebook00dori_0
 pages: 666
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '1035307506'
 exlibris: '1993'
 zotero_key: FQZCN5AF

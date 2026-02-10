@@ -18,7 +18,8 @@ pages: 344
 edition: 1. ed. en Clásicos de la literatura mexicana
 series:
 - Clásicos de la literatura mexicana
-subjects: []
+subjects:
+- Fiction
 oclc: '1099693545'
 zotero_key: MZLJ6NZV
 cover: covers/mzlj6nzv.jpg

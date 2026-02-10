@@ -17,7 +17,8 @@ isbn: 978-968-39-0799-8
 pages: 12
 series: []
 subjects:
-- Enciclopedias infantiles y juveniles
+- Children's Literature
+- Encyclopedia
 oclc: '434794695'
 zotero_key: GBFXEP7U
 cover: covers/gbfxep7u.jpg

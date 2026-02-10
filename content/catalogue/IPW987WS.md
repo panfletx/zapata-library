@@ -17,15 +17,10 @@ edition: '[2. ed.]'
 series:
 - Biblioteca de ciencias sociales. Colección comunicaciones
 subjects:
-- Literature
-- Criticism, interpretation, etc
-- Littérature
-- ANALISIS DEL DISCURSO NARRATIVO
-- Literature, Modern
-- NARRACION (RETORICA)
-- Prose Histoire et critique
-- Prose literature
-- Prose literature History and criticism
+- Literary Criticism
+- Literary History
+- Modern History
+- Rhetoric
 oclc: '1159942'
 exlibris: '1976'
 zotero_key: IPW987WS

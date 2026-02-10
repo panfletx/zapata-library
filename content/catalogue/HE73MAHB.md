@@ -17,25 +17,11 @@ pages: 151
 series:
 - Infréquentables
 subjects:
-- History
-- Intellectual life
-- Biographies
-- 1800-1899
-- Authors, English
-- Authors, English 19th century Biography
-- Britanniques Italie Venise Histoire 19e siècle
-- British
-- British Italy Venice History 19th century
-- Écrivains anglais 19e siècle Biographies
-- English literature Italian influences
-- Homes
-- Italy Venice
-- Rolfe, Frederick W
-- Rolfe, Frederick W. 1860-1913
-- Rolfe, Frederick, 1860-1913
-- Rolfe, Frederick, 1860-1913 Homes and haunts Italy Venice
-- Venice (Italy) Biography
-- Venice (Italy) Intellectual life 19th century
+- Biography
+- English Literature
+- Italy
+- Literary Criticism
+- Modern History
 oclc: '22494314'
 exlibris: '1992'
 zotero_key: HE73MAHB

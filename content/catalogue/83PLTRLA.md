@@ -16,16 +16,11 @@ isbn: 978-84-493-0788-1
 pages: 214
 series: []
 subjects:
-- Autobiography
-- Autobiografía
-- Art d'écrire Aspect psychologique
-- Arte de escribir Aspectos psicológicos
-- Authorship Psychological aspects
-- Autobiographie
-- autobiography (genre)
-- Curación
-- Guérison
-- Healing
+- Autobiography & Memoir
+- Literary Criticism
+- Medicine & Health
+- Psychoanalysis
+- Visual Art
 oclc: '46474331'
 exlibris: Luis Zapata
 zotero_key: 83PLTRLA

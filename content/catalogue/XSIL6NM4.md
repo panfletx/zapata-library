@@ -16,7 +16,9 @@ isbn: 978-607-409-013-0
 pages: 195
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '663105358'
 cover_note: dedicatoria de autor 2011
 zotero_key: XSIL6NM4

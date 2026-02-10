@@ -17,11 +17,10 @@ isbn: 978-2-7073-0643-2
 pages: 199
 series: []
 subjects:
-- queerlit
-- Homme blessé (Motion picture)
-- Motion picture plays
-- Scénarios de cinéma
-- screenplays
+- Drama
+- Film & Cinema
+- Queer Studies
+- Screenplay
 oclc: '10725381'
 zotero_key: 2LP2KNC8
 cover: covers/2lp2knc8.jpg

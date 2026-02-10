@@ -17,9 +17,7 @@ pages: 184
 edition: 1a. ed
 series: []
 subjects:
-- Bible. Gospels
-- Bible. Gospels Commentaries
-- Commentaries
+- Religion
 oclc: '37823357'
 zotero_key: HJC74KZQ
 cover: covers/hjc74kzq.jpg

@@ -19,15 +19,8 @@ edition: Primera edición
 series:
 - Colección Lumía
 subjects:
-- Short stories
-- Nouvelles
-- short stories
-- 2000-2099
-- Short stories, Mexican
-- Short stories, Mexican 21st century
-- Accordion fold format (Binding)
-- Nouvelles mexicaines 21e siècle
-- Slipcases (Binding)
+- Mexico
+- Short Stories
 oclc: '911627023'
 zotero_key: J5B8VEYQ
 cover: covers/j5b8veyq.jpg

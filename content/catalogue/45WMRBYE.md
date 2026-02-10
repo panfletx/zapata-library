@@ -26,10 +26,7 @@ pages: 217
 edition: Primera edición
 series: []
 subjects:
-- Short stories
-- Nouvelles
-- short stories
-- Cuentos Croacia
+- Short Stories
 oclc: '1018104586'
 zotero_key: 45WMRBYE
 cover: covers/45wmrbye.jpg

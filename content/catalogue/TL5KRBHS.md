@@ -16,14 +16,9 @@ edition: '[1. ed'
 series:
 - Lecturas universitarias
 subjects:
-- Literatur
-- Anthologie
-- Philologie
-- philology
-- Philology
-- Philology, Modern
-- Spanisch
-- Sprache
+- Anthology
+- Grammar & Linguistics
+- Literary Criticism
 oclc: '689774'
 zotero_key: TL5KRBHS
 cover: covers/tl5krbhs.jpg

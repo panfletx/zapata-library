@@ -16,7 +16,9 @@ pages: 261
 edition: 2a ed
 series: []
 subjects:
-- Poesía mexicana Historia y crítica
+- Literary Criticism
+- Mexico
+- Modern History
 oclc: '1097757558'
 cover_note: dedicatoria
 zotero_key: C8ATJAHX

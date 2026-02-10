@@ -18,10 +18,9 @@ edition: 1a. éd. en español
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- Criticism, interpretation, etc
-- Melodrama
-- Melodrama History and criticism
-- Mélodrame Histoire et critique
+- Drama
+- Literary Criticism
+- Modern History
 oclc: '24270651'
 zotero_key: ZVYWS6V4
 cover: covers/zvyws6v4.jpg

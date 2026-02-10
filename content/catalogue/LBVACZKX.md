@@ -17,19 +17,11 @@ pages: 190
 edition: 1. ed
 series: []
 subjects:
+- Dictionary
+- Essay
+- Grammar & Linguistics
 - Mexico
-- Dictionaries
-- dictionaries
-- Dictionnaires
-- Chingar (Palabra)
-- Chingar (The Spanish word)
-- Espanol Provincialismos Mexico Diccionarios
-- Spanish language Dictionaries Swear words
-- Spanish language edition Nonfiction
-- Spanish language Mexico Dictionaries
-- Spanish language Provincialisms
-- Spanish language Provincialisms Dictionaries
-- Spanish language Provincialisms Mexico Dictionaries
+- National Identity
 oclc: '649802185'
 zotero_key: LBVACZKX
 cover: covers/lbvaczkx.jpg

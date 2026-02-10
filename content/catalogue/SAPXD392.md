@@ -18,7 +18,7 @@ pages: 198
 series:
 - Paidós orientalia
 subjects:
-- Endevinament xinès
+- Oral Tradition & Folklore
 oclc: '803497817'
 exlibris: '1988'
 zotero_key: SAPXD392

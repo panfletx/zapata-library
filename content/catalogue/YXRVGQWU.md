@@ -16,7 +16,8 @@ isbn: 978-607-7757-23-8
 pages: 149
 series:
 - Colección Grandes temas
-subjects: []
+subjects:
+- Fiction
 oclc: '840003729'
 cover_note: dedicatoria de autor
 zotero_key: YXRVGQWU

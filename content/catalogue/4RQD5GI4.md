@@ -18,15 +18,10 @@ pages: 320
 edition: 1. ed
 series: []
 subjects:
+- Biography
+- Film & Cinema
 - Mexico
-- Biographies
-- Actresses
-- Actresses Mexico Biography
-- Actrices Mexique Biographies
-- Angélica María, 1944-
-- Chanteurs Mexique Biographies
-- Singers
-- Singers Mexico Biography
+- Music
 oclc: '1035760141'
 cover_note: dedicatoria de Angélica María
 zotero_key: 4RQD5GI4

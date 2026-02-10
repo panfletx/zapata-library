@@ -18,7 +18,8 @@ edition: 2a. ed
 series:
 - Personalia
 subjects:
-- Literatura inglesa
+- English Literature
+- Literary Criticism
 oclc: '434328254'
 zotero_key: 55WMG3LD
 cover: covers/55wmg3ld.jpg

@@ -16,9 +16,8 @@ isbn: 978-968-39-1092-9
 pages: 63
 series: []
 subjects:
-- BEBIDAS ALCOHOLICAS HISTORIA
-- BEBIDAS HISTORIA
-- Bebidas Trabajos anteriores a 1800
+- Food & Gastronomy
+- Modern History
 oclc: '651521759'
 zotero_key: 59TCF7HG
 cover: covers/59tcf7hg.jpg

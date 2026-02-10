@@ -17,7 +17,9 @@ pages: 51
 edition: 1. ed
 series:
 - Minimalia (Mexico City, Mexico)
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '49225167'
 cover_note: '2011'
 zotero_key: T5SUQGGP

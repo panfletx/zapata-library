@@ -17,10 +17,8 @@ isbn: 978-958-04-3740-6
 pages: 232
 series: []
 subjects:
-- Amour
-- Love
-- Amour Aspect religieux
-- Love Religious aspects
+- Love & Desire
+- Religion
 oclc: '38273640'
 zotero_key: LTRXDI84
 cover: covers/ltrxdi84.jpg

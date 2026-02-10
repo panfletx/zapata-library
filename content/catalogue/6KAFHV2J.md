@@ -17,7 +17,8 @@ pages: 317
 series:
 - Alfaguara/bolsillo
 subjects:
-- str. 1994
+- Fiction
+- Mexican Literature
 oclc: '919903375'
 zotero_key: 6KAFHV2J
 cover: covers/6kafhv2j.jpg

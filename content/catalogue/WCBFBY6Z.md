@@ -18,7 +18,8 @@ isbn: 978-970-18-1501-4
 pages: 87
 series:
 - Clásicos para hoy
-subjects: []
+subjects:
+- Fiction
 oclc: '880322735'
 zotero_key: WCBFBY6Z
 cover: covers/wcbfby6z.jpg

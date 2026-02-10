@@ -18,19 +18,12 @@ edition: 1. ed. en Memorias mexicanas
 series:
 - Memorias mexicanas
 subjects:
+- Autobiography & Memoir
+- Biography
+- Childhood
+- Literary Criticism
+- Luis Zapata
 - Mexico
-- Biographies
-- 1900-1999
-- Authors, Mexican
-- 18.33 Spanish-American literature
-- Authors, Mexican 20th century Biography
-- Écrivains mexicains 20e siècle Biographies
-- Novo, Salvador, 1904-1974
-- 1900-2000
-- Childhood and youth of a person
-- Memoirs (form)
-- Novo, Salvador, 1904-1974 Biografía
-- Novo, Salvador, 1904-1974 Childhood and youth
 oclc: '40456681'
 exlibris: '1998'
 zotero_key: JH5UF3LU

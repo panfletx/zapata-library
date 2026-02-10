@@ -15,8 +15,8 @@ item_types:
 pages: 63
 series: []
 subjects:
-- Ciencia
-- Vocación
+- Education
+- Science
 oclc: '651521559'
 zotero_key: Q88CR2LQ
 cover: covers/q88cr2lq.jpg

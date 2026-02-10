@@ -17,7 +17,8 @@ pages: 119
 edition: Cuarta edición
 series:
 - Serie del volador
-subjects: []
+subjects:
+- Fiction
 oclc: '929706445'
 zotero_key: XZKGL84T
 cover: covers/xzkgl84t.jpg

@@ -17,12 +17,8 @@ edition: New complete and unabridged in one volume
 series: []
 subjects:
 - Fiction
-- Short stories
-- Nouvelles
-- short stories
-- États-Unis (Sud) Romans, nouvelles, etc
-- Southern States
-- Southern States Fiction
+- Short Stories
+- United States
 oclc: '316212895'
 zotero_key: 3R2YQXI9
 cover: covers/3r2yqxi9.jpg

@@ -17,8 +17,8 @@ pages: 315
 series:
 - Nouveau cours d'histoire
 subjects:
-- Edad Media Europa
-- Europa Historia 0476-1492
+- Medieval History
+- Modern History
 oclc: '929392766'
 zotero_key: XYQSAIKT
 cover: covers/xyqsaikt.jpg

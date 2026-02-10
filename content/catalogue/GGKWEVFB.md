@@ -17,7 +17,8 @@ pages: 335
 series:
 - Literature Alfaguara
 subjects:
-- str. 1994
+- Fiction
+- Mexican Literature
 oclc: '78245510'
 zotero_key: GGKWEVFB
 cover: covers/ggkwevfb.jpg

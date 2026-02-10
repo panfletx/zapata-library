@@ -12,7 +12,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de autora
 zotero_key: 7CMYCQYE
 cover: covers/7cmycqye.jpg

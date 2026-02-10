@@ -15,7 +15,8 @@ item_types:
 isbn: 978-0-226-06710-0
 series:
 - Vinson Collection
-subjects: []
+subjects:
+- Fiction
 oclc: '762181296'
 zotero_key: LRCR4SZF
 cover: covers/lrcr4szf.jpg

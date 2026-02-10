@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 82
 series: []
-subjects: []
+subjects:
+- French Literature
 oclc: '2524771'
 zotero_key: FBXDLX4X
 cover: covers/fbxdlx4x.jpg

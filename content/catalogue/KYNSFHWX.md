@@ -14,7 +14,8 @@ item_types:
 - book
 pages: 372
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '4731620'
 zotero_key: KYNSFHWX
 cover: covers/kynsfhwx.jpg

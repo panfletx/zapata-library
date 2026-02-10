@@ -19,9 +19,7 @@ edition: 1a edición
 series:
 - Club Bruguera
 subjects:
-- Novela francesa
-- NOVELA FRANCESA
-- Novela francesa s. XX
+- Fiction
 oclc: '907449266'
 zotero_key: CTCI5CAF
 cover: covers/ctci5caf.jpg

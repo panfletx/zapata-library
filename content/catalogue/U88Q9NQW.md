@@ -1,6 +1,5 @@
 ---
-title: Veinte poemas de amor y una cancion desesperada 20 poemas de amor y una cancion
-  desesperada
+title: Veinte poemas de amor y una cancion desesperada 20 poemas de amor y una cancion desesperada
 date: '2024-09-01'
 year: 1982
 decade: 1980s
@@ -18,7 +17,8 @@ pages: 125
 edition: 7. ed
 series:
 - Coleccion poesia
-subjects: []
+subjects:
+- Fiction
 oclc: '630846492'
 zotero_key: U88Q9NQW
 cover: covers/u88q9nqw.jpg

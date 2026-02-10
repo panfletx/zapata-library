@@ -1,6 +1,16 @@
 {{ define "main" }}
 <section class="section">
-  <h1>{{ .Title }}</h1>
+  {{- $pageTitle := .Title -}}
+  {{- if eq .Section "subjects" -}}
+    {{- $subjKey := printf "subj_%s" ($pageTitle | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+    {{- $translated := i18n $subjKey -}}
+    {{- if $translated -}}{{- $pageTitle = $translated -}}{{- end -}}
+  {{- else if eq .Section "languages" -}}
+    {{- $langKey := printf "lang_%s" $pageTitle -}}
+    {{- $translated := i18n $langKey -}}
+    {{- if $translated -}}{{- $pageTitle = $translated -}}{{- end -}}
+  {{- end -}}
+  <h1>{{ $pageTitle }}</h1>
 
   {{/* If this is a taxonomy list page (e.g., /authors/), show terms */}}
   {{ if .IsPage }}
@@ -8,8 +18,18 @@
     {{ if .Data.Terms }}
       <div class="taxonomy-list">
         {{ range .Data.Terms.Alphabetical }}
+          {{- $title := .Page.Title -}}
+          {{- if eq $.Section "subjects" -}}
+            {{- $subjKey := printf "subj_%s" ($title | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+            {{- $translated := i18n $subjKey -}}
+            {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
+          {{- else if eq $.Section "languages" -}}
+            {{- $langKey := printf "lang_%s" $title -}}
+            {{- $translated := i18n $langKey -}}
+            {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
+          {{- end -}}
           <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">
-            <span class="taxonomy-name">{{ .Page.Title }}</span>
+            <span class="taxonomy-name">{{ $title }}</span>
             <span class="taxonomy-count">{{ .Count }}</span>
           </a>
         {{ end }}

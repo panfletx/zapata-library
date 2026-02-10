@@ -17,7 +17,7 @@ edition: 27 ed
 series:
 - Colección Austral
 subjects:
-- str. 1992
+- Fiction
 oclc: '30343417'
 zotero_key: YYMZNVXP
 cover: covers/yymznvxp.jpg

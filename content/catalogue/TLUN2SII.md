@@ -17,7 +17,8 @@ pages: 64
 series:
 - Alianza cien
 subjects:
-- Literatura Infanto-Juvenil
+- Children's Literature
+- Literary Criticism
 oclc: '34204132'
 zotero_key: TLUN2SII
 cover: covers/tlun2sii.jpg

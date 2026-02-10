@@ -18,14 +18,13 @@ edition: 7. ed
 series:
 - Joyas literarias
 subjects:
+- Detective & Mystery
 - Fiction
-- Russia (Federation) Saint Petersburg
+- Psychoanalysis
 - Russia
-- Meurtre Russie Aspect psychologique Romans, nouvelles, etc
-- Murder Psychological aspects
-- Murder Russia Psychological aspects Fiction
-- Novela rusa Siglo XIX Traducciones al español
-- Saint Petersburg (Russia) Fiction
+- Saints & Hagiography
+- Short Stories
+- Translation Studies
 oclc: '2843207'
 zotero_key: XQX7ID4L
 cover: covers/xqx7id4l.jpg

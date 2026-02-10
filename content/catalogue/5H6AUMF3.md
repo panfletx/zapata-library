@@ -18,7 +18,8 @@ pages: 735
 edition: 10a. ed
 series: []
 subjects:
-- Meditaciones cristianas
+- Catholicism
+- Religion
 oclc: '432033583'
 zotero_key: 5H6AUMF3
 cover: covers/5h6aumf3.jpg

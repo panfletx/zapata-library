@@ -17,10 +17,9 @@ pages: 380
 series:
 - Le Livre de poche
 subjects:
+- Egypt
 - Fiction
-- Romans
-- Anthony, of Egypt, Saint, approximately 250-355 or 356
-- Anthony, of Egypt, Saint, approximately 250-355 or 356 Fiction
+- Saints & Hagiography
 oclc: '24197890'
 exlibris: '1976'
 zotero_key: 8NCGZ8K5

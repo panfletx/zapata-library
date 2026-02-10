@@ -18,15 +18,11 @@ edition: 1a ed
 series:
 - Biblioteca Era
 subjects:
-- Women
+- Economics
+- Feminism
 - Fiction
-- Mujeres Novela
-- Advertising agencies
-- Advertising agencies Fiction
-- Agences de publicité Romans, nouvelles, etc
-- Agencias publicitarias Novela
-- Femmes Romans, nouvelles, etc
-- Women Fiction
+- Gender Studies
+- Short Stories
 oclc: '808105657'
 cover_note: dedicatoria Bergua 2013
 zotero_key: WZN5L86N

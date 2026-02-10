@@ -18,15 +18,11 @@ edition: 1a ed
 series:
 - Colección Narrativa
 subjects:
+- Biography
 - Fiction
-- Biographies
-- 1900-1999
-- Authors, Mexican
-- Authors, Mexican 20th century Biography
-- collective biographies
-- Écrivains mexicains 20e siècle Biographies
-- Nandino, Elías, 1900-1993
-- Nandino, Elías, 1900-1993 Fiction
+- Literary Criticism
+- Mexico
+- Poetry
 oclc: '17200609'
 cover_note: Regalo de José
 exlibris: '1991'

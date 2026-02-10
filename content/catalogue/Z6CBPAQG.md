@@ -15,7 +15,9 @@ item_types:
 pages: 915
 edition: '[1a. ed.]'
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '1338295'
 exlibris: '1992'
 zotero_key: Z6CBPAQG

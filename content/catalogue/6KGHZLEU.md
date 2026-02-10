@@ -17,7 +17,9 @@ isbn: 978-84-02-08011-0
 pages: 220
 series:
 - Libro Amigo
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '432642309'
 zotero_key: 6KGHZLEU
 cover: covers/6kghzleu.jpg

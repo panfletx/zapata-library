@@ -19,7 +19,7 @@ edition: 1a ed
 series:
 - Linterna mágica
 subjects:
-- Nuestros clásicos
+- Fiction
 oclc: '21325043'
 cover_note: dedicatoria de Angelina
 zotero_key: ZYU5THDB

@@ -17,11 +17,8 @@ pages: 229
 series:
 - Clásicos universales
 subjects:
-- Materiales en español
-- Dostoyevsky, Fyodor, 1821-1881
-- Novela rusa
-- Roman russe
-- Russian fiction
+- Fiction
+- Russian Literature
 oclc: '82133451'
 zotero_key: WR8DT8N3
 cover: covers/wr8dt8n3.jpg

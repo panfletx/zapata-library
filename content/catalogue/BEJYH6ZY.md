@@ -17,10 +17,7 @@ edition: Nouvelle éd. revue et augmentée
 series:
 - Le Livre de poche pratique
 subjects:
-- French language Grammar
-- Français (langue) Grammaire
-- French language Grammar 1950-
-- Since 1950
+- Grammar & Linguistics
 oclc: '1628204'
 exlibris: '1976'
 zotero_key: BEJYH6ZY

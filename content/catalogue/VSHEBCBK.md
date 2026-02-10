@@ -19,8 +19,9 @@ edition: 1a ed
 series:
 - Literatura
 subjects:
-- Kafka, Franz, 1883-1924 Correspondencia
-- Literatura alemana
+- Correspondence
+- German Literature
+- Literary Criticism
 oclc: '265983739'
 zotero_key: VSHEBCBK
 cover: covers/vshebcbk.jpg

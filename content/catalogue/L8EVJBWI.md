@@ -1,6 +1,5 @@
 ---
-title: 'Trois contes: Un cœur simple ; La légende de saint Julien l''Hospitalier ;
-  Hérodias'
+title: 'Trois contes: Un cœur simple ; La légende de saint Julien l''Hospitalier ; Hérodias'
 date: '2024-09-01'
 year: 1965
 decade: 1960s
@@ -19,13 +18,9 @@ series:
 - Garnier Flammarion (Series)
 subjects:
 - Fiction
-- Short stories
-- Nouvelles
-- short stories
-- Herodias
-- Herodias Fiction
-- Julian, the Hospitaller, Saint
-- Julian, the Hospitaller, Saint Fiction
+- Religion
+- Saints & Hagiography
+- Short Stories
 oclc: '8511593'
 exlibris: Luis Zapata
 zotero_key: L8EVJBWI

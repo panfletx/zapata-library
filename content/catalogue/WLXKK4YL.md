@@ -16,7 +16,9 @@ item_types:
 pages: 82
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '718299074'
 zotero_key: WLXKK4YL
 cover: covers/wlxkk4yl.jpg

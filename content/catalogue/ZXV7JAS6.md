@@ -19,8 +19,8 @@ edition: 2a ed
 series:
 - Nuestros clásicos
 subjects:
-- Filosofía antigua
-- Filosofía de la naturaleza Obras anteriores a 1800
+- Nature & Environment
+- Philosophy
 oclc: '1097209721'
 zotero_key: ZXV7JAS6
 cover: covers/zxv7jas6.jpg

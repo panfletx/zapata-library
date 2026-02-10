@@ -1,6 +1,5 @@
 ---
-title: 'L''Aventure chevaleresque: idéal et réalité dans le roman courtois, études
-  sur la forme des plus anciens poèmes d''Arthur et du Graal'
+title: 'L''Aventure chevaleresque: idéal et réalité dans le roman courtois, études sur la forme des plus anciens poèmes d''Arthur et du Graal'
 date: '2024-09-01'
 year: 1974
 decade: 1970s
@@ -19,22 +18,12 @@ pages: 318
 series:
 - Bibliothèque des idées
 subjects:
-- Criticism, interpretation, etc
-- Arthurian romances
-- Arthur, King of Britain
-- Arthurian romances History and criticism
-- Chrétien, de Troyes, active 12th century
-- Chrétien, de Troyes, active 12th century Criticism and interpretation
-- Cycle d'Arthur Histoire et critique
-- Graal Légendes Histoire et critique
-- Grail (Legend)
-- Grail Legends
-- Grail Legends History and criticism
-- Kings and rulers in literature
-- Knights and knighthood in literature
-- Quests (Expeditions) in literature
-- Quête dans la littérature
-- Rois et souverains dans la littérature
+- Fiction
+- King Arthur
+- Literary Criticism
+- Medieval History
+- Modern History
+- Oral Tradition & Folklore
 oclc: '1459448'
 exlibris: '1978'
 zotero_key: 8KEKNHIN

@@ -16,7 +16,8 @@ isbn: 978-0-14-062195-2
 pages: 178
 series:
 - Penguin popular classics
-subjects: []
+subjects:
+- Fiction
 oclc: '1082007139'
 zotero_key: VSBH2HDG
 cover: covers/vsbh2hdg.jpg

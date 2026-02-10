@@ -17,15 +17,10 @@ edition: '[1. éd.]'
 series:
 - Que sais-je? Le point des connaissances actuelles
 subjects:
-- History
-- Europe
-- Working class
-- Arbeit
-- Geschichte 500-1500
-- Travailleurs Europe Histoire
-- Travailleurs Histoire
-- Working class Europe History
-- Working class History
+- Economics
+- France
+- Modern History
+- Poverty & Class
 oclc: '20438151'
 exlibris: '1978'
 zotero_key: 5KX7MJJE

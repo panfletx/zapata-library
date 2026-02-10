@@ -17,8 +17,7 @@ pages: 162
 edition: 1a ed
 series: []
 subjects:
-- Roman espagnol
-- Spanish fiction
+- Fiction
 oclc: '14105884'
 cover_note: dedicatoria jjb
 zotero_key: 7RTA6K3K

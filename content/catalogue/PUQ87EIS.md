@@ -18,7 +18,7 @@ edition: 1a. ed
 series:
 - Quinteto
 subjects:
-- Bernhard, Thomas 1931-1989
+- German Literature
 oclc: '733883114'
 cover_note: regalo de José
 exlibris: '2011'

@@ -17,7 +17,9 @@ pages: 201
 edition: 9. ed
 series:
 - '"Sepan cuantos-- ."'
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '5011965'
 exlibris: '1974'
 zotero_key: CRRCYYF3

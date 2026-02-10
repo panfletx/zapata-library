@@ -17,7 +17,8 @@ pages: 108
 edition: 1. ed
 series:
 - Fondo editorial tierra adentro
-subjects: []
+subjects:
+- Fiction
 oclc: '29232491'
 cover_note: dedicatoria del autor
 zotero_key: 4UKKX34Q

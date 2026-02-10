@@ -18,9 +18,7 @@ pages: 263
 series:
 - Memoria del cine
 subjects:
-- Cinéma Production et réalisation
-- Fellini, Federico
-- Motion pictures Production and direction
+- Film & Cinema
 oclc: '46947163'
 zotero_key: WJ6UQ4WV
 cover: covers/wj6uq4wv.jpg

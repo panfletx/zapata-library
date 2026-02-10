@@ -12,7 +12,8 @@ item_types:
 - book
 isbn: 968-860-496-8
 series: []
-subjects: []
+subjects:
+- Fiction
 cover_note: dedicatoria de Gally 1995
 zotero_key: 8BWKATII
 cover: covers/8bwkatii.jpg

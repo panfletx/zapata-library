@@ -16,9 +16,8 @@ item_types:
 pages: 1
 series: []
 subjects:
-- Isherwood, Christopher, 1904-1986
-- Isherwood, Christopher, 1904-1986 Portraits
-- Portraits
+- Gay Literature
+- Visual Art
 oclc: '27357190'
 zotero_key: PAR34YFW
 cover: covers/par34yfw.jpg

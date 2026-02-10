@@ -17,8 +17,9 @@ pages: 125
 series:
 - Colección Libro de bolsillo
 subjects:
-- Children's stories
-- Histoires pour enfants
+- Childhood
+- Children's Literature
+- Modern History
 oclc: '11420812'
 zotero_key: IDRKFGDU
 cover: covers/idrkfgdu.jpg

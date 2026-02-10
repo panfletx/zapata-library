@@ -15,7 +15,8 @@ item_types:
 pages: 158
 edition: 1. ed
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '609302900'
 cover_note: dedicatoria 2008
 zotero_key: 523ZIMIA

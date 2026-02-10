@@ -17,7 +17,8 @@ pages: 1
 edition: Ed. revue et augmentée
 series:
 - Folio
-subjects: []
+subjects:
+- French Literature
 oclc: '494309916'
 zotero_key: VWHSW5DA
 cover: covers/vwhsw5da.jpg

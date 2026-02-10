@@ -19,8 +19,7 @@ isbn: 978-0-917342-68-4
 pages: 63
 series: []
 subjects:
-- Homosexualidad Poesías
-- Poesías líricas
+- Gay Literature
 oclc: '1050823666'
 zotero_key: TGTU5ZTW
 cover: covers/tgtu5ztw.jpg

@@ -18,7 +18,8 @@ pages: 494
 series:
 - Du monde entier
 subjects:
-- Littérature japonaise Traduction française 20e siècle
+- Literary Criticism
+- Translation Studies
 oclc: '319785517'
 zotero_key: 2DBDBXFX
 cover: covers/2dbdbxfx.jpg

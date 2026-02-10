@@ -18,30 +18,11 @@ edition: 1. ed
 series:
 - Colección Miradas en la oscuridad
 subjects:
-- History
+- Biography
+- Family
+- Film & Cinema
 - Mexico
-- Motion pictures
-- Biographies
-- Motion picture producers and directors
-- Motion picture actors and actresses
-- Motion picture producers and directors Mexico Biography
-- Producteurs et réalisateurs de cinéma Mexique Biographies
-- Biografía Andrea Palma (1903-1987) Julio Bracho (1909-1978) Diana Bracho Cinematografía
-  Mexicana
-- Bracho family
-- Bracho, Diana
-- Bracho, Jesús, 1910-1976
-- Bracho, Julio
-- Bracho, Julio, 1909-1978
-- Cinéma Industrie Mexique Histoire
-- Cinéma Mexique
-- Cinematografía Mexicana Biografía Andrea Palma (1903-1987) Julio Bracho (1909-1978)
-  Diana Bracho
-- Motion picture actors and actresses Mexico Biography
-- Motion picture industry
-- Motion picture industry Mexico History
-- Motion pictures Mexico
-- Palma, Andrea, 1903?-1987
+- Modern History
 oclc: '85459752'
 cover_note: dedicatoria del autor
 zotero_key: EBV5HEUC

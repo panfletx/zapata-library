@@ -16,13 +16,9 @@ pages: 520
 edition: 9th ed
 series: []
 subjects:
-- Dictionaries
-- dictionaries
-- Dictionnaires
+- Dictionary
+- Grammar & Linguistics
 - Rhetoric
-- Rhetoric Dictionaries
-- Spanish language Rhetoric
-- Spanish language Rhetoric Dictionaries
 oclc: '231363285'
 zotero_key: LX2HYYA7
 cover: covers/lx2hyya7.jpg

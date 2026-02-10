@@ -18,8 +18,8 @@ pages: 320
 series:
 - Synesthesia (Caja Negra)
 subjects:
-- Cine
-- Waters, John 1946- Crítica e interpretación
+- Film & Cinema
+- Literary Criticism
 oclc: '1310158412'
 zotero_key: S3SZ4F2A
 cover: covers/s3sz4f2a.jpg

@@ -17,7 +17,7 @@ edition: 2 éd
 series:
 - Biblioteca contemporánea
 subjects:
-- NOVELAS ESPAÑOLAS
+- Fiction
 oclc: '4242342'
 zotero_key: 8SW4N7EZ
 cover: covers/8sw4n7ez.jpg

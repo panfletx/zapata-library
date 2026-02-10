@@ -20,18 +20,10 @@ edition: 3. ed
 series:
 - Letras de humanidad
 subjects:
-- Criticism, interpretation, etc
+- Literary Criticism
+- Modern History
 - Poetry
-- Spanish language materials
-- Materiales en español
-- 17.86 literary genres, theory of genre
-- Dichtkunst
-- Poesía Congresos, conferencias, etc
-- POESIA HISTORIA Y CRITICA
-- Poesía Historia y Crítica
-- Poésie Histoire et critique
-- Poétique
-- Poetry History and criticism
+- Speech & Lecture
 oclc: '47642432'
 exlibris: '2006'
 zotero_key: JN5ICERK

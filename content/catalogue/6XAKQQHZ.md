@@ -17,8 +17,9 @@ pages: 202
 series:
 - Biblioteca de la literatura universal
 subjects:
-- Literatura Alemana
-- Teatro alemán
+- Drama
+- German Literature
+- Literary Criticism
 oclc: '434350565'
 exlibris: '2000'
 zotero_key: 6XAKQQHZ

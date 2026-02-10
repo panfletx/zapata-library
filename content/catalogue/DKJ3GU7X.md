@@ -10,7 +10,8 @@ languages:
 item_types:
 - book
 series: []
-subjects: []
+subjects:
+- French Literature
 zotero_key: DKJ3GU7X
 cover: covers/dkj3gu7x.jpg
 ---

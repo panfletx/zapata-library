@@ -21,26 +21,13 @@ edition: 1. ed
 series:
 - Alba clásica
 subjects:
+- Biography
+- Diary & Letters
+- Fiction
 - France
-- Biographies
-- Spanish language materials
-- Authors, French
-- Diaries
-- 1800-1899
-- Authors, French 19th century Biography
-- Écrivains français 19e siècle Biographies
-- Autores franceses Siglo XIX Biografía
-- Daudet, Alphonse 1840-1897
-- Daudet, Alphonse, 1840-1897
-- Daudet, Alphonse, 1840-1897 Diaries
-- Daudet, Alphonse, 1840-1897 Diarios íntimos
-- Daudet, Alphonse, 1840-1897 Health
-- Health
-- Literatura francesa Novelas Siglo XIX
-- Sífilis Pacientes Francia Biografía
-- Syphilis Patients
-- Syphilis Patients France Biographies
-- Syphilis Patients France Biography
+- French Literature
+- Literary Criticism
+- Medicine & Health
 oclc: '53440888'
 cover_note: AMC 2004
 zotero_key: D67CYHA5

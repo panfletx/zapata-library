@@ -17,9 +17,7 @@ pages: 2
 edition: 1a ed
 series: []
 subjects:
-- Mexico Guerrero (State)
-- 'Guerrero (Mexico : State)'
-- 'Guerrero (Mexique : État)'
+- Mexico
 oclc: '46546462'
 zotero_key: 2M8AUC4C
 cover: covers/2m8auc4c.jpg

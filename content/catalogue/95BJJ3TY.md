@@ -17,11 +17,7 @@ pages: 200
 series:
 - Punto de lectura
 subjects:
-- 1900-1999
-- Colombian fiction
-- Colombian fiction 20th century
-- Novela colombiana Siglo XX
-- Roman colombien 20e siècle
+- Fiction
 oclc: '52416585'
 exlibris: '2004'
 zotero_key: 95BJJ3TY

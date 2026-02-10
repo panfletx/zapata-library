@@ -16,8 +16,9 @@ pages: 183
 series:
 - Biblioteca básica Salvat
 subjects:
-- Cuentos españoles
-- Literatura española
+- Literary Criticism
+- Short Stories
+- Spanish Literature
 zotero_key: MMDFK4WQ
 cover: covers/mmdfk4wq.jpg
 ---

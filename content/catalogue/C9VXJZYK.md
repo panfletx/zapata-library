@@ -19,8 +19,7 @@ edition: 1ª ed. en México
 series:
 - Grandes clásicos (Aguilar)
 subjects:
-- str. 1992
-- Novela inglesa s.XIX
+- Fiction
 oclc: '1383695791'
 zotero_key: C9VXJZYK
 cover: covers/c9vxjzyk.jpg

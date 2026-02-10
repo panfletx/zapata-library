@@ -17,7 +17,8 @@ pages: 232
 edition: 1. ed. en Lecturas mexicanas
 series:
 - Lecturas mexicanas
-subjects: []
+subjects:
+- Fiction
 oclc: '15354616'
 zotero_key: M93ME7HQ
 cover: covers/m93me7hq.jpg

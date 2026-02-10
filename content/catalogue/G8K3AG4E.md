@@ -15,8 +15,7 @@ item_types:
 pages: 160
 series: []
 subjects:
-- Dieta
-- Dietas reductoras
+- Medicine & Health
 oclc: '651590671'
 zotero_key: G8K3AG4E
 cover: covers/g8k3ag4e.jpg

@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-39-0971-8
 pages: 95
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '651521737'
 zotero_key: 4UJRDXXX
 cover: covers/4ujrdxxx.jpg

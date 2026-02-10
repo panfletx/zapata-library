@@ -17,11 +17,12 @@ pages: 336
 series:
 - (Sus Obras
 subjects:
-- Critica literaria Historia Italia
-- Filología italiana Alocuciones, ensayos, conferencias
-- Italiano Historia
-- Literatura folklorica Historia Italia
-- Literatura italiana Historia y critica
+- Essay
+- Italian Literature
+- Italy
+- Literary Criticism
+- Modern History
+- Speech & Lecture
 oclc: '651368192'
 zotero_key: LLUMZ26V
 cover: covers/llumz26v.jpg

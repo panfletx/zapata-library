@@ -14,7 +14,8 @@ item_types:
 isbn: 978-607-8286-39-3
 edition: 1a ed.
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: ZDMFVAUD
 cover: covers/zdmfvaud.jpg
 ---

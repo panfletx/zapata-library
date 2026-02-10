@@ -15,7 +15,8 @@ item_types:
 isbn: 978-968-804-460-5
 pages: 135
 series: []
-subjects: []
+subjects:
+- Fiction
 oclc: '12593407'
 zotero_key: SH3ZISYM
 cover: covers/sh3zisym.jpg

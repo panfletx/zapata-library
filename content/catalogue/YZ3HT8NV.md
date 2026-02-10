@@ -15,7 +15,8 @@ item_types:
 - book
 series:
 - Le Livre de poche classique
-subjects: []
+subjects:
+- French Literature
 oclc: '976590132'
 exlibris: '1976'
 zotero_key: YZ3HT8NV

@@ -18,7 +18,8 @@ pages: 137
 edition: 3. ed
 series:
 - Colección Clásicos Huemul
-subjects: []
+subjects:
+- Fiction
 oclc: '253702486'
 exlibris: '1970'
 zotero_key: KSWQ2MF9

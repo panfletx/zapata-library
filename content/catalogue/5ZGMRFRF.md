@@ -18,8 +18,9 @@ pages: 337
 series:
 - Stock plus. Moyen âge
 subjects:
-- Letteratura cortese Sec. 12.-13. Antologie
-- Letteratura erotica francese Origini-1400
+- Erotic Literature
+- Medieval Literature
+- Sexuality & Eroticism
 oclc: '878875698'
 zotero_key: 5ZGMRFRF
 cover: covers/5zgmrfrf.jpg

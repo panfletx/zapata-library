@@ -17,17 +17,12 @@ edition: Primera edición
 series:
 - Colección Letras
 subjects:
+- Anthology
+- Epic
 - Fiction
-- 1900-1999
-- Romans
-- Spanish American fiction
-- Epik
-- Fragmenten
-- Geschichte 1964-1980
-- Hispanoamerika
-- Roman hispano-américain 20e siècle
-- Spaans
-- Spanish American fiction 20th century
+- Latin America
+- Modern History
+- United States
 oclc: '8157496'
 zotero_key: VERQ3D2G
 cover: covers/verq3d2g.jpg

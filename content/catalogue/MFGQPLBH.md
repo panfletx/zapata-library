@@ -16,17 +16,8 @@ isbn: 978-950-15-1801-6
 pages: 191
 series: []
 subjects:
-- Naturopathy
-- Popular works
-- Diet therapy
-- Diétothérapie
-- Herbes Emploi en thérapeutique
-- Herbs Therapeutic use
-- Hierbas medicinales y aromáticas Uso terapéutico
-- Naturismo Obras populares
-- Naturopathie Ouvrages de vulgarisation
-- Naturopathy Popular works
-- Terapéutica dietética
+- Medicine & Health
+- Science
 oclc: '52130558'
 zotero_key: MFGQPLBH
 cover: covers/mfgqplbh.jpg

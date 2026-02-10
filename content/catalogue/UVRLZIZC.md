@@ -18,16 +18,11 @@ edition: 1. ed
 series:
 - Centena
 subjects:
+- Grammar & Linguistics
+- Journalism
 - Mexico
-- Counterculture
-- Communication and culture
-- Communication and culture Mexico
-- Communication et culture Mexique
-- Contre-culture Mexique
-- Counterculture Mexico
-- Journalism Social aspects
-- Journalism Social aspects Mexico
-- Presse Aspect social Mexique
+- Modern History
+- Urban Life
 oclc: '174119728'
 cover_note: dedicatoria
 zotero_key: UVRLZIZC

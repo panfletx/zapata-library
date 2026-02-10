@@ -17,21 +17,11 @@ pages: 45
 series:
 - Cuadernos de la igualdad
 subjects:
-- History
+- Human Rights
+- Latin American Politics
+- Law
 - Mexico
-- Démocratisation Mexique
-- Democratization
-- Democratization Mexico
-- Discrimination Political aspects
-- Discrimination Political aspects Mexico History
-- Discrimination Prevention Law and legislation Mexico
-- Discrimination Social aspects
-- Discrimination Social aspects Mexico History
-- Political culture
-- Political culture Mexico History
-- Politics and culture
-- Politics and culture Mexico History
-- Politique et culture Mexique Histoire
+- Modern History
 oclc: '191803331'
 zotero_key: R74Y8TMZ
 cover: covers/r74y8tmz.jpg

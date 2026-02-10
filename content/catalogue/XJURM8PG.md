@@ -15,7 +15,8 @@ item_types:
 pages: 176
 series:
 - A Signet book
-subjects: []
+subjects:
+- Fiction
 oclc: '4914473'
 zotero_key: XJURM8PG
 cover: covers/xjurm8pg.jpg

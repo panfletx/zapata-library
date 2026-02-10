@@ -17,7 +17,8 @@ pages: 171
 edition: 1a ed
 series:
 - Prosa contemporánea
-subjects: []
+subjects:
+- Fiction
 oclc: '11055028'
 zotero_key: MVMVWFRE
 cover: covers/mvmvwfre.jpg

@@ -16,7 +16,8 @@ isbn: 978-2-277-30031-1
 pages: 95
 series:
 - Librio
-subjects: []
+subjects:
+- French Literature
 oclc: '806310468'
 zotero_key: LRTRZVTG
 cover: covers/lrtrzvtg.jpg

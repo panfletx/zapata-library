@@ -19,17 +19,11 @@ series:
 - Creación literaria (Siglo Veintiuno Editores)
 subjects:
 - Fiction
-- Romans
-- Legends
-- Tales
-- Cuentos guatemaltecos
 - Guatemala
-- Contes Guatemala
-- CUENTOS GUATEMALTECOS
-- Legends Guatemala
-- Maya mythology
-- Mythologie maya
-- Tales Guatemala
+- Indigenous Peoples
+- Mythology
+- Oral Tradition & Folklore
+- Short Stories
 oclc: '1033760'
 zotero_key: LQX899IF
 cover: covers/lqx899if.jpg

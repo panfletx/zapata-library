@@ -16,10 +16,10 @@ isbn: 978-0-517-35115-4
 pages: 91
 series: []
 subjects:
+- Erotic Literature
 - Japan
-- Art érotique Japon
-- Erotic art
-- Erotic art Japan
+- Sexuality & Eroticism
+- Visual Art
 oclc: '9397497'
 zotero_key: VFTNDKGZ
 cover: covers/vftndkgz.jpg

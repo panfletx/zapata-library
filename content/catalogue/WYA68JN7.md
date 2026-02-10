@@ -8,7 +8,8 @@ item_types:
 - book
 isbn: 01888056
 series: []
-subjects: []
+subjects:
+- Fiction
 zotero_key: WYA68JN7
 cover: covers/wya68jn7.jpg
 ---

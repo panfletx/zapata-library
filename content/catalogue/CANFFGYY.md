@@ -16,7 +16,7 @@ item_types:
 isbn: 978-968-18-4627-5
 series: []
 subjects:
-- Alemán Textos Libros de texto para extranjeros
+- Grammar & Linguistics
 oclc: '906794964'
 zotero_key: CANFFGYY
 cover: covers/canffgyy.jpg

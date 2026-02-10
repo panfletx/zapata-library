@@ -16,7 +16,7 @@ isbn: 978-2-85707-210-2
 pages: 155
 series: []
 subjects:
-- Yi jing
+- Religion
 oclc: '25337813'
 exlibris: '1988'
 zotero_key: CEJH47EA

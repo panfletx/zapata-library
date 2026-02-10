@@ -16,7 +16,9 @@ item_types:
 pages: 294
 series:
 - Colección popular
-subjects: []
+subjects:
+- Fiction
+- Mexican Literature
 oclc: '2676323'
 cover_note: dedicatoria de José
 zotero_key: 24AXUNVS

@@ -17,7 +17,8 @@ pages: 421
 series:
 - Lingüística
 subjects:
-- Lingüística Diccionarios
+- Dictionary
+- Grammar & Linguistics
 oclc: '760598184'
 cover_note: Marcela de Aguinaga Quiroz Noviembre Mexico 1979
 zotero_key: 56JQAGE5

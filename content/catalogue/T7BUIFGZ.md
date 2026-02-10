@@ -17,8 +17,7 @@ isbn: 978-968-439-276-2
 pages: 205
 series: []
 subjects:
-- Littérature espagnole Explication de texte
-- Spanish literature Explication
+- Spanish Literature
 oclc: '768865149'
 zotero_key: T7BUIFGZ
 cover: covers/t7buifgz.jpg
