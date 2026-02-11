@@ -1,16 +1,17 @@
 ---
-title: Ouvres Completes de Sir Walter Scott
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/9wh2agzy.jpg
+date: '2024-09-01'
+exlibris: '1980'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
-exlibris: '1980'
+- English Literature
+- Novel
+title: Ouvres Completes de Sir Walter Scott
 zotero_key: 9WH2AGZY
-cover: covers/9wh2agzy.jpg
 ---
 

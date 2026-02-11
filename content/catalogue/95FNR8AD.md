@@ -1,25 +1,27 @@
 ---
-title: Los cachorros, El Desafio, Dia Domingo
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Vargas Llosa, Mario
-publishers:
-- Salvat Editores y Alianza Editorial
-place: Buenos Aires
-languages:
-- Español
+cover: covers/95fnr8ad.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1974'
 item_types:
 - book
+languages:
+- Español
+oclc: '720120181'
 pages: 144
+place: Buenos Aires
+publishers:
+- Salvat Editores y Alianza Editorial
 series:
 - Biblioteca Basica Salvat. Libro RTV
 subjects:
-- Fiction
-oclc: '720120181'
-exlibris: '1974'
+- Latin American Literature
+- Peru
+- Short Stories
+title: Los cachorros, El Desafio, Dia Domingo
+year: 1970
 zotero_key: 95FNR8AD
-cover: covers/95fnr8ad.jpg
 ---
 

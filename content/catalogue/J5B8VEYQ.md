@@ -1,28 +1,29 @@
 ---
-title: '5 metros de cuentos perversos: antología'
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Luiselli, Valeria
 - Barba, Andrés
-publishers:
-- Textofilia Ediciones
-place: México, D.F.
-languages:
-- Español
+cover: covers/j5b8veyq.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-7818-22-9
 item_types:
 - book
-isbn: 978-607-7818-22-9
+languages:
+- Español
+oclc: '911627023'
 pages: 1
-edition: Primera edición
+place: México, D.F.
+publishers:
+- Textofilia Ediciones
 series:
 - Colección Lumía
 subjects:
-- Mexico
+- Anthology
+- Mexican Literature
 - Short Stories
-oclc: '911627023'
+title: '5 metros de cuentos perversos: antología'
+year: 2011
 zotero_key: J5B8VEYQ
-cover: covers/j5b8veyq.jpg
 ---
 

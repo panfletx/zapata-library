@@ -1,17 +1,18 @@
 ---
-title: Revista, Time
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/eqn4pjhq.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Contemporary History
+- United States
+title: Revista, Time
+year: 1999
 zotero_key: EQN4PJHQ
-cover: covers/eqn4pjhq.jpg
 ---
 

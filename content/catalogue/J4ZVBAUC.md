@@ -1,28 +1,30 @@
 ---
-title: Teleny
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Wilde, Oscar
 - Cardín Garay, Alberto
-publishers:
-- Laertes
-place: Barcelona
-languages:
-- Español
+cover: covers/j4zvbauc.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2006'
+isbn: 978-84-7584-887-7
 item_types:
 - book
-isbn: 978-84-7584-887-7
-source_url: http://public.eblib.com/choice/PublicFullRecord.aspx?p=6433587
+languages:
+- Español
+oclc: '1228038860'
 pages: 1
+place: Barcelona
+publishers:
+- Laertes
 series:
 - Rey de Bastos Ser
+source_url: http://public.eblib.com/choice/PublicFullRecord.aspx?p=6433587
 subjects:
-- Fiction
-oclc: '1228038860'
-exlibris: '2006'
+- English Literature
+- Gay Literature
+- Novel
+title: Teleny
+year: 1991
 zotero_key: J4ZVBAUC
-cover: covers/j4zvbauc.jpg
 ---
 

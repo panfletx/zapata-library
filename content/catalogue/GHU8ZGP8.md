@@ -1,15 +1,15 @@
 ---
-title: Revista, La regla rota 4
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/ghu8zgp8.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, La regla rota 4
 zotero_key: GHU8ZGP8
-cover: covers/ghu8zgp8.jpg
 ---
 

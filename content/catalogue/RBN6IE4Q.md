@@ -1,29 +1,29 @@
 ---
-title: Jack Kerouac
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Nicosia, Gerald
 - Pérez, Ángela
-publishers:
-- Circe
-place: Barcelona
-languages:
-- Español
+cover: covers/rbn6ie4q.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-84-7765-092-8
 item_types:
 - book
-isbn: 978-84-7765-092-8
+languages:
+- Español
+oclc: '431160400'
 pages: 651
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Circe
 series:
 - Biografía Circe
 subjects:
+- American Literature
 - Beat Generation
 - Biography
-- Literary Criticism
-oclc: '431160400'
+title: Jack Kerouac
+year: 1994
 zotero_key: RBN6IE4Q
-cover: covers/rbn6ie4q.jpg
 ---
 

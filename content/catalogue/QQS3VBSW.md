@@ -1,24 +1,26 @@
 ---
-title: Heart of darkness and the secret sharer
-date: '2024-09-01'
-year: 1910
-decade: 1910s
 authors:
 - Conrad, Joseph
 - Walker, Franklin
-publishers:
-- Bantam Books
-place: New York
-languages:
-- English
+cover: covers/qqs3vbsw.jpg
+date: '2024-09-01'
+decade: 1910s
 item_types:
 - book
+languages:
+- English
+oclc: '610058518'
 pages: 205
+place: New York
+publishers:
+- Bantam Books
 series: []
 subjects:
+- English Literature
 - Fiction
-oclc: '610058518'
+- Novel
+title: Heart of darkness and the secret sharer
+year: 1910
 zotero_key: QQS3VBSW
-cover: covers/qqs3vbsw.jpg
 ---
 

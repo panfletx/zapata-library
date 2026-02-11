@@ -1,27 +1,27 @@
 ---
-title: Mi hermano Carlos
-date: '2024-09-01'
-year: 1965
-decade: 1960s
 authors:
 - López Páez, Jorge
-publishers:
-- Fondo de Cultura Económica
-place: México]
-languages:
-- Español
+cover: covers/n2qias4x.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 1. ed
+isbn: 978-968-16-4475-8
 item_types:
 - book
-isbn: 978-968-16-4475-8
+languages:
+- Español
+oclc: '806512'
 pages: 221
-edition: 1. ed
+place: México]
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
 subjects:
-- Fiction
-- Mexico
-oclc: '806512'
+- Grammar & Linguistics
+- Travel Writing
+title: Mi hermano Carlos
+year: 1965
 zotero_key: N2QIAS4X
-cover: covers/n2qias4x.jpg
 ---
 

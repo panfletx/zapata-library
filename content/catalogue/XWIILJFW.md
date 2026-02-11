@@ -1,26 +1,27 @@
 ---
-title: Historia de la literatura francesa
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Escarpit, Robert
-publishers:
-- Fondo de Cultura Economica
-place: Mexico
-languages:
-- Español
+cover: covers/xwiiljfw.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1974'
 item_types:
 - book
+languages:
+- Español
+oclc: '610409331'
 pages: 202
+place: Mexico
+publishers:
+- Fondo de Cultura Economica
 series:
 - Breviarios
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '610409331'
-exlibris: '1974'
+- France
+- French Literature
+- Literary History
+title: Historia de la literatura francesa
+year: 1974
 zotero_key: XWIILJFW
-cover: covers/xwiiljfw.jpg
 ---
 

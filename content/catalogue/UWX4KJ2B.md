@@ -1,29 +1,28 @@
 ---
-title: N.P.
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Yoshimoto, Banana
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/uwx4kj2b.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1st ed
+isbn: 978-84-7223-440-6
 item_types:
 - book
-isbn: 978-84-7223-440-6
+languages:
+- Español
+oclc: '31826384'
 pages: 186
-edition: 1st ed
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Colección Andanzas
 subjects:
-- Fiction
-- Japan
-- Literary Criticism
-- Short Stories
-oclc: '31826384'
+- Japanese Literature
+- Madness & Mental Illness
+- Novel
+title: N.P.
+year: 1994
 zotero_key: UWX4KJ2B
-cover: covers/uwx4kj2b.jpg
 ---
 

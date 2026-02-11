@@ -1,25 +1,27 @@
 ---
-title: Opus nigrum
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Yourcenar, Marguerite
 - Calatayud, Emma
-publishers:
-- Punto de lectura
-place: México
-languages:
-- Español
+cover: covers/pgw9b7sj.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-11-0455-7
 item_types:
 - book
-isbn: 978-607-11-0455-7
+languages:
+- Español
+oclc: '906980183'
 pages: 380
+place: México
+publishers:
+- Punto de lectura
 series: []
 subjects:
-- Fiction
-oclc: '906980183'
+- French Literature
+- Historical Fiction
+- Novel
+title: Opus nigrum
+year: 2010
 zotero_key: PGW9B7SJ
-cover: covers/pgw9b7sj.jpg
 ---
 

@@ -1,30 +1,29 @@
 ---
-title: El personaje gay en la obra de Luis Zapata
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Rodríguez, Oscar Eduardo
-publishers:
-- Fontamara
-place: México, D.F.
-languages:
-- Español
+cover: covers/ullzy37w.jpg
+cover_note: dedicatoria autor
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-476-570-2
 item_types:
 - book
-isbn: 978-968-476-570-2
+languages:
+- Español
+oclc: '68088331'
 pages: 272
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Fontamara
 series:
 - 'Colección Argumentos (Fontamara (Firm : Mexico City, Mexico))'
 subjects:
 - Gay Literature
 - Literary Criticism
 - Luis Zapata
-- Modern History
-oclc: '68088331'
-cover_note: dedicatoria autor
+title: El personaje gay en la obra de Luis Zapata
+year: 2006
 zotero_key: ULLZY37W
-cover: covers/ullzy37w.jpg
 ---
 

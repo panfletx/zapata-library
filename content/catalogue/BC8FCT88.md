@@ -1,30 +1,26 @@
 ---
-title: 'O crepúsculo do macho: depoimento'
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Gabeira, Fernando
-publishers:
-- Codecri
-place: Rio de Janeiro (Rua Saint Roman, 142, Copacabana, Rio de Janeiro)
-languages:
-- Português
+cover: covers/bc8fct88.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Português
+oclc: '8176802'
 pages: 245
+place: Rio de Janeiro (Rua Saint Roman, 142, Copacabana, Rio de Janeiro)
+publishers:
+- Codecri
 series:
 - Coleção Edições do Pasquim
 subjects:
-- Biography
-- Brazil
+- Autobiography & Memoir
 - Brazilian Literature
-- Latin American Politics
-- Migration & Exile
-- Modern History
-- Social Movements
-oclc: '8176802'
+- Rio de Janeiro
+title: 'O crepúsculo do macho: depoimento'
+year: 1980
 zotero_key: BC8FCT88
-cover: covers/bc8fct88.jpg
 ---
 

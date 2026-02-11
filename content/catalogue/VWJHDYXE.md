@@ -1,25 +1,26 @@
 ---
-title: Diccionario de sinónimos, ideas afines y contrarios
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Pey i Estrany, S.
 - Ruiz i Calonja, Joan
-publishers:
-- Editorial Varazén ; Editorial Teide
-place: México, Barcelona
-languages:
-- Español
+cover: covers/vwjhdyxe.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 4a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1125139'
 pages: 527
-edition: 4a ed
+place: México, Barcelona
+publishers:
+- Editorial Varazén ; Editorial Teide
 series: []
 subjects:
+- Dictionary
 - Grammar & Linguistics
-oclc: '1125139'
+title: Diccionario de sinónimos, ideas afines y contrarios
+year: 1971
 zotero_key: VWJHDYXE
-cover: covers/vwjhdyxe.jpg
 ---
 

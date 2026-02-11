@@ -1,27 +1,29 @@
 ---
-title: Poèmes
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Cavafy, Constantine
 - Yourcenar, Marguerite
 - Dimaras, Constantin
-publishers:
-- Gallimard
-place: '[Paris], France'
-languages:
-- Français
+cover: covers/svhvzxdt.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1997'
+isbn: 978-2-07-032175-9
 item_types:
 - book
-isbn: 978-2-07-032175-9
+languages:
+- Français
+oclc: '760586694'
 pages: 272
+place: '[Paris], France'
+publishers:
+- Gallimard
 series: []
 subjects:
 - French Literature
-oclc: '760586694'
-exlibris: '1997'
+- Poetry
+- Translation Studies
+title: Poèmes
+year: 1978
 zotero_key: SVHVZXDT
-cover: covers/svhvzxdt.jpg
 ---
 

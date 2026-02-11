@@ -1,19 +1,19 @@
 ---
-title: Muy interesante
-date: '2024-09-01'
-year: 2019
-decade: 2010s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/faj7ut3y.jpg
+date: '2024-09-01'
+decade: 2010s
+issn: '16653629'
 item_types:
 - magazineArticle
-issn: '16653629'
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Contemporary History
+title: Muy interesante
+year: 2019
 zotero_key: FAJ7UT3Y
-cover: covers/faj7ut3y.jpg
 ---
 

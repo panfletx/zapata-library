@@ -1,32 +1,31 @@
 ---
-title: 'Arte poética: seis conferencias'
-featured: true
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Borges, Jorge Luis
 - Mihailescu, Calin Andrei
-publishers:
-- Crítica
-place: Barcelona
-languages:
-- Español
+cover: covers/jn5icerk.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 3. ed
+exlibris: '2006'
+featured: true
+isbn: 978-84-8432-179-8
 item_types:
 - book
-isbn: 978-84-8432-179-8
+languages:
+- Español
+oclc: '47642432'
 pages: 181
-edition: 3. ed
+place: Barcelona
+publishers:
+- Crítica
 series:
 - Letras de humanidad
 subjects:
+- Essay
+- Jorge Luis Borges
 - Literary Criticism
-- Modern History
-- Poetry
-- Speech & Lecture
-oclc: '47642432'
-exlibris: '2006'
+title: 'Arte poética: seis conferencias'
+year: 2001
 zotero_key: JN5ICERK
-cover: covers/jn5icerk.jpg
 ---
 

@@ -1,27 +1,27 @@
 ---
-title: El visitante y otras historias
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Thomas, Dylan
 - Álvarez, Ignacio
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/xj8mdram.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-02-07970-1
 item_types:
 - book
-isbn: 978-84-02-07970-1
+languages:
+- Español
+oclc: '892087336'
 pages: 186
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Club Bruguera
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '892087336'
+- English Literature
+- Short Stories
+title: El visitante y otras historias
+year: 1981
 zotero_key: XJ8MDRAM
-cover: covers/xj8mdram.jpg
 ---
 

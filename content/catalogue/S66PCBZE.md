@@ -1,25 +1,26 @@
 ---
-title: Memorias inmorales
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Eisenstein, Sergei
-publishers:
-- J. Vergara Editor
-place: Barcelona
-languages:
-- Español
+cover: covers/s66pcbze.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-950-15-0633-4
 item_types:
 - book
-isbn: 978-950-15-0633-4
+languages:
+- Español
+oclc: '17941089'
 pages: 346
+place: Barcelona
+publishers:
+- J. Vergara Editor
 series: []
 subjects:
 - Autobiography & Memoir
 - Film & Cinema
-oclc: '17941089'
+- Russia
+title: Memorias inmorales
+year: 1987
 zotero_key: S66PCBZE
-cover: covers/s66pcbze.jpg
 ---
 

@@ -1,29 +1,28 @@
 ---
-title: Las jiras
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Arana, Federico
-publishers:
-- 'J. Mortiz : SEP Cultura'
-place: México, D.F.
-languages:
-- Español
+cover: covers/57mnpic8.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed. en Lecturas Mexicanas
+isbn: 978-968-29-0892-7
 item_types:
 - book
-isbn: 978-968-29-0892-7
+languages:
+- Español
+oclc: '15637356'
 pages: 181
-edition: 1a ed. en Lecturas Mexicanas
+place: México, D.F.
+publishers:
+- 'J. Mortiz : SEP Cultura'
 series:
 - Lecturas mexicanas
 subjects:
-- Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-oclc: '15637356'
+- Mexico City
+- Novel
+title: Las jiras
+year: 1986
 zotero_key: 57MNPIC8
-cover: covers/57mnpic8.jpg
 ---
 

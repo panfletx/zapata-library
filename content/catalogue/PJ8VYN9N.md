@@ -1,28 +1,30 @@
 ---
-title: Moll Flanders
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Defoe, Daniel
 - Fernandez, Dominique
 - Ledoux, Francis
-publishers:
-- Gallimard
-place: Paris?
-languages:
-- Français
+cover: covers/pj8vyn9n.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1992'
+isbn: 978-2-07-037109-9
 item_types:
 - book
-isbn: 978-2-07-037109-9
+languages:
+- Français
+oclc: '22915108'
 pages: 527
+place: Paris?
+publishers:
+- Gallimard
 series:
 - Collection Folio
 subjects:
-- French Literature
-oclc: '22915108'
-exlibris: '1992'
+- English Literature
+- Fiction
+- Novel
+title: Moll Flanders
+year: 1979
 zotero_key: PJ8VYN9N
-cover: covers/pj8vyn9n.jpg
 ---
 

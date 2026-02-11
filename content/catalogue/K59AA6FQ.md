@@ -1,21 +1,21 @@
 ---
-title: Diccionario mini
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors: []
-publishers:
-- Larousse
-place: México
-languages: []
+cover: covers/k59aa6fq.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 6a ed.
+isbn: '8488327222'
 item_types:
 - book
-isbn: '8488327222'
-edition: 6a ed.
+languages: []
+place: México
+publishers:
+- Larousse
 series: []
 subjects:
-- Fiction
+- Dictionary
+title: Diccionario mini
+year: 2006
 zotero_key: K59AA6FQ
-cover: covers/k59aa6fq.jpg
 ---
 

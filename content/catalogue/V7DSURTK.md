@@ -1,27 +1,27 @@
 ---
-title: La nardo
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Gómez de la Serna, Ramón
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/v7dsurtk.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-84-02-08309-8
 item_types:
 - book
-isbn: 978-84-02-08309-8
+languages:
+- Español
+oclc: '9408590'
 pages: 246
-edition: 1a ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro amigo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '9408590'
+- Novel
+- Spanish Literature
+title: La nardo
+year: 1981
 zotero_key: V7DSURTK
-cover: covers/v7dsurtk.jpg
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: La Desaparición de Porfiria Santillana
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Martín-Artajo, José.
-publishers:
-- Joaquín Mortiz
-place: México D.F.
-languages:
-- Español
+cover: covers/grfs7czs.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '1187134110'
+place: México D.F.
+publishers:
+- Joaquín Mortiz
 series: []
 subjects:
 - Fiction
 - Mexican Literature
-oclc: '1187134110'
+- Mexico City
+title: La Desaparición de Porfiria Santillana
+year: 1970
 zotero_key: GRFS7CZS
-cover: covers/grfs7czs.jpg
 ---
 

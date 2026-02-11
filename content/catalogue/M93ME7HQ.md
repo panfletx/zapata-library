@@ -1,26 +1,28 @@
 ---
-title: La oveja negra y Obras completas y otros cuentos
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Monterroso, Augusto
-publishers:
-- 'SEP Cultura : Consejo Nacional de Fomento Educativo'
-place: México
-languages:
-- Español
+cover: covers/m93me7hq.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed. en Lecturas mexicanas
+isbn: 978-968-29-0200-0
 item_types:
 - book
-isbn: 978-968-29-0200-0
+languages:
+- Español
+oclc: '15354616'
 pages: 232
-edition: 1. ed. en Lecturas mexicanas
+place: México
+publishers:
+- 'SEP Cultura : Consejo Nacional de Fomento Educativo'
 series:
 - Lecturas mexicanas
 subjects:
-- Fiction
-oclc: '15354616'
+- Latin American Literature
+- Satire & Humor
+- Short Stories
+title: La oveja negra y Obras completas y otros cuentos
+year: 1986
 zotero_key: M93ME7HQ
-cover: covers/m93me7hq.jpg
 ---
 

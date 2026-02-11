@@ -1,26 +1,27 @@
 ---
-title: Tom Jones
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Fielding, Henry
-publishers:
-- Editorial Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/z6cbpaqg.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[1a. ed.]'
+exlibris: '1992'
 item_types:
 - book
+languages:
+- Español
+oclc: '1338295'
 pages: 915
-edition: '[1a. ed.]'
+place: Barcelona
+publishers:
+- Editorial Bruguera
 series: []
 subjects:
+- English Literature
 - Fiction
-- Mexican Literature
-oclc: '1338295'
-exlibris: '1992'
+- Novel
+title: Tom Jones
+year: 1972
 zotero_key: Z6CBPAQG
-cover: covers/z6cbpaqg.jpg
 ---
 

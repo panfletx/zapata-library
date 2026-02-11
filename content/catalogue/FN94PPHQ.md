@@ -1,27 +1,28 @@
 ---
-title: Compadre lobo
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Sainz, Gustavo
-publishers:
-- Grijalbo
-place: México
-languages:
-- Español
+cover: covers/fn94pphq.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1977'
+isbn: 978-968-419-021-4
 item_types:
 - book
-isbn: 978-968-419-021-4
+languages:
+- Español
+oclc: '1146497612'
 pages: 372
+place: México
+publishers:
+- Grijalbo
 series:
 - Collecion Narrativa
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '1146497612'
-exlibris: '1977'
+- Novel
+- Rural Life
+title: Compadre lobo
+year: 1975
 zotero_key: FN94PPHQ
-cover: covers/fn94pphq.jpg
 ---
 

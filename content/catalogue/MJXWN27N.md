@@ -1,29 +1,26 @@
 ---
-title: 'The jealous gods: a processional novel of the fifth century, B.C. (concerning one Alcibiades)'
-date: '2024-09-01'
-year: 1928
-decade: 1920s
 authors:
 - Atherton, Gertrude Franklin Horn
-publishers:
-- H. Liveright
-place: New York
-languages:
-- English
+cover: covers/mjxwn27n.jpg
+date: '2024-09-01'
+decade: 1920s
 item_types:
 - book
+languages:
+- English
+oclc: '908021'
 pages: 452
+place: New York
+publishers:
+- H. Liveright
 series: []
 subjects:
+- American Literature
 - Ancient History
-- Biography
-- Fiction
-- Greece
-- Modern History
-- Short Stories
-oclc: '908021'
+- Historical Fiction
+title: 'The jealous gods: a processional novel of the fifth century, B.C. (concerning one Alcibiades)'
+year: 1928
 zotero_key: MJXWN27N
-cover: covers/mjxwn27n.jpg
 ---
 
 The story of a wild, irresponsible Alcibiades, the successor to Pericles, who is tamed by a daughter of the Pharoahs in the classical age of the 5th century, B.C. Alcibiades leaps upon the stage as the maddest spirit of Athens, given to wild parties with Hetaerae, rioting in the streets at night, playing the most outrageous pranks conceivable on the elder and more dignified members of society

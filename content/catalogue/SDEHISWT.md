@@ -1,28 +1,30 @@
 ---
-title: Dublineses
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Joyce, James
 - Cabrera-Infante, G.
-publishers:
-- Editorial Lumen
-place: Barcelona
-languages:
-- Español
+cover: covers/sdehiswt.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 6a ed
+exlibris: '2006'
+isbn: 978-84-264-0100-7
 item_types:
 - book
-isbn: 978-84-264-0100-7
+languages:
+- Español
+oclc: '70211769'
 pages: 207
-edition: 6a ed
+place: Barcelona
+publishers:
+- Editorial Lumen
 series:
 - Palabra en el tiempo
 subjects:
+- Dublin
+- English Literature
 - Short Stories
-oclc: '70211769'
-exlibris: '2006'
+title: Dublineses
+year: 1987
 zotero_key: SDEHISWT
-cover: covers/sdehiswt.jpg
 ---
 

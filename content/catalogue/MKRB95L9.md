@@ -1,24 +1,24 @@
 ---
-title: 'American English course eight: winter carnival'
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors: []
-publishers:
-- Instituto Mexicano Norteamericano de Relaciones Culturales
-place: Mexico
-languages:
-- Español
+cover: covers/mkrb95l9.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 2nd ed., rev
 item_types:
 - book
+languages:
+- Español
+oclc: '23874221'
 pages: 2
-edition: 2nd ed., rev
+place: Mexico
+publishers:
+- Instituto Mexicano Norteamericano de Relaciones Culturales
 series: []
 subjects:
 - Education
 - Grammar & Linguistics
-oclc: '23874221'
+title: 'American English course eight: winter carnival'
+year: 1960
 zotero_key: MKRB95L9
-cover: covers/mkrb95l9.jpg
 ---
 

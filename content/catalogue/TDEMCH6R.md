@@ -1,28 +1,29 @@
 ---
-title: Sensibles
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Dimayuga, José
-publishers:
-- Editorial Praxis
-place: México
-languages:
-- English
+cover: covers/tdemch6r.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
+isbn: 978-607-420-125-3
 item_types:
 - book
-isbn: 978-607-420-125-3
+languages:
+- English
+oclc: '865565922'
 pages: 113
-edition: 1. ed
+place: México
+publishers:
+- Editorial Praxis
 series:
 - Colección Juan Ruiz de Alarcón. Dramaturgia
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '865565922'
-cover_note: dedicatoria del autor
+- Gay Literature
+- Latin American Literature
+- Poetry
+title: Sensibles
+year: 2012
 zotero_key: TDEMCH6R
-cover: covers/tdemch6r.jpg
 ---
 

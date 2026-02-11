@@ -1,23 +1,24 @@
 ---
-title: Oeuvres choisies de Marivaux
-date: '2024-09-01'
-year: 1908
-decade: 1900s
 authors:
 - Marivaux, Pierre Carlet de Chamblain de
-publishers:
-- Librairie Hachette
-place: Paris
-languages:
-- Français
+cover: covers/b34qd8is.jpg
+date: '2024-09-01'
+decade: 1900s
 item_types:
 - book
+languages:
+- Français
+oclc: '1151059861'
 pages: 2
+place: Paris
+publishers:
+- Librairie Hachette
 series: []
 subjects:
+- Drama
 - French Literature
-oclc: '1151059861'
+title: Oeuvres choisies de Marivaux
+year: 1908
 zotero_key: B34QD8IS
-cover: covers/b34qd8is.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: 'Pantagruel: publie sur le texte definitif. Etabli et annote par pierre michel. Pref. de jacques perret'
-date: '2024-09-01'
-year: 1964
-decade: 1960s
 authors:
 - Rabelais, Francois
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/vfwr5rwm.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '299956515'
 pages: 447
+place: Paris
+publishers:
+- Gallimard
 series:
 - Livre de poche
 subjects:
+- François Rabelais
 - French Literature
-oclc: '299956515'
+- Novel
+title: 'Pantagruel: publie sur le texte definitif. Etabli et annote par pierre michel. Pref. de jacques perret'
+year: 1964
 zotero_key: VFWR5RWM
-cover: covers/vfwr5rwm.jpg
 ---
 

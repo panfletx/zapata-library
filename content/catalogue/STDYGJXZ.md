@@ -1,29 +1,28 @@
 ---
-title: Crónica de la poesía mexicana
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Posada
-place: México, D.F.
-languages:
-- Español
+cover: covers/stdygjxz.jpg
+cover_note: dedicatoria de jjb
+date: '2024-09-01'
+decade: 1980s
+edition: 5a ed
+isbn: 978-968-433-233-1
 item_types:
 - book
-isbn: 978-968-433-233-1
+languages:
+- Español
+oclc: '19881330'
 pages: 268
-edition: 5a ed
+place: México, D.F.
+publishers:
+- Posada
 series: []
 subjects:
-- Literary Criticism
-- Mexico
-- Modern History
+- Literary History
+- Mexican Literature
 - Poetry
-oclc: '19881330'
-cover_note: dedicatoria de jjb
+title: Crónica de la poesía mexicana
+year: 1987
 zotero_key: STDYGJXZ
-cover: covers/stdygjxz.jpg
 ---
 

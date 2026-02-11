@@ -1,26 +1,25 @@
 ---
-title: La novela italiana contemporanea
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Rossi Papisca, Annunziata
-publishers:
-- Universidad Nacional Autónoma
-place: México
-languages:
-- Italiano
+cover: covers/unfcznu4.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1980'
 item_types:
 - book
+languages:
+- Italiano
+oclc: '912221881'
 pages: 154
+place: México
+publishers:
+- Universidad Nacional Autónoma
 series: []
 subjects:
-- Fiction
+- Italian Literature
 - Literary Criticism
-- Modern History
-oclc: '912221881'
-exlibris: '1980'
+title: La novela italiana contemporanea
+year: 1975
 zotero_key: UNFCZNU4
-cover: covers/unfcznu4.jpg
 ---
 

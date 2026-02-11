@@ -1,27 +1,28 @@
 ---
-title: 'Poesía homoerótica: antología'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Téllez-Pon, Sergio
-publishers:
-- Alforja, Arte y Literatura, A.C.
-place: México
-languages:
-- Español
+cover: covers/xnfdzmu5.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-968-5189-32-3
 item_types:
 - book
-isbn: 978-968-5189-32-3
+languages:
+- Español
+oclc: '228160882'
 pages: 77
+place: México
+publishers:
+- Alforja, Arte y Literatura, A.C.
 series:
 - Poesía en el andén
 subjects:
+- Anthology
 - Gay Literature
+- Mexican Literature
 - Poetry
-- Queer Studies
-oclc: '228160882'
+title: 'Poesía homoerótica: antología'
+year: 2006
 zotero_key: XNFDZMU5
-cover: covers/xnfdzmu5.jpg
 ---
 

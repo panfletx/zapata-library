@@ -1,28 +1,28 @@
 ---
-title: Las formas de ser gris adentro
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Marquines, Jeremías
-publishers:
-- Editorial Praxis ; Instituto de Cultura de Tabasco
-place: Col. Doctores, Del. Cuauhtémoc, México, D.F., Villahermosa, Tabasco [Mexico]
-languages:
-- Español
+cover: covers/9quj7um8.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-682-086-0
 item_types:
 - book
-isbn: 978-970-682-086-0
+languages:
+- Español
+oclc: '49773903'
 pages: 69
-edition: 1. ed
+place: Col. Doctores, Del. Cuauhtémoc, México, D.F., Villahermosa, Tabasco [Mexico]
+publishers:
+- Editorial Praxis ; Instituto de Cultura de Tabasco
 series:
 - Colección Dánae
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '49773903'
-cover_note: dedicatoria
+- Poetry
+title: Las formas de ser gris adentro
+year: 2001
 zotero_key: 9QUJ7UM8
-cover: covers/9quj7um8.jpg
 ---
 

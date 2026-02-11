@@ -1,25 +1,26 @@
 ---
-title: Diario di una scrittrice
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Woolf, Virginia
-publishers:
-- Mondadori
-place: Milano
-languages:
-- Italiano
+cover: covers/x5xa4l7d.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 3. ed
 item_types:
 - book
+languages:
+- Italiano
+oclc: '799168308'
 pages: 471
-edition: 3. ed
+place: Milano
+publishers:
+- Mondadori
 series:
 - Oscar Saggi
 subjects:
-- Italian Literature
-oclc: '799168308'
+- Diary & Letters
+- English Literature
+title: Diario di una scrittrice
+year: 1980
 zotero_key: X5XA4L7D
-cover: covers/x5xa4l7d.jpg
 ---
 

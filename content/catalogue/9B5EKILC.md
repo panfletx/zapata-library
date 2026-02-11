@@ -1,27 +1,29 @@
 ---
-title: 'Chaminadour: contes, nouvelles et récits'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Jouhandeau, Marcel
 - Millet, Richard
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/9b5ekilc.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: 2007, regalo de Gulhem
+isbn: 978-2-07-077716-7
 item_types:
 - book
-isbn: 978-2-07-077716-7
+languages:
+- Français
+oclc: '74814480'
 pages: 1534
+place: Paris
+publishers:
+- Gallimard
 series:
 - Quarto (Gallimard (Firm))
 subjects:
+- France
 - French Literature
-oclc: '74814480'
-exlibris: 2007, regalo de Gulhem
+- Short Stories
+title: 'Chaminadour: contes, nouvelles et récits'
+year: 2006
 zotero_key: 9B5EKILC
-cover: covers/9b5ekilc.jpg
 ---
 

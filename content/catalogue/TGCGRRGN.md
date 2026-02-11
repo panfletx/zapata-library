@@ -1,30 +1,29 @@
 ---
-title: 'Escribir para seguir viviendo: entrevistas con Ricardo Garibay'
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Garibay, Ricardo
 - Venegas, Ricardo
-publishers:
-- 'Instituto de Cultura de Morelos : Universidad Autónoma del Estado de Morelos'
-place: Morelos, México?
-languages:
-- Español
+cover: covers/tgcgrrgn.jpg
+cover_note: dedicatoria Ricardo Venegas
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-18-4911-8
 item_types:
 - book
-isbn: 978-970-18-4911-8
+languages:
+- Español
+oclc: '50427274'
 pages: 71
-edition: 1. ed
+place: Morelos, México?
+publishers:
+- 'Instituto de Cultura de Morelos : Universidad Autónoma del Estado de Morelos'
 series: []
 subjects:
+- Autobiography & Memoir
 - Interview
-- Literary Criticism
 - Mexican Literature
-- Mexico
-oclc: '50427274'
-cover_note: dedicatoria Ricardo Venegas
+title: 'Escribir para seguir viviendo: entrevistas con Ricardo Garibay'
+year: 2000
 zotero_key: TGCGRRGN
-cover: covers/tgcgrrgn.jpg
 ---
 

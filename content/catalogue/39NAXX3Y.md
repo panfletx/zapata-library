@@ -1,32 +1,29 @@
 ---
-title: El convivio del difunto
-date: '2024-09-01'
-year: 2018
-decade: 2010s
 authors:
 - Zapata Quiroz, Martín
-publishers:
-- 'Sociedad de Amigos CNT, Compañía Nacional de Teatro : Secretaría de Cultura, Dirección General de Publicaciones'
-place: Ciudad de México
-languages:
-- Español
+cover: covers/39naxx3y.jpg
+cover_note: dedicatoria Martín Zapata 2018
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-745-866-1
 item_types:
 - book
-isbn: 978-607-745-866-1
+languages:
+- Español
+oclc: '1121427938'
 pages: 227
-edition: Primera edición
+place: Ciudad de México
+publishers:
+- 'Sociedad de Amigos CNT, Compañía Nacional de Teatro : Secretaría de Cultura, Dirección General de Publicaciones'
 series:
 - Cuadernos de repertorio
 subjects:
-- Death & Mourning
 - Drama
-- Film & Cinema
-- Interview
-- Luis Zapata
-- Mexico
-oclc: '1121427938'
-cover_note: dedicatoria Martín Zapata 2018
+- Mexican Literature
+- Mexico City
+title: El convivio del difunto
+year: 2018
 zotero_key: 39NAXX3Y
-cover: covers/39naxx3y.jpg
 ---
 

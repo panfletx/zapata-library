@@ -1,27 +1,29 @@
 ---
-title: A lover's cock and other gay poems
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Rimbaud, Arthur
 - Verlaine, Paul
 - Murat, J.
 - Gunn, Drewey Wayne
-publishers:
-- Gay Sunshine Press
-place: San Francisco
-languages:
-- English
+cover: covers/tgtu5ztw.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-917342-68-4
 item_types:
 - book
-isbn: 978-0-917342-68-4
+languages:
+- English
+oclc: '1050823666'
 pages: 63
+place: San Francisco
+publishers:
+- Gay Sunshine Press
 series: []
 subjects:
+- French Literature
 - Gay Literature
-oclc: '1050823666'
+- Poetry
+title: A lover's cock and other gay poems
+year: 1980
 zotero_key: TGTU5ZTW
-cover: covers/tgtu5ztw.jpg
 ---
 

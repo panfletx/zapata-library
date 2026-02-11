@@ -1,26 +1,25 @@
 ---
-title: The shout, and other stories
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Graves, Robert
-publishers:
-- Penguin Books
-place: Harmondsworth
-languages:
-- English
+cover: covers/f6fp7uts.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-14-004832-2
 item_types:
 - book
-isbn: 978-0-14-004832-2
+languages:
+- English
+oclc: '705385965'
 pages: 300
+place: Harmondsworth
+publishers:
+- Penguin Books
 series: []
 subjects:
-- Fiction
-- Modern History
+- English Literature
 - Short Stories
-oclc: '705385965'
+title: The shout, and other stories
+year: 1979
 zotero_key: F6FP7UTS
-cover: covers/f6fp7uts.jpg
 ---
 

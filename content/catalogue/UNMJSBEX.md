@@ -1,29 +1,27 @@
 ---
-title: Guerra y paz tomo II
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Tolstoy, Leo
-publishers:
-- Editorial Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/unmjsbex.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 14. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1035141054'
 pages: 1335
-edition: 14. ed
+place: Barcelona
+publishers:
+- Editorial Bruguera
 series:
 - Joyas literarias
 subjects:
-- Fiction
-- Modern History
-- Russia
-- Short Stories
+- Novel
+- Russian Literature
 - War & Conflict
-oclc: '1035141054'
+title: Guerra y paz tomo II
+year: 1975
 zotero_key: UNMJSBEX
-cover: covers/unmjsbex.jpg
 ---
 

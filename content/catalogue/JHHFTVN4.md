@@ -1,26 +1,25 @@
 ---
-title: La muerte del estratega
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Mutis, Álvaro
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/jhhftvn4.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-72-6
 item_types:
 - book
-isbn: 978-968-9364-72-6
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- Poetry
+title: La muerte del estratega
+year: 2008
 zotero_key: JHHFTVN4
-cover: covers/jhhftvn4.jpg
 ---
 

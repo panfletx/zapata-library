@@ -1,32 +1,29 @@
 ---
-title: 'Más allá del boom: literatura y mercado'
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Viñas, David
-publishers:
-- Marcha Editores
-place: México
-languages:
-- Español
+cover: covers/gtgljcth.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: '1984'
+isbn: 978-968-481-003-7
 item_types:
 - book
-isbn: 978-968-481-003-7
+languages:
+- Español
+oclc: '8585481'
 pages: 326
-edition: 1a ed
+place: México
+publishers:
+- Marcha Editores
 series:
 - Colección Letras
 subjects:
-- Chilean Literature
-- Fiction
-- Latin America
-- Literary Criticism
-- Modern History
-- United States
-oclc: '8585481'
-exlibris: '1984'
+- Novel
+- Spain
+- Spanish Literature
+title: 'Más allá del boom: literatura y mercado'
+year: 1981
 zotero_key: GTGLJCTH
-cover: covers/gtgljcth.jpg
 ---
 

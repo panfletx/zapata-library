@@ -1,25 +1,25 @@
 ---
-title: A los pies del maestro
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Krishnamurti, J.
-publishers:
-- Editorial EDAF
-place: Madrid
-languages:
-- Español
+cover: covers/icfiuapb.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7640-667-0
 item_types:
 - book
-isbn: 978-84-7640-667-0
+languages:
+- Español
+oclc: '31697696'
 pages: 78
+place: Madrid
+publishers:
+- Editorial EDAF
 series:
 - Arca de Sabiduría
 subjects:
-- Occult & Esoteric
-oclc: '31697696'
+- Philosophy
+title: A los pies del maestro
+year: 1993
 zotero_key: ICFIUAPB
-cover: covers/icfiuapb.jpg
 ---
 

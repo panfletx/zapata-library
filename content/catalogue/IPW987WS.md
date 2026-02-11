@@ -1,29 +1,27 @@
 ---
-title: Análisis estructural del relato
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Barthes, Roland
-publishers:
-- Editorial Tiempo Contemporáneo
-place: Buenos Aires]
-languages:
-- Español
+cover: covers/ipw987ws.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[2. ed.]'
+exlibris: '1976'
 item_types:
 - book
+languages:
+- Español
+oclc: '1159942'
 pages: 208
-edition: '[2. ed.]'
+place: Buenos Aires]
+publishers:
+- Editorial Tiempo Contemporáneo
 series:
 - Biblioteca de ciencias sociales. Colección comunicaciones
 subjects:
 - Literary Criticism
-- Literary History
-- Modern History
-- Rhetoric
-oclc: '1159942'
-exlibris: '1976'
+- Structuralism & Poststructuralism
+title: Análisis estructural del relato
+year: 1972
 zotero_key: IPW987WS
-cover: covers/ipw987ws.jpg
 ---
 

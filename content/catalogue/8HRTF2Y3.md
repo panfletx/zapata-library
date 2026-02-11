@@ -1,28 +1,27 @@
 ---
-title: Fascismo en Europa
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Rossi, Annunziata
-publishers:
-- Universidad Nacional Autónoma de México, Instituto de Investigaciones Filológicas
-place: México, D.F
-languages:
-- Español
+cover: covers/8hrtf2y3.jpg
+cover_note: dedicatoria de Rossi
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-32-3982-5
 item_types:
 - book
-isbn: 978-970-32-3982-5
+languages:
+- Español
+oclc: '931888036'
 pages: 116
-edition: 1. ed
+place: México, D.F
+publishers:
+- Universidad Nacional Autónoma de México, Instituto de Investigaciones Filológicas
 series:
 - Cuadernos del Seminario de Poesía
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '931888036'
-cover_note: dedicatoria de Rossi
+- War & Conflict
+title: Fascismo en Europa
+year: 2006
 zotero_key: 8HRTF2Y3
-cover: covers/8hrtf2y3.jpg
 ---
 

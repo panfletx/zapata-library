@@ -1,27 +1,26 @@
 ---
-title: BBC English Phrasal Verbs OK!
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Shepeard, John
-publishers:
-- Difusión
-place: Barcelona
-languages:
-- Multilingual
+cover: covers/bqmkg66g.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-89344-58-7
 item_types:
 - book
-isbn: 978-84-89344-58-7
+languages:
+- Multilingual
+oclc: '39871077'
 pages: 93
+place: Barcelona
+publishers:
+- Difusión
 series:
 - Idiomas Hoy
 subjects:
-- Education
+- English Literature
 - Grammar & Linguistics
-- Modern History
-oclc: '39871077'
+title: BBC English Phrasal Verbs OK!
+year: 1998
 zotero_key: BQMKG66G
-cover: covers/bqmkg66g.jpg
 ---
 

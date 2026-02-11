@@ -1,24 +1,25 @@
 ---
-title: 'Nobody''s business: stories'
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Gilliatt, Penelope
-publishers:
-- Penguin
-place: Harmondsworth
-languages:
-- English
+cover: covers/lacc8jp6.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-14-004598-7
 item_types:
 - book
-isbn: 978-0-14-004598-7
+languages:
+- English
+oclc: '12306983'
 pages: 156
+place: Harmondsworth
+publishers:
+- Penguin
 series: []
 subjects:
+- English Literature
 - Short Stories
-oclc: '12306983'
+title: 'Nobody''s business: stories'
+year: 1979
 zotero_key: LACC8JP6
-cover: covers/lacc8jp6.jpg
 ---
 

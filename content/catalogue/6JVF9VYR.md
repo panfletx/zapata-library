@@ -1,30 +1,28 @@
 ---
-title: Hijo de este tiempo
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Mann, Klaus
 - Fortea, Carlos
-publishers:
-- Minúscula
-place: Barcelona
-languages:
-- Español
+cover: covers/6jvf9vyr.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-95587-04-6
 item_types:
 - book
-isbn: 978-84-95587-04-6
+languages:
+- Español
+oclc: '56050183'
 pages: 248
+place: Barcelona
+publishers:
+- Minúscula
 series:
 - Alexanderplatz
 subjects:
 - Autobiography & Memoir
-- Biography
+- Fiction
 - German Literature
-- Literary Criticism
-- Modern History
-oclc: '56050183'
+title: Hijo de este tiempo
+year: 2001
 zotero_key: 6JVF9VYR
-cover: covers/6jvf9vyr.jpg
 ---
 

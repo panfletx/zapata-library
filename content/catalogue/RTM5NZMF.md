@@ -1,31 +1,27 @@
 ---
-title: 'La salud por el placer: cómo equilibrar en tu vida amor, trabajo y diversión'
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Pearsall, Paul
-publishers:
-- EDAF
-place: Madrid
-languages:
-- Español
+cover: covers/rtm5nzmf.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-414-0401-4
 item_types:
 - book
-isbn: 978-84-414-0401-4
+languages:
+- Español
+oclc: '40476197'
 pages: 350
+place: Madrid
+publishers:
+- EDAF
 series:
 - Temas de superación personal
 subjects:
-- Biography
-- Ethics
+- Essay
+- Love & Desire
 - Medicine & Health
-- Modern History
-- Philosophy
-- Psychoanalysis
-- Travel Writing
-oclc: '40476197'
+title: 'La salud por el placer: cómo equilibrar en tu vida amor, trabajo y diversión'
+year: 1998
 zotero_key: RTM5NZMF
-cover: covers/rtm5nzmf.jpg
 ---
 

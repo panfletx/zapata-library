@@ -1,27 +1,29 @@
 ---
-title: Páginas para una siesta húmeda
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Montiel Figueiras, Mauricio
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: San Angel, D.F. [Mexico]
-languages:
-- Español
+cover: covers/4ukkx34q.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-4414-7
 item_types:
 - book
-isbn: 978-968-29-4414-7
+languages:
+- Español
+oclc: '29232491'
 pages: 108
-edition: 1. ed
+place: San Angel, D.F. [Mexico]
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Fiction
-oclc: '29232491'
-cover_note: dedicatoria del autor
+- Mexican Literature
+- Mexico City
+- Poetry
+title: Páginas para una siesta húmeda
+year: 1992
 zotero_key: 4UKKX34Q
-cover: covers/4ukkx34q.jpg
 ---
 

@@ -1,20 +1,21 @@
 ---
-title: Luvina 55
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/yiigjbye.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
-source_url: http://www.bibliothek.uni-regensburg.de/ezeit/?2516386
-series: []
-subjects:
-- Fiction
+languages:
+- Español
 oclc: '608403150'
+publishers: []
+series: []
+source_url: http://www.bibliothek.uni-regensburg.de/ezeit/?2516386
+subjects:
+- Literary Criticism
+- Mexican Literature
+title: Luvina 55
+year: 2009
 zotero_key: YIIGJBYE
-cover: covers/yiigjbye.jpg
 ---
 

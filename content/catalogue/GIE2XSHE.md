@@ -1,25 +1,26 @@
 ---
-title: Bola de sebo
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Maupassant, Guy de
-publishers:
-- Grupo Editorial Tomo
-place: México, D.F.
-languages:
-- Español
+cover: covers/gie2xshe.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-666-646-8
 item_types:
 - book
-isbn: 978-970-666-646-8
+languages:
+- Español
+oclc: '52897778'
 pages: 223
+place: México, D.F.
+publishers:
+- Grupo Editorial Tomo
 series:
 - Colección Milenio
 subjects:
+- French Literature
 - Short Stories
-oclc: '52897778'
+title: Bola de sebo
+year: 2002
 zotero_key: GIE2XSHE
-cover: covers/gie2xshe.jpg
 ---
 

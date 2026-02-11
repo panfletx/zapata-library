@@ -1,29 +1,28 @@
 ---
-title: Teoría literaria
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Wellek, René.
 - Warren, Austin
-publishers:
-- Editorial Gredos
-place: Madrid
-languages:
-- Español
+cover: covers/k24sznkt.jpg
+cover_note: '1975'
+date: '2024-09-01'
+decade: 1960s
+edition: 4. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2305908'
 pages: 430
-edition: 4. ed
+place: Madrid
+publishers:
+- Editorial Gredos
 series:
 - Biblioteca Románica Hispánica
 subjects:
-- Aesthetics
 - Literary Criticism
-- Philosophy
-oclc: '2305908'
-cover_note: '1975'
+- Literary History
+title: Teoría literaria
+year: 1969
 zotero_key: K24SZNKT
-cover: covers/k24sznkt.jpg
 ---
 

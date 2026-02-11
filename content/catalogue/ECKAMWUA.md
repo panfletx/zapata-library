@@ -1,25 +1,26 @@
 ---
-title: La muerte tiene permiso
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Valadés, Edmundo
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/eckamwua.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-16-0329-8
 item_types:
 - book
-isbn: 978-968-16-0329-8
+languages:
+- Español
+oclc: '42893836'
 pages: 134
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Colección Popular
 subjects:
+- Mexican Literature
 - Short Stories
-oclc: '42893836'
+title: La muerte tiene permiso
+year: 1995
 zotero_key: ECKAMWUA
-cover: covers/eckamwua.jpg
 ---
 

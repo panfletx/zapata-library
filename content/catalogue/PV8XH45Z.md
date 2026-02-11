@@ -1,28 +1,26 @@
 ---
-title: Autor anónimo
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Galván, Felipe
-publishers:
-- Tablado IberoAmericano
-place: México
-languages:
-- Español
+cover: covers/pv8xh45z.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2007'
+isbn: 978-970-92237-7-4
 item_types:
 - book
-isbn: 978-970-92237-7-4
+languages:
+- Español
+oclc: '530255580'
 pages: 100
+place: México
+publishers:
+- Tablado IberoAmericano
 series: []
 subjects:
 - Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-oclc: '530255580'
-exlibris: '2007'
+title: Autor anónimo
+year: 2006
 zotero_key: PV8XH45Z
-cover: covers/pv8xh45z.jpg
 ---
 

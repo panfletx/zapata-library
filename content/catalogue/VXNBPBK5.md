@@ -1,18 +1,19 @@
 ---
-title: Mis crímenes
-date: '2024-09-01'
 authors:
 - Amor
-publishers: []
-place: Mexico
-languages:
-- Español
+cover: covers/vxnbpbk5.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages:
+- Español
+place: Mexico
+publishers: []
 series: []
 subjects:
-- Fiction
+- Mexican Literature
+- Short Stories
+title: Mis crímenes
 zotero_key: VXNBPBK5
-cover: covers/vxnbpbk5.jpg
 ---
 

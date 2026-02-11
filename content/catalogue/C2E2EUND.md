@@ -1,20 +1,21 @@
 ---
-title: Método de español cuauhnahuac
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Camacho, José D.
-publishers:
-- Publicaciones Cuauhnahuac
-place: Cuernavaca, Mexico
-languages: []
+cover: covers/c2e2eund.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+place: Cuernavaca, Mexico
+publishers:
+- Publicaciones Cuauhnahuac
 series: []
 subjects:
-- Fiction
+- Education
+- Grammar & Linguistics
+title: Método de español cuauhnahuac
+year: 1990
 zotero_key: C2E2EUND
-cover: covers/c2e2eund.jpg
 ---
 

@@ -1,15 +1,16 @@
 ---
-title: Catalogue Gay Sunshine Press
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/l5zncyqp.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Bibliography
+- Gay Literature
+title: Catalogue Gay Sunshine Press
 zotero_key: L5ZNCYQP
-cover: covers/l5zncyqp.jpg
 ---
 

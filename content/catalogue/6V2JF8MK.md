@@ -1,25 +1,27 @@
 ---
-title: La comparsa
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Galindo, Sergio
-publishers:
-- J. Mortiz
-place: México
-languages:
-- English
+cover: covers/6v2jf8mk.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[2. ed.]'
 item_types:
 - book
+languages:
+- English
+oclc: '1446977'
 pages: 142
-edition: '[2. ed.]'
+place: México
+publishers:
+- J. Mortiz
 series:
 - Serie del volador
 subjects:
 - Fiction
-oclc: '1446977'
+- Mexican Literature
+- Mexico
+title: La comparsa
+year: 1973
 zotero_key: 6V2JF8MK
-cover: covers/6v2jf8mk.jpg
 ---
 

@@ -1,25 +1,26 @@
 ---
-title: Grandes cuentistas
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Torri, Julio
-publishers:
-- W.M. Jackson, Inc.
-place: Mexico
-languages:
-- English
+cover: covers/cje4v5f6.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 4a ed
 item_types:
 - book
+languages:
+- English
+oclc: '731468086'
 pages: 55
-edition: 4a ed
+place: Mexico
+publishers:
+- W.M. Jackson, Inc.
 series:
 - Los Clasicos
 subjects:
+- Mexican Literature
 - Short Stories
-oclc: '731468086'
+title: Grandes cuentistas
+year: 1972
 zotero_key: CJE4V5F6
-cover: covers/cje4v5f6.jpg
 ---
 

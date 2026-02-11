@@ -1,27 +1,26 @@
 ---
-title: Cartas de África
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Dinesen, Isak
 - Lasson, Frans
-publishers:
-- Alfaguara
-place: Madrid
-languages:
-- Español
+cover: covers/kmplxr3n.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-204-2799-7
 item_types:
 - book
-isbn: 978-84-204-2799-7
+languages:
+- Español
+oclc: '701806582'
 pages: 444
+place: Madrid
+publishers:
+- Alfaguara
 series: []
 subjects:
-- Correspondence
-- English Literature
-- Literary Criticism
-oclc: '701806582'
+- Autobiography & Memoir
+- Travel Writing
+title: Cartas de África
+year: 2001
 zotero_key: KMPLXR3N
-cover: covers/kmplxr3n.jpg
 ---
 

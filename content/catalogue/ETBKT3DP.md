@@ -1,25 +1,26 @@
 ---
-title: Poblado de pequeñas bestias
-date: '2024-09-01'
-year: 1958
-decade: 1950s
 authors:
 - Melo, Gastón
-publishers:
-- Librería de M. Porrua
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/etbkt3dp.jpg
+date: '2024-09-01'
+decade: 1950s
+exlibris: dedicaotrias de Melo 1993
 item_types:
 - book
+languages:
+- Español
+oclc: '16919603'
 pages: 11
+place: Mexico, D.F.
+publishers:
+- Librería de M. Porrua
 series:
 - Cuadernos del unicornio
 subjects:
-- Fiction
-oclc: '16919603'
-exlibris: dedicaotrias de Melo 1993
+- Mexican Literature
+- Poetry
+title: Poblado de pequeñas bestias
+year: 1958
 zotero_key: ETBKT3DP
-cover: covers/etbkt3dp.jpg
 ---
 

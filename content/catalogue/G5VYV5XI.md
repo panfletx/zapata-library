@@ -1,30 +1,28 @@
 ---
-title: Dos horas de sol
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Agustín, José.
-publishers:
-- Seix Barral
-place: México, D.F.
-languages:
-- Español
+cover: covers/g5vyv5xi.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-6005-89-9
 item_types:
 - book
-isbn: 978-968-6005-89-9
+languages:
+- Español
+oclc: '32196254'
 pages: 213
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve (Mexico City, Mexico)
 subjects:
 - Fiction
-- Journalism
-- Mexico
-- Nature & Environment
-- Short Stories
-oclc: '32196254'
+- Mexican Literature
+- Mexico City
+title: Dos horas de sol
+year: 1994
 zotero_key: G5VYV5XI
-cover: covers/g5vyv5xi.jpg
 ---
 

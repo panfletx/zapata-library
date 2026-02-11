@@ -1,18 +1,18 @@
 ---
-title: Luis Zapata y la muerte del respeto
-date: '2024-09-01'
 authors:
 - Juan, Guillermo
-publishers: []
-languages: []
+cover: covers/z8fj4gss.jpg
+date: '2024-09-01'
 item_types:
 - magazineArticle
+languages: []
+publishers: []
 series: []
 subjects:
-- Gay Literature
 - Literary Criticism
 - Luis Zapata
+- Mexican Literature
+title: Luis Zapata y la muerte del respeto
 zotero_key: Z8FJ4GSS
-cover: covers/z8fj4gss.jpg
 ---
 

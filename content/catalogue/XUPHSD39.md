@@ -1,18 +1,20 @@
 ---
-title: Terribles
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Zapata, Luis
-publishers: []
-languages: []
+cover: covers/xuphsd39.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - magazineArticle
+languages: []
+publishers: []
 series: []
 subjects:
+- Fiction
+- Luis Zapata
 - Mexican Literature
+title: Terribles
+year: 1995
 zotero_key: XUPHSD39
-cover: covers/xuphsd39.jpg
 ---
 

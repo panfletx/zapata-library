@@ -1,18 +1,19 @@
 ---
-title: 'Revista de humanidades: Tecnológico de Monterrey'
-date: '2024-09-01'
 authors: []
-publishers: []
-languages:
-- English
+cover: covers/vws5ztfq.jpg
+date: '2024-09-01'
 item_types:
 - book
-source_url: https://www.worldcat.org/title/47686585
+languages:
+- English
+publishers: []
 series: []
+source_url: https://www.worldcat.org/title/47686585
 subjects:
-- Fiction
+- Education
+- Literary Criticism
+title: 'Revista de humanidades: Tecnológico de Monterrey'
 zotero_key: VWS5ZTFQ
-cover: covers/vws5ztfq.jpg
 ---
 
 27-28

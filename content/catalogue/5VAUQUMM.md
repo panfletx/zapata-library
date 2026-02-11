@@ -1,28 +1,27 @@
 ---
-title: Vuelo de tierra
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - López Moreno, Roberto
-publishers:
-- Consejo Estatal para las Culturas y las Artes de Chiapas
-place: San Roque, Tuxtla Gutiérrez, Chiapas
-languages:
-- Español
+cover: covers/5vauqumm.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-697-232-3
 item_types:
 - book
-isbn: 978-970-697-232-3
+languages:
+- Español
+oclc: '430736779'
 pages: 317
+place: San Roque, Tuxtla Gutiérrez, Chiapas
+publishers:
+- Consejo Estatal para las Culturas y las Artes de Chiapas
 series:
 - Colección Hechos en palabras
 subjects:
-- American Literature
-- Literary Criticism
-- Modern History
-- United States
-oclc: '430736779'
+- Chiapas
+- Mexican Literature
+- Poetry
+title: Vuelo de tierra
+year: 2008
 zotero_key: 5VAUQUMM
-cover: covers/5vauqumm.jpg
 ---
 

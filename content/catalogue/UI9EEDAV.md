@@ -1,27 +1,27 @@
 ---
-title: Agosto
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Fonseca, Rubem
-publishers:
-- Aguilar, León y Cal Editores
-place: México, D.F.
-languages:
-- Español
+cover: covers/ui9eedav.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
-source_url: https://archive.org/details/agosto00fons
+languages:
+- Español
+oclc: '1024168808'
 pages: 380
+place: México, D.F.
+publishers:
+- Aguilar, León y Cal Editores
 series:
 - Cal y arena
+source_url: https://archive.org/details/agosto00fons
 subjects:
-- Fiction
-- Historical Fiction
-- Modern History
-oclc: '1024168808'
+- Brazilian Literature
+- Novel
+- Rio de Janeiro
+title: Agosto
+year: 1993
 zotero_key: UI9EEDAV
-cover: covers/ui9eedav.jpg
 ---
 

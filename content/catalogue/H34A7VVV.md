@@ -1,26 +1,27 @@
 ---
-title: Le Français et la vie. 2
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Mauger, G.
 - Bruézière, Maurice
 - Geffroy, René.
-publishers:
-- Librairie Hachette
-place: Paris
-languages:
-- Français
+cover: covers/h34a7vvv.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '216561351'
 pages: 253
+place: Paris
+publishers:
+- Librairie Hachette
 series: []
 subjects:
 - Education
+- French Literature
 - Grammar & Linguistics
-oclc: '216561351'
+title: Le Français et la vie. 2
+year: 1972
 zotero_key: H34A7VVV
-cover: covers/h34a7vvv.jpg
 ---
 

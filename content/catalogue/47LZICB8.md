@@ -1,25 +1,26 @@
 ---
-title: La mortaja
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Delibes, Miguel
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/47lzicb8.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1994'
+isbn: 978-968-39-1111-7
 item_types:
 - book
-isbn: 978-968-39-1111-7
+languages:
+- Español
+oclc: '651521622'
 pages: 62
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
 - Fiction
-oclc: '651521622'
-exlibris: '1994'
+- Spanish Literature
+title: La mortaja
+year: 1994
 zotero_key: 47LZICB8
-cover: covers/47lzicb8.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: Breve antologia
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Garibay, Ricardo
-publishers:
-- '[Asociación Nacional del Libro] : Libro osequiado por Librería Madero'
-place: México, D.F.
-languages:
-- Español
+cover: covers/gagjlmhq.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-968-6656-20-6
 item_types:
 - book
-isbn: 978-968-6656-20-6
+languages:
+- Español
+oclc: '44575779'
 pages: 154
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- '[Asociación Nacional del Libro] : Libro osequiado por Librería Madero'
 series:
 - Día Nacional del Libro (Series)
 subjects:
 - Anthology
+- Mexican Literature
 - Short Stories
-oclc: '44575779'
+title: Breve antologia
+year: 1999
 zotero_key: GAGJLMHQ
-cover: covers/gagjlmhq.jpg
 ---
 

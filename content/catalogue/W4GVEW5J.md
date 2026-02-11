@@ -1,31 +1,27 @@
 ---
-title: 'Crónica de los prodigios: la naturaleza'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Garrido, Felipe
-publishers:
-- Asociación Nacional de Libreros
-place: México, D.F.
-languages:
-- Español
+cover: covers/w4gvew5j.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-968-6656-09-1
 item_types:
 - book
-isbn: 978-968-6656-09-1
+languages:
+- Español
+oclc: '30546042'
 pages: 111
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Asociación Nacional de Libreros
 series: []
 subjects:
-- Chronicle
-- Colonialism & Postcolonialism
-- Modern History
+- Essay
+- Mexican Literature
 - Nature & Environment
-- Science
-- Travel Writing
-- United States
-oclc: '30546042'
+title: 'Crónica de los prodigios: la naturaleza'
+year: 1990
 zotero_key: W4GVEW5J
-cover: covers/w4gvew5j.jpg
 ---
 

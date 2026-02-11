@@ -1,26 +1,28 @@
 ---
-title: Antología poética
-date: '2024-09-01'
-year: 1956
-decade: 1950s
 authors:
 - Amor, Guadalupe
-publishers:
-- Espasa-Calpe Argentina
-place: Buenos Aires
-languages:
-- Español
+cover: covers/2yfax4ye.jpg
+date: '2024-09-01'
+decade: 1950s
+edition: 1. ed
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Español
+oclc: '187787'
 pages: 141
-edition: 1. ed
+place: Buenos Aires
+publishers:
+- Espasa-Calpe Argentina
 series:
 - Colección Austral
 subjects:
+- Anthology
+- Mexican Literature
 - Poetry
-oclc: '187787'
-exlibris: '1978'
+title: Antología poética
+year: 1956
 zotero_key: 2YFAX4YE
-cover: covers/2yfax4ye.jpg
 ---
 

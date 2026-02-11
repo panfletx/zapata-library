@@ -1,28 +1,30 @@
 ---
-title: La estepa y otros relatos
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors:
 - Chekhov, Anton Pavlovich
 - Pitol, Sergio
-publishers:
-- ': Universidad Veracruzana'
-place: Xalapa, Veracruz, México
-languages:
-- Español
+cover: covers/lju8pq68.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+exlibris: '2014'
+isbn: 978-607-7605-53-9
 item_types:
 - book
-isbn: 978-607-7605-53-9
+languages:
+- Español
+oclc: '502259972'
 pages: 454
-edition: 1a ed
+place: Xalapa, Veracruz, México
+publishers:
+- ': Universidad Veracruzana'
 series:
 - Biblioteca del universitario
 subjects:
+- Russian Literature
 - Short Stories
-oclc: '502259972'
-exlibris: '2014'
+- Translation Studies
+title: La estepa y otros relatos
+year: 2009
 zotero_key: LJU8PQ68
-cover: covers/lju8pq68.jpg
 ---
 

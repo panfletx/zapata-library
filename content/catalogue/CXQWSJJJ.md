@@ -1,20 +1,21 @@
 ---
-title: Lejos de Veracruz
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Vila-Matas, Enrique
-publishers:
-- Random House Mondadori
-languages:
-- Español
+cover: covers/cxqwsjjj.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages:
+- Español
+publishers:
+- Random House Mondadori
 series: []
 subjects:
-- Fiction
+- Novel
+- Spanish Literature
+title: Lejos de Veracruz
+year: 2012
 zotero_key: CXQWSJJJ
-cover: covers/cxqwsjjj.jpg
 ---
 

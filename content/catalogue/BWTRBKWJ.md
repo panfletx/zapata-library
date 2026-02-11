@@ -1,17 +1,18 @@
 ---
-title: Revista, Quimera 24
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/bwtrbkwj.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+- Spanish Literature
+title: Revista, Quimera 24
+year: 1982
 zotero_key: BWTRBKWJ
-cover: covers/bwtrbkwj.jpg
 ---
 

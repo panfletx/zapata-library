@@ -1,27 +1,28 @@
 ---
-title: Diario íntimo
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Unamuno, Miguel de
-publishers:
-- Alianza
-place: Madrid
-languages:
-- Español
+cover: covers/vninb76z.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 7a ed
+exlibris: '1992'
+isbn: 978-84-206-1283-6
 item_types:
 - book
-isbn: 978-84-206-1283-6
+languages:
+- Español
+oclc: '805587414'
 pages: 215
-edition: 7a ed
+place: Madrid
+publishers:
+- Alianza
 series:
 - Libro de bolsillo (Alianza)
 subjects:
-- Fiction
-oclc: '805587414'
-exlibris: '1992'
+- Diary & Letters
+- Spanish Literature
+title: Diario íntimo
+year: 1983
 zotero_key: VNINB76Z
-cover: covers/vninb76z.jpg
 ---
 

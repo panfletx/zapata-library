@@ -1,30 +1,27 @@
 ---
-title: Baron Corvo, l'exilé de Venise
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Bulteau, Michel
-publishers:
-- Editions du Rocher
-place: Monaco
-languages:
-- Français
+cover: covers/he73mahb.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1992'
+isbn: 978-2-268-00930-8
 item_types:
 - book
-isbn: 978-2-268-00930-8
+languages:
+- Français
+oclc: '22494314'
 pages: 151
+place: Monaco
+publishers:
+- Editions du Rocher
 series:
 - Infréquentables
 subjects:
 - Biography
 - English Literature
-- Italy
-- Literary Criticism
-- Modern History
-oclc: '22494314'
-exlibris: '1992'
+title: Baron Corvo, l'exilé de Venise
+year: 1990
 zotero_key: HE73MAHB
-cover: covers/he73mahb.jpg
 ---
 

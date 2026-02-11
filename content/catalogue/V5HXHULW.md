@@ -1,25 +1,27 @@
 ---
-title: La psychanalyse du feu
-date: '2024-09-01'
-year: 1949
-decade: 1940s
 authors:
 - Bachelard, Gaston
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Unknown
+cover: covers/v5hxhulw.jpg
+date: '2024-09-01'
+decade: 1940s
+edition: 12. éd
+exlibris: '1977'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '971173419'
 pages: 221
-edition: 12. éd
+place: Paris
+publishers:
+- Gallimard
 series: []
 subjects:
-- Fiction
-oclc: '971173419'
-exlibris: '1977'
+- Essay
+- French Literature
+- Psychoanalysis
+title: La psychanalyse du feu
+year: 1949
 zotero_key: V5HXHULW
-cover: covers/v5hxhulw.jpg
 ---
 

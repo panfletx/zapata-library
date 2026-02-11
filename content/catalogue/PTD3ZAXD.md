@@ -1,30 +1,30 @@
 ---
-title: El diario de una marquesa
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Blanco, José Joaquín
 - Burr, Claudia
 - Morales Moreno, Luis Gerardo
 - Calderón de la Barca
-publishers:
-- Scholastic Inc.
-place: New York, NY
-languages:
-- Español
+cover: covers/ptd3zaxd.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-1-338-54895-2
 item_types:
 - book
-isbn: 978-1-338-54895-2
+languages:
+- Español
+oclc: '1264681577'
 pages: 31
+place: New York, NY
+publishers:
+- Scholastic Inc.
 series: []
 subjects:
-- Children's Literature
-- Mexico
-- Modern History
-oclc: '1264681577'
+- Diary & Letters
+- Historical Fiction
+- Spanish Literature
+title: El diario de una marquesa
+year: 2004
 zotero_key: PTD3ZAXD
-cover: covers/ptd3zaxd.jpg
 ---
 
 Story of the overland journey made by Madame Calderón de la Barca, wife of the first Spanish ambassador to Mexico, from Veracruz to Mexico City in the 19th century

@@ -1,28 +1,27 @@
 ---
-title: El arte de la fuga
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Pitol, Sergio
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/gkklpd8j.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-411-391-6
 item_types:
 - book
-isbn: 978-968-411-391-6
+languages:
+- Español
+oclc: '36214915'
 pages: 317
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
-- Essay
-- Literary Criticism
-- Memory
-oclc: '36214915'
+- Mexican Literature
+- Novel
+title: El arte de la fuga
+year: 1996
 zotero_key: GKKLPD8J
-cover: covers/gkklpd8j.jpg
 ---
 

@@ -1,24 +1,25 @@
 ---
-title: Constitución política de los Estados Unidos Mexicanos
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors: []
-publishers:
-- McGraw-Hill
-place: México, D.F.
-languages:
-- Español
+cover: covers/rtcw8xnf.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 9a ed., actualizada
+isbn: 978-970-10-3878-9
 item_types:
 - book
-isbn: 978-970-10-3878-9
+languages:
+- Español
+oclc: '54856245'
 pages: 204
-edition: 9a ed., actualizada
+place: México, D.F.
+publishers:
+- McGraw-Hill
 series: []
 subjects:
+- Law
 - Mexico
-oclc: '54856245'
+title: Constitución política de los Estados Unidos Mexicanos
+year: 2003
 zotero_key: RTCW8XNF
-cover: covers/rtcw8xnf.jpg
 ---
 

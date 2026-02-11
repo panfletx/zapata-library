@@ -1,28 +1,28 @@
 ---
-title: Pubis angelical
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Puig, Manuel
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/rzu2s3kg.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
+isbn: 978-84-322-1379-3
 item_types:
 - book
-isbn: 978-84-322-1379-3
+languages:
+- Español
+oclc: '5433462'
 pages: 270
-edition: 1. ed
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Nueva narrativa hispánica
 subjects:
-- Argentina
-- Fiction
-- Grammar & Linguistics
-oclc: '5433462'
+- Latin American Literature
+- Novel
+- Sexuality & Eroticism
+title: Pubis angelical
+year: 1979
 zotero_key: RZU2S3KG
-cover: covers/rzu2s3kg.jpg
 ---
 

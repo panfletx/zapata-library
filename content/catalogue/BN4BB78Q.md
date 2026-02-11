@@ -1,28 +1,28 @@
 ---
-title: 'Der Himmel ueber Berlin: ein Filmbuch'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Wenders, Wim
 - Handke, Peter
-publishers:
-- Suhrkamp
-place: Frankfurt am Main
-languages:
-- Deutsch
+cover: covers/bn4bb78q.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 9. Aufl
+isbn: 978-3-518-02406-5
 item_types:
 - book
-isbn: 978-3-518-02406-5
+languages:
+- Deutsch
+oclc: '249811523'
 pages: 170
-edition: 9. Aufl
+place: Frankfurt am Main
+publishers:
+- Suhrkamp
 series: []
 subjects:
 - Berlin
 - Film & Cinema
-- Screenplay
-oclc: '249811523'
+- German Literature
+title: 'Der Himmel ueber Berlin: ein Filmbuch'
+year: 2002
 zotero_key: BN4BB78Q
-cover: covers/bn4bb78q.jpg
 ---
 

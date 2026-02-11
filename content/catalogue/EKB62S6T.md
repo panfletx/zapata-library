@@ -1,28 +1,27 @@
 ---
-title: 'Larga cabalgata / desde las montanas de Libano hasta las playas Puerto Vallarta: novela'
-date: '2024-09-01'
-year: 2015
-decade: 2010s
 authors:
 - Curiel, Octavio
-publishers:
-- Ediciones Sin Nombre
-place: México
-languages:
-- Español
+cover: covers/ekb62s6t.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
 item_types:
 - book
+languages:
+- Español
+oclc: '1333975648'
 pages: 253
-edition: Primera edición
+place: México
+publishers:
+- Ediciones Sin Nombre
 series: []
 subjects:
-- Fiction
-- Mexico
-- Migration & Exile
-- Modern History
-oclc: '1333975648'
-cover_note: dedicatoria del autor
+- Mexican Literature
+- Novel
+- Travel Writing
+title: 'Larga cabalgata / desde las montanas de Libano hasta las playas Puerto Vallarta: novela'
+year: 2015
 zotero_key: EKB62S6T
-cover: covers/ekb62s6t.jpg
 ---
 

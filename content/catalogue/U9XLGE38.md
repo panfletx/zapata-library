@@ -1,25 +1,27 @@
 ---
-title: Obra abierta
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Eco, Umberto
-publishers:
-- Editorial Artemisa
-place: D.F. México
-languages:
-- Unknown
+cover: covers/u9xlge38.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-22-0189-9
 item_types:
 - book
-isbn: 978-968-22-0189-9
+languages:
+- Unknown
+oclc: '1097209441'
 pages: 312
+place: D.F. México
+publishers:
+- Editorial Artemisa
 series:
 - Obras Maestras Contemporáneo.
 subjects:
-- Fiction
-oclc: '1097209441'
+- Aesthetics
+- Literary Criticism
+- Postmodernism
+title: Obra abierta
+year: 1985
 zotero_key: U9XLGE38
-cover: covers/u9xlge38.jpg
 ---
 

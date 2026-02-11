@@ -1,17 +1,18 @@
 ---
-title: Diccionario Larousse Concise Español-Inglés
-date: '2024-09-01'
 authors: []
-publishers:
-- Larousse
-place: Mexico
-languages: []
+cover: covers/b6ctwukf.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+place: Mexico
+publishers:
+- Larousse
 series: []
 subjects:
-- Fiction
+- Dictionary
+- Grammar & Linguistics
+title: Diccionario Larousse Concise Español-Inglés
 zotero_key: B6CTWUKF
-cover: covers/b6ctwukf.jpg
 ---
 

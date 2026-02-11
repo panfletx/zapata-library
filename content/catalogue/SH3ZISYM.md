@@ -1,24 +1,25 @@
 ---
-title: Metamorfosis
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Gamboa, Federico
-publishers:
-- SEP/PROMEXA
-place: México
-languages:
-- Español
+cover: covers/sh3zisym.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-804-460-5
 item_types:
 - book
-isbn: 978-968-804-460-5
+languages:
+- Español
+oclc: '12593407'
 pages: 135
+place: México
+publishers:
+- SEP/PROMEXA
 series: []
 subjects:
-- Fiction
-oclc: '12593407'
+- Mexican Literature
+- Novel
+title: Metamorfosis
+year: 1981
 zotero_key: SH3ZISYM
-cover: covers/sh3zisym.jpg
 ---
 

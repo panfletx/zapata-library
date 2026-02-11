@@ -1,18 +1,20 @@
 ---
-title: El plan de Ayala
-date: '2024-09-01'
 authors:
 - López, Valentin
-publishers:
-- Ediciones del Estado de Morelos
-place: Mexico
-languages: []
+cover: covers/dwm6fven.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+place: Mexico
+publishers:
+- Ediciones del Estado de Morelos
 series: []
 subjects:
-- Fiction
+- Historical Fiction
+- Mexican Literature
+- Mexican Revolution
+title: El plan de Ayala
 zotero_key: DWM6FVEN
-cover: covers/dwm6fven.jpg
 ---
 

@@ -1,29 +1,26 @@
 ---
-title: La muela del juicio
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Ramírez, Luis Enrique
-publishers:
-- Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de Comunicación Social
-place: San Angel, D.F. [México]
-languages:
-- Español
+cover: covers/qanguy79.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-6599-9
 item_types:
 - book
-isbn: 978-968-29-6599-9
+languages:
+- Español
+oclc: '34350829'
 pages: 236
-edition: 1. ed
+place: San Angel, D.F. [México]
+publishers:
+- Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de Comunicación Social
 series:
 - Periodismo cultural
 subjects:
-- Interview
-- Mexico
-- Modern History
-- Visual Art
-oclc: '34350829'
+- Satire & Humor
+title: La muela del juicio
+year: 1994
 zotero_key: QANGUY79
-cover: covers/qanguy79.jpg
 ---
 

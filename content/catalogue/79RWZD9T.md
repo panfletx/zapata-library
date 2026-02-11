@@ -1,25 +1,25 @@
 ---
-title: 'Antonio Ruiz: el corcito, 1895-1964'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Ruiz, Antonio
-publishers:
-- Dimart
-place: México
-languages:
-- Español
+cover: covers/79rwzd9t.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '37688642'
 pages: 119
+place: México
+publishers:
+- Dimart
 series: []
 subjects:
-- Mexico
-- Surrealism
-- Visual Art
-oclc: '37688642'
+- Biography
+- Mexico City
+- Painting
+title: 'Antonio Ruiz: el corcito, 1895-1964'
+year: 1987
 zotero_key: 79RWZD9T
-cover: covers/79rwzd9t.jpg
 ---
 

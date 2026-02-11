@@ -1,26 +1,27 @@
 ---
-title: Les Bijoux indiscrets
-date: '2024-09-01'
-year: 1968
-decade: 1960s
 authors:
 - Diderot, Denis
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/de7de6be.jpg
+date: '2024-09-01'
+decade: 1960s
+isbn: 978-2-08-070192-3
 item_types:
 - book
-isbn: 978-2-08-070192-3
+languages:
+- Français
+oclc: '2211576'
 pages: 316
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier-Flammarion texte intégral. no. 192
 subjects:
+- Erotic Literature
 - French Literature
-- Literary Criticism
-oclc: '2211576'
+- Novel
+title: Les Bijoux indiscrets
+year: 1968
 zotero_key: DE7DE6BE
-cover: covers/de7de6be.jpg
 ---
 

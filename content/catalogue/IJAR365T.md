@@ -1,20 +1,22 @@
 ---
-title: Les Nourritures terrestres ; suivi de Les Nouvelles nourritures
-date: '2024-09-01'
 authors:
 - Gide André
-publishers:
-- Gallimard
-languages:
-- Français
+cover: covers/ijar365t.jpg
+date: '2024-09-01'
+exlibris: '1977'
 item_types:
 - book
+languages:
+- Français
+oclc: '1009595390'
+publishers:
+- Gallimard
 series: []
 subjects:
+- Essay
 - French Literature
-oclc: '1009595390'
-exlibris: '1977'
+- Love & Desire
+title: Les Nourritures terrestres ; suivi de Les Nouvelles nourritures
 zotero_key: IJAR365T
-cover: covers/ijar365t.jpg
 ---
 

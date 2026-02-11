@@ -1,24 +1,25 @@
 ---
-title: Storia della letteratura italiana
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Getto, Giovanni
-publishers:
-- Rizzoli
-place: Milano
-languages:
-- Italiano
+cover: covers/ydsizyh9.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 4. ed
 item_types:
 - book
+languages:
+- Italiano
+oclc: '801005321'
 pages: 663
-edition: 4. ed
+place: Milano
+publishers:
+- Rizzoli
 series: []
 subjects:
 - Italian Literature
-oclc: '801005321'
+- Literary History
+title: Storia della letteratura italiana
+year: 1975
 zotero_key: YDSIZYH9
-cover: covers/ydsizyh9.jpg
 ---
 

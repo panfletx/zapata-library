@@ -1,29 +1,28 @@
 ---
-title: 'Buñuel: iconografía personal'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Paz, Octavio
-publishers:
-- Fondo de Cultura Económica ; Universidad de Guadalajara
-place: México, D.F., [Guadalajara]
-languages:
-- Español
+cover: covers/2n3wgzre.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a. ed
+isbn: 978-968-16-2942-7
 item_types:
 - book
-isbn: 978-968-16-2942-7
+languages:
+- Español
+oclc: '32468762'
 pages: 95
-edition: 1a. ed
+place: México, D.F., [Guadalajara]
+publishers:
+- Fondo de Cultura Económica ; Universidad de Guadalajara
 series:
 - Tezontle
 subjects:
-- Film & Cinema
+- Essay
 - Luis Buñuel
-- Spain
-- Visual Art
-oclc: '32468762'
+- Mexican Literature
+title: 'Buñuel: iconografía personal'
+year: 1988
 zotero_key: 2N3WGZRE
-cover: covers/2n3wgzre.jpg
 ---
 

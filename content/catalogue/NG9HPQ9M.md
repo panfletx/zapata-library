@@ -1,28 +1,26 @@
 ---
-title: Frêle bruit
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Leiris, Michel
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/ng9hpq9m.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '2841178'
 pages: 399
+place: Paris
+publishers:
+- Gallimard
 series:
 - His La règle du jeu
 subjects:
-- Biography
-- France
+- Essay
 - French Literature
-- Literary Criticism
-- Surrealism
-oclc: '2841178'
+- Paris
+title: Frêle bruit
+year: 1976
 zotero_key: NG9HPQ9M
-cover: covers/ng9hpq9m.jpg
 ---
 

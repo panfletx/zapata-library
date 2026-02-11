@@ -1,27 +1,28 @@
 ---
-title: Without feathers
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Allen, Woody
-publishers:
-- Warner Books
-place: New York
-languages:
-- English
+cover: covers/pfbtvkfq.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Warner books ed
+exlibris: '1980'
+isbn: 978-0-446-89035-9
 item_types:
 - book
-isbn: 978-0-446-89035-9
+languages:
+- English
+oclc: '7681144'
 pages: 221
-edition: Warner books ed
+place: New York
+publishers:
+- Warner Books
 series: []
 subjects:
+- American Literature
+- Essay
 - Satire & Humor
-- United States
-oclc: '7681144'
-exlibris: '1980'
+title: Without feathers
+year: 1975
 zotero_key: PFBTVKFQ
-cover: covers/pfbtvkfq.jpg
 ---
 

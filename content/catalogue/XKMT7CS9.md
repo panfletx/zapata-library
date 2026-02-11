@@ -1,27 +1,28 @@
 ---
-title: Lord Jim
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Conrad, Joseph
 - Franco, Javier
-publishers:
-- Unidad Editorial
-place: Madrid
-languages:
-- Español
+cover: covers/xkmt7cs9.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2002'
+isbn: 978-84-8130-122-9
 item_types:
 - book
-isbn: 978-84-8130-122-9
+languages:
+- Español
+oclc: '1041453693'
 pages: 350
+place: Madrid
+publishers:
+- Unidad Editorial
 series:
 - 'Millenium : las 100 joyas del milenio'
 subjects:
-- Fiction
-oclc: '1041453693'
-exlibris: '2002'
+- English Literature
+- Novel
+title: Lord Jim
+year: 1999
 zotero_key: XKMT7CS9
-cover: covers/xkmt7cs9.jpg
 ---
 

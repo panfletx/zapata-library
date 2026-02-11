@@ -1,27 +1,29 @@
 ---
-title: La reina baila hasta morir
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Gil, Eve
-publishers:
-- Ediciones Fósforo
-place: México, D.F.
-languages:
-- Español
+cover: covers/rn3b4ymi.jpg
+cover_note: dedicatoria de autora
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-95017-8-0
 item_types:
 - book
-isbn: 978-970-95017-8-0
+languages:
+- Español
+oclc: '404325145'
 pages: 113
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Fósforo
 series:
 - Narrativa (Ediciones Fósforo)
 subjects:
 - Fiction
-oclc: '404325145'
-cover_note: dedicatoria de autora
+- Mexican Literature
+- Mexico City
+title: La reina baila hasta morir
+year: 2008
 zotero_key: RN3B4YMI
-cover: covers/rn3b4ymi.jpg
 ---
 

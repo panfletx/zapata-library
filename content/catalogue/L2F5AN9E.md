@@ -1,27 +1,26 @@
 ---
-title: Del Vesubio al Etna
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Peyrefitte, Roger
-publishers:
-- Editorial Sudamericana
-place: Buenos Aires
-languages:
-- Español
+cover: covers/l2f5an9e.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '13023272'
 pages: 269
-edition: 2. ed
+place: Buenos Aires
+publishers:
+- Editorial Sudamericana
 series:
 - Colección Piragua
 subjects:
-- Italy
-- Modern History
+- French Literature
 - Travel Writing
-oclc: '13023272'
+title: Del Vesubio al Etna
+year: 1972
 zotero_key: L2F5AN9E
-cover: covers/l2f5an9e.jpg
 ---
 

@@ -1,26 +1,27 @@
 ---
-title: 'Historia sinóptica de México: de los olmecas a Salinas'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Pazos, Luis
-publishers:
-- Editorial Diana
-place: México
-languages:
-- Español
+cover: covers/t29wpclh.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-13-2560-2
 item_types:
 - book
-isbn: 978-968-13-2560-2
+languages:
+- Español
+oclc: '30085492'
 pages: 165
-edition: 1. ed
+place: México
+publishers:
+- Editorial Diana
 series: []
 subjects:
+- Contemporary History
+- Mexican Revolution
 - Mexico
-- Modern History
-oclc: '30085492'
+title: 'Historia sinóptica de México: de los olmecas a Salinas'
+year: 1993
 zotero_key: T29WPCLH
-cover: covers/t29wpclh.jpg
 ---
 

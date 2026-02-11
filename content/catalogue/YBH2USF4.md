@@ -1,24 +1,26 @@
 ---
-title: 'Romanciers au travail: Faulkner, Pasternak, Mauriac [etc.]'
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Major, Jean-René.
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/ybh2usf4.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '717431402'
 pages: 1
+place: Paris
+publishers:
+- Gallimard
 series:
 - Témoins
 subjects:
+- Essay
 - French Literature
-oclc: '717431402'
+- Literary Criticism
+title: 'Romanciers au travail: Faulkner, Pasternak, Mauriac [etc.]'
+year: 1967
 zotero_key: YBH2USF4
-cover: covers/ybh2usf4.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: Crónica de los prodigios más allá de lo humano
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Garrido, Felipe
-publishers:
-- Asociación Nacional de Libreros
-place: México
-languages:
-- Español
+cover: covers/sq78akee.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
 item_types:
 - book
-source_url: http://books.google.com/books?id=gsAuAAAAYAAJ
-pages: 127
-edition: 1a ed
-series: []
-subjects:
-- Mexico
-- Oral Tradition & Folklore
+languages:
+- Español
 oclc: '947718781'
+pages: 127
+place: México
+publishers:
+- Asociación Nacional de Libreros
+series: []
+source_url: http://books.google.com/books?id=gsAuAAAAYAAJ
+subjects:
+- Chronicle
+- Fiction
+- Mexican Literature
+title: Crónica de los prodigios más allá de lo humano
+year: 1992
 zotero_key: SQ78AKEE
-cover: covers/sq78akee.jpg
 ---
 
 Excerpts from the writings of explorers and folklorists

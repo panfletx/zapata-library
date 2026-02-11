@@ -1,26 +1,28 @@
 ---
-title: Señas de identidad
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Goytisolo, Juan
-publishers:
-- J. Mortiz
-place: Mexico
-languages:
-- Español
+cover: covers/nesx6bli.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[4. ed.]'
+exlibris: '1976'
 item_types:
 - book
+languages:
+- Español
+oclc: '1693076'
 pages: 422
-edition: '[4. ed.]'
+place: Mexico
+publishers:
+- J. Mortiz
 series:
 - Novelistas contemporáneos
 subjects:
-- Fiction
-oclc: '1693076'
-exlibris: '1976'
+- National Identity
+- Novel
+- Spanish Literature
+title: Señas de identidad
+year: 1975
 zotero_key: NESX6BLI
-cover: covers/nesx6bli.jpg
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: 'Les Diaboliques: les six premieres. Intro., bibliographie'
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Barbey d'Aurevilly, J.
-publishers:
-- Garnier
-place: Paris
-languages:
-- Français
+cover: covers/4fiygbpi.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '216302797'
+place: Paris
+publishers:
+- Garnier
 series:
 - Selecta
 subjects:
 - French Literature
-oclc: '216302797'
+- Horror & Gothic
+- Short Stories
+title: 'Les Diaboliques: les six premieres. Intro., bibliographie'
+year: 1963
 zotero_key: 4FIYGBPI
-cover: covers/4fiygbpi.jpg
 ---
 

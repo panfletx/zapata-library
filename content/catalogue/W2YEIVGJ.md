@@ -1,31 +1,29 @@
 ---
-title: 'México, país de ideas, país de novelas: una sociología de la literatura mexicana'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Sefchovich, Sara
-publishers:
-- Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/w2yeivgj.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+exlibris: '1990'
+isbn: 978-968-419-667-4
 item_types:
 - book
-isbn: 978-968-419-667-4
+languages:
+- Español
+oclc: '22452318'
 pages: 300
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Grijalbo
 series:
 - Colección Enlace
 subjects:
-- Fiction
 - Literary Criticism
+- Literary History
 - Mexican Literature
-- Mexico
-- Modern History
-oclc: '22452318'
-exlibris: '1990'
+title: 'México, país de ideas, país de novelas: una sociología de la literatura mexicana'
+year: 1987
 zotero_key: W2YEIVGJ
-cover: covers/w2yeivgj.jpg
 ---
 

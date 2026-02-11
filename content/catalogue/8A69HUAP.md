@@ -1,30 +1,29 @@
 ---
-title: El libro del té
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Okakura, Kakuzo
 - Barriobero y Herrán, Eduardo
-publishers:
-- Premià
-place: México
-languages:
-- Español
+cover: covers/8a69huap.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2a ed
+exlibris: '1993'
+isbn: 978-968-434-192-0
 item_types:
 - book
-isbn: 978-968-434-192-0
+languages:
+- Español
+oclc: '651538326'
 pages: 94
-edition: 2a ed
+place: México
+publishers:
+- Premià
 series: []
 subjects:
-- Biography
+- Essay
 - Food & Gastronomy
 - Japan
-- Modern History
-oclc: '651538326'
-exlibris: '1993'
+title: El libro del té
+year: 1989
 zotero_key: 8A69HUAP
-cover: covers/8a69huap.jpg
 ---
 

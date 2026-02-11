@@ -1,15 +1,15 @@
 ---
-title: Proceso 1979
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/wjn9mb4m.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Contemporary History
+title: Proceso 1979
 zotero_key: WJN9MB4M
-cover: covers/wjn9mb4m.jpg
 ---
 

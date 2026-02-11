@@ -1,26 +1,26 @@
 ---
-title: 'Los árabes: la epopeya del islam'
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Palm, Rolf
 - Ruggero, Liliana S. de
-publishers:
-- Javier Vergara
-place: Buenos Aires
-languages:
-- Español
+cover: covers/wgrlkc6x.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '1025963746'
 pages: 375
+place: Buenos Aires
+publishers:
+- Javier Vergara
 series:
 - Repertorio Español de Bibliografía Árabe e Islámica
 subjects:
 - Islam
-- Modern History
-oclc: '1025963746'
+- Middle East
+title: 'Los árabes: la epopeya del islam'
+year: 1980
 zotero_key: WGRLKC6X
-cover: covers/wgrlkc6x.jpg
 ---
 

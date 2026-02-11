@@ -1,24 +1,25 @@
 ---
-title: Cuaderno de iluminar ausencias
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Cortés Tapia, Oscar
 - Portillo, Jesús
-publishers:
-- Colectivo Artístico "El Erizo de Arquíloco"
-place: México
-languages:
-- Español
+cover: covers/4ddjfk4y.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages:
+- Español
+oclc: '893528703'
 pages: 31
+place: México
+publishers:
+- Colectivo Artístico "El Erizo de Arquíloco"
 series: []
 subjects:
-- Fiction
-oclc: '893528703'
+- Mexican Literature
+- Poetry
+title: Cuaderno de iluminar ausencias
+year: 1997
 zotero_key: 4DDJFK4Y
-cover: covers/4ddjfk4y.jpg
 ---
 

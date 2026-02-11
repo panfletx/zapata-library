@@ -1,25 +1,27 @@
 ---
-title: Poemas satiricos
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Quevedo, Francisco de
-publishers:
-- Ediciones 29
-place: Barcelona
-languages:
-- Español
+cover: covers/5btgnjxs.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7175-287-1
 item_types:
 - book
-isbn: 978-84-7175-287-1
+languages:
+- Español
+oclc: '51370681'
 pages: 143
+place: Barcelona
+publishers:
+- Ediciones 29
 series:
 - Colección Grandes autores (Caracas, Venezuela)
 subjects:
 - Poetry
-oclc: '51370681'
+- Satire & Humor
+- Spanish Literature
+title: Poemas satiricos
+year: 1989
 zotero_key: 5BTGNJXS
-cover: covers/5btgnjxs.jpg
 ---
 

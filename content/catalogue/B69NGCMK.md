@@ -1,27 +1,28 @@
 ---
-title: El otro mundo
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Cyrano de Bergerac
 - Cheymol, Marc
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/b69ngcmk.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-968-29-4042-2
 item_types:
 - book
-isbn: 978-968-29-4042-2
+languages:
+- Español
+oclc: '55300303'
 pages: 229
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Cien del mundo
 subjects:
 - Fiction
-oclc: '55300303'
+- French Literature
+title: El otro mundo
+year: 1992
 zotero_key: B69NGCMK
-cover: covers/b69ngcmk.jpg
 ---
 

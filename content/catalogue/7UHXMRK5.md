@@ -1,18 +1,18 @@
 ---
-title: Descubrir el arte
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/7uhxmrk5.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - magazineArticle
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Visual Art
+title: Descubrir el arte
+year: 1999
 zotero_key: 7UHXMRK5
-cover: covers/7uhxmrk5.jpg
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: Relevos australianos
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Mendoza, Leo Eduardo
-publishers:
-- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes : Editorial J. Mortiz'
-place: México
-languages:
-- Español
+cover: covers/xxt2lbcn.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-27-0521-2
 item_types:
 - book
-isbn: 978-968-27-0521-2
+languages:
+- Español
+oclc: '28333600'
 pages: 100
-edition: 1. ed
+place: México
+publishers:
+- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes : Editorial J. Mortiz'
 series:
 - Premios bellas artes de literatura
 subjects:
-- Fiction
-oclc: '28333600'
+- Mexican Literature
+- Mexico
+- Travel Writing
+title: Relevos australianos
+year: 1992
 zotero_key: XXT2LBCN
-cover: covers/xxt2lbcn.jpg
 ---
 

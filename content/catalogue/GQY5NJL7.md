@@ -1,24 +1,26 @@
 ---
-title: Y ahora, querida...
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Chase, James Hadley
-publishers:
-- Emecé Ed
-place: Buenos Aires
-languages:
-- Español
+cover: covers/gqy5njl7.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
-source_url: http://www.gbv.de/dms/spk/iai/cov/725330678.jpg
-pages: 172
-series: []
-subjects:
-- Fiction
+languages:
+- Español
 oclc: '930824701'
+pages: 172
+place: Buenos Aires
+publishers:
+- Emecé Ed
+series: []
+source_url: http://www.gbv.de/dms/spk/iai/cov/725330678.jpg
+subjects:
+- American Literature
+- Detective & Mystery
+- Fiction
+title: Y ahora, querida...
+year: 1970
 zotero_key: GQY5NJL7
-cover: covers/gqy5njl7.jpg
 ---
 

@@ -1,29 +1,29 @@
 ---
-title: Camas
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Marx, Groucho
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/tu3awx39.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed. en Fábula
+exlibris: '1998'
+isbn: 978-84-8310-554-2
 item_types:
 - book
-isbn: 978-84-8310-554-2
+languages:
+- Español
+oclc: '431867355'
 pages: 94
-edition: 1a. ed. en Fábula
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Fábula (Tusquets Editores)
 subjects:
 - American Literature
-- Literary Criticism
+- Essay
 - Satire & Humor
-oclc: '431867355'
-exlibris: '1998'
+title: Camas
+year: 1997
 zotero_key: TU3AWX39
-cover: covers/tu3awx39.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: Obras completas de Alfonso Reyes. XII, Grata compañía ; Pasado inmediato ; Letras de la Nueva España
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Reyes, Alfonso
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/xxr8izdk.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1 ̇ed., 1 ̇reimp
+isbn: 978-968-16-1445-4
 item_types:
 - book
-isbn: 978-968-16-1445-4
+languages:
+- Español
+oclc: '642197862'
 pages: 432
-edition: 1 ̇ed., 1 ̇reimp
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras Mexicanas
 subjects:
-- Fiction
+- Alfonso Reyes
+- Essay
 - Mexican Literature
-oclc: '642197862'
+title: Obras completas de Alfonso Reyes. XII, Grata compañía ; Pasado inmediato ; Letras de la Nueva España
+year: 1983
 zotero_key: XXR8IZDK
-cover: covers/xxr8izdk.jpg
 ---
 

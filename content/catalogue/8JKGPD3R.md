@@ -1,24 +1,26 @@
 ---
-title: The bell jar
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Plath, Sylvia
-publishers:
-- Bantam Book
-place: New York
-languages:
-- English
+cover: covers/8jkgpd3r.jpg
+cover_note: dedicatoria Carol
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- English
+oclc: '247817088'
 pages: 216
+place: New York
+publishers:
+- Bantam Book
 series: []
 subjects:
-- Fiction
-oclc: '247817088'
-cover_note: dedicatoria Carol
+- American Literature
+- Madness & Mental Illness
+- Novel
+title: The bell jar
+year: 1972
 zotero_key: 8JKGPD3R
-cover: covers/8jkgpd3r.jpg
 ---
 

@@ -1,33 +1,29 @@
 ---
-title: La novela mexicana entre el petróleo, la homosexualidad y la política
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Schneider, Luis Mario
-publishers:
-- Nueva Imagen
-place: México, D.F.
-languages:
-- Español
+cover: covers/esuumsi6.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+exlibris: '1997'
+isbn: 978-968-39-1619-8
 item_types:
 - book
-isbn: 978-968-39-1619-8
+languages:
+- Español
+oclc: '37743494'
 pages: 134
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Nueva Imagen
 series:
 - Colección Raíces del hombre
 subjects:
-- Economics
-- Fiction
 - Gay Literature
-- Latin American Politics
 - Literary Criticism
-- Mexico
-- Modern History
-oclc: '37743494'
-exlibris: '1997'
+- Mexican Literature
+title: La novela mexicana entre el petróleo, la homosexualidad y la política
+year: 1997
 zotero_key: ESUUMSI6
-cover: covers/esuumsi6.jpg
 ---
 

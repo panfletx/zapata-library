@@ -1,26 +1,27 @@
 ---
-title: Cuentos
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Alas, Leopoldo
-publishers:
-- Porrúa
-place: México
-languages:
-- Español
+cover: covers/aqxg6p2m.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed. en la Colección "Sepan cuantos--"
+isbn: 978-968-432-970-6
 item_types:
 - book
-isbn: 978-968-432-970-6
+languages:
+- Español
+oclc: '18054930'
 pages: 291
-edition: 1a ed. en la Colección "Sepan cuantos--"
+place: México
+publishers:
+- Porrúa
 series:
 - '"Sepan cuantos-- "'
 subjects:
 - Short Stories
-oclc: '18054930'
+- Spanish Literature
+title: Cuentos
+year: 1984
 zotero_key: AQXG6P2M
-cover: covers/aqxg6p2m.jpg
 ---
 

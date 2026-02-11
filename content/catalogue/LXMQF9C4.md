@@ -1,23 +1,24 @@
 ---
-title: Tales of adventure and medical life
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Doyle, Arthur Conan
-publishers:
-- J. Murray
-place: London
-languages:
-- English
+cover: covers/lxmqf9c4.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '10758316'
 pages: 203
+place: London
+publishers:
+- J. Murray
 series: []
 subjects:
-- Short Stories
-oclc: '10758316'
+- Mexican Literature
+- Poetry
+title: Tales of adventure and medical life
+year: 1963
 zotero_key: LXMQF9C4
-cover: covers/lxmqf9c4.jpg
 ---
 

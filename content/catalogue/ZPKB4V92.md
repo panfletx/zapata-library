@@ -1,32 +1,28 @@
 ---
-title: La casa de las bellas durmientes
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Kawabata, Yasunari
 - Giralt, Pilar
-publishers:
-- Orbis
-place: Barcelona
-languages:
-- Español
+cover: covers/zpkb4v92.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1986'
+isbn: 978-84-7530-162-4
 item_types:
 - book
-isbn: 978-84-7530-162-4
+languages:
+- Español
+oclc: '434105032'
 pages: 150
+place: Barcelona
+publishers:
+- Orbis
 series:
 - Los premios Nobel
 subjects:
-- Biography
-- Fiction
-- Japan
-- Modern History
-- Short Stories
-- Translation Studies
-oclc: '434105032'
-exlibris: '1986'
+- Japanese Literature
+- Novel
+title: La casa de las bellas durmientes
+year: 1985
 zotero_key: ZPKB4V92
-cover: covers/zpkb4v92.jpg
 ---
 

@@ -1,28 +1,29 @@
 ---
-title: Grotesco
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - McGrath, Patrick
-publishers:
-- Grijalbo, Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/kkfvce5z.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+exlibris: '1994'
+isbn: 978-970-05-0070-6
 item_types:
 - book
-isbn: 978-970-05-0070-6
+languages:
+- Español
+oclc: '24880938'
 pages: 242
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Grijalbo, Consejo Nacional para la Cultura y las Artes
 series:
 - Fin de siglo
 subjects:
+- English Literature
 - Fiction
-- Mexican Literature
-oclc: '24880938'
-exlibris: '1994'
+- Horror & Gothic
+title: Grotesco
+year: 1990
 zotero_key: KKFVCE5Z
-cover: covers/kkfvce5z.jpg
 ---
 

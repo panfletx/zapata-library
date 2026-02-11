@@ -1,27 +1,28 @@
 ---
-title: Los miserables
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Hugo, Victor
 - Alemany, Aurora
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/72j3cmxa.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[5a. ed.]'
 item_types:
 - book
+languages:
+- Español
+oclc: '431987290'
 pages: 1212
-edition: '[5a. ed.]'
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Joyas Literarias
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '431987290'
+- French Literature
+- Novel
+- Social Movements
+title: Los miserables
+year: 1971
 zotero_key: 72J3CMXA
-cover: covers/72j3cmxa.jpg
 ---
 

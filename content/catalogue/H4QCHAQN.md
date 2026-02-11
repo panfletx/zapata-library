@@ -1,26 +1,28 @@
 ---
-title: Los Relatos. 3, pasajes
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Cortázar, Julio
-publishers:
-- Alianza
-place: Madrid
-languages:
-- Español
+cover: covers/h4qchaqn.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 4a ed
+isbn: 978-84-206-1986-6
 item_types:
 - book
-isbn: 978-84-206-1986-6
+languages:
+- Español
+oclc: '491658748'
 pages: 223
-edition: 4a ed
+place: Madrid
+publishers:
+- Alianza
 series:
 - El Libro de bolsillo. Sección literatura
 subjects:
-- Fiction
-oclc: '491658748'
+- Julio Cortázar
+- Latin American Literature
+- Short Stories
+title: Los Relatos. 3, pasajes
+year: 1983
 zotero_key: H4QCHAQN
-cover: covers/h4qchaqn.jpg
 ---
 

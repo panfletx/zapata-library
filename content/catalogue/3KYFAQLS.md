@@ -1,30 +1,27 @@
 ---
-title: Sherlock Holmes
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Doyle, Arthur Conan
-publishers:
-- Optima
-place: Barcelona
-languages:
-- Español
+cover: covers/3kyfaqls.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 5. ed
+isbn: 978-84-89693-77-7
 item_types:
 - book
-isbn: 978-84-89693-77-7
+languages:
+- Español
+oclc: '51672597'
 pages: 4
-edition: 5. ed
+place: Barcelona
+publishers:
+- Optima
 series: []
 subjects:
 - Detective & Mystery
-- Fiction
+- English Literature
 - Sherlock Holmes
-- Short Stories
-- Translation Studies
-- United Kingdom
-oclc: '51672597'
+title: Sherlock Holmes
+year: 2002
 zotero_key: 3KYFAQLS
-cover: covers/3kyfaqls.jpg
 ---
 

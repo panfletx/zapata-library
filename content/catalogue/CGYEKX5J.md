@@ -1,25 +1,24 @@
 ---
-title: La ferme Africaine = Out of Africa
-date: '2024-09-01'
-year: 1965
-decade: 1960s
 authors:
 - Blixen, Karen
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/cgyekx5j.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '283513397'
 pages: 513
+place: Paris
+publishers:
+- Gallimard
 series: []
 subjects:
-- Indigenous Peoples
-- Latin America
-- Rural Life
-oclc: '283513397'
+- English Literature
+- Travel Writing
+title: La ferme Africaine = Out of Africa
+year: 1965
 zotero_key: CGYEKX5J
-cover: covers/cgyekx5j.jpg
 ---
 

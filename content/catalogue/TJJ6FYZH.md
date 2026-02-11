@@ -1,28 +1,27 @@
 ---
-title: 'Manicomios y prisiones: aportaciones críticas del I Encuentro Latinoamericano y V Internacional de Alternativas a la Psiquiatría, realizado en la Ciudad de Cuernavaca del 2 al 6 de octubre de 1981'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Marcos, Sylvia
-publishers:
-- Red Ediciones
-place: Mexico City?
-languages:
-- Español
+cover: covers/tjj6fyzh.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '11915926'
 pages: 277
-edition: 1a. ed
+place: Mexico City?
+publishers:
+- Red Ediciones
 series: []
 subjects:
-- Anthology
-- Latin America
+- Latin American Politics
 - Madness & Mental Illness
-- Medicine & Health
-- United States
-oclc: '11915926'
+- Mexico City
+- Prison
+title: 'Manicomios y prisiones: aportaciones críticas del I Encuentro Latinoamericano y V Internacional de Alternativas a la Psiquiatría, realizado en la Ciudad de Cuernavaca del 2 al 6 de octubre de 1981'
+year: 1983
 zotero_key: TJJ6FYZH
-cover: covers/tjj6fyzh.jpg
 ---
 

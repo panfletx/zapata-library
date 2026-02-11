@@ -1,28 +1,29 @@
 ---
-title: De la brevedad de la vida ; De la vida bienaventurada ; De la vida retirada
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Séneca, Lucio Anneo
 - Riber, Llorenç
-publishers:
-- Aguilar
-place: Madrid
-languages:
-- Español
+cover: covers/ftatyljf.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1989'
+isbn: 978-84-03-87017-8
 item_types:
 - book
-isbn: 978-84-03-87017-8
+languages:
+- Español
+oclc: '434244236'
 pages: 112
+place: Madrid
+publishers:
+- Aguilar
 series:
 - Libro Aguilar
 subjects:
-- Ethics
-- Philosophy
-oclc: '434244236'
-exlibris: '1989'
+- Ancient History
+- Classical Literature
+- Essay
+title: De la brevedad de la vida ; De la vida bienaventurada ; De la vida retirada
+year: 1987
 zotero_key: FTATYLJF
-cover: covers/ftatyljf.jpg
 ---
 

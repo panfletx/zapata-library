@@ -1,25 +1,25 @@
 ---
-title: La Roca de Pedro
-date: '2024-09-01'
-year: 1955
-decade: 1950s
 authors:
 - Vargas, Ambrosio
-publishers:
-- Editorial Jus
-place: México
-languages:
-- Español
+cover: covers/kq9n8lqd.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Español
+oclc: '35690236'
 pages: 95
+place: México
+publishers:
+- Editorial Jus
 series:
 - Colección "La Biblia contra el Protestantismo"
 subjects:
 - Fiction
 - Mexican Literature
-oclc: '35690236'
+title: La Roca de Pedro
+year: 1955
 zotero_key: KQ9N8LQD
-cover: covers/kq9n8lqd.jpg
 ---
 

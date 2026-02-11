@@ -1,17 +1,17 @@
 ---
-title: Revista, magazine littéraire
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/7rljls3y.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, magazine littéraire
+year: 1994
 zotero_key: 7RLJLS3Y
-cover: covers/7rljls3y.jpg
 ---
 

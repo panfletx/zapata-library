@@ -1,24 +1,25 @@
 ---
-title: Ayax. Antígona. Edipo Rey
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Sófocles
-publishers:
-- Salvat
-place: Navarra España
-languages:
-- Español
+cover: covers/w9lk53ki.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1 ed
 item_types:
 - book
+languages:
+- Español
+oclc: '906781496'
 pages: 179
-edition: 1 ed
+place: Navarra España
+publishers:
+- Salvat
 series: []
 subjects:
+- Classical Literature
 - Drama
-oclc: '906781496'
+title: Ayax. Antígona. Edipo Rey
+year: 1971
 zotero_key: W9LK53KI
-cover: covers/w9lk53ki.jpg
 ---
 

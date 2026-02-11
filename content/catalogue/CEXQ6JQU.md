@@ -1,30 +1,29 @@
 ---
-title: 'Pontificaciones: conversaciones con Norman Mailer'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Mailer, Norman
 - Lennon, Michael
-publishers:
-- Editorial Gedisa ; Editorial Celtia
-place: Barcelona, Buenos Aires
-languages:
-- Español
+cover: covers/cexq6jqu.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: '1990'
+isbn: 978-84-7432-195-1
 item_types:
 - book
-isbn: 978-84-7432-195-1
+languages:
+- Español
+oclc: '14158124'
 pages: 236
-edition: 1a ed
+place: Barcelona, Buenos Aires
+publishers:
+- Editorial Gedisa ; Editorial Celtia
 series: []
 subjects:
 - American Literature
+- Biography
 - Interview
-- Literary Criticism
-- United States
-oclc: '14158124'
-exlibris: '1990'
+title: 'Pontificaciones: conversaciones con Norman Mailer'
+year: 1983
 zotero_key: CEXQ6JQU
-cover: covers/cexq6jqu.jpg
 ---
 

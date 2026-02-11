@@ -1,23 +1,25 @@
 ---
-title: Hacia un teatro distinto (por su contenido y técnica de la doble dimensión) ; ensayo crítico-dramático
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Ortiz Palma, Alfonso
-publishers:
-- Estrella Ediciones
-place: México
-languages:
-- Español
+cover: covers/mja8psss.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '2466193'
 pages: 46
+place: México
+publishers:
+- Estrella Ediciones
 series: []
 subjects:
 - Drama
-oclc: '2466193'
+- Essay
+- Mexican Literature
+title: Hacia un teatro distinto (por su contenido y técnica de la doble dimensión) ; ensayo crítico-dramático
+year: 1967
 zotero_key: MJA8PSSS
-cover: covers/mja8psss.jpg
 ---
 

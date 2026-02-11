@@ -1,29 +1,28 @@
 ---
-title: 'El gato de sí mismo: novela'
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Quesada, Uriel
-publishers:
-- Editorial Costa Rica
-place: San José, Costa Rica
-languages:
-- Español
+cover: covers/cd5mscq3.jpg
+cover_note: firma del autor
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-9977-23-826-5
 item_types:
 - book
-isbn: 978-9977-23-826-5
+languages:
+- Español
+oclc: '71822760'
 pages: 343
-edition: 1. ed
+place: San José, Costa Rica
+publishers:
+- Editorial Costa Rica
 series: []
 subjects:
-- Latin America
 - Latin American Literature
 - Novel
-oclc: '71822760'
-cover_note: firma del autor
+title: 'El gato de sí mismo: novela'
+year: 2005
 zotero_key: CD5MSCQ3
-cover: covers/cd5mscq3.jpg
 ---
 
 The latest novel by one of Costa Rica's most successful and productive authors, his seventh published literary work. The work focuses on the travels of a young man who returns to his native Costa Rica to encounter universal schizophrenia and homophobia

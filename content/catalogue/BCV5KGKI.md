@@ -1,31 +1,26 @@
 ---
-title: Cómo asumir su propia identidad
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Kabat-Zinn, Jon
-publishers:
-- Plaza & Janés
-place: Barcelona
-languages:
-- Español
+cover: covers/bcv5kgki.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Primera edición
+isbn: 978-84-01-52010-5
 item_types:
 - book
-isbn: 978-84-01-52010-5
+languages:
+- Español
+oclc: '33055350'
 pages: 189
-edition: Primera edición
+place: Barcelona
+publishers:
+- Plaza & Janés
 series:
 - Dinámica (Barcelona, Spain)
 subjects:
-- Buddhism
 - Education
-- Existentialism
-- Medicine & Health
-- Psychoanalysis
-- Religion
-oclc: '33055350'
+title: Cómo asumir su propia identidad
+year: 1995
 zotero_key: BCV5KGKI
-cover: covers/bcv5kgki.jpg
 ---
 

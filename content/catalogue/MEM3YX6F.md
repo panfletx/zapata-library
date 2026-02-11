@@ -1,30 +1,26 @@
 ---
-title: The Lord won't mind
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Merrick, Gordon
-publishers:
-- Avon
-place: New York
-languages:
-- English
+cover: covers/mem3yx6f.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1974'
+isbn: 978-0-380-01404-0
 item_types:
 - book
-isbn: 978-0-380-01404-0
+languages:
+- English
+oclc: '10473884'
 pages: 336
+place: New York
+publishers:
+- Avon
 series: []
 subjects:
-- Erotic Literature
-- Fiction
+- American Literature
 - Gay Literature
-- Queer Studies
-- Sexuality & Eroticism
-- Short Stories
-oclc: '10473884'
-exlibris: '1974'
+title: The Lord won't mind
+year: 1971
 zotero_key: MEM3YX6F
-cover: covers/mem3yx6f.jpg
 ---
 

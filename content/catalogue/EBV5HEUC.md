@@ -1,31 +1,28 @@
 ---
-title: 'Los Bracho: tres generaciones de cine mexicano'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Ibarra, Jesús.
-publishers:
-- Universidad Nacional Autónoma de México
-place: México, D.F.
-languages:
-- Español
+cover: covers/ebv5heuc.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-32-3074-7
 item_types:
 - book
-isbn: 978-970-32-3074-7
+languages:
+- Español
+oclc: '85459752'
 pages: 446
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Universidad Nacional Autónoma de México
 series:
 - Colección Miradas en la oscuridad
 subjects:
-- Biography
-- Family
 - Film & Cinema
-- Mexico
-- Modern History
-oclc: '85459752'
-cover_note: dedicatoria del autor
+- Mexican Literature
+title: 'Los Bracho: tres generaciones de cine mexicano'
+year: 2006
 zotero_key: EBV5HEUC
-cover: covers/ebv5heuc.jpg
 ---
 

@@ -1,26 +1,25 @@
 ---
-title: Yoga y relajación
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Frabetti, Carlo
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/tmlgemik.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-02-06986-3
 item_types:
 - book
-isbn: 978-84-02-06986-3
+languages:
+- Español
+oclc: '431689744'
 pages: 91
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Popular Práctica (Bruguera)
 subjects:
-- Buddhism
-- Religion
-oclc: '431689744'
+- Medicine & Health
+title: Yoga y relajación
+year: 1980
 zotero_key: TMLGEMIK
-cover: covers/tmlgemik.jpg
 ---
 

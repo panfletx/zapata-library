@@ -1,26 +1,25 @@
 ---
-title: L'Apprentissage systématique du vocabulaire
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Galisson, Robert
-publishers:
-- Hachette, Larousse
-place: Paris
-languages:
-- Français
+cover: covers/7gwx4rl6.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-01-002588-4
 item_types:
 - book
-isbn: 978-2-01-002588-4
+languages:
+- Français
+oclc: '248344'
 pages: 21
+place: Paris
+publishers:
+- Hachette, Larousse
 series:
 - Collection Le Français dans le monde
 subjects:
-- Dictionary
 - Grammar & Linguistics
-oclc: '248344'
+title: L'Apprentissage systématique du vocabulaire
+year: 1970
 zotero_key: 7GWX4RL6
-cover: covers/7gwx4rl6.jpg
 ---
 

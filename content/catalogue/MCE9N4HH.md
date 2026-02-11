@@ -1,26 +1,26 @@
 ---
-title: Dicha ; Preludio
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Mansfield, Katherine
-publishers:
-- 'Consejo Nacional para la Cultura y las Artes : Alianza'
-place: México
-languages:
-- Español
+cover: covers/mce9n4hh.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0983-1
 item_types:
 - book
-isbn: 978-968-39-0983-1
+languages:
+- Español
+oclc: '689350545'
 pages: 93
+place: México
+publishers:
+- 'Consejo Nacional para la Cultura y las Artes : Alianza'
 series:
 - Alianza Cien
 subjects:
+- English Literature
 - Short Stories
-- Translation Studies
-oclc: '689350545'
+title: Dicha ; Preludio
+year: 1994
 zotero_key: MCE9N4HH
-cover: covers/mce9n4hh.jpg
 ---
 

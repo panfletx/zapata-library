@@ -1,26 +1,28 @@
 ---
-title: Vendredi ou les Limbes du Pacifique
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Tournier, Michel
 - Deleuze, Gilles
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/vwhsw5da.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Ed. revue et augmentée
 item_types:
 - book
+languages:
+- Français
+oclc: '494309916'
 pages: 1
-edition: Ed. revue et augmentée
+place: Paris
+publishers:
+- Gallimard
 series:
 - Folio
 subjects:
 - French Literature
-oclc: '494309916'
+- Novel
+- Travel Writing
+title: Vendredi ou les Limbes du Pacifique
+year: 1974
 zotero_key: VWHSW5DA
-cover: covers/vwhsw5da.jpg
 ---
 

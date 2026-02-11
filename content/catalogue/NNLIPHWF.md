@@ -1,28 +1,29 @@
 ---
-title: Violento interino
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Talancón, Carlos
-publishers:
-- Fondo Editorial Tierra Adentro
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/nnliphwf.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-455-592-9
 item_types:
 - book
-isbn: 978-607-455-592-9
+languages:
+- Español
+oclc: '756663289'
 pages: 84
-edition: Primera edición
+place: Mexico, D.F.
+publishers:
+- Fondo Editorial Tierra Adentro
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Drama
-- Mexico
-oclc: '756663289'
-cover_note: dedicatoria de autor
+- Mexican Literature
+- Mexico City
+- Poetry
+title: Violento interino
+year: 2011
 zotero_key: NNLIPHWF
-cover: covers/nnliphwf.jpg
 ---
 

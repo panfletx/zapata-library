@@ -1,15 +1,15 @@
 ---
-title: Revista, textos 9-10
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/lxlss53v.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, textos 9-10
 zotero_key: LXLSS53V
-cover: covers/lxlss53v.jpg
 ---
 

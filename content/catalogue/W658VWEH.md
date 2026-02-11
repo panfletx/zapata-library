@@ -1,26 +1,28 @@
 ---
-title: Ciudades desiertas
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Ramírez Gómez, José Agustín
-publishers:
-- 'Origen : Planeta : Artemisa'
-place: México
-languages:
-- Español
+cover: covers/w658vweh.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1989'
+isbn: 978-968-22-0167-7
 item_types:
 - book
-isbn: 978-968-22-0167-7
+languages:
+- Español
+oclc: '651189523'
 pages: 200
+place: México
+publishers:
+- 'Origen : Planeta : Artemisa'
 series:
 - Colec. obras maestras de la literatura contemporánea
 subjects:
-- Fiction
-oclc: '651189523'
-exlibris: '1989'
+- Mexican Literature
+- Novel
+- Urban Life
+title: Ciudades desiertas
+year: 1985
 zotero_key: W658VWEH
-cover: covers/w658vweh.jpg
 ---
 

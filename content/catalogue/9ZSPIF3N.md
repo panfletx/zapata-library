@@ -1,30 +1,29 @@
 ---
-title: Diario de un loco
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Lu, Xun
 - Pitol, Sergio
-publishers:
-- Universidad Veracruzana ; Consejo Nacional para la cultura y las Artes, Dirección General de Publicaciones
-place: Xalapa, Veracruz, México, D.F.
-languages:
-- Español
+cover: covers/9zspif3n.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 2a ed. en Sergio Pitol
+isbn: 978-607-455-569-1
 item_types:
 - book
-isbn: 978-607-455-569-1
+languages:
+- Español
+oclc: '907008991'
 pages: 103
-edition: 2a ed. en Sergio Pitol
+place: Xalapa, Veracruz, México, D.F.
+publishers:
+- Universidad Veracruzana ; Consejo Nacional para la cultura y las Artes, Dirección General de Publicaciones
 series:
 - Sergio Pitol Traductor
 subjects:
-- Biography
-- China
-- Fiction
-- Modern History
-oclc: '907008991'
+- Japanese Literature
+- Madness & Mental Illness
+- Short Stories
+title: Diario de un loco
+year: 2011
 zotero_key: 9ZSPIF3N
-cover: covers/9zspif3n.jpg
 ---
 

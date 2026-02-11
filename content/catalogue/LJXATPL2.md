@@ -1,29 +1,28 @@
 ---
-title: Turba
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Serrano, Pedro
-publishers:
-- Ediciones Sin Nombre
-place: México, D.F.
-languages:
-- Español
+cover: covers/ljxatpl2.jpg
+cover_note: dedicatoria 2007
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+isbn: 978-968-5793-63-6
 item_types:
 - book
-isbn: 978-968-5793-63-6
+languages:
+- Español
+oclc: '277588861'
 pages: 63
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Ediciones Sin Nombre
 series: []
 subjects:
-- Mexico
+- Mexican Literature
 - Mexico City
-- Poetry
-- Urban Life
-oclc: '277588861'
-cover_note: dedicatoria 2007
+- Novel
+title: Turba
+year: 2005
 zotero_key: LJXATPL2
-cover: covers/ljxatpl2.jpg
 ---
 

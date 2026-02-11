@@ -1,26 +1,26 @@
 ---
-title: Shadow over Babylon
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Mason, David
-publishers:
-- Signet
-place: New York, N.Y.
-languages:
-- English
+cover: covers/msclwzbc.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-0-451-18063-6
 item_types:
 - book
-isbn: 978-0-451-18063-6
+languages:
+- English
+oclc: '31917401'
 pages: 523
+place: New York, N.Y.
+publishers:
+- Signet
 series: []
 subjects:
-- Detective & Mystery
-- Fiction
-- Middle East
-oclc: '31917401'
+- American Literature
+- Historical Fiction
+- War & Conflict
+title: Shadow over Babylon
+year: 1995
 zotero_key: MSCLWZBC
-cover: covers/msclwzbc.jpg
 ---
 

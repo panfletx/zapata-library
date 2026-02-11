@@ -1,26 +1,26 @@
 ---
-title: 'Hermano animal: la historia de Freud y Tausk'
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Roazen, Paul
-publishers:
-- Alianza Editorial
-place: Madrid
-languages:
-- Español
+cover: covers/xkklaw3g.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '5202524'
 pages: 208
+place: Madrid
+publishers:
+- Alianza Editorial
 series:
 - 'El libro de bolsillo : Sección Humanidades'
 subjects:
-- Modern History
+- Biography
 - Psychoanalysis
 - Sigmund Freud
-oclc: '5202524'
+title: 'Hermano animal: la historia de Freud y Tausk'
+year: 1973
 zotero_key: XKKLAW3G
-cover: covers/xkklaw3g.jpg
 ---
 

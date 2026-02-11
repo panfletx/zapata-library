@@ -1,28 +1,29 @@
 ---
-title: El origen una indicación
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Bernhard, Thomas
-publishers:
-- Anagrama
-place: Barcelona
-languages:
-- Español
+cover: covers/puq87eis.jpg
+cover_note: regalo de José
+date: '2024-09-01'
+decade: 2010s
+edition: 1a. ed
+exlibris: '2011'
+isbn: 978-84-9711-128-7
 item_types:
 - book
-isbn: 978-84-9711-128-7
+languages:
+- Español
+oclc: '733883114'
 pages: 109
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Anagrama
 series:
 - Quinteto
 subjects:
+- Fiction
 - German Literature
-oclc: '733883114'
-cover_note: regalo de José
-exlibris: '2011'
+title: El origen una indicación
+year: 2010
 zotero_key: PUQ87EIS
-cover: covers/puq87eis.jpg
 ---
 

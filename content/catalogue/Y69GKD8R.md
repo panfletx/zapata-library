@@ -1,26 +1,28 @@
 ---
-title: Nocturno indiano
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Tabucchi, Antonio
-publishers:
-- Anagrama
-place: Barcelona
-languages:
-- Español
+cover: covers/y69gkd8r.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 3 ed
+isbn: 978-84-339-1446-0
 item_types:
 - book
-isbn: 978-84-339-1446-0
+languages:
+- Español
+oclc: '760608246'
 pages: 110
-edition: 3 ed
+place: Barcelona
+publishers:
+- Anagrama
 series:
 - Compactos Anagrama
 subjects:
 - Fiction
-oclc: '760608246'
+- Italian Literature
+- Novel
+title: Nocturno indiano
+year: 1997
 zotero_key: Y69GKD8R
-cover: covers/y69gkd8r.jpg
 ---
 

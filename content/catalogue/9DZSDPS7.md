@@ -1,16 +1,17 @@
 ---
-title: 'Revista, Guía México desconocido: balnearios y manantiales'
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/9dzsdps7.jpg
+date: '2024-09-01'
+edition: '32'
 item_types:
 - book
-edition: '32'
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Mexico
+- Travel Writing
+title: 'Revista, Guía México desconocido: balnearios y manantiales'
 zotero_key: 9DZSDPS7
-cover: covers/9dzsdps7.jpg
 ---
 

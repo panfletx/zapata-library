@@ -1,26 +1,27 @@
 ---
-title: El nuevo alemán sin esfuerzo
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Schneider, Hilde
 - Goussé, Jean-Louis
-publishers:
-- Assimil
-place: Chennevières-sur-Marne
-languages:
-- Deutsch
+cover: covers/xxmhbm7m.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-2-7005-0138-4
 item_types:
 - book
-isbn: 978-2-7005-0138-4
+languages:
+- Deutsch
+oclc: '837887880'
 pages: 409
+place: Chennevières-sur-Marne
+publishers:
+- Assimil
 series:
 - Método cotidiano Assimil
 subjects:
-- German Literature
-oclc: '837887880'
+- Germany
+- Grammar & Linguistics
+title: El nuevo alemán sin esfuerzo
+year: 2008
 zotero_key: XXMHBM7M
-cover: covers/xxmhbm7m.jpg
 ---
 

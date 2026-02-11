@@ -1,34 +1,30 @@
 ---
-title: El corazón de las tinieblas
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Conrad, Joseph
 - Flores, Malva
-publishers:
-- Conaculta
-place: México, D.F.
-languages:
-- Español
+cover: covers/ygvpd54n.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed. en Clásicos para hoy
+exlibris: '1999'
+isbn: 978-970-18-1913-5
 item_types:
 - book
-isbn: 978-970-18-1913-5
+languages:
+- Español
+oclc: '64578351'
 pages: 134
-edition: 1a. ed. en Clásicos para hoy
+place: México, D.F.
+publishers:
+- Conaculta
 series:
 - Clásicos para hoy
 subjects:
-- Colonialism & Postcolonialism
-- Fiction
-- Latin America
-- Modern History
+- English Literature
 - Novel
-- Short Stories
-oclc: '64578351'
-exlibris: '1999'
+title: El corazón de las tinieblas
+year: 1998
 zotero_key: YGVPD54N
-cover: covers/ygvpd54n.jpg
 ---
 
 Traducción de: Heart of Darkness

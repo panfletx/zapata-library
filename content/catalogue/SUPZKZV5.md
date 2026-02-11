@@ -1,28 +1,29 @@
 ---
-title: 'Historia económica y social de la Edad Media: con un anexo bibliográfico y crítico de H. Van Werveke'
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Pirenne, Henri
 - Werveke, H. Van
-publishers:
-- Fondo de Cultura Económica
-place: Madrid
-languages:
-- Español
+cover: covers/supzkzv5.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a. ed. en español, 13a. reimp
+exlibris: '1978'
+isbn: 978-84-375-0000-3
 item_types:
 - book
-isbn: 978-84-375-0000-3
+languages:
+- Español
+oclc: '627796561'
 pages: 267
-edition: 1a. ed. en español, 13a. reimp
+place: Madrid
+publishers:
+- Fondo de Cultura Económica
 series: []
 subjects:
+- Bibliography
 - Economics
-- Modern History
-oclc: '627796561'
-exlibris: '1978'
+- Medieval History
+title: 'Historia económica y social de la Edad Media: con un anexo bibliográfico y crítico de H. Van Werveke'
+year: 1975
 zotero_key: SUPZKZV5
-cover: covers/supzkzv5.jpg
 ---
 

@@ -1,30 +1,28 @@
 ---
-title: Tendencias interculturales y practica escenica
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Pavis, Patrice
 - Rosa, Guy
-publishers:
-- Grupo Editorial Gaceta
-place: Mexico
-languages:
-- Español
+cover: covers/c9vcw86x.jpg
+cover_note: Regalo de Luis
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-7155-51-7
 item_types:
 - book
-isbn: 978-968-7155-51-7
+languages:
+- Español
+oclc: '42136013'
 pages: 351
+place: Mexico
+publishers:
+- Grupo Editorial Gaceta
 series:
 - Colección Esconología
 subjects:
 - Drama
-- Grammar & Linguistics
-- Literary Criticism
-- Modern History
-oclc: '42136013'
-cover_note: Regalo de Luis
+- Experimental Literature
+title: Tendencias interculturales y practica escenica
+year: 1994
 zotero_key: C9VCW86X
-cover: covers/c9vcw86x.jpg
 ---
 

@@ -1,28 +1,28 @@
 ---
-title: Una Magia modesta
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Bioy Casares, Adolfo
-publishers:
-- Temas Grupo Editorial
-place: Buenos Aires, Argentina
-languages:
-- Español
+cover: covers/sixi6pzf.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: '[1a ed.]'
+isbn: 978-987-9164-15-0
 item_types:
 - book
-isbn: 978-987-9164-15-0
+languages:
+- Español
+oclc: '38579140'
 pages: 152
-edition: '[1a ed.]'
+place: Buenos Aires, Argentina
+publishers:
+- Temas Grupo Editorial
 series:
 - Colección Temas de literatura (Buenos Aires, Argentina)
 subjects:
 - Argentina
+- Argentine Literature
 - Fiction
-- Spanish Literature
-oclc: '38579140'
+title: Una Magia modesta
+year: 1997
 zotero_key: SIXI6PZF
-cover: covers/sixi6pzf.jpg
 ---
 

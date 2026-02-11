@@ -1,27 +1,28 @@
 ---
-title: 'La separacion de los amantes: una fenomenologia de la muerte'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Caruso, Igor A.
-publishers:
-- Siglo Veintiuno Editores
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/m4gy7gqu.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 15a. ed
+isbn: 978-968-23-0066-0
 item_types:
 - book
-isbn: 978-968-23-0066-0
+languages:
+- Español
+oclc: '20072712'
 pages: 313
-edition: 15a. ed
+place: Mexico, D.F.
+publishers:
+- Siglo Veintiuno Editores
 series:
 - Psicologia y etologia
 subjects:
 - Death & Mourning
-- Psychoanalysis
-oclc: '20072712'
+- Essay
+- Philosophy
+title: 'La separacion de los amantes: una fenomenologia de la muerte'
+year: 1988
 zotero_key: M4GY7GQU
-cover: covers/m4gy7gqu.jpg
 ---
 

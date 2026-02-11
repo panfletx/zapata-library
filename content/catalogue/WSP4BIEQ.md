@@ -1,29 +1,25 @@
 ---
-title: 'Open secrets: stories'
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Munro, Alice
-publishers:
-- Penguin Books
-place: Toronto
-languages:
-- English
+cover: covers/wsp4bieq.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-0-14-024730-5
 item_types:
 - book
-isbn: 978-0-14-024730-5
+languages:
+- English
+oclc: '31779854'
 pages: 344
+place: Toronto
+publishers:
+- Penguin Books
 series: []
 subjects:
-- Canada
-- Feminism
-- Fiction
-- Gender Studies
-- Modern History
+- American Literature
 - Short Stories
-oclc: '31779854'
+title: 'Open secrets: stories'
+year: 1995
 zotero_key: WSP4BIEQ
-cover: covers/wsp4bieq.jpg
 ---
 

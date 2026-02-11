@@ -1,27 +1,28 @@
 ---
-title: L'apparition du livre
-date: '2024-09-01'
-year: 1958
-decade: 1950s
 authors:
 - Febvre, Lucien
 - Martin, Henri Jean
 - Basanoff, Anne
-publishers:
-- Michel
-place: Paris
-languages:
-- Français
+cover: covers/nxp4if8q.jpg
+date: '2024-09-01'
+decade: 1950s
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Français
+oclc: '859631716'
 pages: 558
+place: Paris
+publishers:
+- Michel
 series:
 - L'evolution de l'humanité
 subjects:
+- Bibliography
 - French Literature
-oclc: '859631716'
-exlibris: '1978'
+title: L'apparition du livre
+year: 1958
 zotero_key: NXP4IF8Q
-cover: covers/nxp4if8q.jpg
 ---
 

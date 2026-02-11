@@ -1,30 +1,27 @@
 ---
-title: La literatura en la Nueva España
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/8u3qbf8s.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+exlibris: dedicatoria de jjb
+isbn: 978-968-493-176-3
 item_types:
 - book
-isbn: 978-968-493-176-3
+languages:
+- Español
+oclc: '22578500'
 pages: 2
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
-- Literary Criticism
+- Literary History
 - Mexican Literature
-- Mexico
-- Modern History
-- Spanish Literature
-oclc: '22578500'
-exlibris: dedicatoria de jjb
+title: La literatura en la Nueva España
+year: 1989
 zotero_key: 8U3QBF8S
-cover: covers/8u3qbf8s.jpg
 ---
 

@@ -1,27 +1,29 @@
 ---
-title: El misterio de la cripta embrujada
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Mendoza, Eduardo
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/6d79yegx.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
+exlibris: '1982'
+isbn: 978-84-322-1380-9
 item_types:
 - book
-isbn: 978-84-322-1380-9
+languages:
+- Español
+oclc: '5430929'
 pages: 178
-edition: 1. ed
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Nueva narrativa hispánica
 subjects:
-- Fiction
-oclc: '5430929'
-exlibris: '1982'
+- Novel
+- Spain
+- Spanish Literature
+title: El misterio de la cripta embrujada
+year: 1979
 zotero_key: 6D79YEGX
-cover: covers/6d79yegx.jpg
 ---
 

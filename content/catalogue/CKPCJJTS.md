@@ -1,30 +1,27 @@
 ---
-title: Historia del cerco de Lisboa
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Saramago, José.
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/ckpcjjts.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-84-322-0622-1
 item_types:
 - book
-isbn: 978-84-322-0622-1
+languages:
+- Español
+oclc: '22942600'
 pages: 315
-edition: 1a ed
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Fiction
-- Literary Criticism
-- Modern History
+- Historical Fiction
 - Portugal
-- Short Stories
-oclc: '22942600'
+title: Historia del cerco de Lisboa
+year: 1990
 zotero_key: CKPCJJTS
-cover: covers/ckpcjjts.jpg
 ---
 

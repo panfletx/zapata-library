@@ -1,23 +1,25 @@
 ---
-title: Nine stories
-date: '2024-09-01'
-year: 1953
-decade: 1950s
 authors:
 - Salinger, Jerome David
-publishers:
-- 'Little : Brown and Co'
-place: Boston
-languages:
-- English
+cover: covers/bdeswu94.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- English
+oclc: '489920920'
 pages: 302
+place: Boston
+publishers:
+- 'Little : Brown and Co'
 series: []
 subjects:
-- Fiction
-oclc: '489920920'
+- American Literature
+- Short Stories
+- United States
+title: Nine stories
+year: 1953
 zotero_key: BDESWU94
-cover: covers/bdeswu94.jpg
 ---
 

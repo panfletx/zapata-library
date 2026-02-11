@@ -1,28 +1,27 @@
 ---
-title: 'Sandra: secreto amor'
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Barrera, Reyna
-publishers:
-- Plaza y Valdés
-place: México, D.F.
-languages:
-- Español
+cover: covers/yjbn38gc.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-856-919-1
 item_types:
 - book
-isbn: 978-968-856-919-1
+languages:
+- Español
+oclc: '48716234'
 pages: 181
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Plaza y Valdés
 series: []
 subjects:
 - Fiction
-- Literary Criticism
+- Love & Desire
 - Mexican Literature
-- Mexico
-oclc: '48716234'
+title: 'Sandra: secreto amor'
+year: 2001
 zotero_key: YJBN38GC
-cover: covers/yjbn38gc.jpg
 ---
 

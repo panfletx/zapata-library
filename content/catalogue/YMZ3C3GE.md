@@ -1,28 +1,29 @@
 ---
-title: Rubaiyat
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Omar Khayyám.
 - Fitzgerald, F. Scott
 - Ramírez Cueto, Pedro
-publishers:
-- Edicomunicación
-place: Barcelona
-languages:
-- Español
+cover: covers/ymz3c3ge.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7672-912-0
 item_types:
 - book
-isbn: 978-84-7672-912-0
+languages:
+- Español
+oclc: '807559932'
 pages: 189
+place: Barcelona
+publishers:
+- Edicomunicación
 series:
 - Cultura
 subjects:
-- Literary Criticism
+- Arabic Literature
 - Poetry
-oclc: '807559932'
+- Translation Studies
+title: Rubaiyat
+year: 1999
 zotero_key: YMZ3C3GE
-cover: covers/ymz3c3ge.jpg
 ---
 

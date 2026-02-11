@@ -1,27 +1,29 @@
 ---
-title: 'Vivant jusqu''à la mort: suivi de, Fragments'
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Ricœur, Paul
-publishers:
-- Seuil
-place: Paris
-languages:
-- Français
+cover: covers/e29n2ilh.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2010'
+isbn: 978-2-02-092598-3
 item_types:
 - book
-isbn: 978-2-02-092598-3
+languages:
+- Français
+oclc: '86113447'
 pages: 144
+place: Paris
+publishers:
+- Seuil
 series:
 - Couleur des idées
 subjects:
 - Death & Mourning
+- Essay
+- French Literature
 - Philosophy
-oclc: '86113447'
-exlibris: '2010'
+title: 'Vivant jusqu''à la mort: suivi de, Fragments'
+year: 2007
 zotero_key: E29N2ILH
-cover: covers/e29n2ilh.jpg
 ---
 

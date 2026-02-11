@@ -1,25 +1,27 @@
 ---
-title: La especie desconocida
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Fernández Perera, Manuel
-publishers:
-- Editorial Quinqué
-place: México
-languages:
-- Español
+cover: covers/8uim4cvc.jpg
+cover_note: dedicatoria de Manuel
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-6245-00-4
 item_types:
 - book
-isbn: 978-968-6245-00-4
+languages:
+- Español
+oclc: '30692134'
 pages: 82
+place: México
+publishers:
+- Editorial Quinqué
 series: []
 subjects:
 - Fiction
-oclc: '30692134'
-cover_note: dedicatoria de Manuel
+- Mexican Literature
+- Science Fiction
+title: La especie desconocida
+year: 1988
 zotero_key: 8UIM4CVC
-cover: covers/8uim4cvc.jpg
 ---
 

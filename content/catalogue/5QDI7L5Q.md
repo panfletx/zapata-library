@@ -1,24 +1,26 @@
 ---
-title: Ensayos y artículos
-date: '2024-09-01'
 authors:
 - Wilde, Oscar
 - Gómez de la Serna, Julio
-publishers:
-- Hyspamérica
-place: Buenos Aires
-languages:
-- Español
+cover: covers/5qdi7l5q.jpg
+date: '2024-09-01'
+isbn: 978-84-85471-69-0
 item_types:
 - book
-isbn: 978-84-85471-69-0
+languages:
+- Español
+oclc: '1097709999'
 pages: 303
+place: Buenos Aires
+publishers:
+- Hyspamérica
 series:
 - Biblioteca personal Jorge Luis Borges
 subjects:
-- Poetry
-oclc: '1097709999'
+- English Literature
+- Essay
+- Spanish Literature
+title: Ensayos y artículos
 zotero_key: 5QDI7L5Q
-cover: covers/5qdi7l5q.jpg
 ---
 

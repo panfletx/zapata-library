@@ -1,24 +1,26 @@
 ---
-title: Contos de aprendiz
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Andrade, Carlos Drummond de
-publishers:
-- José Olympio
-place: Rio de Janeiro
-languages:
-- Português
+cover: covers/yayvkchh.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 21 ed
 item_types:
 - book
+languages:
+- Português
+oclc: '635111003'
 pages: 123
-edition: 21 ed
+place: Rio de Janeiro
+publishers:
+- José Olympio
 series: []
 subjects:
+- Brazilian Literature
 - Fiction
-oclc: '635111003'
+- Short Stories
+title: Contos de aprendiz
+year: 1982
 zotero_key: YAYVKCHH
-cover: covers/yayvkchh.jpg
 ---
 

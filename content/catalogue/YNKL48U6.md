@@ -1,30 +1,28 @@
 ---
-title: Las puertas del paraiso
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Andrzejewski, Jerzy
 - Pitol, Sergio
-publishers:
-- Universidad Veracruzana
-place: México
-languages:
-- Español
+cover: covers/ynkl48u6.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2. ed
+isbn: 978-968-834-357-9
 item_types:
 - book
-isbn: 978-968-834-357-9
+languages:
+- Español
+oclc: '38077053'
 pages: 144
-edition: 2. ed
+place: México
+publishers:
+- Universidad Veracruzana
 series:
 - Ficción breve
 subjects:
-- Fiction
-- Literary Criticism
-- Russian Literature
+- Novel
 - Translation Studies
-oclc: '38077053'
+title: Las puertas del paraiso
+year: 1996
 zotero_key: YNKL48U6
-cover: covers/ynkl48u6.jpg
 ---
 

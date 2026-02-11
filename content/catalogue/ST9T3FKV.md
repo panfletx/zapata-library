@@ -1,28 +1,26 @@
 ---
-title: German stories. Deutsche Novellen
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Steinhauer, Harry
-publishers:
-- Bantam Books
-place: New York
-languages:
-- English
+cover: covers/st9t3fkv.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- English
+oclc: '719766478'
 pages: 360
+place: New York
+publishers:
+- Bantam Books
 series:
 - A Bantam dual-language book
 subjects:
-- Education
-- Grammar & Linguistics
-- Modern History
+- Anthology
+- German Literature
 - Short Stories
-- Translation Studies
-oclc: '719766478'
+title: German stories. Deutsche Novellen
+year: 1972
 zotero_key: ST9T3FKV
-cover: covers/st9t3fkv.jpg
 ---
 

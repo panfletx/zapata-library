@@ -1,27 +1,27 @@
 ---
-title: La littérature franc̨aise du Moyen âge
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Saulnier, Verdun L.
-publishers:
-- Presses universitaires de France
-place: Paris
-languages:
-- Français
+cover: covers/5l25wqwt.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 8. éd. rev
 item_types:
 - book
+languages:
+- Français
+oclc: '2196720'
 pages: 136
-edition: 8. éd. rev
+place: Paris
+publishers:
+- Presses universitaires de France
 series:
 - Que sais-je?
 subjects:
 - French Literature
-- Literary Criticism
-- Modern History
-oclc: '2196720'
+- Literary History
+- Medieval Literature
+title: La littérature franc̨aise du Moyen âge
+year: 1970
 zotero_key: 5L25WQWT
-cover: covers/5l25wqwt.jpg
 ---
 

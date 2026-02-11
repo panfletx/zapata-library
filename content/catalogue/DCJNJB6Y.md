@@ -1,29 +1,26 @@
 ---
-title: Benita
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Galeana, Benita
-publishers:
-- Editorial Extemporáneos
-place: México
-languages:
-- Español
+cover: covers/dcjnjb6y.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1490139'
 pages: 206
-edition: 2. ed
+place: México
+publishers:
+- Editorial Extemporáneos
 series:
 - Novelá Extemporáneos
 subjects:
-- Biography
-- Literary Criticism
-- Marxism
+- Autobiography & Memoir
 - Mexican Literature
-- Mexico
-oclc: '1490139'
+title: Benita
+year: 1974
 zotero_key: DCJNJB6Y
-cover: covers/dcjnjb6y.jpg
 ---
 

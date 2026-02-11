@@ -1,24 +1,25 @@
 ---
-title: Pensadores de lengua alemana guia para la traducción = Denker deutscher Sprache
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Heckel, Ilse
 - Rall, Dietrich
-publishers:
-- Ediciones Euroamericanas
-place: Mexico
-languages:
-- Deutsch
+cover: covers/btuuizz7.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Deutsch
+oclc: '720627402'
 pages: 99
+place: Mexico
+publishers:
+- Ediciones Euroamericanas
 series: []
 subjects:
-- Germany
-oclc: '720627402'
+- German Literature
+- Translation Studies
+title: Pensadores de lengua alemana guia para la traducción = Denker deutscher Sprache
+year: 1971
 zotero_key: BTUUIZZ7
-cover: covers/btuuizz7.jpg
 ---
 

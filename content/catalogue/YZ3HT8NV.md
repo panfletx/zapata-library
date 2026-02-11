@@ -1,25 +1,27 @@
 ---
-title: Essais Tome II
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Montaigne, Michel de
 - Michel, Pierre
-publishers:
-- Livre de Poche
-place: Paris
-languages:
-- Français
+cover: covers/yz3ht8nv.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1976'
 item_types:
 - book
+languages:
+- Français
+oclc: '976590132'
+place: Paris
+publishers:
+- Livre de Poche
 series:
 - Le Livre de poche classique
 subjects:
+- Essay
 - French Literature
-oclc: '976590132'
-exlibris: '1976'
+- Philosophy
+title: Essais Tome II
+year: 1972
 zotero_key: YZ3HT8NV
-cover: covers/yz3ht8nv.jpg
 ---
 

@@ -1,22 +1,23 @@
 ---
-title: Voces como silencio
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Cortés Tapia, Oscar
-publishers:
-- Cuadernos de la Raíz
-place: México
-languages: []
+cover: covers/ae4mylak.jpg
+cover_note: dedicatoria de Óscar Cortés 1995
+date: '2024-09-01'
+decade: 1990s
+isbn: 968-7532-00-9
 item_types:
 - book
-isbn: 968-7532-00-9
+languages: []
+place: México
+publishers:
+- Cuadernos de la Raíz
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria de Óscar Cortés 1995
+- Mexican Literature
+- Poetry
+title: Voces como silencio
+year: 1995
 zotero_key: AE4MYLAK
-cover: covers/ae4mylak.jpg
 ---
 

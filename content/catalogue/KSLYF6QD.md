@@ -1,17 +1,18 @@
 ---
-title: Inventio la genesis de la cultura universitaria en Morelos
-date: '2024-09-01'
 authors: []
-publishers: []
-languages:
-- English
+cover: covers/kslyf6qd.jpg
+date: '2024-09-01'
 item_types:
 - book
-source_url: https://search.worldcat.org/title/613144193
+languages:
+- English
+publishers: []
 series: []
+source_url: https://search.worldcat.org/title/613144193
 subjects:
-- Fiction
+- Education
+- Mexico
+title: Inventio la genesis de la cultura universitaria en Morelos
 zotero_key: KSLYF6QD
-cover: covers/kslyf6qd.jpg
 ---
 

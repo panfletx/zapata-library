@@ -1,27 +1,24 @@
 ---
-title: La littérature et sa conscience
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Bars, Henry
-publishers:
-- B. Grasset
-languages:
-- Français
+cover: covers/x668lwnd.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1977'
 item_types:
 - book
+languages:
+- Français
+oclc: '326732'
 pages: 380
+publishers:
+- B. Grasset
 series: []
 subjects:
-- Aesthetics
+- French Literature
 - Literary Criticism
-- Modern History
-- Philosophy
-- Visual Art
-oclc: '326732'
-exlibris: '1977'
+title: La littérature et sa conscience
+year: 1963
 zotero_key: X668LWND
-cover: covers/x668lwnd.jpg
 ---
 

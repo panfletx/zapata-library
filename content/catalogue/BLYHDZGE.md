@@ -1,17 +1,18 @@
 ---
-title: Veinte cuentos para leer en...
-date: '2024-09-01'
 authors: []
-publishers:
-- Ediciones Zetina
-place: México
-languages: []
+cover: covers/blyhdzge.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+place: México
+publishers:
+- Ediciones Zetina
 series: []
 subjects:
-- Fiction
+- Mexican Literature
+- Short Stories
+title: Veinte cuentos para leer en...
 zotero_key: BLYHDZGE
-cover: covers/blyhdzge.jpg
 ---
 

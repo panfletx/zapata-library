@@ -1,23 +1,24 @@
 ---
-title: Patagonia
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Chatwin, Bruce
-publishers:
-- Norma
-place: Colombia
-languages:
-- Español
+cover: covers/xivt8fsb.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '1395880420'
+place: Colombia
+publishers:
+- Norma
 series:
 - La Otra Orilla
 subjects:
-- Fiction
-oclc: '1395880420'
+- Argentina
+- Travel Writing
+title: Patagonia
+year: 1986
 zotero_key: XIVT8FSB
-cover: covers/xivt8fsb.jpg
 ---
 

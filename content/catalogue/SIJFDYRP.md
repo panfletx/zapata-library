@@ -1,27 +1,30 @@
 ---
-title: Katzelmacher. Preparadise sorry now u.a.
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Fassbinder, Rainer Werner
-publishers:
-- Henschelverl. Kunst und Gesellschaft
-place: Berlin
-languages:
-- Deutsch
+cover: covers/sijfdyrp.jpg
+cover_note: Regalo de José
+date: '2024-09-01'
+decade: 1980s
+edition: 1. Aufl
+exlibris: '2007'
 item_types:
 - book
+languages:
+- Deutsch
+oclc: '632306296'
 pages: 187
-edition: 1. Aufl
+place: Berlin
+publishers:
+- Henschelverl. Kunst und Gesellschaft
 series:
 - Dialog
 subjects:
+- Berlin
+- Drama
 - German Literature
-oclc: '632306296'
-cover_note: Regalo de José
-exlibris: '2007'
+- Screenplay
+title: Katzelmacher. Preparadise sorry now u.a.
+year: 1985
 zotero_key: SIJFDYRP
-cover: covers/sijfdyrp.jpg
 ---
 

@@ -1,28 +1,29 @@
 ---
-title: El beso
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Chejov, Anton Pavlovich
 - Zernask, Heino
-publishers:
-- Edhasa
-place: Barcelona
-languages:
-- Español
+cover: covers/qhvcvypr.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed. en Pocket Edhasa
+exlibris: '2008'
+isbn: 978-84-350-1651-3
 item_types:
 - book
-isbn: 978-84-350-1651-3
+languages:
+- Español
+oclc: '433123161'
 pages: 370
-edition: 1a. ed. en Pocket Edhasa
+place: Barcelona
+publishers:
+- Edhasa
 series:
 - Pocket/Edhasa
 subjects:
-- Fiction
-oclc: '433123161'
-exlibris: '2008'
+- Russian Literature
+- Short Stories
+title: El beso
+year: 2000
 zotero_key: QHVCVYPR
-cover: covers/qhvcvypr.jpg
 ---
 

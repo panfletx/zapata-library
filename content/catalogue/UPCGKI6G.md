@@ -1,25 +1,26 @@
 ---
-title: Diez años de destierro
-date: '2024-09-01'
-year: 1947
-decade: 1940s
 authors:
 - Staël
-publishers:
-- Espasa-Calpe Argentina
-place: Buenos Aires
-languages:
-- Español
+cover: covers/upcgki6g.jpg
+date: '2024-09-01'
+decade: 1940s
+exlibris: '1975'
 item_types:
 - book
+languages:
+- Español
+oclc: '3599124'
 pages: 214
+place: Buenos Aires
+publishers:
+- Espasa-Calpe Argentina
 series:
 - Colección Austral
 subjects:
-- Fiction
-oclc: '3599124'
-exlibris: '1975'
+- Autobiography & Memoir
+- Migration & Exile
+title: Diez años de destierro
+year: 1947
 zotero_key: UPCGKI6G
-cover: covers/upcgki6g.jpg
 ---
 

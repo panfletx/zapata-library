@@ -1,28 +1,29 @@
 ---
-title: Bouvard et Pécuchet
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Flaubert, Gustave
 - Suffel, Jacques
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- English
+cover: covers/zcstepv5.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1976'
 item_types:
 - book
-source_url: http://catalog.hathitrust.org/api/volumes/oclc/1412911.html
+languages:
+- English
+oclc: '1122542276'
 pages: 378
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier Flammarion (Series)
+source_url: http://catalog.hathitrust.org/api/volumes/oclc/1412911.html
 subjects:
-- Fiction
+- French Literature
 - Novel
-oclc: '1122542276'
-exlibris: '1976'
+- Satire & Humor
+title: Bouvard et Pécuchet
+year: 1966
 zotero_key: ZCSTEPV5
-cover: covers/zcstepv5.jpg
 ---
 

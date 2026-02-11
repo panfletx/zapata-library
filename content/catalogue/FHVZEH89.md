@@ -1,19 +1,21 @@
 ---
-title: Fantomas contra los vampiros multinacionales
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Cortazar, Julio
-publishers:
-- Excelsior
-languages: []
+cover: covers/fhvzeh89.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages: []
+publishers:
+- Excelsior
 series: []
 subjects:
-- Fiction
+- Julio Cortázar
+- Latin American Literature
+- Novel
+title: Fantomas contra los vampiros multinacionales
+year: 1975
 zotero_key: FHVZEH89
-cover: covers/fhvzeh89.jpg
 ---
 

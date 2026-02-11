@@ -1,27 +1,28 @@
 ---
-title: Memorias póstumas de Blas Cubas
-featured: true
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Machado de Assis, Joaquin
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/24axunvs.jpg
+cover_note: dedicatoria de José
+date: '2024-09-01'
+decade: 1970s
+featured: true
 item_types:
 - book
+languages:
+- Español
+oclc: '2676323'
 pages: 294
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Colección popular
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '2676323'
-cover_note: dedicatoria de José
+- Autobiography & Memoir
+- Brazilian Literature
+- Novel
+title: Memorias póstumas de Blas Cubas
+year: 1976
 zotero_key: 24AXUNVS
-cover: covers/24axunvs.jpg
 ---
 

@@ -1,15 +1,16 @@
 ---
-title: Revista, Opus Gay 2
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/yi54ktxx.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Gay Literature
+title: Revista, Opus Gay 2
 zotero_key: YI54KTXX
-cover: covers/yi54ktxx.jpg
 ---
 

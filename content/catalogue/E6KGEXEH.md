@@ -1,27 +1,29 @@
 ---
-title: Los ángeles del cuerpo
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Gómez Sandoval, José
-publishers:
-- Instituto Politécnico Nacional
-place: México, D.F.
-languages:
-- Español
+cover: covers/e6kgexeh.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-968-29-2127-8
 item_types:
 - book
-isbn: 978-968-29-2127-8
+languages:
+- Español
+oclc: '29369000'
 pages: 124
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Instituto Politécnico Nacional
 series:
 - Colección Textos literarios
 subjects:
-- Fiction
-oclc: '29369000'
-cover_note: dedicatoria del autor
+- Mexican Literature
+- Mexico City
+- Novel
+title: Los ángeles del cuerpo
+year: 1988
 zotero_key: E6KGEXEH
-cover: covers/e6kgexeh.jpg
 ---
 

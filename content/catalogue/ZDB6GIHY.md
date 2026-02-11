@@ -1,20 +1,21 @@
 ---
-title: Saber ver lo contemporáneo del arte | WorldCat.org
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers: []
-languages:
-- English
+cover: covers/zdb6gihy.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
-source_url: https://search.worldcat.org/title/21111703
+languages:
+- English
+publishers: []
 series: []
+source_url: https://search.worldcat.org/title/21111703
 subjects:
-- Fiction
+- Contemporary History
+- Visual Art
+title: Saber ver lo contemporáneo del arte | WorldCat.org
+year: 1994
 zotero_key: ZDB6GIHY
-cover: covers/zdb6gihy.jpg
 ---
 
 Saber ver lo contemporáneo del arte | WorldCat.org

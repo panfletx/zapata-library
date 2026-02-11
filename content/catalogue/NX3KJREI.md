@@ -1,17 +1,18 @@
 ---
-title: Revista, Bellas artes
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/nx3kjrei.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Museums & Collections
+- Visual Art
+title: Revista, Bellas artes
+year: 1982
 zotero_key: NX3KJREI
-cover: covers/nx3kjrei.jpg
 ---
 

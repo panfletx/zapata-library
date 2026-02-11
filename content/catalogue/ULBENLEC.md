@@ -1,25 +1,25 @@
 ---
-title: La dama de Urtubi
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Baroja, Pío
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/ulbenlec.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0978-7
 item_types:
 - book
-isbn: 978-968-39-0978-7
+languages:
+- Español
+oclc: '651521719'
 pages: 61
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Literary Criticism
+- Novel
 - Spanish Literature
-oclc: '651521719'
+title: La dama de Urtubi
+year: 1993
 zotero_key: ULBENLEC
-cover: covers/ulbenlec.jpg
 ---
 

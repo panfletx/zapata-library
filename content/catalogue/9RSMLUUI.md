@@ -1,27 +1,27 @@
 ---
-title: Menina e moça, ou, Saudades
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Ribeiro, Bernardim
 - Macedo, Helder
-publishers:
-- Publicações dom Quixote
-place: Lisboa
-languages:
-- Português
+cover: covers/9rsmluui.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2. ed
+isbn: 978-972-20-1600-1
 item_types:
 - book
-isbn: 978-972-20-1600-1
+languages:
+- Português
+oclc: '62620021'
 pages: 222
-edition: 2. ed
+place: Lisboa
+publishers:
+- Publicações dom Quixote
 series:
 - Biblioteca de bolso claassicso
 subjects:
-- Poetry
-oclc: '62620021'
+- Novel
+title: Menina e moça, ou, Saudades
+year: 1999
 zotero_key: 9RSMLUUI
-cover: covers/9rsmluui.jpg
 ---
 

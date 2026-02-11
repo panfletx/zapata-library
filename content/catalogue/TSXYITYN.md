@@ -1,29 +1,29 @@
 ---
-title: 'El relato en perspectiva: estudio de teoría narrativa'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Pimentel, Luz Aurora
-publishers:
-- Siglo XXI
-place: México, D.F.
-languages:
-- Español
+cover: covers/tsxyityn.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2a ed
+exlibris: '2008'
+isbn: 978-968-23-2115-3
 item_types:
 - book
-isbn: 978-968-23-2115-3
+languages:
+- Español
+oclc: '56947013'
 pages: 191
-edition: 2a ed
+place: México, D.F.
+publishers:
+- Siglo XXI
 series:
 - Lingüística y teoría literaria
 subjects:
-- Fiction
+- Essay
 - Literary Criticism
-- Rhetoric
-oclc: '56947013'
-exlibris: '2008'
+- Mexican Literature
+title: 'El relato en perspectiva: estudio de teoría narrativa'
+year: 2002
 zotero_key: TSXYITYN
-cover: covers/tsxyityn.jpg
 ---
 

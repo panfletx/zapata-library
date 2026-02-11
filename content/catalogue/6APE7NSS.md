@@ -1,25 +1,27 @@
 ---
-title: 'Death & chicanery: a collection of tales'
-date: '2024-09-01'
-year: 1964
-decade: 1960s
 authors:
 - MacDonald, Philip
-publishers:
-- Popular Library
-place: New York
-languages:
-- English
+cover: covers/6ape7nss.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: Popular library ed
 item_types:
 - book
+languages:
+- English
+oclc: '1057068315'
 pages: 143
-edition: Popular library ed
+place: New York
+publishers:
+- Popular Library
 series:
 - Popular library
 subjects:
-- Fiction
-oclc: '1057068315'
+- American Literature
+- Detective & Mystery
+- Short Stories
+title: 'Death & chicanery: a collection of tales'
+year: 1964
 zotero_key: 6APE7NSS
-cover: covers/6ape7nss.jpg
 ---
 

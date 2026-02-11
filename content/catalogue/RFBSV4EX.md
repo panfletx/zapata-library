@@ -1,28 +1,29 @@
 ---
-title: El primo Basilio episodio doméstico
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Queirós, Eça de
 - Losada, Basilio
 - Morales, Rafael
-publishers:
-- Planeta
-place: Barcelona
-languages:
-- Español
+cover: covers/rfbsv4ex.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: '[2a. ed. en Clásicos universales Planeta]'
+isbn: 978-84-320-3860-0
 item_types:
 - book
-isbn: 978-84-320-3860-0
+languages:
+- Español
+oclc: '434923661'
 pages: 416
-edition: '[2a. ed. en Clásicos universales Planeta]'
+place: Barcelona
+publishers:
+- Planeta
 series:
 - Clásicos universales Planeta
 subjects:
 - Fiction
-oclc: '434923661'
+- Novel
+title: El primo Basilio episodio doméstico
+year: 1988
 zotero_key: RFBSV4EX
-cover: covers/rfbsv4ex.jpg
 ---
 

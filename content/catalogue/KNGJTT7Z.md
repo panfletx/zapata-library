@@ -1,27 +1,28 @@
 ---
-title: Encuentro inesperado
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Villaseñor, Arturo
 - Montalvo Saluzzo, Germán
 - Hermosillo, Jaime Humberto
-publishers:
-- Universidad Veracruzana
-place: Xalapa, Ver.
-languages:
-- Español
+cover: covers/kngjtt7z.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-834-256-5
 item_types:
 - book
-isbn: 978-968-834-256-5
+languages:
+- Español
+oclc: '651171734'
 pages: 81
+place: Xalapa, Ver.
+publishers:
+- Universidad Veracruzana
 series: []
 subjects:
-- Fiction
+- Drama
+- Film & Cinema
 - Mexican Literature
-oclc: '651171734'
+title: Encuentro inesperado
+year: 1992
 zotero_key: KNGJTT7Z
-cover: covers/kngjtt7z.jpg
 ---
 

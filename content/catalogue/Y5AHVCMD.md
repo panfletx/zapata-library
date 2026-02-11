@@ -1,25 +1,27 @@
 ---
-title: Gay sunshine interviews. Volume 2
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Dunn, Ian C.
-publishers:
-- Gay Sunshine Press
-place: San Francisco
-languages:
-- English
+cover: covers/y5ahvcmd.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: First edition
+isbn: 978-0-917342-63-9
 item_types:
 - book
-isbn: 978-0-917342-63-9
+languages:
+- English
+oclc: '991531488'
 pages: 288
-edition: First edition
+place: San Francisco
+publishers:
+- Gay Sunshine Press
 series: []
 subjects:
-- Fiction
-oclc: '991531488'
+- Gay Literature
+- Interview
+- Queer Studies
+title: Gay sunshine interviews. Volume 2
+year: 1982
 zotero_key: Y5AHVCMD
-cover: covers/y5ahvcmd.jpg
 ---
 

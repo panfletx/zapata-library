@@ -1,30 +1,28 @@
 ---
-title: October
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Isherwood, Christopher
 - Bachardy, Don
-publishers:
-- Twelvetrees Press
-place: Los Angeles
-languages:
-- English
+cover: covers/95xwxzme.jpg
+cover_note: dedicatoria de Kieran
+date: '2024-09-01'
+decade: 1980s
+edition: First trade edition
 item_types:
 - book
+languages:
+- English
+oclc: '8230287'
 pages: 85
-edition: First trade edition
+place: Los Angeles
+publishers:
+- Twelvetrees Press
 series: []
 subjects:
-- Diary & Letters
+- American Literature
+- Autobiography & Memoir
 - Gay Literature
-- Literary Criticism
-- Love & Desire
-- Visual Art
-oclc: '8230287'
-cover_note: dedicatoria de Kieran
+title: October
+year: 1981
 zotero_key: 95XWXZME
-cover: covers/95xwxzme.jpg
 ---
 

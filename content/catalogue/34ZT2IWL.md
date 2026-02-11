@@ -1,17 +1,18 @@
 ---
-title: Revista, Complot
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/34zt2iwl.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Contemporary History
+title: Revista, Complot
+year: 2000
 zotero_key: 34ZT2IWL
-cover: covers/34zt2iwl.jpg
 ---
 

@@ -1,25 +1,25 @@
 ---
-title: 'Larousse: alemán guía de viaje ; objetivo: desenvolverse eficazmente'
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors: []
-publishers:
-- Ediciones Larousse
-place: México
-languages:
-- Multilingual
+cover: covers/d6t3yn2p.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-607-400-074-0
 item_types:
 - book
-isbn: 978-607-400-074-0
+languages:
+- Multilingual
+oclc: '906931111'
 pages: 192
-edition: 1a ed
+place: México
+publishers:
+- Ediciones Larousse
 series: []
 subjects:
-- Dictionary
 - Grammar & Linguistics
-oclc: '906931111'
+- Travel Writing
+title: 'Larousse: alemán guía de viaje ; objetivo: desenvolverse eficazmente'
+year: 2008
 zotero_key: D6T3YN2P
-cover: covers/d6t3yn2p.jpg
 ---
 

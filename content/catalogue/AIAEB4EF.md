@@ -1,26 +1,28 @@
 ---
-title: Memoria del fuego
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Galeano, Eduardo
-publishers:
-- Siglo XXI
-place: Madrid
-languages:
-- Español
+cover: covers/aiaeb4ef.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1985'
+isbn: 978-84-323-0439-2
 item_types:
 - book
-isbn: 978-84-323-0439-2
+languages:
+- Español
+oclc: '913002244'
 pages: 3
+place: Madrid
+publishers:
+- Siglo XXI
 series:
 - Creación literaria
 subjects:
-- Oral Tradition & Folklore
-oclc: '913002244'
-exlibris: '1985'
+- Contemporary History
+- Essay
+- Latin American Literature
+title: Memoria del fuego
+year: 1984
 zotero_key: AIAEB4EF
-cover: covers/aiaeb4ef.jpg
 ---
 

@@ -1,27 +1,26 @@
 ---
-title: 'Women and men: erotica'
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Verlaine, Paul
-publishers:
-- Stonehill
-place: New York
-languages:
-- English
+cover: covers/fc5ydlkm.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-88373-092-8
 item_types:
 - book
-isbn: 978-0-88373-092-8
+languages:
+- English
+oclc: '7506882'
 pages: 154
+place: New York
+publishers:
+- Stonehill
 series: []
 subjects:
 - Erotic Literature
+- French Literature
 - Poetry
-- Sexuality & Eroticism
-- Translation Studies
-oclc: '7506882'
+title: 'Women and men: erotica'
+year: 1980
 zotero_key: FC5YDLKM
-cover: covers/fc5ydlkm.jpg
 ---
 

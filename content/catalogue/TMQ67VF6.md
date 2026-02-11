@@ -1,31 +1,29 @@
 ---
-title: Libro de las maravillas
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Polo, Marco
 - Fernández-Santaella, Rodrigo
-publishers:
-- Mestas
-place: Madrid
-languages:
-- Español
+cover: covers/tmq67vf6.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2010'
+isbn: 978-84-95994-29-5
 item_types:
 - book
-isbn: 978-84-95994-29-5
+languages:
+- Español
+oclc: '427478151'
 pages: 284
+place: Madrid
+publishers:
+- Mestas
 series:
 - Clásicos universales (JM Ediciones)
 subjects:
-- Ancient History
-- Children's Literature
-- Japan
-- Modern History
+- Chronicle
+- Historical Fiction
 - Travel Writing
-oclc: '427478151'
-exlibris: '2010'
+title: Libro de las maravillas
+year: 2007
 zotero_key: TMQ67VF6
-cover: covers/tmq67vf6.jpg
 ---
 

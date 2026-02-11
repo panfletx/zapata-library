@@ -1,26 +1,28 @@
 ---
-title: Women in love
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Lawrence, D. H.
-publishers:
-- Penguin
-place: Harmondsworth, Middlesex
-languages:
-- English
+cover: covers/rs9xdvgg.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Reprint
+exlibris: Luiz Zapata
 item_types:
 - book
+languages:
+- English
+oclc: '471591698'
 pages: 540
-edition: Reprint
+place: Harmondsworth, Middlesex
+publishers:
+- Penguin
 series:
 - Penguin books
 subjects:
-- Fiction
-oclc: '471591698'
-exlibris: Luiz Zapata
+- English Literature
+- Love & Desire
+- Novel
+title: Women in love
+year: 1970
 zotero_key: RS9XDVGG
-cover: covers/rs9xdvgg.jpg
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: Para sufrir menos para sufrir mejor
-date: '2024-09-01'
 authors:
 - Pederzini, Novelo
-publishers:
-- Misioneros Combonianos del Corazón de Jesús
-place: México, D.F.
-languages:
-- Español
+cover: covers/87pjftng.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages:
+- Español
+oclc: '907017067'
 pages: 186
+place: México, D.F.
+publishers:
+- Misioneros Combonianos del Corazón de Jesús
 series: []
 subjects:
-- Catholicism
-- Death & Mourning
+- Essay
+- Philosophy
 - Religion
-oclc: '907017067'
+title: Para sufrir menos para sufrir mejor
 zotero_key: 87PJFTNG
-cover: covers/87pjftng.jpg
 ---
 

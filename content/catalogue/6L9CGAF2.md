@@ -1,29 +1,30 @@
 ---
-title: Domar a la divina garza
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Pitol, Sergio
-publishers:
-- Ed. Anagrama
-place: Barcelona
-languages:
-- Español
+cover: covers/6l9cgaf2.jpg
+cover_note: Angelica y Luis
+date: '2024-09-01'
+decade: 1980s
+edition: 2a. ed
+isbn: 978-84-339-1768-3
 item_types:
 - book
-isbn: 978-84-339-1768-3
-source_url: http://catalogue.bnf.fr/ark:/12148/cb375295919
+languages:
+- Español
+oclc: '468897316'
 pages: 203
-edition: 2a. ed
+place: Barcelona
+publishers:
+- Ed. Anagrama
 series:
 - Narrativas hispánicas
+source_url: http://catalogue.bnf.fr/ark:/12148/cb375295919
 subjects:
 - Fiction
+- Mexican Literature
 - Mexico
-oclc: '468897316'
-cover_note: Angelica y Luis
+title: Domar a la divina garza
+year: 1988
 zotero_key: 6L9CGAF2
-cover: covers/6l9cgaf2.jpg
 ---
 

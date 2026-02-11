@@ -1,24 +1,26 @@
 ---
-title: Essais Tome III
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Montaigne, Michel de
 - Michel, Pierre
-publishers:
-- Livre de Poche
-place: Paris
-languages:
-- Français
+cover: covers/xmbubj4e.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '976590132'
+place: Paris
+publishers:
+- Livre de Poche
 series:
 - Le Livre de poche classique
 subjects:
+- Essay
+- France
 - French Literature
-oclc: '976590132'
+title: Essais Tome III
+year: 1972
 zotero_key: XMBUBJ4E
-cover: covers/xmbubj4e.jpg
 ---
 

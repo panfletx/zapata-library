@@ -1,28 +1,28 @@
 ---
-title: A bout de souffle
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Godard, Jean-Luc
 - Truffaut, François
-publishers:
-- Balland
-place: Paris
-languages:
-- Français
+cover: covers/hgu8hhpu.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-7158-0010-6
 item_types:
 - book
-isbn: 978-2-7158-0010-6
+languages:
+- Français
+oclc: '1333252'
 pages: 235
+place: Paris
+publishers:
+- Balland
 series:
 - Bibliothèque des classiques du cinéma
 subjects:
-- Drama
 - Film & Cinema
+- French Literature
 - Screenplay
-oclc: '1333252'
+title: A bout de souffle
+year: 1974
 zotero_key: HGU8HHPU
-cover: covers/hgu8hhpu.jpg
 ---
 

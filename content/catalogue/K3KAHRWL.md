@@ -1,24 +1,26 @@
 ---
-title: La comédie humaine
-date: '2024-09-01'
-year: 1950
-decade: 1950s
 authors:
 - Balzac, Honoré de
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/k3kahrwl.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Français
+oclc: '2392120'
 pages: 10
+place: Paris
+publishers:
+- Gallimard
 series:
 - Bibliothèque de la Pléiade
 subjects:
 - Fiction
-oclc: '2392120'
+- French Literature
+- Novel
+title: La comédie humaine
+year: 1950
 zotero_key: K3KAHRWL
-cover: covers/k3kahrwl.jpg
 ---
 

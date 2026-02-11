@@ -1,27 +1,25 @@
 ---
-title: 'El diván: 25 autoconfesiones'
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors: []
-publishers:
-- Arte y Escena Ediciones
-place: México, D.F.
-languages:
-- Español
+cover: covers/7ib2agae.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-6773-83-5
 item_types:
 - book
-isbn: 978-968-6773-83-5
+languages:
+- Español
+oclc: '56115245'
 pages: 151
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Arte y Escena Ediciones
 series: []
 subjects:
-- Drama
-- Psychoanalysis
-- Translation Studies
-- United States
-oclc: '56115245'
+- Autobiography & Memoir
+- Mexican Literature
+title: 'El diván: 25 autoconfesiones'
+year: 2003
 zotero_key: 7IB2AGAE
-cover: covers/7ib2agae.jpg
 ---
 

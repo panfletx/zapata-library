@@ -1,25 +1,25 @@
 ---
-title: Arista
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Herrera, Oscar Efraín.
-publishers:
-- Ediciones Intempestivas
-place: Monterrey, México
-languages:
-- Español
+cover: covers/srtzpxzr.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '813305411'
 pages: 80
-edition: 1. ed
+place: Monterrey, México
+publishers:
+- Ediciones Intempestivas
 series: []
 subjects:
-- Mexico
+- Mexican Literature
 - Poetry
-oclc: '813305411'
+title: Arista
+year: 2011
 zotero_key: SRTZPXZR
-cover: covers/srtzpxzr.jpg
 ---
 

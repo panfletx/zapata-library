@@ -1,26 +1,25 @@
 ---
-title: 'Harper Collins pocket diccionario: español-alemań, Deutsch-Spanisch'
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers:
-- HarperCollins/Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/9u7p3sbp.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-05-0496-4
 item_types:
 - book
-isbn: 978-970-05-0496-4
+languages:
+- Español
+oclc: '32415387'
 pages: 405
+place: México, D.F.
+publishers:
+- HarperCollins/Grijalbo
 series:
 - Harper Reference
 subjects:
 - Dictionary
 - Grammar & Linguistics
-- Modern History
-oclc: '32415387'
+title: 'Harper Collins pocket diccionario: español-alemań, Deutsch-Spanisch'
+year: 1994
 zotero_key: 9U7P3SBP
-cover: covers/9u7p3sbp.jpg
 ---
 

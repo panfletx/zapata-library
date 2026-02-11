@@ -1,27 +1,26 @@
 ---
-title: 'Guía médica de remedios caseros: miles de sugerencias y técnicas que usted puede utilizar para resolver cualquier problema cotidiano de salud'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Tkac, Debora
-publishers:
-- Diana
-place: México, D.F.
-languages:
-- Español
+cover: covers/wjj8gukj.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-13-2298-4
 item_types:
 - book
-isbn: 978-968-13-2298-4
+languages:
+- Español
+oclc: '28107948'
 pages: 739
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Diana
 series: []
 subjects:
 - Medicine & Health
-- Science
-oclc: '28107948'
+title: 'Guía médica de remedios caseros: miles de sugerencias y técnicas que usted puede utilizar para resolver cualquier problema cotidiano de salud'
+year: 1992
 zotero_key: WJJ8GUKJ
-cover: covers/wjj8gukj.jpg
 ---
 
 Provides advice for the treatment of a wide variety of human ailments

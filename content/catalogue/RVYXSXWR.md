@@ -1,29 +1,27 @@
 ---
-title: Retrato del artista adolescente
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Joyce, James
-publishers:
-- Tomo
-place: México
-languages:
-- Español
+cover: covers/rvyxsxwr.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-666-973-5
 item_types:
 - book
-isbn: 978-970-666-973-5
+languages:
+- Español
+oclc: '61523678'
 pages: 236
+place: México
+publishers:
+- Tomo
 series:
 - Clásicos literatura
 subjects:
-- Children's Literature
-- Dublin
-- Fiction
-- Short Stories
-- Visual Art
-oclc: '61523678'
+- Childhood
+- Irish Literature
+- Novel
+title: Retrato del artista adolescente
+year: 2004
 zotero_key: RVYXSXWR
-cover: covers/rvyxsxwr.jpg
 ---
 

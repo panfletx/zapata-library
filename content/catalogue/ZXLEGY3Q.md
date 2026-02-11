@@ -1,26 +1,27 @@
 ---
-title: Movimiento perpetuo
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Monterroso, Augusto
-publishers:
-- Editorial Joaquín Mortiz, S.A.
-place: México
-languages:
-- Español
+cover: covers/zxlegy3q.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Primera edición
 item_types:
 - book
+languages:
+- Español
+oclc: '719593'
 pages: 151
-edition: Primera edición
+place: México
+publishers:
+- Editorial Joaquín Mortiz, S.A.
 series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:
-- Modern History
-- Short Stories
-oclc: '719593'
+- Essay
+- Mexican Literature
+- Satire & Humor
+title: Movimiento perpetuo
+year: 1972
 zotero_key: ZXLEGY3Q
-cover: covers/zxlegy3q.jpg
 ---
 

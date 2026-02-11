@@ -1,29 +1,27 @@
 ---
-title: El héroe de las mujeres
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Bioy Casares, Adolfo
-publishers:
-- Emecé Editores
-place: Buenos Aires
-languages:
-- Español
+cover: covers/fych9uhy.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-950-04-0218-7
 item_types:
 - book
-isbn: 978-950-04-0218-7
+languages:
+- Español
+oclc: '39750020'
 pages: 191
+place: Buenos Aires
+publishers:
+- Emecé Editores
 series:
 - Escritores argentinos (Emecé Editores)
 subjects:
-- Argentina
 - Argentine Literature
 - Fiction
-- Literary Criticism
-- Short Stories
-oclc: '39750020'
+- Novel
+title: El héroe de las mujeres
+year: 1996
 zotero_key: FYCH9UHY
-cover: covers/fych9uhy.jpg
 ---
 

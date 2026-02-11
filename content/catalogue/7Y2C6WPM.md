@@ -1,24 +1,25 @@
 ---
-title: Diccionario italiano-español, spagnolo-italiano
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Ortiz de Burgos, José
-publishers:
-- Hymsa
-place: Barcelona
-languages:
-- Español
+cover: covers/7y2c6wpm.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-7183-045-6
 item_types:
 - book
-isbn: 978-84-7183-045-6
+languages:
+- Español
+oclc: '1123526074'
 pages: 415
+place: Barcelona
+publishers:
+- Hymsa
 series: []
 subjects:
 - Dictionary
-oclc: '1123526074'
+- Translation Studies
+title: Diccionario italiano-español, spagnolo-italiano
+year: 1974
 zotero_key: 7Y2C6WPM
-cover: covers/7y2c6wpm.jpg
 ---
 

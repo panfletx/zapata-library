@@ -1,25 +1,27 @@
 ---
-title: Adiós a Berlín
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Isherwood, Christopher
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/zltiswrg.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-322-0164-6
 item_types:
 - book
-isbn: 978-84-322-0164-6
+languages:
+- Español
+oclc: '433958667'
 pages: 231
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Biblioteca Breve. Novela
 subjects:
-- Fiction
-oclc: '433958667'
+- Berlin
+- English Literature
+- Novel
+title: Adiós a Berlín
+year: 1973
 zotero_key: ZLTISWRG
-cover: covers/zltiswrg.jpg
 ---
 

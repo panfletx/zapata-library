@@ -1,29 +1,29 @@
 ---
-title: La Seducción de las palabras
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Grijelmo, Álex
-publishers:
-- Punto de Lectura
-place: Madrid
-languages:
-- Español
+cover: covers/hzmwk4sm.jpg
+cover_note: regalo de Arturo
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2010'
+isbn: 978-84-663-6991-6
 item_types:
 - book
-isbn: 978-84-663-6991-6
+languages:
+- Español
+oclc: '804194478'
 pages: 331
+place: Madrid
+publishers:
+- Punto de Lectura
 series:
 - Punto de lectura (2006)
 subjects:
+- Essay
 - Grammar & Linguistics
-- Rhetoric
-- Visual Art
-oclc: '804194478'
-cover_note: regalo de Arturo
-exlibris: '2010'
+- Spanish Literature
+title: La Seducción de las palabras
+year: 2007
 zotero_key: HZMWK4SM
-cover: covers/hzmwk4sm.jpg
 ---
 

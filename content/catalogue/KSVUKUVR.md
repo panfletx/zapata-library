@@ -1,18 +1,17 @@
 ---
-title: Luis Zapata...El vampiro de la colonia Roma
-date: '2024-09-01'
 authors:
 - Baldovinos, Jaime
-publishers: []
-languages: []
+cover: covers/ksvukuvr.jpg
+date: '2024-09-01'
 item_types:
 - magazineArticle
+languages: []
+publishers: []
 series: []
 subjects:
-- Gay Literature
 - Literary Criticism
 - Luis Zapata
+title: Luis Zapata...El vampiro de la colonia Roma
 zotero_key: KSVUKUVR
-cover: covers/ksvukuvr.jpg
 ---
 

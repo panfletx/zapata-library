@@ -1,27 +1,29 @@
 ---
-title: Una muñeca rusa
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Bioy Casares, Adolfo
-publishers:
-- Tusquets Editores
-place: Barcelona
-languages:
-- Español
+cover: covers/4sqdjmb7.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+exlibris: '1992'
+isbn: 978-84-7223-297-6
 item_types:
 - book
-isbn: 978-84-7223-297-6
+languages:
+- Español
+oclc: '24522949'
 pages: 179
-edition: 1a ed
+place: Barcelona
+publishers:
+- Tusquets Editores
 series:
 - Colección Andanzas
 subjects:
-- Grammar & Linguistics
-oclc: '24522949'
-exlibris: '1992'
+- Argentina
+- Argentine Literature
+- Novel
+title: Una muñeca rusa
+year: 1991
 zotero_key: 4SQDJMB7
-cover: covers/4sqdjmb7.jpg
 ---
 

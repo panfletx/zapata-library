@@ -1,27 +1,28 @@
 ---
-title: Crónicas
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - López de Ayala, Pedro
 - Martín, José-Luis
-publishers:
-- Planeta
-place: Barcelona, España
-languages:
-- Español
+cover: covers/yxisyxn8.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-320-6965-9
 item_types:
 - book
-isbn: 978-84-320-6965-9
+languages:
+- Español
+oclc: '24339246'
 pages: 909
+place: Barcelona, España
+publishers:
+- Planeta
 series:
 - Clásicos universales Planeta
 subjects:
-- Modern History
+- Chronicle
 - Spain
-oclc: '24339246'
+- Spanish Literature
+title: Crónicas
+year: 1991
 zotero_key: YXISYXN8
-cover: covers/yxisyxn8.jpg
 ---
 

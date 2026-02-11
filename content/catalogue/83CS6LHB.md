@@ -1,32 +1,30 @@
 ---
-title: 'Elías Nandino: una vida no/velada'
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Aguilar, Enrique
-publishers:
-- Grijalbo
-place: México
-languages:
-- Español
+cover: covers/83cs6lhb.jpg
+cover_note: Regalo de José
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: '1991'
+isbn: 978-968-419-630-8
 item_types:
 - book
-isbn: 978-968-419-630-8
+languages:
+- Español
+oclc: '17200609'
 pages: 175
-edition: 1a ed
+place: México
+publishers:
+- Grijalbo
 series:
 - Colección Narrativa
 subjects:
 - Biography
-- Fiction
-- Literary Criticism
-- Mexico
-- Poetry
-oclc: '17200609'
-cover_note: Regalo de José
-exlibris: '1991'
+- Gay Literature
+- Mexican Literature
+title: 'Elías Nandino: una vida no/velada'
+year: 1986
 zotero_key: 83CS6LHB
-cover: covers/83cs6lhb.jpg
 ---
 

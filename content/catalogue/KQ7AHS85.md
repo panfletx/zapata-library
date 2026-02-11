@@ -1,28 +1,29 @@
 ---
-title: Un taxi en L.A.
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Hinojosa, Francisco
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/kq7ahs85.jpg
+cover_note: dedicatoria de autora
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-7795-4
 item_types:
 - book
-isbn: 978-968-29-7795-4
+languages:
+- Español
+oclc: '38890982'
 pages: 137
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Cuaderno de viaje
 subjects:
 - Fiction
-- Mexico
-oclc: '38890982'
-cover_note: dedicatoria de autora
+- Mexican Literature
+- Mexico City
+title: Un taxi en L.A.
+year: 1995
 zotero_key: KQ7AHS85
-cover: covers/kq7ahs85.jpg
 ---
 

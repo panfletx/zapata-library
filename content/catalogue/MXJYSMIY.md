@@ -1,29 +1,28 @@
 ---
-title: 'Dos novelas: Recuerdos del escribiente Isaías Caminha : El triste fin de Policarpo Quaresma'
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Barreto, Lima
 - Barbosa, Francisco de Assis
 - Jofré Barroso, Haydée M.
-publishers:
-- Biblioteca Ayacucho
-place: Caracas
-languages:
-- Español
+cover: covers/mxjysmiy.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-499-0059-4
 item_types:
 - book
-isbn: 978-84-499-0059-4
+languages:
+- Español
+oclc: '6057157'
 pages: 390
+place: Caracas
+publishers:
+- Biblioteca Ayacucho
 series:
 - Biblioteca Ayacucho (Caracas, Venezuela)
 subjects:
-- Fiction
-- Spanish Literature
-- Translation Studies
-oclc: '6057157'
+- Brazilian Literature
+- Novel
+title: 'Dos novelas: Recuerdos del escribiente Isaías Caminha : El triste fin de Policarpo Quaresma'
+year: 1978
 zotero_key: MXJYSMIY
-cover: covers/mxjysmiy.jpg
 ---
 

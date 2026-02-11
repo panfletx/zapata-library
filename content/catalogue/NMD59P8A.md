@@ -1,26 +1,26 @@
 ---
-title: Homosexuales en la historia
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Rowse, A. L.
-publishers:
-- Planeta
-place: Barcelona
-languages:
-- Español
+cover: covers/nmd59p8a.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-320-3576-0
 item_types:
 - book
-isbn: 978-84-320-3576-0
+languages:
+- Español
+oclc: '8211945'
 pages: 421
+place: Barcelona
+publishers:
+- Planeta
 series:
 - Documento
 subjects:
 - Gay Literature
-- Modern History
-oclc: '8211945'
+- Human Rights
+title: Homosexuales en la historia
+year: 1981
 zotero_key: NMD59P8A
-cover: covers/nmd59p8a.jpg
 ---
 

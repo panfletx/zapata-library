@@ -1,17 +1,18 @@
 ---
-title: Revista, Chicome 6
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/sf3bnbbl.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Mexican Literature
+title: Revista, Chicome 6
+year: 1984
 zotero_key: SF3BNBBL
-cover: covers/sf3bnbbl.jpg
 ---
 

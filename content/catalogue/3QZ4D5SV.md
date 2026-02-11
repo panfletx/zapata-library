@@ -1,26 +1,26 @@
 ---
-title: El ABC de la nutricion
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Fossas, Francesc J.
-publishers:
-- RBA Libros
-place: Barcelona
-languages:
-- Español
+cover: covers/3qz4d5sv.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-7901-554-1
 item_types:
 - book
-isbn: 978-84-7901-554-1
+languages:
+- Español
+oclc: '813964778'
 pages: 77
+place: Barcelona
+publishers:
+- RBA Libros
 series:
 - Manuales Integral
 subjects:
 - Food & Gastronomy
-- Science
-oclc: '813964778'
+- Medicine & Health
+title: El ABC de la nutricion
+year: 2000
 zotero_key: 3QZ4D5SV
-cover: covers/3qz4d5sv.jpg
 ---
 

@@ -1,27 +1,29 @@
 ---
-title: Bolereando el llanto
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Conde, Rosina
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: Chimalistac, D.F.
-languages:
-- Español
+cover: covers/uzp83vk3.jpg
+cover_note: dedicatoria de autora
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-4999-9
 item_types:
 - book
-isbn: 978-968-29-4999-9
+languages:
+- Español
+oclc: '29287740'
 pages: 80
-edition: 1. ed
+place: Chimalistac, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Fiction
-oclc: '29287740'
-cover_note: dedicatoria de autora
+- Mexican Literature
+- Music
+- Poetry
+title: Bolereando el llanto
+year: 1993
 zotero_key: UZP83VK3
-cover: covers/uzp83vk3.jpg
 ---
 

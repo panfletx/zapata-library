@@ -1,32 +1,25 @@
 ---
-title: Miau ; Marianela
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Pérez Galdós, Benito
-publishers:
-- Porrúa
-place: México
-languages:
-- Español
+cover: covers/nirwxb4p.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 5th edition
 item_types:
 - book
+languages:
+- Español
+oclc: '20194720'
 pages: 104
-edition: 5th edition
+place: México
+publishers:
+- Porrúa
 series: []
 subjects:
-- Drama
-- Fiction
-- Latin American Politics
-- Love & Desire
-- Madrid
-- Medicine & Health
-- Satire & Humor
-- Spain
+- Novel
 - Spanish Literature
-oclc: '20194720'
+title: Miau ; Marianela
+year: 1973
 zotero_key: NIRWXB4P
-cover: covers/nirwxb4p.jpg
 ---
 

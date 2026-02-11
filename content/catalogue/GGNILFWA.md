@@ -1,26 +1,26 @@
 ---
-title: Las oraciones católicas más bellas del mundo
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors: []
-publishers:
-- Fontamara
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/ggnilfwa.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2a ed
+isbn: 978-968-476-222-0
 item_types:
 - book
-isbn: 978-968-476-222-0
+languages:
+- Español
+oclc: '34060133'
 pages: 117
-edition: 2a ed
+place: Mexico, D.F.
+publishers:
+- Fontamara
 series:
 - Fontamara
 subjects:
 - Catholicism
 - Religion
-oclc: '34060133'
+title: Las oraciones católicas más bellas del mundo
+year: 1995
 zotero_key: GGNILFWA
-cover: covers/ggnilfwa.jpg
 ---
 

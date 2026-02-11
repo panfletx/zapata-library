@@ -1,25 +1,26 @@
 ---
-title: Los sertones I
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Cunha, Euclides da
-publishers:
-- Universidad Nacional Autónoma de México, Dirección General de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/t3nljewb.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
 item_types:
 - book
-edition: 1. ed
+languages:
+- Español
+oclc: '4600459'
+place: México
+publishers:
+- Universidad Nacional Autónoma de México, Dirección General de Publicaciones
 series:
 - Nuestros clásicos
 subjects:
-- Brazil
-- Modern History
-oclc: '4600459'
+- Brazilian Literature
+- Novel
+- Rural Life
+title: Los sertones I
+year: 1977
 zotero_key: T3NLJEWB
-cover: covers/t3nljewb.jpg
 ---
 

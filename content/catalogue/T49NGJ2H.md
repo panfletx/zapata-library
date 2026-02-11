@@ -1,24 +1,26 @@
 ---
-title: El astillero
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Onetti, Juan Carlos
-publishers:
-- Salvat Editores, S.A.
-place: Madrid
-languages:
-- Español
+cover: covers/t49ngj2h.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '6759466'
 pages: 166
+place: Madrid
+publishers:
+- Salvat Editores, S.A.
 series:
 - Biblioteca basica Salvat
 subjects:
-- Fiction
-oclc: '6759466'
+- Argentine Literature
+- Novel
+- Urban Life
+title: El astillero
+year: 1971
 zotero_key: T49NGJ2H
-cover: covers/t49ngj2h.jpg
 ---
 

@@ -1,29 +1,29 @@
 ---
-title: Respuesta a Job
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Jung, C. G.
-publishers:
-- F.C.E. de España
-place: Madrid
-languages:
-- Español
+cover: covers/e2qgwn2h.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed., 2a. reimp
+exlibris: '1990'
+isbn: 978-84-375-0444-5
 item_types:
 - book
-isbn: 978-84-375-0444-5
+languages:
+- Español
+oclc: '431625705'
 pages: 132
-edition: 1a. ed., 2a. reimp
+place: Madrid
+publishers:
+- F.C.E. de España
 series:
 - Sección de psicología y psicoanálisis
 subjects:
-- Literary Criticism
+- Philosophy
 - Psychoanalysis
-- Religion
-oclc: '431625705'
-exlibris: '1990'
+- Sigmund Freud
+title: Respuesta a Job
+year: 1998
 zotero_key: E2QGWN2H
-cover: covers/e2qgwn2h.jpg
 ---
 

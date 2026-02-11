@@ -1,27 +1,27 @@
 ---
-title: 'Le chinois de la douleur: roman'
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Handke, Peter
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/ld53m4pd.jpg
+cover_note: '1986'
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-07-070618-1
 item_types:
 - book
-isbn: 978-2-07-070618-1
+languages:
+- Français
+oclc: '220329991'
 pages: 160
+place: Paris
+publishers:
+- Gallimard
 series:
 - Du monde entier
 subjects:
-- Fiction
-- Modern History
-oclc: '220329991'
-cover_note: '1986'
+- German Literature
+- Novel
+title: 'Le chinois de la douleur: roman'
+year: 1986
 zotero_key: LD53M4PD
-cover: covers/ld53m4pd.jpg
 ---
 

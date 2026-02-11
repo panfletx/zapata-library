@@ -1,26 +1,26 @@
 ---
-title: Diccionario de ideas afines
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Corripio, Fernando
-publishers:
-- Herder
-place: Barcelona
-languages:
-- Español
+cover: covers/nuu6gvhy.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Cuarta ed
+isbn: 978-84-254-1515-9
 item_types:
 - book
-isbn: 978-84-254-1515-9
+languages:
+- Español
+oclc: '34206814'
 pages: 912
-edition: Cuarta ed
+place: Barcelona
+publishers:
+- Herder
 series: []
 subjects:
 - Dictionary
-- Grammar & Linguistics
-oclc: '34206814'
+- Spanish Literature
+title: Diccionario de ideas afines
+year: 1994
 zotero_key: NUU6GVHY
-cover: covers/nuu6gvhy.jpg
 ---
 

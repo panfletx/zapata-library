@@ -1,27 +1,29 @@
 ---
-title: Teorema
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Pasolini, Pier Paolo
 - Pezzoni, Enrique
-publishers:
-- Sudamericana
-place: Buenos Aires
-languages:
-- Español
+cover: covers/yqwefjvs.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 8a ed
+exlibris: Luis Zapata
 item_types:
 - book
+languages:
+- Español
+oclc: '427513895'
 pages: 223
-edition: 8a ed
+place: Buenos Aires
+publishers:
+- Sudamericana
 series:
 - Coleccion horizonte
 subjects:
-- Fiction
-oclc: '427513895'
-exlibris: Luis Zapata
+- Film & Cinema
+- Italian Literature
+- Screenplay
+title: Teorema
+year: 1971
 zotero_key: YQWEFJVS
-cover: covers/yqwefjvs.jpg
 ---
 

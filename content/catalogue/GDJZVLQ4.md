@@ -1,29 +1,29 @@
 ---
-title: La litera fantástica y otros cuentos
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Kipling, Rudyard
-publishers:
-- Siglo Veintiuno
-place: México, D.F.
-languages:
-- Español
+cover: covers/gdjzvlq4.jpg
+cover_note: regalias vampiro
+date: '2024-09-01'
+decade: 2000s
+edition: 4a ed
+exlibris: '2006'
+isbn: 978-968-23-2264-8
 item_types:
 - book
-isbn: 978-968-23-2264-8
+languages:
+- Español
+oclc: '906991360'
 pages: 189
-edition: 4a ed
+place: México, D.F.
+publishers:
+- Siglo Veintiuno
 series:
 - Escuchar con los ojos
 subjects:
+- English Literature
 - Short Stories
-- Translation Studies
-oclc: '906991360'
-cover_note: regalias vampiro
-exlibris: '2006'
+title: La litera fantástica y otros cuentos
+year: 2004
 zotero_key: GDJZVLQ4
-cover: covers/gdjzvlq4.jpg
 ---
 

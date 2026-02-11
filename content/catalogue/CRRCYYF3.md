@@ -1,28 +1,29 @@
 ---
-title: El Conde Lucanor
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Juan Manuel
 - Bolaño e Isla, Amancio
-publishers:
-- Editorial Porrúa
-place: México
-languages:
-- Español
+cover: covers/crrcyyf3.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 9. ed
+exlibris: '1974'
 item_types:
 - book
+languages:
+- Español
+oclc: '5011965'
 pages: 201
-edition: 9. ed
+place: México
+publishers:
+- Editorial Porrúa
 series:
 - '"Sepan cuantos-- ."'
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '5011965'
-exlibris: '1974'
+- Fable & Parable
+- Medieval Literature
+- Spanish Literature
+title: El Conde Lucanor
+year: 1973
 zotero_key: CRRCYYF3
-cover: covers/crrcyyf3.jpg
 ---
 

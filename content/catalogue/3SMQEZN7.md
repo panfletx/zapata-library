@@ -1,31 +1,27 @@
 ---
-title: Moby Dick; or, The white whale
-date: '2024-09-01'
-year: 1961
-decade: 1960s
 authors:
 - Melville, Herman
-publishers:
-- New American Library
-place: New York
-languages:
-- English
+cover: covers/3smqezn7.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '2146189'
 pages: 544
+place: New York
+publishers:
+- New American Library
 series:
 - A Signet classic
 subjects:
-- Animals
-- Fiction
-- Madness & Mental Illness
-- Medicine & Health
-- Psychoanalysis
-- Short Stories
-- Travel Writing
-oclc: '2146189'
+- American Literature
+- Novel
+- United States
+title: Moby Dick; or, The white whale
+year: 1961
 zotero_key: 3SMQEZN7
-cover: covers/3smqezn7.jpg
 ---
 
 The epic saga of a one-legged fanatic who swears vengeance on the mammoth white whale that crippled him

@@ -1,24 +1,26 @@
 ---
-title: Escalera al cielo
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Bucio, Rodolfo
-publishers:
-- A. Castañeda
-place: México, D.F.
-languages:
-- Español
+cover: covers/4arza6v7.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '22066854'
 pages: 1
+place: México, D.F.
+publishers:
+- A. Castañeda
 series:
 - Cuadernos de estraza
 subjects:
 - Fiction
-oclc: '22066854'
+- Mexican Literature
+- Mexico City
+title: Escalera al cielo
+year: 1987
 zotero_key: 4ARZA6V7
-cover: covers/4arza6v7.jpg
 ---
 

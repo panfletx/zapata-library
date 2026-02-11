@@ -1,28 +1,29 @@
 ---
-title: Bestiario
-date: '2024-09-01'
-year: 2013
-decade: 2010s
 authors:
 - Cortázar, Julio
-publishers:
-- Punto de Lectura
-place: Madrid, España
-languages:
-- Español
+cover: covers/ry2b4h9e.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Octava edición
+exlibris: '2010'
+isbn: 978-84-663-0989-9
 item_types:
 - book
-isbn: 978-84-663-0989-9
+languages:
+- Español
+oclc: '903039289'
 pages: 132
-edition: Octava edición
+place: Madrid, España
+publishers:
+- Punto de Lectura
 series:
 - Punto de lectura
 subjects:
-- Argentina
+- Julio Cortázar
+- Latin American Literature
 - Short Stories
-oclc: '903039289'
-exlibris: '2010'
+title: Bestiario
+year: 2013
 zotero_key: RY2B4H9E
-cover: covers/ry2b4h9e.jpg
 ---
 

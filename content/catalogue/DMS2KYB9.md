@@ -1,29 +1,29 @@
 ---
-title: 'Con chatwin: retrato de un escritor'
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Clapp, Susannah
 - Muchnik, Nora
-publishers:
-- Muchnik
-place: Barcelona
-languages:
-- Español
+cover: covers/dms2kyb9.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2a ed
+exlibris: '2000'
+isbn: 978-84-7669-285-1
 item_types:
 - book
-isbn: 978-84-7669-285-1
+languages:
+- Español
+oclc: '44970019'
 pages: 291
-edition: 2a ed
+place: Barcelona
+publishers:
+- Muchnik
 series:
 - Personalia
 subjects:
-- Bibliography
+- Biography
 - English Literature
-oclc: '44970019'
-exlibris: '2000'
+title: 'Con chatwin: retrato de un escritor'
+year: 1997
 zotero_key: DMS2KYB9
-cover: covers/dms2kyb9.jpg
 ---
 

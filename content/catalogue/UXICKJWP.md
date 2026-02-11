@@ -1,18 +1,19 @@
 ---
-title: Georges Mellies
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors: []
-publishers:
-- Filmoteca de la UNAM
-languages: []
+cover: covers/uxickjwp.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers:
+- Filmoteca de la UNAM
 series: []
 subjects:
-- Mexican Literature
+- Biography
+- Film & Cinema
+title: Georges Mellies
+year: 1982
 zotero_key: UXICKJWP
-cover: covers/uxickjwp.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: Dialectique du moi et de l'inconscient
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Jung, C. G.
 - Cahen, Roland
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/lylqpfph.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Ed. rev. et corr
+isbn: 978-2-07-032372-2
 item_types:
 - book
-isbn: 978-2-07-032372-2
+languages:
+- Français
+oclc: '28946617'
 pages: 287
-edition: Ed. rev. et corr
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio/essais
 subjects:
+- Philosophy
 - Psychoanalysis
-oclc: '28946617'
+title: Dialectique du moi et de l'inconscient
+year: 1986
 zotero_key: LYLQPFPH
-cover: covers/lylqpfph.jpg
 ---
 

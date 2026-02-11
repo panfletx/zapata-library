@@ -1,27 +1,29 @@
 ---
-title: Fervor del viento
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Gutiérrez, León Guillermo
-publishers:
-- Simiente
-place: Estado de Morelos, Mexico
-languages:
-- Español
+cover: covers/sat54n9h.jpg
+cover_note: dedicatoria de autor 2013
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-95744-6-8
 item_types:
 - book
-isbn: 978-607-95744-6-8
+languages:
+- Español
+oclc: '874811679'
 pages: 45
-edition: Primera edición
+place: Estado de Morelos, Mexico
+publishers:
+- Simiente
 series:
 - Colección simonía
 subjects:
-- Fiction
-oclc: '874811679'
-cover_note: dedicatoria de autor 2013
+- Mexican Literature
+- Nature & Environment
+- Poetry
+title: Fervor del viento
+year: 2014
 zotero_key: SAT54N9H
-cover: covers/sat54n9h.jpg
 ---
 

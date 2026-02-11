@@ -1,15 +1,16 @@
 ---
-title: Revista, saber ver 17
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/zqw2ban6.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Visual Art
+title: Revista, saber ver 17
 zotero_key: ZQW2BAN6
-cover: covers/zqw2ban6.jpg
 ---
 

@@ -1,29 +1,28 @@
 ---
-title: Crónicas de Bustos Domenq
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Borges, Jorge Luis
-publishers:
-- Editorial Losada
-place: Buenos Aires
-languages:
-- Español
+cover: covers/z5c7awmz.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1998'
+isbn: 978-950-03-6238-2
 item_types:
 - book
-isbn: 978-950-03-6238-2
+languages:
+- Español
+oclc: '42018020'
 pages: 112
+place: Buenos Aires
+publishers:
+- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:
-- Argentina
 - Argentine Literature
-- Literary Criticism
+- Jorge Luis Borges
 - Short Stories
-oclc: '42018020'
-exlibris: '1998'
+title: Crónicas de Bustos Domenq
+year: 1997
 zotero_key: Z5C7AWMZ
-cover: covers/z5c7awmz.jpg
 ---
 

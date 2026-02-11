@@ -1,24 +1,24 @@
 ---
-title: Grund- und Aufbauwortschatz Französisch
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Nickolaus, Günter
-publishers:
-- Ernst Klett Verlag
-place: Stuttgart
-languages:
-- Deutsch
+cover: covers/secg6ccw.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: '[Nachdr.]'
 item_types:
 - book
+languages:
+- Deutsch
+oclc: '601109128'
 pages: 191
-edition: '[Nachdr.]'
+place: Stuttgart
+publishers:
+- Ernst Klett Verlag
 series: []
 subjects:
-- Dictionary
-oclc: '601109128'
+- Grammar & Linguistics
+title: Grund- und Aufbauwortschatz Französisch
+year: 1966
 zotero_key: SECG6CCW
-cover: covers/secg6ccw.jpg
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Xxyëröddny, donde el gran sueño se enraiza
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Sailendra, Kalar
-publishers:
-- Panfleto y Pantomima
-place: México
-languages:
-- Español
+cover: covers/jdqstwup.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '19097334'
 pages: 50
+place: México
+publishers:
+- Panfleto y Pantomima
 series: []
 subjects:
-- Fiction
-oclc: '19097334'
+- Experimental Literature
+- Mexican Literature
+- Poetry
+title: Xxyëröddny, donde el gran sueño se enraiza
+year: 1984
 zotero_key: JDQSTWUP
-cover: covers/jdqstwup.jpg
 ---
 

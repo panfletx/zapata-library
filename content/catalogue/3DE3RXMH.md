@@ -1,26 +1,28 @@
 ---
-title: Historias de cronopois y de famas
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Cortázar, Julio
-publishers:
-- Alfaguara
-place: México
-languages:
-- Unknown
+cover: covers/3de3rxmh.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2. reimprésion
+isbn: 978-968-6026-32-0
 item_types:
 - book
-isbn: 978-968-6026-32-0
+languages:
+- Unknown
+oclc: '1070609296'
 pages: 141
-edition: 2. reimprésion
+place: México
+publishers:
+- Alfaguara
 series:
 - Alfaguara literaturas México
 subjects:
-- Mexican Literature
-oclc: '1070609296'
+- Julio Cortázar
+- Latin American Literature
+- Short Stories
+title: Historias de cronopois y de famas
+year: 1994
 zotero_key: 3DE3RXMH
-cover: covers/3de3rxmh.jpg
 ---
 

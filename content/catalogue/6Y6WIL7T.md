@@ -1,26 +1,26 @@
 ---
-title: I Ching, [o], il libro della mutazione
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Blofeld, John
 - Alexa
-publishers:
-- Mondadori
-place: Cles
-languages:
-- Italiano
+cover: covers/6y6wil7t.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Italiano
+oclc: '660847376'
 pages: 231
+place: Cles
+publishers:
+- Mondadori
 series: []
 subjects:
-- China
+- Mysticism
+- Occult & Esoteric
 - Philosophy
-- Religion
-oclc: '660847376'
+title: I Ching, [o], il libro della mutazione
+year: 1975
 zotero_key: 6Y6WIL7T
-cover: covers/6y6wil7t.jpg
 ---
 

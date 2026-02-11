@@ -1,26 +1,27 @@
 ---
-title: 'Un destino: y otros cuentos'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Díaz de León, Martha
-publishers:
-- Gobierno de Jalisco, Secretaría General, Unidad Editorial
-place: Guadalajara, Jalisco, Mex.
-languages:
-- Español
+cover: covers/a39zbcca.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-832-104-1
 item_types:
 - book
-isbn: 978-968-832-104-1
+languages:
+- Español
+oclc: '30315444'
 pages: 89
+place: Guadalajara, Jalisco, Mex.
+publishers:
+- Gobierno de Jalisco, Secretaría General, Unidad Editorial
 series:
 - Colección lettras
 subjects:
-- Mexico
+- Jalisco
+- Mexican Literature
 - Short Stories
-oclc: '30315444'
+title: 'Un destino: y otros cuentos'
+year: 1982
 zotero_key: A39ZBCCA
-cover: covers/a39zbcca.jpg
 ---
 

@@ -1,19 +1,20 @@
 ---
-title: The Practical Cogitator
-date: '2024-09-01'
-year: 1962
-decade: 1960s
 authors: []
-publishers: []
-languages:
-- English
+cover: covers/iv8kqt4k.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
 pages: 720
+publishers: []
 series: []
 subjects:
-- Fiction
+- Essay
+- Philosophy
+title: The Practical Cogitator
+year: 1962
 zotero_key: IV8KQT4K
-cover: covers/iv8kqt4k.jpg
 ---
 

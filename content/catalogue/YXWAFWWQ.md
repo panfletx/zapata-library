@@ -1,29 +1,28 @@
 ---
-title: Posesión
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Su, Margo
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/yxwafwwq.jpg
+cover_note: dedicatoria autora
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-968-493-227-2
 item_types:
 - book
-isbn: 978-968-493-227-2
+languages:
+- Español
+oclc: '25385656'
 pages: 162
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
-- Fiction
-- Literary Criticism
+- Horror & Gothic
 - Mexican Literature
-- Mexico
-oclc: '25385656'
-cover_note: dedicatoria autora
+- Novel
+title: Posesión
+year: 1991
 zotero_key: YXWAFWWQ
-cover: covers/yxwafwwq.jpg
 ---
 

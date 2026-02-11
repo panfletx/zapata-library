@@ -1,16 +1,16 @@
 ---
-title: Revista, Estudios cinematográficos 33
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/c28xgrbv.jpg
+date: '2024-09-01'
+isbn: 01888056
 item_types:
 - book
-isbn: 01888056
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+title: Revista, Estudios cinematográficos 33
 zotero_key: C28XGRBV
-cover: covers/c28xgrbv.jpg
 ---
 

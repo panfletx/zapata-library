@@ -1,8 +1,4 @@
 ---
-title: The best American essays 2009
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors:
 - Allison, Sue
 - Arthur, C. J.
@@ -26,27 +22,31 @@ authors:
 - Updike, John
 - Van Meter, Ryan
 - Walker, Jerald
-publishers:
-- 'Mariner Books : Houghton Mifflin Harcourt'
-place: Boston
-languages:
-- English
+cover: covers/8hdtnn6w.jpg
+cover_note: regalo de José
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2010'
+isbn: 978-0-618-98272-1
 item_types:
 - book
-isbn: 978-0-618-98272-1
-source_url: http://books.google.com/books?isbn=9780618982721
+languages:
+- English
+oclc: '313657957'
 pages: 202
+place: Boston
+publishers:
+- 'Mariner Books : Houghton Mifflin Harcourt'
 series:
 - Best American series
+source_url: http://books.google.com/books?isbn=9780618982721
 subjects:
+- American Literature
+- Anthology
 - Essay
-- Literary Criticism
-- United States
-oclc: '313657957'
-cover_note: regalo de José
-exlibris: '2010'
+title: The best American essays 2009
+year: 2009
 zotero_key: 8HDTNN6W
-cover: covers/8hdtnn6w.jpg
 ---
 
 Compiles the best literary essays of the year 2008 which were originally published in American periodicals

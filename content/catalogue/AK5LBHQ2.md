@@ -1,24 +1,24 @@
 ---
-title: Jaula de Palabras
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Sainz, Gustavo
-publishers:
-- Editoial Grijalbo
-languages:
-- English
+cover: covers/ak5lbhq2.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-419-137-2
 item_types:
 - book
-isbn: 978-968-419-137-2
+languages:
+- English
+oclc: '748295548'
 pages: 478
+publishers:
+- Editoial Grijalbo
 series: []
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '748295548'
+- Novel
+title: Jaula de Palabras
+year: 1980
 zotero_key: AK5LBHQ2
-cover: covers/ak5lbhq2.jpg
 ---
 

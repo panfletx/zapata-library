@@ -1,24 +1,24 @@
 ---
-title: 'La cultura: todo lo que hay que saber'
-date: '2024-09-01'
 authors:
 - Schwanitz, Dietrich
-publishers:
-- Punto de Lectura
-place: Madrid
-languages:
-- Español
+cover: covers/sennln23.jpg
+date: '2024-09-01'
 item_types:
 - book
-source_url: https://archive.org/details/laculturatodoloq0000schw_y5o6
+languages:
+- Español
+oclc: '1345559914'
 pages: 813
+place: Madrid
+publishers:
+- Punto de Lectura
 series:
 - Punto de lectura
+source_url: https://archive.org/details/laculturatodoloq0000schw_y5o6
 subjects:
-- Education
-- Modern History
-oclc: '1345559914'
+- Essay
+- Literary History
+title: 'La cultura: todo lo que hay que saber'
 zotero_key: SENNLN23
-cover: covers/sennln23.jpg
 ---
 

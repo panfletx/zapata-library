@@ -1,23 +1,25 @@
 ---
-title: La pyramide!
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Copi
-publishers:
-- C. Bourgois
-place: Paris
-languages:
-- Français
+cover: covers/fbxdlx4x.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '2524771'
 pages: 82
+place: Paris
+publishers:
+- C. Bourgois
 series: []
 subjects:
+- Drama
 - French Literature
-oclc: '2524771'
+- Paris
+title: La pyramide!
+year: 1975
 zotero_key: FBXDLX4X
-cover: covers/fbxdlx4x.jpg
 ---
 

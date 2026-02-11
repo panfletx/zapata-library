@@ -1,29 +1,28 @@
 ---
-title: Cambio de piel
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Fuentes, Carlos
-publishers:
-- Planeta DeAgostini
-place: México
-languages:
-- Español
+cover: covers/lwjsgrcq.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2004'
+isbn: 978-970-726-104-4
 item_types:
 - book
-isbn: 978-970-726-104-4
+languages:
+- Español
+oclc: '906925441'
 pages: 399
+place: México
+publishers:
+- Planeta DeAgostini
 series:
 - Colección Carlos Fuentes
 subjects:
-- Fiction
-- Literary Criticism
+- Carlos Fuentes
 - Mexican Literature
-- Mexico
-oclc: '906925441'
-exlibris: '2004'
+- Novel
+title: Cambio de piel
+year: 2002
 zotero_key: LWJSGRCQ
-cover: covers/lwjsgrcq.jpg
 ---
 

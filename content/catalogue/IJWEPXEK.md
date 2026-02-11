@@ -1,31 +1,27 @@
 ---
-title: Seda
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Baricco, Alessandro
-publishers:
-- 'Editorial Anagrama : Colofón'
-place: Barcelona, México
-languages:
-- Español
+cover: covers/ijwepxek.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2014'
+isbn: 978-968-867-183-2
 item_types:
 - book
-isbn: 978-968-867-183-2
+languages:
+- Español
+oclc: '647766836'
 pages: 125
+place: Barcelona, México
+publishers:
+- 'Editorial Anagrama : Colofón'
 series:
 - Anagrama panorama narrativas
 subjects:
-- Economics
-- Fiction
-- Historical Fiction
-- Love & Desire
-- Modern History
-- Short Stories
-oclc: '647766836'
-exlibris: '2014'
+- Italian Literature
+- Novel
+title: Seda
+year: 2005
 zotero_key: IJWEPXEK
-cover: covers/ijwepxek.jpg
 ---
 

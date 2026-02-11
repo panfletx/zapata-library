@@ -1,29 +1,28 @@
 ---
-title: Deutsch als Fremdsprache
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Braun, Korbinian
 - Nieder, Lorenz
 - Schmöe, Friedrich
-publishers:
-- Klett
-place: Stuttgart
-languages:
-- Deutsch
+cover: covers/nf4htfr2.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: '[1. Aufl.]'
+isbn: 978-3-12-554100-9
 item_types:
 - book
-isbn: 978-3-12-554100-9
+languages:
+- Deutsch
+oclc: '1495169'
 pages: 22
-edition: '[1. Aufl.]'
+place: Stuttgart
+publishers:
+- Klett
 series: []
 subjects:
 - Education
 - Grammar & Linguistics
-- Modern History
-oclc: '1495169'
+title: Deutsch als Fremdsprache
+year: 1967
 zotero_key: NF4HTFR2
-cover: covers/nf4htfr2.jpg
 ---
 

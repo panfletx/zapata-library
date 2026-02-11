@@ -1,25 +1,27 @@
 ---
-title: Journal du voleur
-date: '2024-09-01'
-year: 1949
-decade: 1940s
 authors:
 - Genet
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/bbtkp8yh.jpg
+date: '2024-09-01'
+decade: 1940s
+isbn: 978-2-07-036493-0
 item_types:
 - book
-isbn: 978-2-07-036493-0
+languages:
+- Français
+oclc: '1152825232'
 pages: 305
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection folio
 subjects:
+- Autobiography & Memoir
 - French Literature
-oclc: '1152825232'
+- Jean Genet
+title: Journal du voleur
+year: 1949
 zotero_key: BBTKP8YH
-cover: covers/bbtkp8yh.jpg
 ---
 

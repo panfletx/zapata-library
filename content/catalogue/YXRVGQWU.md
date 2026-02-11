@@ -1,26 +1,28 @@
 ---
-title: El deshielo. apuntes del paraíso
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Rivera, Nayar
-publishers:
-- Ed. Felou
-place: México, D.F
-languages:
-- Español
+cover: covers/yxrvgqwu.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-7757-23-8
 item_types:
 - book
-isbn: 978-607-7757-23-8
+languages:
+- Español
+oclc: '840003729'
 pages: 149
+place: México, D.F
+publishers:
+- Ed. Felou
 series:
 - Colección Grandes temas
 subjects:
-- Fiction
-oclc: '840003729'
-cover_note: dedicatoria de autor
+- Mexican Literature
+- Nature & Environment
+- Novel
+title: El deshielo. apuntes del paraíso
+year: 2011
 zotero_key: YXRVGQWU
-cover: covers/yxrvgqwu.jpg
 ---
 

@@ -1,29 +1,29 @@
 ---
-title: Epílogo a las mil y una noches
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Burton, Richard Francis
 - Cardín, Alberto
-publishers:
-- Laertes
-place: Barcelona
-languages:
-- Español
+cover: covers/lsg5k5mt.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1997'
+isbn: 978-84-7584-109-0
 item_types:
 - book
-isbn: 978-84-7584-109-0
+languages:
+- Español
+oclc: '56637309'
 pages: 104
+place: Barcelona
+publishers:
+- Laertes
 series:
 - Colección Rey de bastos
 subjects:
-- Gay Literature
-- Modern History
-- Sexuality & Eroticism
-oclc: '56637309'
-exlibris: '1997'
+- Arabic Literature
+- Essay
+- Literary Criticism
+title: Epílogo a las mil y una noches
+year: 1989
 zotero_key: LSG5K5MT
-cover: covers/lsg5k5mt.jpg
 ---
 

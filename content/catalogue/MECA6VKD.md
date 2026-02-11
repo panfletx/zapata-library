@@ -1,26 +1,26 @@
 ---
-title: Los imaginistas = Des imagistes
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Fe, Marina
-publishers:
-- Universidad Nacional Autónoma, Dirección General de Difusión Cultural, Departamento de Humanidades
-place: México
-languages:
-- Español
+cover: covers/meca6vkd.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '36167598'
 pages: 33
+place: México
+publishers:
+- Universidad Nacional Autónoma, Dirección General de Difusión Cultural, Departamento de Humanidades
 series:
 - Material de lectura
 subjects:
+- Literary Criticism
 - Poetry
-- United States
-oclc: '36167598'
-cover_note: dedicatoria
+title: Los imaginistas = Des imagistes
+year: 1979
 zotero_key: MECA6VKD
-cover: covers/meca6vkd.jpg
 ---
 

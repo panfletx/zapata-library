@@ -1,26 +1,27 @@
 ---
-title: Historia mínima de México
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Cosío Villegas, Daniel
-publishers:
-- El Colegio de México
-place: México
-languages:
-- Español
+cover: covers/5tpx8zsn.jpg
+cover_note: '1974'
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1064696'
 pages: 164
-edition: 1. ed
+place: México
+publishers:
+- El Colegio de México
 series: []
 subjects:
+- Historical Fiction
+- Mexican Literature
 - Mexico
-- Modern History
-oclc: '1064696'
-cover_note: '1974'
+title: Historia mínima de México
+year: 1973
 zotero_key: 5TPX8ZSN
-cover: covers/5tpx8zsn.jpg
 ---
 

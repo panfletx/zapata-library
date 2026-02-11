@@ -1,27 +1,27 @@
 ---
-title: Tres dramas debajo del sombrero
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Zapata Quiroz, Martín
-publishers:
-- Libros de Godot
-place: Cuauhtémoc, D.F.
-languages:
-- Español
+cover: covers/l5gsfwad.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-9148-48-5
 item_types:
 - book
-isbn: 978-607-9148-48-5
+languages:
+- Español
+oclc: '890702942'
 pages: 221
-edition: Primera edición
+place: Cuauhtémoc, D.F.
+publishers:
+- Libros de Godot
 series:
 - Joven Godot
 subjects:
 - Drama
-- Mexico
-oclc: '890702942'
+- Mexican Literature
+title: Tres dramas debajo del sombrero
+year: 2014
 zotero_key: L5GSFWAD
-cover: covers/l5gsfwad.jpg
 ---
 

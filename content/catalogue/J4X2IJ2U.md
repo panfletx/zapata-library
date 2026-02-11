@@ -1,24 +1,25 @@
 ---
-title: Bestiario
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Arreola, Juan José
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/j4x2ij2u.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1066-0
 item_types:
 - book
-isbn: 978-968-39-1066-0
+languages:
+- Español
+oclc: '651521447'
 pages: 93
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Fiction
-oclc: '651521447'
+- Mexican Literature
+- Short Stories
+title: Bestiario
+year: 1994
 zotero_key: J4X2IJ2U
-cover: covers/j4x2ij2u.jpg
 ---
 

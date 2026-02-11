@@ -1,27 +1,27 @@
 ---
-title: Años inolvidables
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Dos Passos, John
-publishers:
-- Alanza Editorial
-place: Madrid
-languages:
-- Español
+cover: covers/5jqxgctr.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-206-1488-5
 item_types:
 - book
-isbn: 978-84-206-1488-5
+languages:
+- Español
+oclc: '20227967'
 pages: 282
+place: Madrid
+publishers:
+- Alanza Editorial
 series:
 - El libro de bolsillo
 subjects:
 - American Literature
-- Biography
-- Literary Criticism
-oclc: '20227967'
+- Historical Fiction
+- Novel
+title: Años inolvidables
+year: 1974
 zotero_key: 5JQXGCTR
-cover: covers/5jqxgctr.jpg
 ---
 

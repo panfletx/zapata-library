@@ -1,27 +1,27 @@
 ---
-title: 'Ascesis: Salvatores Dei'
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Kazantzakis, Nikos
-publishers:
-- Carlos Lohlé
-place: Buenos Aires
-languages:
-- Español
+cover: covers/stutgaxn.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a. ed
+isbn: 978-84-320-7198-0
 item_types:
 - book
-isbn: 978-84-320-7198-0
+languages:
+- Español
+oclc: '55287179'
 pages: 96
-edition: 1a. ed
+place: Buenos Aires
+publishers:
+- Carlos Lohlé
 series: []
 subjects:
-- Death & Mourning
+- Essay
+- Mysticism
 - Philosophy
-- Religion
-oclc: '55287179'
+title: 'Ascesis: Salvatores Dei'
+year: 1975
 zotero_key: STUTGAXN
-cover: covers/stutgaxn.jpg
 ---
 

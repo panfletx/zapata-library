@@ -1,27 +1,27 @@
 ---
-title: ¿Qué hago ya aquí?
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Chatwin, Bruce
-publishers:
-- Muchnik
-place: Barcelona
-languages:
-- Español
+cover: covers/55wmg3ld.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 2a. ed
+isbn: 978-84-7669-115-1
 item_types:
 - book
-isbn: 978-84-7669-115-1
+languages:
+- Español
+oclc: '434328254'
 pages: 402
-edition: 2a. ed
+place: Barcelona
+publishers:
+- Muchnik
 series:
 - Personalia
 subjects:
 - English Literature
-- Literary Criticism
-oclc: '434328254'
+- Travel Writing
+title: ¿Qué hago ya aquí?
+year: 1993
 zotero_key: 55WMG3LD
-cover: covers/55wmg3ld.jpg
 ---
 

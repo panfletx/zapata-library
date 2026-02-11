@@ -1,27 +1,26 @@
 ---
-title: De senectute e altri scritti autobiografici
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Bobbio, Norberto
 - Polito, Pietro
-publishers:
-- Einaudi
-place: Torino
-languages:
-- Italiano
+cover: covers/9tbq5uj8.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages:
+- Italiano
+oclc: '35980715'
 pages: 200
+place: Torino
+publishers:
+- Einaudi
 series:
 - Struzzi
 subjects:
 - Autobiography & Memoir
-- Family
-- Philosophy
-oclc: '35980715'
+- Italian Literature
+title: De senectute e altri scritti autobiografici
+year: 1996
 zotero_key: 9TBQ5UJ8
-cover: covers/9tbq5uj8.jpg
 ---
 

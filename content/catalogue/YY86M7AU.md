@@ -1,15 +1,15 @@
 ---
-title: Revista, Claudia
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/yy86m7au.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, Claudia
 zotero_key: YY86M7AU
-cover: covers/yy86m7au.jpg
 ---
 

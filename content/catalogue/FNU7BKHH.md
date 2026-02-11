@@ -1,29 +1,28 @@
 ---
-title: Les misérables dans l'Occident médiéval
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Goglin, Jean Louis
-publishers:
-- Éditions du Seuil
-place: Paris
-languages:
-- Français
+cover: covers/fnu7bkhh.jpg
+cover_note: dedicatoria Olivier
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-02-004489-9
 item_types:
 - book
-isbn: 978-2-02-004489-9
+languages:
+- Français
+oclc: '3311507'
 pages: 242
+place: Paris
+publishers:
+- Éditions du Seuil
 series:
 - Points
 subjects:
-- France
+- Essay
 - Medieval History
-- Modern History
 - Poverty & Class
-oclc: '3311507'
-cover_note: dedicatoria Olivier
+title: Les misérables dans l'Occident médiéval
+year: 1976
 zotero_key: FNU7BKHH
-cover: covers/fnu7bkhh.jpg
 ---
 

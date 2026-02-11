@@ -1,32 +1,30 @@
 ---
-title: 'Cuentos hispanoamericanos: Ecuador = Erzählungen aus Spanisch-Amerika: Ecuador'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Brandenberger, Erna
 - Kaufmann, Marion
-publishers:
-- Dt. Taschenbuch-Verl.
-place: München
-languages:
-- Deutsch
+cover: covers/cpfru8ct.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Orig.-ausg
+isbn: 978-3-423-09289-0
 item_types:
 - book
-isbn: 978-3-423-09289-0
+languages:
+- Deutsch
+oclc: '214313268'
 pages: 215
-edition: Orig.-ausg
+place: München
+publishers:
+- Dt. Taschenbuch-Verl.
 series:
 - Dtv
 subjects:
-- Anthology
 - Ecuador
 - Latin American Literature
-- Modern History
 - Short Stories
-oclc: '214313268'
+title: 'Cuentos hispanoamericanos: Ecuador = Erzählungen aus Spanisch-Amerika: Ecuador'
+year: 1992
 zotero_key: CPFRU8CT
-cover: covers/cpfru8ct.jpg
 ---
 
 Belletristik : Ecuador ; Erzählungen

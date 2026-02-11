@@ -1,29 +1,27 @@
 ---
-title: Aufsätze und Notizen
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Fellini, Federico
-publishers:
-- Diogenes-Verlag
-place: Zürich
-languages:
-- Deutsch
+cover: covers/3g3zgii2.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Erstausg
+isbn: 978-3-257-20125-3
 item_types:
 - book
-isbn: 978-3-257-20125-3
+languages:
+- Deutsch
+oclc: '74144687'
 pages: 230
-edition: Erstausg
+place: Zürich
+publishers:
+- Diogenes-Verlag
 series:
 - Diogenes-Taschenbücher
 subjects:
-- Biography
-- Drama
+- Essay
 - Film & Cinema
-- Italy
-oclc: '74144687'
+title: Aufsätze und Notizen
+year: 1974
 zotero_key: 3G3ZGII2
-cover: covers/3g3zgii2.jpg
 ---
 

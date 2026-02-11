@@ -1,26 +1,28 @@
 ---
-title: Hacer una película
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Fellini, Federico
 - Calvino, Italo
-publishers:
-- Ediciones Paidós
-place: Barcelona
-languages:
-- Español
+cover: covers/wj6uq4wv.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-493-0740-9
 item_types:
 - book
-isbn: 978-84-493-0740-9
+languages:
+- Español
+oclc: '46947163'
 pages: 263
+place: Barcelona
+publishers:
+- Ediciones Paidós
 series:
 - Memoria del cine
 subjects:
+- Essay
 - Film & Cinema
-oclc: '46947163'
+- Italian Literature
+title: Hacer una película
+year: 1999
 zotero_key: WJ6UQ4WV
-cover: covers/wj6uq4wv.jpg
 ---
 

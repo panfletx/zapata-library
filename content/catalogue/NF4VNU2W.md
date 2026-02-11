@@ -1,27 +1,27 @@
 ---
-title: El hombre que miraba pasar los trenes
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Simenon, Georges
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/nf4vnu2w.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-84-7223-692-9
 item_types:
 - book
-isbn: 978-84-7223-692-9
+languages:
+- Español
+oclc: '30541758'
 pages: 230
-edition: 1a ed
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Colección Andanzas
 subjects:
+- Detective & Mystery
 - French Literature
-- Literary Criticism
-oclc: '30541758'
+title: El hombre que miraba pasar los trenes
+year: 1993
 zotero_key: NF4VNU2W
-cover: covers/nf4vnu2w.jpg
 ---
 

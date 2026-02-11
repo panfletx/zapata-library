@@ -1,24 +1,26 @@
 ---
-title: La interpretación de los sueños (3)
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Freud, Sigmund
-publishers:
-- Alianza
-place: Madrid
-languages:
-- Español
+cover: covers/ce97iibt.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Cuarta edición
 item_types:
 - book
-edition: Cuarta edición
+languages:
+- Español
+oclc: '1132663496'
+place: Madrid
+publishers:
+- Alianza
 series:
 - El libro de bolsillo (Alianza Editorial)
 subjects:
-- Dreams
-oclc: '1132663496'
+- Philosophy
+- Psychoanalysis
+- Sigmund Freud
+title: La interpretación de los sueños (3)
+year: 1970
 zotero_key: CE97IIBT
-cover: covers/ce97iibt.jpg
 ---
 

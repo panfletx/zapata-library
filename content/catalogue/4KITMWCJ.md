@@ -1,26 +1,28 @@
 ---
-title: Hiroshima mon amour
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors:
 - DURAS
 - RENAIS, Alain
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/4kitmwcj.jpg
+date: '2024-09-01'
+decade: 1960s
+isbn: 978-2-07-036009-3
 item_types:
 - book
-isbn: 978-2-07-036009-3
+languages:
+- Français
+oclc: '1410714840'
 pages: 155
+place: Paris
+publishers:
+- Gallimard
 series:
 - Folio
 subjects:
+- Film & Cinema
 - French Literature
-oclc: '1410714840'
+- Screenplay
+title: Hiroshima mon amour
+year: 1960
 zotero_key: 4KITMWCJ
-cover: covers/4kitmwcj.jpg
 ---
 

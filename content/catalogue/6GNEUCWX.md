@@ -1,25 +1,26 @@
 ---
-title: 'Vox: diccionario de sinónimos'
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Gili Gaya, Samuel
-publishers:
-- Rei
-place: México
-languages:
-- Español
+cover: covers/6gneucwx.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-968-456-205-9
 item_types:
 - book
-isbn: 978-968-456-205-9
+languages:
+- Español
+oclc: '906930563'
 pages: 11
-edition: 1a ed
+place: México
+publishers:
+- Rei
 series: []
 subjects:
 - Dictionary
-oclc: '906930563'
+- Spanish Literature
+title: 'Vox: diccionario de sinónimos'
+year: 1991
 zotero_key: 6GNEUCWX
-cover: covers/6gneucwx.jpg
 ---
 

@@ -1,27 +1,26 @@
 ---
-title: El Tao del Jeet Kune Do
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Lee, Bruce
 - Fraguas, José María.
-publishers:
-- Eyras
-place: Madrid
-languages:
-- Español
+cover: covers/rjhtwmsc.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-85269-69-3
 item_types:
 - book
-isbn: 978-84-85269-69-3
+languages:
+- Español
+oclc: '435360468'
 pages: 208
+place: Madrid
+publishers:
+- Eyras
 series: []
 subjects:
-- Education
-- Visual Art
-- War & Conflict
-oclc: '435360468'
+- Madrid
+- Philosophy
+title: El Tao del Jeet Kune Do
+year: 1990
 zotero_key: RJHTWMSC
-cover: covers/rjhtwmsc.jpg
 ---
 

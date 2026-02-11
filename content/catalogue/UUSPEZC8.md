@@ -1,27 +1,28 @@
 ---
-title: Maíra
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Ribeiro, Darcy
-publishers:
-- Editorial Nueva Imagen
-place: México, D.F.
-languages:
-- Español
+cover: covers/uuspezc8.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed. en México
+isbn: 978-968-429-322-9
 item_types:
 - book
-isbn: 978-968-429-322-9
+languages:
+- Español
+oclc: '15277693'
 pages: 315
-edition: 1a ed. en México
+place: México, D.F.
+publishers:
+- Editorial Nueva Imagen
 series:
 - Série Literatura
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '15277693'
+- Brazilian Literature
+- Indigenous Peoples
+- Novel
+title: Maíra
+year: 1983
 zotero_key: UUSPEZC8
-cover: covers/uuspezc8.jpg
 ---
 

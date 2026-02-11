@@ -1,27 +1,27 @@
 ---
-title: En jirones
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Zapata, Luis
-publishers:
-- Editorial Posada
-place: México, D.F.
-languages:
-- Español
+cover: covers/tpqaxyrc.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '17148636'
 pages: 275
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Editorial Posada
 series: []
 subjects:
-- Fiction
-- Gay Literature
-- Short Stories
-oclc: '17148636'
+- Luis Zapata
+- Mexican Literature
+- Novel
+title: En jirones
+year: 1985
 zotero_key: TPQAXYRC
-cover: covers/tpqaxyrc.jpg
 ---
 
 "En jirones es un texto de corte psicológico y existencial cuyo tema central es la relación amorosa, pasional y carnal entre dos hombres, que como toda relación está provista de altibajos."--Wikipedia

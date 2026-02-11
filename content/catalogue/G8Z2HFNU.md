@@ -1,27 +1,26 @@
 ---
-title: 'Siete escritores ingleses: de Jane Austen a Virginia Woolf'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Pitol, Sergio
-publishers:
-- SepDiana
-place: México
-languages:
-- Español
+cover: covers/g8z2hfnu.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-13-1360-9
 item_types:
 - book
-isbn: 978-968-13-1360-9
+languages:
+- Español
+oclc: '15298063'
 pages: 124
-edition: 1a ed
+place: México
+publishers:
+- SepDiana
 series: []
 subjects:
-- Fiction
+- English Literature
 - Literary Criticism
-- Modern History
-oclc: '15298063'
+title: 'Siete escritores ingleses: de Jane Austen a Virginia Woolf'
+year: 1982
 zotero_key: G8Z2HFNU
-cover: covers/g8z2hfnu.jpg
 ---
 

@@ -1,16 +1,17 @@
 ---
-title: 13 literatura
-date: '2024-09-01'
 authors: []
-publishers: []
-place: Cuba
-languages: []
+cover: covers/qewmtckw.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+place: Cuba
+publishers: []
 series: []
 subjects:
-- Fiction
+- Catholicism
+- Essay
+title: 13 literatura
 zotero_key: QEWMTCKW
-cover: covers/qewmtckw.jpg
 ---
 

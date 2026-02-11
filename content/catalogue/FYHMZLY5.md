@@ -1,27 +1,29 @@
 ---
-title: La obediencia nocturna
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Melo, Juan V.
-publishers:
-- Era
-place: México, D.F
-languages:
-- Unknown
+cover: covers/fyhmzly5.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+exlibris: '1996'
+isbn: 978-968-29-1416-4
 item_types:
 - book
-isbn: 978-968-29-1416-4
+languages:
+- Unknown
+oclc: '1072540114'
 pages: 194
-edition: 1. ed
+place: México, D.F
+publishers:
+- Era
 series:
 - Lecturas mexicanas
 subjects:
+- Fiction
 - Mexican Literature
-oclc: '1072540114'
-exlibris: '1996'
+- Novel
+title: La obediencia nocturna
+year: 1987
 zotero_key: FYHMZLY5
-cover: covers/fyhmzly5.jpg
 ---
 

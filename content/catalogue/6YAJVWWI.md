@@ -1,25 +1,27 @@
 ---
-title: El gran golpe
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Hammett, Dashiell
-publishers:
-- Unidad Editorial
-place: Madrid
-languages:
-- English
+cover: covers/6yajvwwi.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-8130-047-5
 item_types:
 - book
-isbn: 978-84-8130-047-5
+languages:
+- English
+oclc: '893548603'
 pages: 94
+place: Madrid
+publishers:
+- Unidad Editorial
 series:
 - Novelas del verano
 subjects:
-- Fiction
-oclc: '893548603'
+- American Literature
+- Detective & Mystery
+- Novel
+title: El gran golpe
+year: 1998
 zotero_key: 6YAJVWWI
-cover: covers/6yajvwwi.jpg
 ---
 

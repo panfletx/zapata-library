@@ -1,27 +1,26 @@
 ---
-title: Japanese erotism
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Soulié, Bernard
-publishers:
-- Crescent Books [distributor] ; Productions Liber
-place: New York, Fribourg
-languages:
-- English
+cover: covers/vftndkgz.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-517-35115-4
 item_types:
 - book
-isbn: 978-0-517-35115-4
+languages:
+- English
+oclc: '9397497'
 pages: 91
+place: New York, Fribourg
+publishers:
+- Crescent Books [distributor] ; Productions Liber
 series: []
 subjects:
-- Erotic Literature
-- Japan
-- Sexuality & Eroticism
-- Visual Art
-oclc: '9397497'
+- François Rabelais
+- French Literature
+- Novel
+title: Japanese erotism
+year: 1981
 zotero_key: VFTNDKGZ
-cover: covers/vftndkgz.jpg
 ---
 

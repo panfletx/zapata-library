@@ -1,26 +1,28 @@
 ---
-title: Eugenia Grandet
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Balzac, Honoré de
-publishers:
-- 'Origen : OMGSA : R.B.A.'
-place: México, D.F.
-languages:
-- Español
+cover: covers/hj3g6nnf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 9a ed
+isbn: 978-968-6200-43-0
 item_types:
 - book
-isbn: 978-968-6200-43-0
+languages:
+- Español
+oclc: '31505709'
 pages: 218
-edition: 9a ed
+place: México, D.F.
+publishers:
+- 'Origen : OMGSA : R.B.A.'
 series:
 - Historia Universal de la literatura
 subjects:
-- Fiction
-oclc: '31505709'
+- Family
+- French Literature
+- Novel
+title: Eugenia Grandet
+year: 1983
 zotero_key: HJ3G6NNF
-cover: covers/hj3g6nnf.jpg
 ---
 

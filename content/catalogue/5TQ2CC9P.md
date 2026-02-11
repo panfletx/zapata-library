@@ -1,27 +1,28 @@
 ---
-title: Reglas de urbanidad
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Rivera, Nayar
-publishers:
-- Quimera
-place: Cuauhtémoc, México
-languages:
-- Español
+cover: covers/5tq2cc9p.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+isbn: 978-970-95563-5-3
 item_types:
 - book
-isbn: 978-970-95563-5-3
+languages:
+- Español
+oclc: '746927304'
 pages: 37
-edition: 1a. ed
+place: Cuauhtémoc, México
+publishers:
+- Quimera
 series:
 - Colección Bitácoras
 subjects:
-- Fiction
+- Essay
 - Mexican Literature
-oclc: '746927304'
+- Mexico
+title: Reglas de urbanidad
+year: 2008
 zotero_key: 5TQ2CC9P
-cover: covers/5tq2cc9p.jpg
 ---
 

@@ -1,28 +1,28 @@
 ---
-title: El jorobadito
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Arlt, Roberto
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/x657yfsm.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+exlibris: '1982'
+isbn: 978-84-02-07991-6
 item_types:
 - book
-isbn: 978-84-02-07991-6
+languages:
+- Español
+oclc: '925577011'
 pages: 219
-edition: 1. ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro Amigo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '925577011'
-exlibris: '1982'
+- Argentine Literature
+- Short Stories
+title: El jorobadito
+year: 1981
 zotero_key: X657YFSM
-cover: covers/x657yfsm.jpg
 ---
 

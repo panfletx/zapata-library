@@ -1,26 +1,26 @@
 ---
-title: Así se dibujan letras, rótulos, logotipos
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Parramón, José María.
-publishers:
-- Parramón
-place: Barcelona
-languages:
-- Español
+cover: covers/dnf4rtjl.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 6a. ed
+isbn: 978-84-342-0017-3
 item_types:
 - book
-isbn: 978-84-342-0017-3
+languages:
+- Español
+oclc: '432949811'
 pages: 144
-edition: 6a. ed
+place: Barcelona
+publishers:
+- Parramón
 series:
 - Colección Aprender haciendo grafismo
 subjects:
 - Visual Art
-oclc: '432949811'
+title: Así se dibujan letras, rótulos, logotipos
+year: 1980
 zotero_key: DNF4RTJL
-cover: covers/dnf4rtjl.jpg
 ---
 

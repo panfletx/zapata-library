@@ -1,28 +1,27 @@
 ---
-title: Tres cuentos
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Flaubert, Gustave
 - FERRER LERIN, Francisco
 - Trad
-publishers:
-- Salvat
-place: Madrid (España)
-languages:
-- Español
+cover: covers/26b8pqcj.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '880996137'
 pages: 140
+place: Madrid (España)
+publishers:
+- Salvat
 series:
 - Biblioteca General Salvat; 47
 subjects:
 - French Literature
-- Literary Criticism
 - Short Stories
-oclc: '880996137'
+title: Tres cuentos
+year: 1972
 zotero_key: 26B8PQCJ
-cover: covers/26b8pqcj.jpg
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: XIXe siècle. V, les grands auteurs français du programme
-date: '2024-09-01'
-year: 1958
-decade: 1950s
 authors: []
-publishers:
-- Bordas
-place: Paris
-languages:
-- Français
+cover: covers/7belzfvm.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Français
+oclc: '490561037'
 pages: 1
+place: Paris
+publishers:
+- Bordas
 series:
 - Textes et littérature
 subjects:
 - French Literature
-oclc: '490561037'
+- Literary History
+title: XIXe siècle. V, les grands auteurs français du programme
+year: 1958
 zotero_key: 7BELZFVM
-cover: covers/7belzfvm.jpg
 ---
 

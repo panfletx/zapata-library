@@ -1,26 +1,27 @@
 ---
-title: Cartelera cinematográfica, 1970-1979
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Amador, María Luisa
 - Ayala Blanco, Jorge
-publishers:
-- Universidad Nacional Autónoma de México
-place: México
-languages:
-- Español
+cover: covers/4udslrut.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-36-0513-9
 item_types:
 - book
-isbn: 978-968-36-0513-9
+languages:
+- Español
+oclc: '1186944449'
 pages: 548
+place: México
+publishers:
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
+- Chronicle
 - Film & Cinema
 - Mexico
-oclc: '1186944449'
+title: Cartelera cinematográfica, 1970-1979
+year: 1988
 zotero_key: 4UDSLRUT
-cover: covers/4udslrut.jpg
 ---
 

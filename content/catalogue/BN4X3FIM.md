@@ -1,28 +1,29 @@
 ---
-title: Viaje a México
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Morand, Paul
 - Villaurrutia, Xavier
-publishers:
-- Editorial Aldus
-place: México
-languages:
-- Español
+cover: covers/bn4x3fim.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-970-714-148-3
 item_types:
 - book
-isbn: 978-970-714-148-3
+languages:
+- Español
+oclc: '906931600'
 pages: 116
-edition: 1a ed
+place: México
+publishers:
+- Editorial Aldus
 series:
 - Aldus festina lente
 subjects:
+- French Literature
 - Mexico
 - Travel Writing
-oclc: '906931600'
+title: Viaje a México
+year: 2008
 zotero_key: BN4X3FIM
-cover: covers/bn4x3fim.jpg
 ---
 

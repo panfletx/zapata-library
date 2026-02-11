@@ -1,27 +1,28 @@
 ---
-title: El pobrecito señor X ; La oruga
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Castillo, Ricardo
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/4jadf52h.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-16-0378-6
 item_types:
 - book
-isbn: 978-968-16-0378-6
+languages:
+- Español
+oclc: '17049967'
 pages: 62
-edition: 1a ed
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
 subjects:
+- Mexican Literature
 - Mexico
-- Poetry
-oclc: '17049967'
+- Short Stories
+title: El pobrecito señor X ; La oruga
+year: 1980
 zotero_key: 4JADF52H
-cover: covers/4jadf52h.jpg
 ---
 

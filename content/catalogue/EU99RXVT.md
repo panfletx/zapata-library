@@ -1,30 +1,28 @@
 ---
-title: Mi padre, mi madre, los Bentley, el caniche, Lord Kitchener y el ratón
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Warner, Sylvia Townsend
-publishers:
-- Editorial Lumen
-place: Barcelona
-languages:
-- Español
+cover: covers/eu99rxvt.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-84-264-1250-8
 item_types:
 - book
-isbn: 978-84-264-1250-8
+languages:
+- Español
+oclc: '43414002'
 pages: 226
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Editorial Lumen
 series:
 - Palabra en el tiempo
 subjects:
-- Feminism
+- English Literature
 - Fiction
-- Gender Studies
 - Short Stories
-- United Kingdom
-oclc: '43414002'
+title: Mi padre, mi madre, los Bentley, el caniche, Lord Kitchener y el ratón
+year: 1997
 zotero_key: EU99RXVT
-cover: covers/eu99rxvt.jpg
 ---
 

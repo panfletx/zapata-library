@@ -1,25 +1,25 @@
 ---
-title: Obra poetica
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Murillo, Josefa
-publishers:
-- Universidad Veracruzana
-place: Xalapa, Veracruz, Mexico
-languages:
-- Español
+cover: covers/iqmqbznd.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '15336220'
 pages: 90
+place: Xalapa, Veracruz, Mexico
+publishers:
+- Universidad Veracruzana
 series:
 - Colección Rescate
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '15336220'
+- Poetry
+title: Obra poetica
+year: 1984
 zotero_key: IQMQBZND
-cover: covers/iqmqbznd.jpg
 ---
 

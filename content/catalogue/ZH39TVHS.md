@@ -1,28 +1,27 @@
 ---
-title: Terra nostra
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Fuentes, Carlos
-publishers:
-- J. Mortiz
-place: México
-languages:
-- Español
+cover: covers/zh39tvhs.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '3111156'
 pages: 783
-edition: 2. ed
+place: México
+publishers:
+- J. Mortiz
 series:
 - Novelistas contemporáneos (Mexico City, Mexico)
 subjects:
-- Canada
-- Modern History
-- Travel Writing
-- Visual Art
-oclc: '3111156'
+- Carlos Fuentes
+- Mexican Literature
+- Novel
+title: Terra nostra
+year: 1976
 zotero_key: ZH39TVHS
-cover: covers/zh39tvhs.jpg
 ---
 

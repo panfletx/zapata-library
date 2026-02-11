@@ -1,28 +1,26 @@
 ---
-title: Chrestomathie de la littérature en ancien français
-date: '2024-09-01'
-year: 1953
-decade: 1950s
 authors:
 - Henry, Albert
-publishers:
-- A. Francke
-place: Berne
-languages:
-- Français
+cover: covers/2mm8wnlm.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Français
+oclc: '6512218'
 pages: 2
+place: Berne
+publishers:
+- A. Francke
 series:
 - Bibliotheca romanica
 subjects:
-- Anthology
-- Education
+- Bibliography
 - French Literature
-- Grammar & Linguistics
-- Speech & Lecture
-oclc: '6512218'
+- Medieval Literature
+title: Chrestomathie de la littérature en ancien français
+year: 1953
 zotero_key: 2MM8WNLM
-cover: covers/2mm8wnlm.jpg
 ---
 

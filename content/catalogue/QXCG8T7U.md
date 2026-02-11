@@ -1,25 +1,27 @@
 ---
-title: La coartada perfecta
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Highsmith, Patricia
-publishers:
-- Unidad
-place: Madrid
-languages:
-- Español
+cover: covers/qxcg8t7u.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-8130-005-5
 item_types:
 - book
-isbn: 978-84-8130-005-5
+languages:
+- Español
+oclc: '432155861'
 pages: 95
+place: Madrid
+publishers:
+- Unidad
 series:
 - Biblioteca El mundo
 subjects:
+- Detective & Mystery
+- English Literature
 - Fiction
-oclc: '432155861'
+title: La coartada perfecta
+year: 1998
 zotero_key: QXCG8T7U
-cover: covers/qxcg8t7u.jpg
 ---
 

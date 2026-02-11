@@ -1,26 +1,26 @@
 ---
-title: 'The painting the nude handbook: learning from the masters'
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Maiotti, Ettore
-publishers:
-- C. Potter
-place: New York
-languages:
-- English
+cover: covers/algpru3m.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1st American ed
+isbn: 978-0-517-58592-4
 item_types:
 - book
-isbn: 978-0-517-58592-4
+languages:
+- English
+oclc: '23179511'
 pages: 160
-edition: 1st American ed
+place: New York
+publishers:
+- C. Potter
 series: []
 subjects:
 - Painting
 - Visual Art
-oclc: '23179511'
+title: 'The painting the nude handbook: learning from the masters'
+year: 1991
 zotero_key: ALGPRU3M
-cover: covers/algpru3m.jpg
 ---
 

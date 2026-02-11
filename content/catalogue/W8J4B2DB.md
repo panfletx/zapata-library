@@ -1,25 +1,26 @@
 ---
-title: La Biblia
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Ricciardi, Ramón.
-publishers:
-- Ediciones Paulinas
-place: Madrid
-languages:
-- Español
+cover: covers/w8j4b2db.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[6. ed.]'
+isbn: 978-84-285-0003-6
 item_types:
 - book
-isbn: 978-84-285-0003-6
+languages:
+- Español
+oclc: '2127046'
 pages: 1049
-edition: '[6. ed.]'
+place: Madrid
+publishers:
+- Ediciones Paulinas
 series: []
 subjects:
-- Fiction
-oclc: '2127046'
+- Encyclopedia
+- Religion
+title: La Biblia
+year: 1974
 zotero_key: W8J4B2DB
-cover: covers/w8j4b2db.jpg
 ---
 

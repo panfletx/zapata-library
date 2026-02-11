@@ -1,19 +1,19 @@
 ---
-title: Memorial del día / Memorial do dia
-date: '2024-09-01'
-year: 2019
-decade: 2010s
 authors:
 - Gutiérrez, León Guillermo
-publishers:
-- Cuadernos de Casa Bermeja
-languages: []
+cover: covers/mhykcdxh.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages: []
+publishers:
+- Cuadernos de Casa Bermeja
 series: []
 subjects:
-- Fiction
+- Poetry
+title: Memorial del día / Memorial do dia
+year: 2019
 zotero_key: MHYKCDXH
-cover: covers/mhykcdxh.jpg
 ---
 

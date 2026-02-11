@@ -1,28 +1,26 @@
 ---
-title: Sólo cuento
-date: '2024-09-01'
-year: 2018
-decade: 2010s
 authors: []
-publishers:
-- Universidad Nacional Autónoma de México, Difusión Cultural
-place: Ciudad de México
-languages:
-- Español
+cover: covers/zwmaiquv.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-30-0788-7
 item_types:
 - book
-isbn: 978-607-30-0788-7
+languages:
+- Español
+oclc: '1102538607'
 pages: 376
-edition: Primera edición
+place: Ciudad de México
+publishers:
+- Universidad Nacional Autónoma de México, Difusión Cultural
 series:
 - Literatura. Año X
 subjects:
-- Fiction
-- Latin America
+- Mexican Literature
 - Short Stories
-- United States
-oclc: '1102538607'
+title: Sólo cuento
+year: 2018
 zotero_key: ZWMAIQUV
-cover: covers/zwmaiquv.jpg
 ---
 

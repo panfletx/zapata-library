@@ -1,25 +1,26 @@
 ---
-title: Yvain, el caballero del león y otros textos
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Chrétien
-publishers:
-- 'SEP : Trillas'
-place: México
-languages:
-- Español
+cover: covers/glcit5it.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-24-1152-6
 item_types:
 - book
-isbn: 978-968-24-1152-6
+languages:
+- Español
+oclc: '15567257'
 pages: 129
+place: México
+publishers:
+- 'SEP : Trillas'
 series:
 - Clásicos de la literatura (Mexico City, Mexico)
 subjects:
-- Fiction
-oclc: '15567257'
+- King Arthur
+- Medieval Literature
+title: Yvain, el caballero del león y otros textos
+year: 1982
 zotero_key: GLCIT5IT
-cover: covers/glcit5it.jpg
 ---
 

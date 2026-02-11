@@ -1,18 +1,20 @@
 ---
-title: Cuatro siglos de pintura jalisciense
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors: []
-publishers:
-- Cámara Nacional de Comercio de Guadalajara
-languages: []
+cover: covers/8tnu2d3i.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers:
+- Cámara Nacional de Comercio de Guadalajara
 series: []
 subjects:
-- Fiction
+- Jalisco
+- Mexican Literature
+- Painting
+title: Cuatro siglos de pintura jalisciense
+year: 1996
 zotero_key: 8TNU2D3I
-cover: covers/8tnu2d3i.jpg
 ---
 

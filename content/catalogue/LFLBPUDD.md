@@ -1,25 +1,26 @@
 ---
-title: La philosophie du moyen age
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Bréhier, Émile
-publishers:
-- Albin Michel
-place: Paris
-languages:
-- Unknown
+cover: covers/lflbpudd.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1976'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '958997208'
 pages: 442
+place: Paris
+publishers:
+- Albin Michel
 series:
 - Lévolution de l'humanité
 subjects:
+- Medieval History
 - Philosophy
-oclc: '958997208'
-exlibris: '1976'
+title: La philosophie du moyen age
+year: 1971
 zotero_key: LFLBPUDD
-cover: covers/lflbpudd.jpg
 ---
 

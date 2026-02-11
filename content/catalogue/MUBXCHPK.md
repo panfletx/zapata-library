@@ -1,25 +1,26 @@
 ---
-title: Cuentos inéditos
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Mujica Lainez, Manuel
-publishers:
-- 'Seix Barral : Ollero & Ramos'
-place: México
-languages:
-- Español
+cover: covers/mubxchpk.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6941-06-7
 item_types:
 - book
-isbn: 978-968-6941-06-7
+languages:
+- Español
+oclc: '970501252'
 pages: 157
+place: México
+publishers:
+- 'Seix Barral : Ollero & Ramos'
 series:
 - Fuera de Colección
 subjects:
+- Argentine Literature
 - Short Stories
-oclc: '970501252'
+title: Cuentos inéditos
+year: 1996
 zotero_key: MUBXCHPK
-cover: covers/mubxchpk.jpg
 ---
 

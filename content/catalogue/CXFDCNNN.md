@@ -1,25 +1,27 @@
 ---
-title: 'Gustave Flaubert. L''Éducation sentimentale: Préface de Robert Kemp. Édition ... annotée par E.-L. Ferrère ..'
-date: '2024-09-01'
-year: 1949
-decade: 1940s
 authors:
 - Flaubert, Gustave
 - Ferrère, E.-L.
 - Kemp, Robert
-publishers:
-- Audin (impr. de Audin)
-place: Lyon
-languages:
-- Français
+cover: covers/cxfdcnnn.jpg
+date: '2024-09-01'
+decade: 1940s
 item_types:
 - book
+languages:
+- Français
+oclc: '459614306'
 pages: 461
+place: Lyon
+publishers:
+- Audin (impr. de Audin)
 series: []
 subjects:
 - French Literature
-oclc: '459614306'
+- Literary Criticism
+- Novel
+title: 'Gustave Flaubert. L''Éducation sentimentale: Préface de Robert Kemp. Édition ... annotée par E.-L. Ferrère ..'
+year: 1949
 zotero_key: CXFDCNNN
-cover: covers/cxfdcnnn.jpg
 ---
 

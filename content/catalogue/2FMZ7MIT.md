@@ -1,30 +1,28 @@
 ---
-title: '[Transversalia]: horizontes con versos = Horizonte in verkehrten Versen'
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Bolte, Rike
 - Prinz, Ulrike
-publishers:
-- Verlagshaus J. Frank
-place: Berlin
-languages:
-- Deutsch
+cover: covers/2fmz7mit.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-3-940249-50-0
 item_types:
 - book
-isbn: 978-3-940249-50-0
+languages:
+- Deutsch
+oclc: '874833195'
 pages: 217
+place: Berlin
+publishers:
+- Verlagshaus J. Frank
 series:
 - Quartheft (Edition Polyphon)
 subjects:
-- Latin America
-- Modern History
+- Experimental Literature
+- German Literature
 - Poetry
-- Translation Studies
-- United States
-oclc: '874833195'
+title: '[Transversalia]: horizontes con versos = Horizonte in verkehrten Versen'
+year: 2011
 zotero_key: 2FMZ7MIT
-cover: covers/2fmz7mit.jpg
 ---
 

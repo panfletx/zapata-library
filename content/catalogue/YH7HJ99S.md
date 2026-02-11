@@ -1,18 +1,19 @@
 ---
-title: Revista, Memoria de papel 3
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/yh7hj99s.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 0188-4824
 item_types:
 - book
-isbn: 0188-4824
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Memory
+title: Revista, Memoria de papel 3
+year: 1992
 zotero_key: YH7HJ99S
-cover: covers/yh7hj99s.jpg
 ---
 

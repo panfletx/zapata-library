@@ -1,25 +1,25 @@
 ---
-title: 'Rubaiyat: seguidos del poema Kuza-nama'
-date: '2024-09-01'
-year: 1961
-decade: 1960s
 authors:
 - Omar Khayyam
 - Gibert, José.
 - Navarro, Diego
-publishers:
-- El libro popular
-place: Mexico
-languages:
-- Español
+cover: covers/cwh3x9n3.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '19113592'
 pages: 126
+place: Mexico
+publishers:
+- El libro popular
 series: []
 subjects:
-- Fiction
-oclc: '19113592'
+- Poetry
+title: 'Rubaiyat: seguidos del poema Kuza-nama'
+year: 1961
 zotero_key: CWH3X9N3
-cover: covers/cwh3x9n3.jpg
 ---
 

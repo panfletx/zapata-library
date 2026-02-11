@@ -1,25 +1,26 @@
 ---
-title: 'Kavafis: una biografía crítica'
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Liddell, Robert
-publishers:
-- Ultramar
-place: Madrid
-languages:
-- Español
+cover: covers/7yri8ls9.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7386-259-2
 item_types:
 - book
-isbn: 978-84-7386-259-2
+languages:
+- Español
+oclc: '879712493'
 pages: 255
+place: Madrid
+publishers:
+- Ultramar
 series:
 - Serie azul
 subjects:
-- Poetry
-oclc: '879712493'
+- Biography
+- Literary Criticism
+title: 'Kavafis: una biografía crítica'
+year: 1980
 zotero_key: 7YRI8LS9
-cover: covers/7yri8ls9.jpg
 ---
 

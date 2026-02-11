@@ -1,28 +1,29 @@
 ---
-title: Gramática sucinta de la lengua alemana
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Otto, E.
 - Ruppert, E.
-publishers:
-- Herder ; Julio Groos
-place: Barcelona, Heidelberg
-languages:
-- Español
+cover: covers/qlw6ej68.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 36a. ed
+isbn: 978-84-254-0095-7
 item_types:
 - book
-isbn: 978-84-254-0095-7
+languages:
+- Español
+oclc: '37037626'
 pages: 255
-edition: 36a. ed
+place: Barcelona, Heidelberg
+publishers:
+- Herder ; Julio Groos
 series:
 - Gramática Sucinta
 subjects:
 - Education
+- German Literature
 - Grammar & Linguistics
-oclc: '37037626'
+title: Gramática sucinta de la lengua alemana
+year: 1996
 zotero_key: QLW6EJ68
-cover: covers/qlw6ej68.jpg
 ---
 

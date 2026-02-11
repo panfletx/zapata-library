@@ -1,23 +1,23 @@
 ---
-title: 'La Bible: traduction oecumenique de la bible'
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors: []
-publishers:
-- Librairie générale française
-place: Paris
-languages:
-- Français
+cover: covers/mwr4nayr.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '299969093'
 pages: 3
+place: Paris
+publishers:
+- Librairie générale française
 series:
 - Livre de poche
 subjects:
-- French Literature
-oclc: '299969093'
+- Religion
+title: 'La Bible: traduction oecumenique de la bible'
+year: 1979
 zotero_key: MWR4NAYR
-cover: covers/mwr4nayr.jpg
 ---
 

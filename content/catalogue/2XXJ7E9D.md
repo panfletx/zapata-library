@@ -1,25 +1,26 @@
 ---
-title: Los cien mejores poemas breves latinoamericanos
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Latino, Simón
-publishers:
-- Editorial Nuestra América
-place: Buenos Aires
-languages:
-- Español
+cover: covers/2xxj7e9d.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '81101419'
 pages: 80
+place: Buenos Aires
+publishers:
+- Editorial Nuestra América
 series:
 - Cuadernillos de Poesía
 subjects:
+- Anthology
+- Latin American Literature
 - Poetry
-- United States
-oclc: '81101419'
+title: Los cien mejores poemas breves latinoamericanos
+year: 1963
 zotero_key: 2XXJ7E9D
-cover: covers/2xxj7e9d.jpg
 ---
 

@@ -1,15 +1,16 @@
 ---
-title: Revista, Algarabía enero 184
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/barchi9g.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Mexican Literature
+title: Revista, Algarabía enero 184
 zotero_key: BARCHI9G
-cover: covers/barchi9g.jpg
 ---
 

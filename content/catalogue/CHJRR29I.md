@@ -1,15 +1,16 @@
 ---
-title: Revista, La fotografía actual 43
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/chjrr29i.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Photography
+- Visual Art
+title: Revista, La fotografía actual 43
 zotero_key: CHJRR29I
-cover: covers/chjrr29i.jpg
 ---
 

@@ -1,28 +1,29 @@
 ---
-title: Pánico o peligro
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Puga, María Luisa
-publishers:
-- Siglo Veintiuno Ed
-place: México, D.F
-languages:
-- Español
+cover: covers/f4nmwhci.jpg
+cover_note: regalo de Toño
+date: '2024-09-01'
+decade: 1980s
+edition: 2. ed
+exlibris: '1992'
+isbn: 978-968-23-1215-1
 item_types:
 - book
-isbn: 978-968-23-1215-1
+languages:
+- Español
+oclc: '249145901'
 pages: 282
-edition: 2. ed
+place: México, D.F
+publishers:
+- Siglo Veintiuno Ed
 series:
 - La creación literaria
 subjects:
-- Fiction
-oclc: '249145901'
-cover_note: regalo de Toño
-exlibris: '1992'
+- Mexican Literature
+- Novel
+title: Pánico o peligro
+year: 1987
 zotero_key: F4NMWHCI
-cover: covers/f4nmwhci.jpg
 ---
 

@@ -1,31 +1,28 @@
 ---
-title: Mis modelos de conducta
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Waters, John
 - Marín, Pablo
-publishers:
-- Caja Negra Editora
-place: Buenos Aires
-languages:
-- Español
+cover: covers/zhaniw8p.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-987-1622-14-6
 item_types:
 - book
-isbn: 978-987-1622-14-6
+languages:
+- Español
+oclc: '907002325'
 pages: 284
+place: Buenos Aires
+publishers:
+- Caja Negra Editora
 series:
 - Synesthesia
 subjects:
-- Biography
-- Film & Cinema
-- Literary Criticism
-- Screenplay
-- United States
-- Visual Art
-oclc: '907002325'
+- Argentina
+- Autobiography & Memoir
+- Essay
+title: Mis modelos de conducta
+year: 2012
 zotero_key: ZHANIW8P
-cover: covers/zhaniw8p.jpg
 ---
 

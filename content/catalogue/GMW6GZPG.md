@@ -1,27 +1,28 @@
 ---
-title: Español moderno
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - García-Pelayo y Gross, Ramón.
-publishers:
-- Larousse
-place: México, D.F.
-languages:
-- Español
+cover: covers/gmw6gzpg.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-2-03-490073-0
 item_types:
 - book
-isbn: 978-2-03-490073-0
+languages:
+- Español
+oclc: '15799576'
 pages: 634
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Larousse
 series:
 - Diccionario práctico Larousse
 subjects:
 - Dictionary
 - Grammar & Linguistics
-oclc: '15799576'
+- Spanish Literature
+title: Español moderno
+year: 1983
 zotero_key: GMW6GZPG
-cover: covers/gmw6gzpg.jpg
 ---
 

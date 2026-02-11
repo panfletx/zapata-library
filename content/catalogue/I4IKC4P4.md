@@ -1,25 +1,26 @@
 ---
-title: Andar por la tierra
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Aguirre, Coral
 - Teniente, Rafael
-publishers:
-- Ediciones Intempestivas
-place: Monterrey, México
-languages:
-- Español
+cover: covers/i4ikc4p4.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '767829208'
 pages: 85
-edition: 1. ed
+place: Monterrey, México
+publishers:
+- Ediciones Intempestivas
 series: []
 subjects:
-- Fiction
-oclc: '767829208'
+- Mexican Literature
+- Poetry
+title: Andar por la tierra
+year: 2011
 zotero_key: I4IKC4P4
-cover: covers/i4ikc4p4.jpg
 ---
 

@@ -1,24 +1,23 @@
 ---
-title: Les lettres françaises
-date: '2024-09-01'
-year: 1954
-decade: 1950s
 authors:
 - Bogaert, Jean
 - Passeron, Joseph
-publishers:
-- Magnard
-place: Paris
-languages:
-- Français
+cover: covers/wumwhr6v.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Français
+oclc: '235131045'
+place: Paris
+publishers:
+- Magnard
 series: []
 subjects:
-- Bibliography
 - French Literature
-oclc: '235131045'
+title: Les lettres françaises
+year: 1954
 zotero_key: WUMWHR6V
-cover: covers/wumwhr6v.jpg
 ---
 

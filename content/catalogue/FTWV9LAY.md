@@ -1,20 +1,22 @@
 ---
-title: La balada de la cárcel de Reading
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Wilde, Oscar
 - Bravo Varela, Hernán
-publishers:
-- Quimera
-languages: []
+cover: covers/ftwv9lay.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages: []
+publishers:
+- Quimera
 series: []
 subjects:
-- Mexican Literature
+- English Literature
+- Poetry
+- Prison
+title: La balada de la cárcel de Reading
+year: 2010
 zotero_key: FTWV9LAY
-cover: covers/ftwv9lay.jpg
 ---
 

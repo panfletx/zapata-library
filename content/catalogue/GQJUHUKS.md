@@ -1,24 +1,26 @@
 ---
-title: The last tycoon
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Fitzgerald, F. Scott
-publishers:
-- Penguin
-place: Harmondsworth
-languages:
-- English
+cover: covers/gqjuhuks.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-14-001495-2
 item_types:
 - book
-isbn: 978-0-14-001495-2
+languages:
+- English
+oclc: '1152677474'
 pages: 236
+place: Harmondsworth
+publishers:
+- Penguin
 series: []
 subjects:
+- American Literature
+- Detective & Mystery
 - Fiction
-oclc: '1152677474'
+title: The last tycoon
+year: 1977
 zotero_key: GQJUHUKS
-cover: covers/gqjuhuks.jpg
 ---
 

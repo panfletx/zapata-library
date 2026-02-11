@@ -1,25 +1,26 @@
 ---
-title: Cómo se comenta un texto literario
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Lázaro Carreter, Fernando
 - Correa Calderón, Evaristo
-publishers:
-- Grupo Editorial Patria
-place: México
-languages:
-- Español
+cover: covers/t7buifgz.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-968-439-276-2
 item_types:
 - book
-isbn: 978-968-439-276-2
+languages:
+- Español
+oclc: '768865149'
 pages: 205
+place: México
+publishers:
+- Grupo Editorial Patria
 series: []
 subjects:
-- Spanish Literature
-oclc: '768865149'
+- Contemporary History
+- Latin America
+title: Cómo se comenta un texto literario
+year: 2000
 zotero_key: T7BUIFGZ
-cover: covers/t7buifgz.jpg
 ---
 

@@ -1,16 +1,17 @@
 ---
-title: Revista, Repertorio 29
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/tshcbxwi.jpg
+date: '2024-09-01'
+isbn: 01854674
 item_types:
 - book
-isbn: 01854674
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Bibliography
+title: Revista, Repertorio 29
 zotero_key: TSHCBXWI
-cover: covers/tshcbxwi.jpg
 ---
 

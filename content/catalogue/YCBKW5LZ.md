@@ -1,25 +1,27 @@
 ---
-title: Escal-Vigor
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Eekhoud, Georges
-publishers:
-- Persona
-place: Paris
-languages:
-- Unknown
+cover: covers/ycbkw5lz.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-903669-08-9
 item_types:
 - book
-isbn: 978-2-903669-08-9
+languages:
+- Unknown
+oclc: '252233344'
 pages: 202
+place: Paris
+publishers:
+- Persona
 series:
 - (Collection mémoire)
 subjects:
 - Fiction
-oclc: '252233344'
+- French Literature
+- Novel
+title: Escal-Vigor
+year: 1982
 zotero_key: YCBKW5LZ
-cover: covers/ycbkw5lz.jpg
 ---
 

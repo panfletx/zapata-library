@@ -1,24 +1,26 @@
 ---
-title: La feria de las vanidades
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Thackeray, William Makepeace
-publishers:
-- Credsa
-place: Barcelona
-languages:
-- Español
+cover: covers/jfbdprum.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '432963843'
 pages: 846
+place: Barcelona
+publishers:
+- Credsa
 series:
 - Gigantes de la Literatura Universal
 subjects:
-- Fiction
-oclc: '432963843'
+- English Literature
+- Novel
+- Satire & Humor
+title: La feria de las vanidades
+year: 1972
 zotero_key: JFBDPRUM
-cover: covers/jfbdprum.jpg
 ---
 

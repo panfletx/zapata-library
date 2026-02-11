@@ -1,24 +1,26 @@
 ---
-title: Le degre zero de l'ecriture
-date: '2024-09-01'
-year: 1957
-decade: 1950s
 authors:
 - Barthes, Roland
-publishers:
-- Du Seuil
-place: (Paris)
-languages:
-- Français
+cover: covers/y7hxw48f.jpg
+date: '2024-09-01'
+decade: 1950s
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Français
+oclc: '637268601'
 pages: 126
+place: (Paris)
+publishers:
+- Du Seuil
 series: []
 subjects:
+- Essay
 - French Literature
-oclc: '637268601'
-exlibris: '1978'
+- Literary Criticism
+title: Le degre zero de l'ecriture
+year: 1957
 zotero_key: Y7HXW48F
-cover: covers/y7hxw48f.jpg
 ---
 

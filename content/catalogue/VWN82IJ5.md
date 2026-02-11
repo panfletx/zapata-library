@@ -1,24 +1,26 @@
 ---
-title: 'En attendant Godot: pièce en deux actes'
-date: '2024-09-01'
-year: 1952
-decade: 1950s
 authors:
 - Beckett, Samuel
-publishers:
-- Les Éditions de Minuit
-place: Paris
-languages:
-- Français
+cover: covers/vwn82ij5.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
-source_url: https://bac-lac.on.worldcat.org/oclc/396737386
+languages:
+- Français
+oclc: '3682553'
 pages: 163
+place: Paris
+publishers:
+- Les Éditions de Minuit
 series: []
+source_url: https://bac-lac.on.worldcat.org/oclc/396737386
 subjects:
 - Drama
-oclc: '3682553'
+- Existentialism
+- French Literature
+title: 'En attendant Godot: pièce en deux actes'
+year: 1952
 zotero_key: VWN82IJ5
-cover: covers/vwn82ij5.jpg
 ---
 

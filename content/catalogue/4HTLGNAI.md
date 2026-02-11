@@ -1,27 +1,25 @@
 ---
-title: 'Brotes de Guerrero: Guerrerismos'
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Massieu, Cuca
-publishers:
-- publisher not identified
-place: México
-languages:
-- Español
+cover: covers/4htlgnai.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '14210340'
 pages: 99
+place: México
+publishers:
+- publisher not identified
 series: []
 subjects:
-- Dictionary
-- Fiction
-- Grammar & Linguistics
+- Chronicle
+- Mexican Literature
 - Mexico
-- Oral Tradition & Folklore
-oclc: '14210340'
+title: 'Brotes de Guerrero: Guerrerismos'
+year: 1984
 zotero_key: 4HTLGNAI
-cover: covers/4htlgnai.jpg
 ---
 

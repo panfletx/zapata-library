@@ -1,27 +1,28 @@
 ---
-title: Nouveau dictionnaire etymologique
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Dauzat, Albert
 - Dubois, Jean
 - Mitterand, Henri
-publishers:
-- LAROUSSE
-place: Lieu de publication non identifié
-languages:
-- Français
+cover: covers/epu28cn9.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-03-029303-4
 item_types:
 - book
-isbn: 978-2-03-029303-4
+languages:
+- Français
+oclc: '420017127'
+place: Lieu de publication non identifié
+publishers:
+- LAROUSSE
 series:
 - DICTIONNAIRE DU LANGAGE
 subjects:
 - Dictionary
+- French Literature
 - Grammar & Linguistics
-oclc: '420017127'
+title: Nouveau dictionnaire etymologique
+year: 1971
 zotero_key: EPU28CN9
-cover: covers/epu28cn9.jpg
 ---
 

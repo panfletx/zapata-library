@@ -1,28 +1,29 @@
 ---
-title: El buen negro
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Caminha, Adolfo
-publishers:
-- Quimera
-place: Cuauhtémoc, México
-languages:
-- Español
+cover: covers/ytt3svph.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-607-00-0264-9
 item_types:
 - book
-isbn: 978-607-00-0264-9
+languages:
+- Español
+oclc: '456377669'
 pages: 141
-edition: 1. ed
+place: Cuauhtémoc, México
+publishers:
+- Quimera
 series:
 - Colección Thélema
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '456377669'
+- Brazilian Literature
+- Novel
+- Slavery
+title: El buen negro
+year: 2008
 zotero_key: YTT3SVPH
-cover: covers/ytt3svph.jpg
 ---
 
 A nineteenth-century Brazilian novel features the adventures of Amaro, known as "Bom Crioulo," a generous, loving, but sometimes hard-drinking gay man

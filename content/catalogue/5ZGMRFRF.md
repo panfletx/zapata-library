@@ -1,28 +1,28 @@
 ---
-title: 'Le coeur mangé: récits érotiques et courtois des 12. et 13. siècles'
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Régnier-Bohler, Danielle
 - Gaignebet, Claude
-publishers:
-- Stock
-place: Paris
-languages:
-- Français
+cover: covers/5zgmrfrf.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-234-01167-0
 item_types:
 - book
-isbn: 978-2-234-01167-0
+languages:
+- Français
+oclc: '878875698'
 pages: 337
+place: Paris
+publishers:
+- Stock
 series:
 - Stock plus. Moyen âge
 subjects:
+- Anthology
 - Erotic Literature
 - Medieval Literature
-- Sexuality & Eroticism
-oclc: '878875698'
+title: 'Le coeur mangé: récits érotiques et courtois des 12. et 13. siècles'
+year: 1979
 zotero_key: 5ZGMRFRF
-cover: covers/5zgmrfrf.jpg
 ---
 

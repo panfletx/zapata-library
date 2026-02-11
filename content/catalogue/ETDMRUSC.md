@@ -1,25 +1,26 @@
 ---
-title: Psicoanálisis y religión
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Fromm, Erich
-publishers:
-- Nueva imagen
-place: Buenos Aires
-languages:
-- Español
+cover: covers/etdmrusc.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0179-8
 item_types:
 - book
-isbn: 978-968-39-0179-8
+languages:
+- Español
+oclc: '45206836'
 pages: 96
+place: Buenos Aires
+publishers:
+- Nueva imagen
 series: []
 subjects:
+- Philosophy
 - Psychoanalysis
 - Religion
-oclc: '45206836'
+title: Psicoanálisis y religión
+year: 1990
 zotero_key: ETDMRUSC
-cover: covers/etdmrusc.jpg
 ---
 

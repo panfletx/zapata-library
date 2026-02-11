@@ -1,27 +1,29 @@
 ---
-title: El tutor
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Castillo, Alberto
-publishers:
-- Sin Nombre
-place: México, D.F.
-languages:
-- Español
+cover: covers/e5pn9l6m.jpg
+cover_note: dedicatoria del autor 2010
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
+isbn: 978-607-00-2971-4
 item_types:
 - book
-isbn: 978-607-00-2971-4
+languages:
+- Español
+oclc: '690958553'
 pages: 75
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Sin Nombre
 series:
 - Libros de la oruga
 subjects:
-- Fiction
-oclc: '690958553'
-cover_note: dedicatoria del autor 2010
+- Mexican Literature
+- Mexico City
+- Novel
+title: El tutor
+year: 2010
 zotero_key: E5PN9L6M
-cover: covers/e5pn9l6m.jpg
 ---
 

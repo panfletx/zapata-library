@@ -1,24 +1,25 @@
 ---
-title: 'Introducción al psicoanálisis: II teoría general de las neurosis'
-date: '2024-09-01'
 authors:
 - Freud, Sigmund
 - López-Ballesteros y de Torres, Luis
-publishers:
-- Editorial Iztaccihuatl
-place: México
-languages:
-- Español
+cover: covers/6mx8glhr.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages:
+- Español
+oclc: '906796669'
 pages: 295
+place: México
+publishers:
+- Editorial Iztaccihuatl
 series:
 - Biblioteca de Psicología Contemporánea
 subjects:
 - Medicine & Health
 - Psychoanalysis
-oclc: '906796669'
+- Sigmund Freud
+title: 'Introducción al psicoanálisis: II teoría general de las neurosis'
 zotero_key: 6MX8GLHR
-cover: covers/6mx8glhr.jpg
 ---
 

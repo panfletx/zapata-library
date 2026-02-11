@@ -1,26 +1,24 @@
 ---
-title: El arte del comediante
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Villiers, André.
-publishers:
-- Eudeba
-place: Buenos Aires
-languages:
-- Español
+cover: covers/n9xixhlb.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '912210649'
 pages: 65
+place: Buenos Aires
+publishers:
+- Eudeba
 series:
 - Cuadernos
 subjects:
 - Drama
-- Film & Cinema
-- Visual Art
-oclc: '912210649'
+title: El arte del comediante
+year: 1972
 zotero_key: N9XIXHLB
-cover: covers/n9xixhlb.jpg
 ---
 

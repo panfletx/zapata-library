@@ -1,27 +1,28 @@
 ---
-title: Renart el zorro
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Roman de Renart
-publishers:
-- Premia
-place: México.
-languages:
-- Español
+cover: covers/war43htm.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1980'
+isbn: 978-968-434-098-5
 item_types:
 - book
-isbn: 978-968-434-098-5
+languages:
+- Español
+oclc: '1097214435'
 pages: 108
+place: México.
+publishers:
+- Premia
 series:
 - La nave de los locos
 subjects:
+- Fable & Parable
 - French Literature
-- Literary Criticism
-oclc: '1097214435'
-exlibris: '1980'
+- Medieval Literature
+title: Renart el zorro
+year: 1979
 zotero_key: WAR43HTM
-cover: covers/war43htm.jpg
 ---
 

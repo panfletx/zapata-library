@@ -1,25 +1,26 @@
 ---
-title: Isla de las estaciones
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Heaney, Seamus
-publishers:
-- Toledo
-place: Tlalpan, México
-languages:
-- Español
+cover: covers/miib6kea.jpg
+cover_note: dedicatoria Pura López Colomé
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6332-31-5
 item_types:
 - book
-isbn: 978-968-6332-31-5
+languages:
+- Español
+oclc: '503285962'
 pages: 138
+place: Tlalpan, México
+publishers:
+- Toledo
 series: []
 subjects:
-- Fiction
-oclc: '503285962'
-cover_note: dedicatoria Pura López Colomé
+- English Literature
+- Poetry
+title: Isla de las estaciones
+year: 1991
 zotero_key: MIIB6KEA
-cover: covers/miib6kea.jpg
 ---
 

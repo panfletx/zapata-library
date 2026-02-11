@@ -1,26 +1,27 @@
 ---
-title: Veinticuatro horas de la vida de una mujer ; Amok
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Zweig, Stefan
-publishers:
-- Plaza & Janés
-place: Esplugues de Llobregat (Barcelona)
-languages:
-- Español
+cover: covers/3xsad74z.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-84-01-42134-1
 item_types:
 - book
-isbn: 978-84-01-42134-1
+languages:
+- Español
+oclc: '27647661'
 pages: 223
-edition: 1. ed
+place: Esplugues de Llobregat (Barcelona)
+publishers:
+- Plaza & Janés
 series:
 - Ave fénix
 subjects:
-- Fiction
-oclc: '27647661'
+- German Literature
+- Novella
+title: Veinticuatro horas de la vida de una mujer ; Amok
+year: 1984
 zotero_key: 3XSAD74Z
-cover: covers/3xsad74z.jpg
 ---
 

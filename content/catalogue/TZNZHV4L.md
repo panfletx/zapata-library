@@ -1,27 +1,29 @@
 ---
-title: Sus brazos labios en mi boca rodando
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Loo, Sergio
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/tznzhv4l.jpg
+cover_note: dedicatoria Sergio Loo
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+isbn: 978-970-35-1416-8
 item_types:
 - book
-isbn: 978-970-35-1416-8
+languages:
+- Español
+oclc: '301746350'
 pages: 76
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
+- Erotic Literature
+- Mexican Literature
 - Poetry
-oclc: '301746350'
-cover_note: dedicatoria Sergio Loo
+title: Sus brazos labios en mi boca rodando
+year: 2007
 zotero_key: TZNZHV4L
-cover: covers/tznzhv4l.jpg
 ---
 

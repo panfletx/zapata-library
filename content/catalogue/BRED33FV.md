@@ -1,27 +1,28 @@
 ---
-title: La noche de Hugo y otros poemas
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Martínez, Uriel
-publishers:
-- Instituto de Cultura de Estado de Durango
-place: Durango, Dgo., México
-languages:
-- Español
+cover: covers/bred33fv.jpg
+cover_note: dedicatoria de Uriel Martínez
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-9046-52-6
 item_types:
 - book
-isbn: 978-970-9046-52-6
+languages:
+- Español
+oclc: '658901750'
 pages: 59
-edition: 1. ed
+place: Durango, Dgo., México
+publishers:
+- Instituto de Cultura de Estado de Durango
 series:
 - Cielo de palabras
 subjects:
-- Fiction
-oclc: '658901750'
-cover_note: dedicatoria de Uriel Martínez
+- Mexican Literature
+- Poetry
+title: La noche de Hugo y otros poemas
+year: 2007
 zotero_key: BRED33FV
-cover: covers/bred33fv.jpg
 ---
 

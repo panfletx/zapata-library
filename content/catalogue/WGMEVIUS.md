@@ -1,27 +1,27 @@
 ---
-title: Pacto de sangre
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Cain, James M.
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/wgmevius.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-84-02-07915-2
 item_types:
 - book
-isbn: 978-84-02-07915-2
+languages:
+- Español
+oclc: '81340175'
 pages: 191
-edition: 1a ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro amigo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '81340175'
+- American Literature
+- Detective & Mystery
+title: Pacto de sangre
+year: 1981
 zotero_key: WGMEVIUS
-cover: covers/wgmevius.jpg
 ---
 

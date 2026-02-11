@@ -1,30 +1,29 @@
 ---
-title: La novela mexicana, 1967-1982
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Brushwood, John S.
-publishers:
-- Grijalbo
-place: México
-languages:
-- Español
+cover: covers/nx4fv8kb.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-419-484-7
 item_types:
 - book
-isbn: 978-968-419-484-7
+languages:
+- Español
+oclc: '12436248'
 pages: 130
-edition: 1a ed
+place: México
+publishers:
+- Grijalbo
 series:
 - Colección Enlace
 subjects:
-- Fiction
 - Literary Criticism
+- Mexican Literature
 - Mexico
-- Modern History
-oclc: '12436248'
+title: La novela mexicana, 1967-1982
+year: 1985
 zotero_key: NX4FV8KB
-cover: covers/nx4fv8kb.jpg
 ---
 
 Mexican fiction 20th century History and criticism

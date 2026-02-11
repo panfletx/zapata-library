@@ -1,28 +1,27 @@
 ---
-title: 'El mundo alucinante: (una novela de aventuras)'
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Arenas, Reinaldo
-publishers:
-- Diógenes
-place: México
-languages:
-- Español
+cover: covers/adusr98i.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 1a. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1024786612'
 pages: 222
-edition: 1a. ed
+place: México
+publishers:
+- Diógenes
 series:
 - Escritores de lengua española
 subjects:
-- Cuba
-- Fiction
-- Mexican Literature
-- Modern History
-oclc: '1024786612'
+- Cuban Literature
+- Historical Fiction
+- Novel
+title: 'El mundo alucinante: (una novela de aventuras)'
+year: 1969
 zotero_key: ADUSR98I
-cover: covers/adusr98i.jpg
 ---
 

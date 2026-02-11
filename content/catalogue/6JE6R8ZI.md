@@ -1,30 +1,30 @@
 ---
-title: Infancia, adolescencia, juventud
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Tolstoy, Leo
 - Fernández Sánchez, José.
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- English
+cover: covers/6je6r8zi.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2.a ed
+exlibris: '1991'
+isbn: 978-84-02-08784-3
 item_types:
 - book
-isbn: 978-84-02-08784-3
+languages:
+- English
+oclc: '59281895'
 pages: 439
-edition: 2.a ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro amigo
 subjects:
+- Autobiography & Memoir
+- Childhood
 - Russian Literature
-- Short Stories
-- Translation Studies
-oclc: '59281895'
-exlibris: '1991'
+title: Infancia, adolescencia, juventud
+year: 1984
 zotero_key: 6JE6R8ZI
-cover: covers/6je6r8zi.jpg
 ---
 

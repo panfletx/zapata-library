@@ -1,24 +1,24 @@
 ---
-title: La bella di Lodi
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Arbasino, Alberto
-publishers:
-- Einaudi
-place: Torino
-languages:
-- Italiano
+cover: covers/uscpid8y.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Italiano
+oclc: '852331'
 pages: 166
+place: Torino
+publishers:
+- Einaudi
 series: []
 subjects:
 - Italian Literature
-- Literary Criticism
-oclc: '852331'
+- Novel
+title: La bella di Lodi
+year: 1972
 zotero_key: USCPID8Y
-cover: covers/uscpid8y.jpg
 ---
 

@@ -1,26 +1,27 @@
 ---
-title: Método e hipótesis científicos
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - López Cano, José Luis
-publishers:
-- Trillas
-place: México
-languages:
-- Unknown
+cover: covers/65dawwnm.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2a. ed
+isbn: 978-968-24-0692-8
 item_types:
 - book
-isbn: 978-968-24-0692-8
+languages:
+- Unknown
+oclc: '636368108'
 pages: 111
-edition: 2a. ed
+place: México
+publishers:
+- Trillas
 series:
 - Temas básicos. Area de Metodología de la Ciencia
 subjects:
+- Philosophy
 - Science
-oclc: '636368108'
+title: Método e hipótesis científicos
+year: 1978
 zotero_key: 65DAWWNM
-cover: covers/65dawwnm.jpg
 ---
 

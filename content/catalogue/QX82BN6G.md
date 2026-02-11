@@ -1,31 +1,29 @@
 ---
-title: Luis González Obregón
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - González Obregón, Luis
-publishers:
-- 'Cal y Arena : Nexos Sociedad Ciencia y Literatura'
-place: México
-languages:
-- Español
+cover: covers/qx82bn6g.jpg
+cover_note: dedicatoria autor
+date: '2024-09-01'
+decade: 2000s
+edition: 'Primera edición: Cal y arena, 2004'
+isbn: 978-968-7711-02-7
 item_types:
 - book
-isbn: 978-968-7711-02-7
+languages:
+- Español
+oclc: '1055608240'
 pages: 703
-edition: 'Primera edición: Cal y arena, 2004'
+place: México
+publishers:
+- 'Cal y Arena : Nexos Sociedad Ciencia y Literatura'
 series:
 - Colección Los imprescindibles
 subjects:
+- Autobiography & Memoir
+- Biography
 - Mexican Literature
-- Mexico
-- Mexico City
-- Modern History
-- Urban Life
-oclc: '1055608240'
-cover_note: dedicatoria autor
+title: Luis González Obregón
+year: 2004
 zotero_key: QX82BN6G
-cover: covers/qx82bn6g.jpg
 ---
 

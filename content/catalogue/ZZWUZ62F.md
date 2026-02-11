@@ -1,26 +1,25 @@
 ---
-title: El mexicano, psicología de sus motivaciones
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Ramírez, Santiago
-publishers:
-- Debolsillo
-place: México, D.F.
-languages:
-- Español
+cover: covers/zzwuz62f.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2010'
+isbn: 978-970-05-1825-1
 item_types:
 - book
-isbn: 978-970-05-1825-1
+languages:
+- Español
+oclc: '154668350'
+place: México, D.F.
+publishers:
+- Debolsillo
 series: []
 subjects:
-- Mexico
+- Mexican Literature
 - National Identity
-- Psychoanalysis
-oclc: '154668350'
-exlibris: '2010'
+title: El mexicano, psicología de sus motivaciones
+year: 2004
 zotero_key: ZZWUZ62F
-cover: covers/zzwuz62f.jpg
 ---
 

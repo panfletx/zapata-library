@@ -1,24 +1,25 @@
 ---
-title: El renacimiento
-date: '2024-09-01'
-year: 2015
-decade: 2010s
 authors:
 - Johnson, Paul
-publishers:
-- Penguin Random House
-place: Barcelona
-languages:
-- Español
+cover: covers/5rhnxezm.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-31-2950-3
 item_types:
 - book
-isbn: 978-607-31-2950-3
+languages:
+- Español
+oclc: '962134384'
 pages: 267
+place: Barcelona
+publishers:
+- Penguin Random House
 series: []
 subjects:
+- Historical Fiction
 - Modern History
-oclc: '962134384'
+title: El renacimiento
+year: 2015
 zotero_key: 5RHNXEZM
-cover: covers/5rhnxezm.jpg
 ---
 

@@ -1,28 +1,25 @@
 ---
-title: Exploring world art
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Belloli, Andrea P. A.
-publishers:
-- Frances Lincoln
-place: London
-languages:
-- English
+cover: covers/2bm25zzk.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-0-7112-1895-6
 item_types:
 - book
-isbn: 978-0-7112-1895-6
+languages:
+- English
+oclc: '1227615775'
 pages: 116
+place: London
+publishers:
+- Frances Lincoln
 series: []
 subjects:
-- Children's Literature
-- Literary Criticism
-- Modern History
 - Visual Art
-oclc: '1227615775'
+title: Exploring world art
+year: 2001
 zotero_key: 2BM25ZZK
-cover: covers/2bm25zzk.jpg
 ---
 
 An eye-opening introduction to the wonders of world art.

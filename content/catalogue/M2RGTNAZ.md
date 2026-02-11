@@ -1,15 +1,15 @@
 ---
-title: Colección Austral No. 1001
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/m2rgtnaz.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Colección Austral No. 1001
 zotero_key: M2RGTNAZ
-cover: covers/m2rgtnaz.jpg
 ---
 

@@ -1,25 +1,27 @@
 ---
-title: The Europeans
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - James, Henry
-publishers:
-- Penguin Books
-place: London
-languages:
-- Unknown
+cover: covers/vsbh2hdg.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-0-14-062195-2
 item_types:
 - book
-isbn: 978-0-14-062195-2
+languages:
+- Unknown
+oclc: '1082007139'
 pages: 178
+place: London
+publishers:
+- Penguin Books
 series:
 - Penguin popular classics
 subjects:
-- Fiction
-oclc: '1082007139'
+- American Literature
+- Novel
+- United States
+title: The Europeans
+year: 1995
 zotero_key: VSBH2HDG
-cover: covers/vsbh2hdg.jpg
 ---
 

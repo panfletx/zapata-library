@@ -1,29 +1,27 @@
 ---
-title: El extranjero
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Camus, Albert
-publishers:
-- Ediciones Altaya
-place: Barcelona
-languages:
-- Español
+cover: covers/9jfdta2a.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-487-0504-6
 item_types:
 - book
-isbn: 978-84-487-0504-6
+languages:
+- Español
+oclc: '48895977'
 pages: 118
+place: Barcelona
+publishers:
+- Ediciones Altaya
 series:
 - Biblioteca de Premios Nobel
 subjects:
-- Detective & Mystery
-- Fiction
-- North Africa
-- Short Stories
-- Translation Studies
-oclc: '48895977'
+- Existentialism
+- French Literature
+- Novel
+title: El extranjero
+year: 1995
 zotero_key: 9JFDTA2A
-cover: covers/9jfdta2a.jpg
 ---
 

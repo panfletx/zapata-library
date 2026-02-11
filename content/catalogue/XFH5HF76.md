@@ -1,26 +1,27 @@
 ---
-title: Desorden y dolor precoz
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Mann, Thomas
-publishers:
-- Alba
-place: Barcelona
-languages:
-- Español
+cover: covers/xfh5hf76.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-84-8428-022-4
 item_types:
 - book
-isbn: 978-84-8428-022-4
+languages:
+- Español
+oclc: '555361724'
 pages: 163
-edition: 1. ed
+place: Barcelona
+publishers:
+- Alba
 series:
 - Clásicos modernos
 subjects:
 - Fiction
-oclc: '555361724'
+- German Literature
+title: Desorden y dolor precoz
+year: 2000
 zotero_key: XFH5HF76
-cover: covers/xfh5hf76.jpg
 ---
 

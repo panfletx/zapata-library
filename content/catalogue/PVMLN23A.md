@@ -1,23 +1,23 @@
 ---
-title: Biblia de América
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers:
-- La Casa de Biblia
-place: Madrid
-languages:
-- Español
+cover: covers/pvmln23a.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7020-371-8
 item_types:
 - book
-isbn: 978-84-7020-371-8
+languages:
+- Español
+oclc: '40416621'
 pages: 1970
+place: Madrid
+publishers:
+- La Casa de Biblia
 series: []
 subjects:
 - Religion
-oclc: '40416621'
+title: Biblia de América
+year: 1994
 zotero_key: PVMLN23A
-cover: covers/pvmln23a.jpg
 ---
 

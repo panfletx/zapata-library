@@ -1,15 +1,15 @@
 ---
-title: Revista, Down Beat 1994
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/tbb29z2d.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Music
+title: Revista, Down Beat 1994
 zotero_key: TBB29Z2D
-cover: covers/tbb29z2d.jpg
 ---
 

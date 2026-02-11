@@ -1,25 +1,26 @@
 ---
-title: Moby Dick
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Melville, Herman
 - Valverde, Jose Maria
-publishers:
-- Planeta
-place: Barcelona
-languages:
-- Español
+cover: covers/egy2qcsl.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-08-02226-8
 item_types:
 - book
-isbn: 978-84-08-02226-8
+languages:
+- Español
+oclc: '283709849'
 pages: 620
+place: Barcelona
+publishers:
+- Planeta
 series: []
 subjects:
-- Fiction
-oclc: '283709849'
+- American Literature
+- Novel
+title: Moby Dick
+year: 2000
 zotero_key: EGY2QCSL
-cover: covers/egy2qcsl.jpg
 ---
 

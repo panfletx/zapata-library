@@ -1,25 +1,27 @@
 ---
-title: Pamela
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Richardson, Samuel
 - Fielding, Henry
-publishers:
-- New American Library
-place: New York
-languages:
-- English
+cover: covers/4nj66jgx.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-452-00856-4
 item_types:
 - book
-isbn: 978-0-452-00856-4
+languages:
+- English
+oclc: '78967425'
 pages: 570
+place: New York
+publishers:
+- New American Library
 series: []
 subjects:
 - English Literature
-oclc: '78967425'
+- Novel
+- United Kingdom
+title: Pamela
+year: 1986
 zotero_key: 4NJ66JGX
-cover: covers/4nj66jgx.jpg
 ---
 

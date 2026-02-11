@@ -1,23 +1,23 @@
 ---
-title: Juan sin tierra
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Goytisolo Gay, Juan
-publishers: []
-languages:
-- Español
+cover: covers/rzkjrbj4.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-322-0283-4
 item_types:
 - book
-isbn: 978-84-322-0283-4
+languages:
+- Español
+oclc: '901754774'
+publishers: []
 series: []
 subjects:
-- Anthology
-- Fiction
+- Experimental Literature
+- Novel
 - Spanish Literature
-oclc: '901754774'
+title: Juan sin tierra
+year: 1975
 zotero_key: RZKJRBJ4
-cover: covers/rzkjrbj4.jpg
 ---
 

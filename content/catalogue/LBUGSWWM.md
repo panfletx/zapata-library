@@ -1,21 +1,23 @@
 ---
-title: Bajo el polvo de arroz
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Enríquez, Victoria
-publishers:
-- H. ayuntamiento municipal de Chilpancingo
-place: Mexico
-languages:
-- Español
+cover: covers/lbugswwm.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+place: Mexico
+publishers:
+- H. ayuntamiento municipal de Chilpancingo
 series: []
 subjects:
-- Fiction
+- Mexican Literature
+- Mexico
+- Novel
+title: Bajo el polvo de arroz
+year: 1987
 zotero_key: LBUGSWWM
-cover: covers/lbugswwm.jpg
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Revista, Muy interesante
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/pdte5dhp.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Science
+title: Revista, Muy interesante
 zotero_key: PDTE5DHP
-cover: covers/pdte5dhp.jpg
 ---
 

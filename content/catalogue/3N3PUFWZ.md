@@ -1,25 +1,27 @@
 ---
-title: La noche del gato
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Galicia, Eduardo
-publishers:
-- Quinqué
-place: México D.F.
-languages:
-- Español
+cover: covers/3n3pufwz.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: dedicatoria del autor
+isbn: 978-968-6245-05-9
 item_types:
 - book
-isbn: 978-968-6245-05-9
+languages:
+- Español
+oclc: '1187145081'
 pages: 22
+place: México D.F.
+publishers:
+- Quinqué
 series: []
 subjects:
-- Fiction
-oclc: '1187145081'
-exlibris: dedicatoria del autor
+- Mexican Literature
+- Mexico City
+- Novel
+title: La noche del gato
+year: 1990
 zotero_key: 3N3PUFWZ
-cover: covers/3n3pufwz.jpg
 ---
 

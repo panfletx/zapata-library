@@ -1,24 +1,25 @@
 ---
-title: 'Los desvanes del invierno: poesías; [bilingüe] = In den Winterkammern : Gedichte'
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Sartorius, Joachim
-publishers:
-- Ed. El Tucán de Virginia
-place: México
-languages:
-- Español
+cover: covers/q3frmvmf.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6756-56-2
 item_types:
 - book
-isbn: 978-968-6756-56-2
+languages:
+- Español
+oclc: '742621856'
 pages: 127
+place: México
+publishers:
+- Ed. El Tucán de Virginia
 series: []
 subjects:
-- Fiction
-oclc: '742621856'
+- Mexico
+- Poetry
+title: 'Los desvanes del invierno: poesías; [bilingüe] = In den Winterkammern : Gedichte'
+year: 1999
 zotero_key: Q3FRMVMF
-cover: covers/q3frmvmf.jpg
 ---
 

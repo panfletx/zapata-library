@@ -1,31 +1,27 @@
 ---
-title: 'Los Amorosos: relatos eróticos mexicanos'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - González Rodríguez, Sergio
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/kbfxa9m5.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-493-235-7
 item_types:
 - book
-isbn: 978-968-493-235-7
+languages:
+- Español
+oclc: '30662357'
 pages: 438
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
 - Erotic Literature
-- Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-- Sexuality & Eroticism
 - Short Stories
-oclc: '30662357'
+title: 'Los Amorosos: relatos eróticos mexicanos'
+year: 1993
 zotero_key: KBFXA9M5
-cover: covers/kbfxa9m5.jpg
 ---
 

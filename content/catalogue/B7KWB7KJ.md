@@ -1,28 +1,24 @@
 ---
-title: 'TDV: noviembre 1984-noviembre 1999'
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors: []
-publishers:
-- Universidad Nacional Autónoma de México
-place: México, D.F.
-languages:
-- Español
+cover: covers/b7kwb7kj.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-32-2208-7
 item_types:
 - book
-isbn: 978-970-32-2208-7
+languages:
+- Español
+oclc: '61168512'
 pages: 583
+place: México, D.F.
+publishers:
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
-- AIDS & HIV
-- Gay Literature
-- Medicine & Health
-- Mexico
-- Museums & Collections
-- Visual Art
-oclc: '61168512'
+- Literary History
+- Mexican Literature
+title: 'TDV: noviembre 1984-noviembre 1999'
+year: 2004
 zotero_key: B7KWB7KJ
-cover: covers/b7kwb7kj.jpg
 ---
 

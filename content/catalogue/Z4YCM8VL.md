@@ -1,17 +1,17 @@
 ---
-title: Revista, Consumidor 334
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/z4ycm8vl.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, Consumidor 334
+year: 2004
 zotero_key: Z4YCM8VL
-cover: covers/z4ycm8vl.jpg
 ---
 

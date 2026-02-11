@@ -1,29 +1,31 @@
 ---
-title: Acupuntura tradicional china
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Alvarez, Lourdes
 - Becerril, Víctor
 - Gómez, Octavio
-publishers:
-- Posada
-place: México, D.F.
-languages:
-- Español
+cover: covers/u3kmq3au.jpg
+cover_note: dedicatoria autora
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-433-253-9
 item_types:
 - book
-isbn: 978-968-433-253-9
+languages:
+- Español
+oclc: '18189470'
 pages: 161
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Posada
 series:
 - Biblioteca Natura
 subjects:
+- China
 - Medicine & Health
-oclc: '18189470'
-cover_note: dedicatoria autora
+- Science
+title: Acupuntura tradicional china
+year: 1987
 zotero_key: U3KMQ3AU
-cover: covers/u3kmq3au.jpg
 ---
 

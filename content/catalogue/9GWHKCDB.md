@@ -1,31 +1,29 @@
 ---
-title: 'Borges: esplendor y derrota'
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Vázquez, María Esther
-publishers:
-- Tusquets Editores
-place: Barcelona
-languages:
-- Español
+cover: covers/9gwhkcdb.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+exlibris: '1999'
+isbn: 978-84-7223-942-5
 item_types:
 - book
-isbn: 978-84-7223-942-5
+languages:
+- Español
+oclc: '35086313'
 pages: 355
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Tusquets Editores
 series:
 - Colección Andanzas
 subjects:
-- Argentina
 - Argentine Literature
-- Biography
 - Jorge Luis Borges
 - Literary Criticism
-oclc: '35086313'
-exlibris: '1999'
+title: 'Borges: esplendor y derrota'
+year: 1996
 zotero_key: 9GWHKCDB
-cover: covers/9gwhkcdb.jpg
 ---
 

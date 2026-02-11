@@ -1,27 +1,26 @@
 ---
-title: Mémoires I
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Berlioz, Hector
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/neqlyusj.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '1012082'
 pages: 2
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier Flammarion (Series)
 subjects:
 - Autobiography & Memoir
 - Biography
-- France
 - Music
-oclc: '1012082'
+title: Mémoires I
+year: 1969
 zotero_key: NEQLYUSJ
-cover: covers/neqlyusj.jpg
 ---
 

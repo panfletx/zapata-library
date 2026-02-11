@@ -1,18 +1,18 @@
 ---
-title: Matarilirilirón, juegos para toda ocasión
-date: '2024-09-01'
 authors:
 - Trino Falcon, Jis
-publishers:
-- Editorial Posada
-languages: []
+cover: covers/jg5a3gw3.jpg
+date: '2024-09-01'
+isbn: 968-433-290-4
 item_types:
 - book
-isbn: 968-433-290-4
+languages: []
+publishers:
+- Editorial Posada
 series: []
 subjects:
-- Mexican Literature
+- Children's Literature
+title: Matarilirilirón, juegos para toda ocasión
 zotero_key: JG5A3GW3
-cover: covers/jg5a3gw3.jpg
 ---
 

@@ -1,31 +1,27 @@
 ---
-title: Poética de la hibridez en la literatura mexicana posmodernista (Laura Esquivel, Margo Glantz, Luis Zapata)
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Balutet, Nicolas
-publishers:
-- Editorial Pliegos
-place: Madrid
-languages:
-- Español
+cover: covers/wjm925me.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-84-96045-18-7
 item_types:
 - book
-isbn: 978-84-96045-18-7
+languages:
+- Español
+oclc: '910182998'
 pages: 471
+place: Madrid
+publishers:
+- Editorial Pliegos
 series:
 - Pliegos de ensayo
 subjects:
 - Literary Criticism
-- Luis Zapata
 - Mexican Literature
-- Mexico
-- Modern History
 - Postmodernism
-- Science
-oclc: '910182998'
+title: Poética de la hibridez en la literatura mexicana posmodernista (Laura Esquivel, Margo Glantz, Luis Zapata)
+year: 2014
 zotero_key: WJM925ME
-cover: covers/wjm925me.jpg
 ---
 

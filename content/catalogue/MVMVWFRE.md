@@ -1,26 +1,27 @@
 ---
-title: Crónicas cotidianas
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Vallarino, Roberto
-publishers:
-- Katún
-place: México
-languages:
-- Español
+cover: covers/mvmvwfre.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-430-054-5
 item_types:
 - book
-isbn: 978-968-430-054-5
+languages:
+- Español
+oclc: '11055028'
 pages: 171
-edition: 1a ed
+place: México
+publishers:
+- Katún
 series:
 - Prosa contemporánea
 subjects:
-- Fiction
-oclc: '11055028'
+- Chronicle
+- Mexican Literature
+title: Crónicas cotidianas
+year: 1984
 zotero_key: MVMVWFRE
-cover: covers/mvmvwfre.jpg
 ---
 

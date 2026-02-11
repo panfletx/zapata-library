@@ -1,24 +1,24 @@
 ---
-title: Portugais pour le voyage
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors: []
-publishers:
-- Berlitz
-place: Lausanne
-languages:
-- Français
+cover: covers/27fxfplj.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-8315-0767-5
 item_types:
 - book
-isbn: 978-2-8315-0767-5
+languages:
+- Français
+oclc: '937630780'
 pages: 192
+place: Lausanne
+publishers:
+- Berlitz
 series: []
 subjects:
-- Grammar & Linguistics
+- Portugal
 - Travel Writing
-oclc: '937630780'
+title: Portugais pour le voyage
+year: 1990
 zotero_key: 27FXFPLJ
-cover: covers/27fxfplj.jpg
 ---
 

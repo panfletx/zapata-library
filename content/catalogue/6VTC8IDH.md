@@ -1,28 +1,28 @@
 ---
-title: Cárceles
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Scherer García, Julio
-publishers:
-- Aguilar, Altea, Taurus, Alfaguara
-place: México, D.F.
-languages:
-- Español
+cover: covers/6vtc8idh.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed. en Alfaguara
+isbn: 978-968-19-0443-2
 item_types:
 - book
-isbn: 978-968-19-0443-2
+languages:
+- Español
+oclc: '40513641'
 pages: 133
-edition: 1. ed. en Alfaguara
+place: México, D.F.
+publishers:
+- Aguilar, Altea, Taurus, Alfaguara
 series:
 - Extra Alfaguara
 subjects:
-- Mexico
-- Modern History
+- Journalism
+- Mexican Literature
 - Prison
-oclc: '40513641'
+title: Cárceles
+year: 1998
 zotero_key: 6VTC8IDH
-cover: covers/6vtc8idh.jpg
 ---
 

@@ -1,24 +1,25 @@
 ---
-title: Clea el cuartero de Alejandria
-date: '2024-09-01'
 authors:
 - Durrel, Lawrence
 - Horne, Matilde
-publishers:
-- Sudamericana
-place: Buenos Aires
-languages:
-- Español
+cover: covers/mcdeeki3.jpg
+date: '2024-09-01'
+edition: Tercera edición
 item_types:
 - book
+languages:
+- Español
+oclc: '1344959037'
 pages: 310
-edition: Tercera edición
+place: Buenos Aires
+publishers:
+- Sudamericana
 series:
 - Colección horizonte (Editorial Sudamericana)
 subjects:
-- Fiction
-oclc: '1344959037'
+- English Literature
+- Novel
+title: Clea el cuartero de Alejandria
 zotero_key: MCDEEKI3
-cover: covers/mcdeeki3.jpg
 ---
 

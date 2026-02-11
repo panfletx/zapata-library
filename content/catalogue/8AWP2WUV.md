@@ -1,26 +1,27 @@
 ---
-title: Nudo
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Galindo, Sergio
-publishers:
-- J. M[ortiz]
-place: México]
-languages:
-- Español
+cover: covers/8awp2wuv.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[1. ed'
+exlibris: '1979'
 item_types:
 - book
+languages:
+- Español
+oclc: '313030'
 pages: 176
-edition: '[1. ed'
+place: México]
+publishers:
+- J. M[ortiz]
 series:
 - Serie del volador
 subjects:
-- Fiction
-oclc: '313030'
-exlibris: '1979'
+- Mexican Literature
+- Novel
+title: Nudo
+year: 1970
 zotero_key: 8AWP2WUV
-cover: covers/8awp2wuv.jpg
 ---
 

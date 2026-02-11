@@ -1,25 +1,26 @@
 ---
-title: La renuncia del héroe Baltasar
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Rodríguez Juliá, Edgardo
-publishers:
-- Editorial Cultural
-place: Rio Piedras, Puerto Rico?
-languages:
-- Español
+cover: covers/ewibtw5l.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '18480878'
 pages: 117
-edition: 2a ed
+place: Rio Piedras, Puerto Rico?
+publishers:
+- Editorial Cultural
 series: []
 subjects:
-- Drama
-- Fiction
-oclc: '18480878'
+- Caribbean
+- Novel
+- Puerto Rico
+title: La renuncia del héroe Baltasar
+year: 1986
 zotero_key: EWIBTW5L
-cover: covers/ewibtw5l.jpg
 ---
 

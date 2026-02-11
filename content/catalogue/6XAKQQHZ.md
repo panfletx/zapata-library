@@ -1,28 +1,27 @@
 ---
-title: Fausto
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Goethe, Johann Wolfgang von
-publishers:
-- Sol 90
-place: Barcelona
-languages:
-- Español
+cover: covers/6xakqqhz.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2000'
+isbn: 978-84-95594-17-4
 item_types:
 - book
-isbn: 978-84-95594-17-4
+languages:
+- Español
+oclc: '434350565'
 pages: 202
+place: Barcelona
+publishers:
+- Sol 90
 series:
 - Biblioteca de la literatura universal
 subjects:
 - Drama
 - German Literature
-- Literary Criticism
-oclc: '434350565'
-exlibris: '2000'
+title: Fausto
+year: 2000
 zotero_key: 6XAKQQHZ
-cover: covers/6xakqqhz.jpg
 ---
 

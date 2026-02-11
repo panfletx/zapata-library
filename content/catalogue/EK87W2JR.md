@@ -1,33 +1,26 @@
 ---
-title: Erections, ejaculations, exhibitions, and general tales of ordinary madness
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Bukowski, Charles
-publishers:
-- City Lights Books
-place: San Francisco
-languages:
-- English
+cover: covers/ek87w2jr.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-87286-061-2
 item_types:
 - book
-isbn: 978-0-87286-061-2
+languages:
+- English
+oclc: '376005'
 pages: 478
+place: San Francisco
+publishers:
+- City Lights Books
 series: []
 subjects:
-- Death & Mourning
-- Family
-- Feminism
-- Fiction
-- Gender Studies
-- Love & Desire
-- Novel
-- Psychoanalysis
+- American Literature
+- Madness & Mental Illness
 - Short Stories
-- Urban Life
-oclc: '376005'
+title: Erections, ejaculations, exhibitions, and general tales of ordinary madness
+year: 1972
 zotero_key: EK87W2JR
-cover: covers/ek87w2jr.jpg
 ---
 

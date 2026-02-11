@@ -1,27 +1,27 @@
 ---
-title: Moby Dick
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Melville, Herman
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/k6axz7cb.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2a. ed
+isbn: 978-84-02-06592-6
 item_types:
 - book
-isbn: 978-84-02-06592-6
+languages:
+- Español
+oclc: '11718871'
 pages: 632
-edition: 2a. ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Bruguera libro amigo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '11718871'
+- American Literature
+- Novel
+title: Moby Dick
+year: 1982
 zotero_key: K6AXZ7CB
-cover: covers/k6axz7cb.jpg
 ---
 

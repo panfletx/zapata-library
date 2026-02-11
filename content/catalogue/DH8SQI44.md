@@ -1,30 +1,27 @@
 ---
-title: Como cashora al sol
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Conde, Rosina
-publishers:
-- 'Desliz Ediciones : Ediciones Fósforo : Tipográfica'
-place: México, D.F.
-languages:
-- Español
+cover: covers/dh8sqi44.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-94427-2-4
 item_types:
 - book
-isbn: 978-970-94427-2-4
+languages:
+- Español
+oclc: '226316634'
 pages: 248
-edition: 1. ed
+place: México, D.F.
+publishers:
+- 'Desliz Ediciones : Ediciones Fósforo : Tipográfica'
 series:
 - Literatura
 subjects:
-- Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-- Novel
-oclc: '226316634'
+- Poetry
+title: Como cashora al sol
+year: 2007
 zotero_key: DH8SQI44
-cover: covers/dh8sqi44.jpg
 ---
 

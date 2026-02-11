@@ -1,29 +1,29 @@
 ---
-title: Los Maias
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Queirós, Eça de
 - Montemayor, Carlos
 - Riera, Augusto
-publishers:
-- Editorial Offset
-place: Tepepan, Xochimilco
-languages:
-- Español
+cover: covers/pfsz8bik.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-968-6672-53-4
 item_types:
 - book
-isbn: 978-968-6672-53-4
+languages:
+- Español
+oclc: '18768979'
 pages: 2
-edition: 1. ed
+place: Tepepan, Xochimilco
+publishers:
+- Editorial Offset
 series:
 - Colección Biblioteca
 subjects:
-- Fiction
+- Novel
 - Translation Studies
-oclc: '18768979'
+title: Los Maias
+year: 1987
 zotero_key: PFSZ8BIK
-cover: covers/pfsz8bik.jpg
 ---
 

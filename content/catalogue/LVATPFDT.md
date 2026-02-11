@@ -1,18 +1,19 @@
 ---
-title: La palabra y el hombre 34
-date: '2024-09-01'
-year: 205
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/lvatpfdt.jpg
+date: '2024-09-01'
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+- Mexican Literature
+title: La palabra y el hombre 34
+year: 205
 zotero_key: LVATPFDT
-cover: covers/lvatpfdt.jpg
 ---
 

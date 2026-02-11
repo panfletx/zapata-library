@@ -1,26 +1,28 @@
 ---
-title: La confession impudique
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Tanizaki, Jun'ichirō
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/wia7jnad.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1980'
 item_types:
 - book
+languages:
+- Français
+oclc: '22177916'
 pages: 180
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio
 subjects:
-- French Literature
-oclc: '22177916'
-exlibris: '1980'
+- Japanese Literature
+- Novel
+- Sexuality & Eroticism
+title: La confession impudique
+year: 1977
 zotero_key: WIA7JNAD
-cover: covers/wia7jnad.jpg
 ---
 
 Un professeur d'université à l'âge du démon du midi n'arrive pas à satisfaire les exigences de sa femme. Sur ce thème, l'auteur a bâti une étude psychologique dont le pathétique intérêt atteint au tragique

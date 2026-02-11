@@ -1,28 +1,26 @@
 ---
-title: El poder y la gloria
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Greene, Graham
-publishers:
-- Origen ; Seix Barral
-place: México, D.F., Barcelona
-languages:
-- Español
+cover: covers/bxlm9y9r.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-6200-99-7
 item_types:
 - book
-isbn: 978-968-6200-99-7
+languages:
+- Español
+oclc: '13895164'
 pages: 239
+place: México, D.F., Barcelona
+publishers:
+- Origen ; Seix Barral
 series:
 - Obras maestras del Siglo XX
 subjects:
-- Catholicism
-- Fiction
-- Mexico
-- Short Stories
-oclc: '13895164'
+- English Literature
+- Novel
+title: El poder y la gloria
+year: 1984
 zotero_key: BXLM9Y9R
-cover: covers/bxlm9y9r.jpg
 ---
 

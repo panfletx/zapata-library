@@ -1,30 +1,29 @@
 ---
-title: La huída ; Al borde de la vida ; El sonámbulo ; Cuatro cuartetos para un fin de semana
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Gao, Xingjian
 - Pitol, Sergio
-publishers:
-- Ediciones El Milagro
-place: México
-languages:
-- Español
+cover: covers/8nt3mhsr.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-6773-56-9
 item_types:
 - book
-isbn: 978-968-6773-56-9
+languages:
+- Español
+oclc: '49859620'
 pages: 208
-edition: 1a ed
+place: México
+publishers:
+- Ediciones El Milagro
 series:
 - Teatro (Milagro (Firm))
 subjects:
-- China
 - Drama
-- Japanese Literature
-- Literary Criticism
-oclc: '49859620'
+- Experimental Literature
+- Translation Studies
+title: La huída ; Al borde de la vida ; El sonámbulo ; Cuatro cuartetos para un fin de semana
+year: 2001
 zotero_key: 8NT3MHSR
-cover: covers/8nt3mhsr.jpg
 ---
 

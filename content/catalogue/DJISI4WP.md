@@ -1,20 +1,21 @@
 ---
-title: El silencio está solo
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Venegas, Ricardo
-publishers:
-- Eternos Malabares
-languages: []
+cover: covers/djisi4wp.jpg
+cover_note: dedicatoria de Ricardo Venegas
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers:
+- Eternos Malabares
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria de Ricardo Venegas
+- Mexican Literature
+- Poetry
+title: El silencio está solo
+year: 1994
 zotero_key: DJISI4WP
-cover: covers/djisi4wp.jpg
 ---
 

@@ -1,26 +1,24 @@
 ---
-title: 'Fácil, menos fácil y difícil: 100 problemas de lógica y matemática'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Mataix Lorda, Mariano
-publishers:
-- Marcombo
-place: México
-languages:
-- Español
+cover: covers/iu6dn2a7.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-410-026-8
 item_types:
 - book
-isbn: 978-968-410-026-8
+languages:
+- Español
+oclc: '893513479'
 pages: 188
+place: México
+publishers:
+- Marcombo
 series: []
 subjects:
-- Education
-- Philosophy
 - Science
-oclc: '893513479'
+title: 'Fácil, menos fácil y difícil: 100 problemas de lógica y matemática'
+year: 1983
 zotero_key: IU6DN2A7
-cover: covers/iu6dn2a7.jpg
 ---
 

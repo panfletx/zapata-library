@@ -1,29 +1,28 @@
 ---
-title: 'Compact diccionario didáctico alemán: para aprender alemán en alemán : con la nueva ortografía alemana'
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Götz, Dieter
 - Haensch, Günther
 - Wellmann, Hans
-publishers:
-- Oceano
-place: Barcelona
-languages:
-- Deutsch
+cover: covers/65filr7d.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-95199-49-2
 item_types:
 - book
-isbn: 978-84-95199-49-2
+languages:
+- Deutsch
+oclc: '41835878'
 pages: 1216
+place: Barcelona
+publishers:
+- Oceano
 series:
 - Oceano Langenscheidt
 subjects:
 - Dictionary
-- Grammar & Linguistics
-- Modern History
-oclc: '41835878'
+- German Literature
+title: 'Compact diccionario didáctico alemán: para aprender alemán en alemán : con la nueva ortografía alemana'
+year: 1999
 zotero_key: 65FILR7D
-cover: covers/65filr7d.jpg
 ---
 

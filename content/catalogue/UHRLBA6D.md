@@ -1,25 +1,27 @@
 ---
-title: Illusions perdues
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Balzac, H. de
 - Adam, Antoine
-publishers:
-- Garnier, 1961 (réimpr
-place: Paris
-languages:
-- Français
+cover: covers/uhrlba6d.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '466601482'
 pages: 877
+place: Paris
+publishers:
+- Garnier, 1961 (réimpr
 series:
 - Classiques Garnier
 subjects:
 - French Literature
-oclc: '466601482'
+- Novel
+- Paris
+title: Illusions perdues
+year: 1972
 zotero_key: UHRLBA6D
-cover: covers/uhrlba6d.jpg
 ---
 

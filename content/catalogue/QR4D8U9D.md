@@ -1,15 +1,16 @@
 ---
-title: El gran vidrio 1
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/qr4d8u9d.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Painting
+- Visual Art
+title: El gran vidrio 1
 zotero_key: QR4D8U9D
-cover: covers/qr4d8u9d.jpg
 ---
 

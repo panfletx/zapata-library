@@ -1,27 +1,27 @@
 ---
-title: Vocabulario práctico Larousse, técnico-científico, inglés/español
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - García-Pelayo y Gross, Ramón.
 - Durand, Micheline
-publishers:
-- Ediciones Larousse
-place: México, D.F.
-languages:
-- Español
+cover: covers/6g8fskim.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-968-6042-04-7
 item_types:
 - book
-isbn: 978-968-6042-04-7
+languages:
+- Español
+oclc: '15702330'
 pages: 126
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Larousse
 series: []
 subjects:
 - Dictionary
 - Grammar & Linguistics
-oclc: '15702330'
+title: Vocabulario práctico Larousse, técnico-científico, inglés/español
+year: 1984
 zotero_key: 6G8FSKIM
-cover: covers/6g8fskim.jpg
 ---
 

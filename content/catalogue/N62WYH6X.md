@@ -1,25 +1,26 @@
 ---
-title: Cheval de Troie
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Queen, Ellery
-publishers:
-- Oswald
-place: Paris
-languages:
-- Français
+cover: covers/n62wyh6x.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
-source_url: http://catalogue.bnf.fr/ark:/12148/cb349036496
+languages:
+- Français
+oclc: '417300431'
 pages: 173
+place: Paris
+publishers:
+- Oswald
 series:
 - Miroir obscur
+source_url: http://catalogue.bnf.fr/ark:/12148/cb349036496
 subjects:
+- Detective & Mystery
 - French Literature
-oclc: '417300431'
+title: Cheval de Troie
+year: 1984
 zotero_key: N62WYH6X
-cover: covers/n62wyh6x.jpg
 ---
 

@@ -1,20 +1,21 @@
 ---
-title: Siete relatos
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Becerra, Gerardo
-publishers:
-- Ceacos
-languages:
-- Español
+cover: covers/3d49xftu.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+publishers:
+- Ceacos
 series: []
 subjects:
-- Fiction
+- Mexican Literature
+- Short Stories
+title: Siete relatos
+year: 1988
 zotero_key: 3D49XFTU
-cover: covers/3d49xftu.jpg
 ---
 

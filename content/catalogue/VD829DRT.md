@@ -1,28 +1,28 @@
 ---
-title: 'Album de pesadillas mexicanas: crónicas reales e imaginarias'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/vd829drt.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-411-540-8
 item_types:
 - book
-isbn: 978-968-411-540-8
+languages:
+- Español
+oclc: '50232328'
 pages: 186
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
-- Latin American Politics
-- Mexico
-- Modern History
-oclc: '50232328'
+- Chronicle
+- Mexican Literature
+- Mexico City
+title: 'Album de pesadillas mexicanas: crónicas reales e imaginarias'
+year: 2002
 zotero_key: VD829DRT
-cover: covers/vd829drt.jpg
 ---
 

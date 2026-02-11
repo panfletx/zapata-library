@@ -1,36 +1,29 @@
 ---
-title: 'Soleil noir: dépression et mélancolie'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Kristeva, Julia
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/8umn3tkj.jpg
+cover_note: regalo de Antonio Marquet
+date: '2024-09-01'
+decade: 1980s
+exlibris: '2013'
+isbn: 978-2-07-070919-9
 item_types:
 - book
-isbn: 978-2-07-070919-9
+languages:
+- Français
+oclc: '16912335'
 pages: 264
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio/essais
 subjects:
-- Feminism
-- Gender Studies
-- Literary Criticism
-- Madness & Mental Illness
-- Marguerite Duras
-- Medicine & Health
-- Modern History
-- Poetry
-- Russian Literature
-- Visual Art
-oclc: '16912335'
-cover_note: regalo de Antonio Marquet
-exlibris: '2013'
+- Death & Mourning
+- Essay
+- Psychoanalysis
+title: 'Soleil noir: dépression et mélancolie'
+year: 1987
 zotero_key: 8UMN3TKJ
-cover: covers/8umn3tkj.jpg
 ---
 

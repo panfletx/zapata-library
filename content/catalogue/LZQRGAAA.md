@@ -1,29 +1,30 @@
 ---
-title: Esquizofrenia y presión social
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Laing, R. D.
 - Schatzman, Morton
 - Vericat, Isabel
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/lzqrgaaa.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3a. ed
+isbn: 978-84-7223-528-1
 item_types:
 - book
-isbn: 978-84-7223-528-1
+languages:
+- Español
+oclc: '432413997'
 pages: 80
-edition: 3a. ed
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Cuadernos ínfimos
 subjects:
 - Madness & Mental Illness
-- Medicine & Health
-oclc: '432413997'
+- Psychoanalysis
+- Social Movements
+title: Esquizofrenia y presión social
+year: 1978
 zotero_key: LZQRGAAA
-cover: covers/lzqrgaaa.jpg
 ---
 

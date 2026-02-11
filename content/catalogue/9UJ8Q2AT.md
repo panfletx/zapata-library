@@ -1,26 +1,26 @@
 ---
-title: Venza sus obsesiones
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Foa, Edna B.
 - Wilson, Robert R.
-publishers:
-- Robin Book
-place: Barcelona
-languages:
-- Español
+cover: covers/9uj8q2at.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7927-047-6
 item_types:
 - book
-isbn: 978-84-7927-047-6
+languages:
+- Español
+oclc: '28565177'
 pages: 238
+place: Barcelona
+publishers:
+- Robin Book
 series:
 - 'Psicologia practica : autoayuda'
 subjects:
 - Medicine & Health
-oclc: '28565177'
+title: Venza sus obsesiones
+year: 1992
 zotero_key: 9UJ8Q2AT
-cover: covers/9uj8q2at.jpg
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: 'Una mujer en la oscuridad: novela de un idilio peligroso'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Hammett, Dashiell
-publishers:
-- Editorial Debate
-place: Madrid
-languages:
-- Español
+cover: covers/vxvjej26.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Tercera ed
+isbn: 978-84-7444-305-9
 item_types:
 - book
-isbn: 978-84-7444-305-9
+languages:
+- Español
+oclc: '21494754'
 pages: 131
-edition: Tercera ed
+place: Madrid
+publishers:
+- Editorial Debate
 series:
 - Debate literature
 subjects:
-- Fiction
-oclc: '21494754'
+- American Literature
+- Detective & Mystery
+- Novel
+title: 'Una mujer en la oscuridad: novela de un idilio peligroso'
+year: 1988
 zotero_key: VXVJEJ26
-cover: covers/vxvjej26.jpg
 ---
 

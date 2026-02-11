@@ -1,26 +1,25 @@
 ---
-title: Hacia la tranquilidad mental
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Kinder, Melvyn
-publishers:
-- Javier Vergara
-place: Buenos Aires
-languages:
-- Español
+cover: covers/fccilzft.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-950-15-1144-4
 item_types:
 - book
-isbn: 978-950-15-1144-4
+languages:
+- Español
+oclc: '25771713'
 pages: 357
+place: Buenos Aires
+publishers:
+- Javier Vergara
 series:
 - Para vivir mejor
 subjects:
-- Philosophy
-- Psychoanalysis
-oclc: '25771713'
+- Essay
+title: Hacia la tranquilidad mental
+year: 1991
 zotero_key: FCCILZFT
-cover: covers/fccilzft.jpg
 ---
 

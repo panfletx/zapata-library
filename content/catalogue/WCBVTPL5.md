@@ -1,19 +1,20 @@
 ---
-title: La palabra y el hombre 11
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/wcbvtpl5.jpg
+date: '2024-09-01'
+decade: 2010s
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: La palabra y el hombre 11
+year: 2010
 zotero_key: WCBVTPL5
-cover: covers/wcbvtpl5.jpg
 ---
 

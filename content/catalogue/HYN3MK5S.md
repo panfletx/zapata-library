@@ -1,16 +1,17 @@
 ---
-title: ¡Qué divertida es la ciencia!
-date: '2024-09-01'
 authors: []
-publishers:
-- Muy interesante
-languages: []
+cover: covers/hyn3mk5s.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers:
+- Muy interesante
 series: []
 subjects:
-- Fiction
+- Education
+- Science
+title: ¡Qué divertida es la ciencia!
 zotero_key: HYN3MK5S
-cover: covers/hyn3mk5s.jpg
 ---
 

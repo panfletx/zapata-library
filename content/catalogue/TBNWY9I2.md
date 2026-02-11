@@ -1,25 +1,25 @@
 ---
-title: Cartas de relacion de la conquista de México
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Cortés, Hernán
-publishers:
-- Editora Nacional
-place: Mexico
-languages:
-- Español
+cover: covers/tbnwy9i2.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '17796698'
 pages: 322
+place: Mexico
+publishers:
+- Editora Nacional
 series: []
 subjects:
 - Conquest of Mexico
+- Correspondence
 - Mexico
-- Modern History
-oclc: '17796698'
+title: Cartas de relacion de la conquista de México
+year: 1974
 zotero_key: TBNWY9I2
-cover: covers/tbnwy9i2.jpg
 ---
 

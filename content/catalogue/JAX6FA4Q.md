@@ -1,17 +1,17 @@
 ---
-title: Revista, Mar de tinta 3
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/jax6fa4q.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+title: Revista, Mar de tinta 3
+year: 1992
 zotero_key: JAX6FA4Q
-cover: covers/jax6fa4q.jpg
 ---
 

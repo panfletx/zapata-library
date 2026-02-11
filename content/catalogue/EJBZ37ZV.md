@@ -1,27 +1,28 @@
 ---
-title: 'La confusion des sentiments: notes intimes du professeur R. de D. : roman'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Zweig, Stefan
-publishers:
-- Le Livre de poche
-place: Paris
-languages:
-- Français
+cover: covers/ejbz37zv.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1996'
+isbn: 978-2-253-06143-4
 item_types:
 - book
-isbn: 978-2-253-06143-4
+languages:
+- Français
+oclc: '937667934'
 pages: 126
+place: Paris
+publishers:
+- Le Livre de poche
 series:
 - Livre de poche
 subjects:
-- Fiction
-- Modern History
-oclc: '937667934'
-exlibris: '1996'
+- German Literature
+- Love & Desire
+- Novel
+title: 'La confusion des sentiments: notes intimes du professeur R. de D. : roman'
+year: 1992
 zotero_key: EJBZ37ZV
-cover: covers/ejbz37zv.jpg
 ---
 

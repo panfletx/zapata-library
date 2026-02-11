@@ -1,15 +1,15 @@
 ---
-title: Revista, Cácaro
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/9avwz6wz.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, Cácaro
 zotero_key: 9AVWZ6WZ
-cover: covers/9avwz6wz.jpg
 ---
 

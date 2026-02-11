@@ -1,25 +1,25 @@
 ---
-title: Bebidas y excitantes
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Braudel, Fernand
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/59tcf7hg.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1092-9
 item_types:
 - book
-isbn: 978-968-39-1092-9
+languages:
+- Español
+oclc: '651521759'
 pages: 63
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
+- Essay
 - Food & Gastronomy
-- Modern History
-oclc: '651521759'
+title: Bebidas y excitantes
+year: 1994
 zotero_key: 59TCF7HG
-cover: covers/59tcf7hg.jpg
 ---
 

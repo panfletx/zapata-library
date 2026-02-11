@@ -1,26 +1,28 @@
 ---
-title: Los muros de agua
-date: '2024-09-01'
-year: 1961
-decade: 1960s
 authors:
 - Revueltas, José
-publishers:
-- Editorial los Insurgentes
-place: México
-languages:
-- Español
+cover: covers/2t3pv7wy.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 2. ed
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Español
+oclc: '2400858'
 pages: 160
-edition: 2. ed
+place: México
+publishers:
+- Editorial los Insurgentes
 series:
 - Colección Lince
 subjects:
-- Fiction
-oclc: '2400858'
-exlibris: '1978'
+- Mexican Literature
+- Novel
+- Prison
+title: Los muros de agua
+year: 1961
 zotero_key: 2T3PV7WY
-cover: covers/2t3pv7wy.jpg
 ---
 

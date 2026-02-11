@@ -1,28 +1,28 @@
 ---
-title: 'Gato: 1903, 1915, 1927, 1939, 1951, 1963, 1975'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Aubier, Catherine
 - Delangre, Josanne
 - Villalba, Susana
-publishers:
-- Juan Granica Ediciones
-place: Barcelona, España
-languages:
-- Español
+cover: covers/qxazhq3b.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7577-000-0
 item_types:
 - book
-isbn: 978-84-7577-000-0
+languages:
+- Español
+oclc: '927746819'
 pages: 127
+place: Barcelona, España
+publishers:
+- Juan Granica Ediciones
 series:
 - Zodíaco Chino. Signos
 subjects:
-- China
-- Occult & Esoteric
-oclc: '927746819'
+- Animals
+- Fiction
+title: 'Gato: 1903, 1915, 1927, 1939, 1951, 1963, 1975'
+year: 1983
 zotero_key: QXAZHQ3B
-cover: covers/qxazhq3b.jpg
 ---
 

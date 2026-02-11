@@ -1,25 +1,27 @@
 ---
-title: Poemas de seducción
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Conde, Rosina
-publishers:
-- Ediciones de la Máquina de Escribir
-place: México, D.F.
-languages:
-- Español
+cover: covers/8xnywayw.jpg
+cover_note: dedicatoria 1981
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '37344125'
 pages: 31
+place: México, D.F.
+publishers:
+- Ediciones de la Máquina de Escribir
 series:
 - Máquina de escribir (Mexico City, Mexico)
 subjects:
-- Fiction
-oclc: '37344125'
-cover_note: dedicatoria 1981
+- Love & Desire
+- Mexican Literature
+- Poetry
+title: Poemas de seducción
+year: 1981
 zotero_key: 8XNYWAYW
-cover: covers/8xnywayw.jpg
 ---
 

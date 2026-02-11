@@ -1,26 +1,27 @@
 ---
-title: Diccionario de dificultades de la lengua española
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Díaz-Retg, Enrique
 - Pemán, José María
-publishers:
-- Editorial Marin
-place: Barcelona
-languages:
-- Español
+cover: covers/8ksnfms2.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 2a. edición
 item_types:
 - book
+languages:
+- Español
+oclc: '22330215'
 pages: 344
-edition: 2a. edición
+place: Barcelona
+publishers:
+- Editorial Marin
 series: []
 subjects:
 - Dictionary
 - Grammar & Linguistics
-oclc: '22330215'
+- Spanish Literature
+title: Diccionario de dificultades de la lengua española
+year: 1963
 zotero_key: 8KSNFMS2
-cover: covers/8ksnfms2.jpg
 ---
 

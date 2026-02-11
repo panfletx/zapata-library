@@ -1,30 +1,29 @@
 ---
-title: 'Heroes of Eros: male sexuality in the movies'
-featured: true
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Malone, Michael
-publishers:
-- Dutton
-place: New York
-languages:
-- English
+cover: covers/rh9tkz2j.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1st ed
+featured: true
+isbn: 978-0-525-47552-1
 item_types:
 - book
-isbn: 978-0-525-47552-1
+languages:
+- English
+oclc: '4638106'
 pages: 181
-edition: 1st ed
+place: New York
+publishers:
+- Dutton
 series:
 - Dutton paperback, D552/A
 subjects:
 - Film & Cinema
-- Modern History
+- Masculinity
 - Sexuality & Eroticism
-- United States
-oclc: '4638106'
+title: 'Heroes of Eros: male sexuality in the movies'
+year: 1979
 zotero_key: RH9TKZ2J
-cover: covers/rh9tkz2j.jpg
 ---
 

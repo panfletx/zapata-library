@@ -1,15 +1,16 @@
 ---
-title: Vacacionando por mi México
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/p8spms69.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Comics & Graphic Novel
+- Mexican Literature
+title: Vacacionando por mi México
 zotero_key: P8SPMS69
-cover: covers/p8spms69.jpg
 ---
 

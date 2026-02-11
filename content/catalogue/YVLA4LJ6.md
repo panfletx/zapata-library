@@ -1,28 +1,27 @@
 ---
-title: 'Myself with others: selected essays'
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Fuentes, Carlos
-publishers:
-- Pan
-place: London
-languages:
-- English
+cover: covers/yvla4lj6.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-330-30671-3
 item_types:
 - book
-isbn: 978-0-330-30671-3
+languages:
+- English
+oclc: '86031740'
 pages: 214
+place: London
+publishers:
+- Pan
 series:
 - Picador
 subjects:
-- English Literature
+- Carlos Fuentes
 - Essay
-- Literary Criticism
-- Modern History
-oclc: '86031740'
+- Mexican Literature
+title: 'Myself with others: selected essays'
+year: 1989
 zotero_key: YVLA4LJ6
-cover: covers/yvla4lj6.jpg
 ---
 

@@ -1,16 +1,18 @@
 ---
-title: Crímenes inevitables O algunos pretextos para habitar en un reclusorio
-date: '2024-09-01'
 authors:
 - Cruz Sánchez, Lauro
-publishers: []
-languages: []
+cover: covers/hugknr7z.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
 - Fiction
+- Mexican Literature
+- Prison
+title: Crímenes inevitables O algunos pretextos para habitar en un reclusorio
 zotero_key: HUGKNR7Z
-cover: covers/hugknr7z.jpg
 ---
 

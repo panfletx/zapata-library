@@ -1,27 +1,27 @@
 ---
-title: 'L''ange sauvage: carnets'
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Collard, Cyril
-publishers:
-- J'ai lu
-place: Paris
-languages:
-- Français
+cover: covers/6gkejg8x.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
-source_url: https://archive.org/details/langesauvagecarn0000coll
+languages:
+- Français
+oclc: '1335738177'
 pages: 254
+place: Paris
+publishers:
+- J'ai lu
 series:
 - J'ai lu
+source_url: https://archive.org/details/langesauvagecarn0000coll
 subjects:
+- AIDS & HIV
 - Diary & Letters
 - French Literature
-- Literary Criticism
-oclc: '1335738177'
+title: 'L''ange sauvage: carnets'
+year: 1995
 zotero_key: 6GKEJG8X
-cover: covers/6gkejg8x.jpg
 ---
 

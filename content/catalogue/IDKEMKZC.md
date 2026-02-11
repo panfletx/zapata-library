@@ -1,24 +1,25 @@
 ---
-title: Mrs. Dalloway
-date: '2024-09-01'
-year: 1953
-decade: 1950s
 authors:
 - Woolf, Virginia
-publishers:
-- Harcourt, Brace and World
-place: New York
-languages:
-- English
+cover: covers/idkemkzc.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- English
+oclc: '301697517'
 pages: 296
+place: New York
+publishers:
+- Harcourt, Brace and World
 series:
 - Harvest books
 subjects:
-- Fiction
-oclc: '301697517'
+- English Literature
+- Novel
+title: Mrs. Dalloway
+year: 1953
 zotero_key: IDKEMKZC
-cover: covers/idkemkzc.jpg
 ---
 

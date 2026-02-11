@@ -1,27 +1,26 @@
 ---
-title: El carretero de la muerte
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Lagerlöf, Selma
-publishers:
-- La Prensa
-place: México
-languages:
-- Español
+cover: covers/i56yvg8m.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '906982851'
 pages: 152
-edition: 1a ed
+place: México
+publishers:
+- La Prensa
 series:
 - Populibros
 subjects:
 - Death & Mourning
-- Fiction
-- Literary Criticism
-oclc: '906982851'
+- Novel
+title: El carretero de la muerte
+year: 1992
 zotero_key: I56YVG8M
-cover: covers/i56yvg8m.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: Curación con meditación
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Hall, Doriel
-publishers:
-- Grupo Editorial Tomo
-place: México, D.F.
-languages:
-- Español
+cover: covers/iiemdhhn.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
 item_types:
 - book
-source_url: https://archive.org/details/curacionconmedit0000hall
+languages:
+- Español
+oclc: '1345489051'
 pages: 151
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Grupo Editorial Tomo
 series: []
+source_url: https://archive.org/details/curacionconmedit0000hall
 subjects:
 - Buddhism
-- Religion
-oclc: '1345489051'
+- Medicine & Health
+title: Curación con meditación
+year: 2002
 zotero_key: IIEMDHHN
-cover: covers/iiemdhhn.jpg
 ---
 

@@ -1,25 +1,26 @@
 ---
-title: 'The quintessence of Queen: best prize stories from 12 years of Ellery Queen''s mystery magazine'
-date: '2024-09-01'
-year: 1962
-decade: 1960s
 authors:
 - Boucher, Anthony
-publishers:
-- Random House
-place: New York
-languages:
-- English
+cover: covers/hu5b7xzv.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '1236870'
 pages: 560
+place: New York
+publishers:
+- Random House
 series: []
 subjects:
+- American Literature
 - Detective & Mystery
-- Fiction
-oclc: '1236870'
+- Short Stories
+title: 'The quintessence of Queen: best prize stories from 12 years of Ellery Queen''s mystery magazine'
+year: 1962
 zotero_key: HU5B7XZV
-cover: covers/hu5b7xzv.jpg
 ---
 
 Ellery Queen's Mystery Magazine consistently offered mystery and suspense fiction of high quality. This anthology culls the best of the best, but some outstanding practitioners of the genre

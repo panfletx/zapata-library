@@ -1,26 +1,27 @@
 ---
-title: 'Los inocentes: relatos de collera'
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Reynoso, Oswaldo
-publishers:
-- Peisa
-place: Lima
-languages:
-- Español
+cover: covers/dvtva5a6.jpg
+cover_note: regalo de Toño
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2007'
+isbn: 978-9972-40-062-9
 item_types:
 - book
-isbn: 978-9972-40-062-9
+languages:
+- Español
+oclc: '47723891'
 pages: 91
+place: Lima
+publishers:
+- Peisa
 series: []
 subjects:
-- Fiction
-oclc: '47723891'
-cover_note: regalo de Toño
-exlibris: '2007'
+- Peru
+- Short Stories
+title: 'Los inocentes: relatos de collera'
+year: 1997
 zotero_key: DVTVA5A6
-cover: covers/dvtva5a6.jpg
 ---
 

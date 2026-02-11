@@ -1,26 +1,27 @@
 ---
-title: El jugador
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Dostoievski, Fiodor
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/z2qa5n7c.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-643
 item_types:
 - book
-isbn: 978-968-9364-643
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- Madness & Mental Illness
+- Novel
+- Russian Literature
+title: El jugador
+year: 2008
 zotero_key: Z2QA5N7C
-cover: covers/z2qa5n7c.jpg
 ---
 

@@ -1,28 +1,28 @@
 ---
-title: 'Libro de buen amor: versión antigua'
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Ruiz, Juan
 - Bolaño e Isla, Amancio
-publishers:
-- Porrúa
-place: México
-languages:
-- Español
+cover: covers/phfaaumq.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2203999'
 pages: 397
-edition: 3. ed
+place: México
+publishers:
+- Porrúa
 series:
 - Sepan cuantos
 subjects:
-- Literary Criticism
-- Love & Desire
+- Medieval Literature
 - Poetry
-oclc: '2203999'
+- Spanish Literature
+title: 'Libro de buen amor: versión antigua'
+year: 1972
 zotero_key: PHFAAUMQ
-cover: covers/phfaaumq.jpg
 ---
 

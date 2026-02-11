@@ -1,24 +1,26 @@
 ---
-title: Una avanzada del progreso
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Conrad, Joseph
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/lzku4caj.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0973-2
 item_types:
 - book
-isbn: 978-968-39-0973-2
+languages:
+- Español
+oclc: '651521468'
 pages: 63
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Fiction
-oclc: '651521468'
+- Colonialism & Postcolonialism
+- English Literature
+- Novel
+title: Una avanzada del progreso
+year: 1993
 zotero_key: LZKU4CAJ
-cover: covers/lzku4caj.jpg
 ---
 

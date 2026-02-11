@@ -1,28 +1,29 @@
 ---
-title: No recuerdo el amor sino el deseo
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Téllez-Pon, Sergio
-publishers:
-- Quimera
-place: Cuauhtémoc, México
-languages:
-- Español
+cover: covers/3zsa8sy6.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2000s
+edition: Primera edición
+isbn: 978-607-00-0263-2
 item_types:
 - book
-isbn: 978-607-00-0263-2
+languages:
+- Español
+oclc: '297146279'
 pages: 77
-edition: Primera edición
+place: Cuauhtémoc, México
+publishers:
+- Quimera
 series:
 - Colección Bitácoras
 subjects:
-- Mexico
+- Love & Desire
+- Mexican Literature
 - Poetry
-oclc: '297146279'
-cover_note: dedicatoria de autor
+title: No recuerdo el amor sino el deseo
+year: 2008
 zotero_key: 3ZSA8SY6
-cover: covers/3zsa8sy6.jpg
 ---
 

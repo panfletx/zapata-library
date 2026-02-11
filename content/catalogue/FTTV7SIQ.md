@@ -1,15 +1,15 @@
 ---
-title: Revista, Hojas 4
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/fttv7siq.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, Hojas 4
 zotero_key: FTTV7SIQ
-cover: covers/fttv7siq.jpg
 ---
 

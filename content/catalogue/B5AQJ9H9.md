@@ -1,17 +1,18 @@
 ---
-title: Revista, Proceso 246
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/b5aqj9h9.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Journalism
+- Mexico
+title: Revista, Proceso 246
+year: 1981
 zotero_key: B5AQJ9H9
-cover: covers/b5aqj9h9.jpg
 ---
 

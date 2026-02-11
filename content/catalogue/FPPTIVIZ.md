@@ -1,24 +1,25 @@
 ---
-title: Cuentos tradicionales portugueses
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Calzadilla Núñez, Julia
-publishers:
-- Editorial Arte y Literatura
-place: La Habana
-languages:
-- Español
+cover: covers/fpptiviz.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '19500682'
 pages: 486
+place: La Habana
+publishers:
+- Editorial Arte y Literatura
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '19500682'
+- Oral Tradition & Folklore
+- Portugal
+- Short Stories
+title: Cuentos tradicionales portugueses
+year: 1985
 zotero_key: FPPTIVIZ
-cover: covers/fpptiviz.jpg
 ---
 

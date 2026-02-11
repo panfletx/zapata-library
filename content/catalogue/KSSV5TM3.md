@@ -1,22 +1,23 @@
 ---
-title: Recogiendo poemas
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Sabines, Jaime
-publishers:
-- Zarebska
-place: México
-languages:
-- Français
+cover: covers/kssv5tm3.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages:
+- Français
+oclc: '1136007548'
+place: México
+publishers:
+- Zarebska
 series: []
 subjects:
-- French Literature
-oclc: '1136007548'
+- Mexican Literature
+- Poetry
+title: Recogiendo poemas
+year: 1997
 zotero_key: KSSV5TM3
-cover: covers/kssv5tm3.jpg
 ---
 

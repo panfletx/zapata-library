@@ -1,26 +1,26 @@
 ---
-title: 'Une correspondance privée: a private correspondence'
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Durrell, Lawrence
 - Miller, Henry
-publishers:
-- Buchet/Chastel
-place: Paris
-languages:
-- Français
+cover: covers/54afcytr.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '8327694'
 pages: 424
+place: Paris
+publishers:
+- Buchet/Chastel
 series: []
 subjects:
 - American Literature
 - Correspondence
 - English Literature
-oclc: '8327694'
+title: 'Une correspondance privée: a private correspondence'
+year: 1963
 zotero_key: 54AFCYTR
-cover: covers/54afcytr.jpg
 ---
 

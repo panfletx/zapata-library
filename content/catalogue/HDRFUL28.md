@@ -1,30 +1,26 @@
 ---
-title: Estructura del cuento hispanoamericano
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Lagmanovich, David
-publishers:
-- Universidad Veracruzana
-place: Xalapa, Ver. [Mexico]
-languages:
-- Español
+cover: covers/hdrful28.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '23245843'
 pages: 124
+place: Xalapa, Ver. [Mexico]
+publishers:
+- Universidad Veracruzana
 series:
 - Cuadernos del centro
 subjects:
-- Fiction
+- Latin American Literature
 - Literary Criticism
-- Modern History
-- Novel
-- Novella
 - Short Stories
-- United States
-oclc: '23245843'
+title: Estructura del cuento hispanoamericano
+year: 1989
 zotero_key: HDRFUL28
-cover: covers/hdrful28.jpg
 ---
 

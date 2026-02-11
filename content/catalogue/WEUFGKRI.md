@@ -1,25 +1,26 @@
 ---
-title: Leonard Maltin's movie guide
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Maltin, Leonard
-publishers:
-- New American Library
-place: New York, N.Y.
-languages:
-- English
+cover: covers/weufgkri.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2005 ed
+isbn: 978-0-451-21265-8
 item_types:
 - book
-isbn: 978-0-451-21265-8
+languages:
+- English
+oclc: '56050710'
 pages: 1637
-edition: 2005 ed
+place: New York, N.Y.
+publishers:
+- New American Library
 series: []
 subjects:
+- Bibliography
 - Film & Cinema
-oclc: '56050710'
+title: Leonard Maltin's movie guide
+year: 2004
 zotero_key: WEUFGKRI
-cover: covers/weufgkri.jpg
 ---
 

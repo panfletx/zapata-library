@@ -1,30 +1,28 @@
 ---
-title: Historia social de la literatura y el arte I
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Hauser, Arnold
-publishers:
-- Ediciones Guadarrama.
-place: Madrid
-languages:
-- Español
+cover: covers/x3ijuclt.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 1a. ed
+exlibris: '1974'
+isbn: 978-84-250-2999-8
 item_types:
 - book
-isbn: 978-84-250-2999-8
+languages:
+- Español
+oclc: '1256005492'
 pages: 3
-edition: 1a. ed
+place: Madrid
+publishers:
+- Ediciones Guadarrama.
 series:
 - Colección universitaria de bolsillo
 subjects:
 - Literary Criticism
 - Literary History
-- Modern History
-- Visual Art
-oclc: '1256005492'
-exlibris: '1974'
+title: Historia social de la literatura y el arte I
+year: 1969
 zotero_key: X3IJUCLT
-cover: covers/x3ijuclt.jpg
 ---
 

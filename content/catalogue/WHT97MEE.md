@@ -1,26 +1,27 @@
 ---
-title: La Mona risa
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Pescetti, Luis María
-publishers:
-- Alfaguara
-place: México, D.F.
-languages:
-- Español
+cover: covers/wht97mee.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-770-606-4
 item_types:
 - book
-isbn: 978-970-770-606-4
+languages:
+- Español
+oclc: '401880466'
 pages: 251
+place: México, D.F.
+publishers:
+- Alfaguara
 series:
 - Serie roja (Alfaguara (Firm))
 subjects:
-- Satire & Humor
-- Short Stories
-oclc: '401880466'
+- Children's Literature
+- Fiction
+- Mexican Literature
+title: La Mona risa
+year: 2007
 zotero_key: WHT97MEE
-cover: covers/wht97mee.jpg
 ---
 

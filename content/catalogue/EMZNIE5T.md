@@ -1,21 +1,23 @@
 ---
-title: Obra poética
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - De la Cruz, San Juan
-publishers:
-- Porrúa
-place: México
-languages: []
+cover: covers/emznie5t.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+place: México
+publishers:
+- Porrúa
 series: []
 subjects:
-- Mexican Literature
-cover_note: dedicatoria
+- Poetry
+- Sor Juana Inés de la Cruz
+- Spanish Literature
+title: Obra poética
+year: 1981
 zotero_key: EMZNIE5T
-cover: covers/emznie5t.jpg
 ---
 

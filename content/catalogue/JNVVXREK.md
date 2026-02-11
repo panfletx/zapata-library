@@ -1,27 +1,28 @@
 ---
-title: Púrpura
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - García Bergua, Ana
-publishers:
-- Era
-place: México
-languages:
-- Español
+cover: covers/jnvvxrek.jpg
+cover_note: dedicatoria de autora
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-411-446-3
 item_types:
 - book
-isbn: 978-968-411-446-3
+languages:
+- Español
+oclc: '651486465'
 pages: 171
+place: México
+publishers:
+- Era
 series:
 - Biblioteca Era
 subjects:
 - Fiction
-- Mexico
-oclc: '651486465'
-cover_note: dedicatoria de autora
+- Mexican Literature
+- Novel
+title: Púrpura
+year: 1999
 zotero_key: JNVVXREK
-cover: covers/jnvvxrek.jpg
 ---
 

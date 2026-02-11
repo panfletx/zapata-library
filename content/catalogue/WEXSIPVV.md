@@ -1,23 +1,24 @@
 ---
-title: Wenn die grossen Schiffe kommen Roman f. Kinder
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Reitmann, Erwin
-publishers:
-- E. Schmidt
-place: Bielefeld
-languages:
-- Deutsch
+cover: covers/wexsipvv.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Deutsch
+oclc: '73865898'
 pages: 136
+place: Bielefeld
+publishers:
+- E. Schmidt
 series: []
 subjects:
+- Children's Literature
 - German Literature
-oclc: '73865898'
+title: Wenn die grossen Schiffe kommen Roman f. Kinder
+year: 1970
 zotero_key: WEXSIPVV
-cover: covers/wexsipvv.jpg
 ---
 

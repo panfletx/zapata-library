@@ -1,17 +1,18 @@
 ---
-title: Revista, Manchete
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/leqlfstf.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Brazilian Literature
+- Contemporary History
+title: Revista, Manchete
+year: 1986
 zotero_key: LEQLFSTF
-cover: covers/leqlfstf.jpg
 ---
 

@@ -1,33 +1,29 @@
 ---
-title: El mago de Viena
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Pitol, Sergio
-publishers:
-- Pre-Textos
-place: Valencia [Spain]
-languages:
-- Español
+cover: covers/mpljfbe5.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-84-8191-683-6
 item_types:
 - book
-isbn: 978-84-8191-683-6
-source_url: http://catdir.loc.gov/catdir/enhancements/fy1305/2006383671-d.html
+languages:
+- Español
+oclc: '62353211'
 pages: 271
-edition: 1. ed
+place: Valencia [Spain]
+publishers:
+- Pre-Textos
 series:
 - Pre-textos
+source_url: http://catdir.loc.gov/catdir/enhancements/fy1305/2006383671-d.html
 subjects:
-- Biography
-- Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-- Modern History
-- Visual Art
-oclc: '62353211'
+- Novel
+- Vienna
+title: El mago de Viena
+year: 2005
 zotero_key: MPLJFBE5
-cover: covers/mpljfbe5.jpg
 ---
 

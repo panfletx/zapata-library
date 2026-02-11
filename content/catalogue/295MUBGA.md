@@ -1,19 +1,20 @@
 ---
-title: La palabra y el hombre 48
-date: '2024-09-01'
-year: 2019
-decade: 2010s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/295mubga.jpg
+date: '2024-09-01'
+decade: 2010s
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Essay
+- Mexican Literature
+title: La palabra y el hombre 48
+year: 2019
 zotero_key: 295MUBGA
-cover: covers/295mubga.jpg
 ---
 

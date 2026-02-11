@@ -1,25 +1,24 @@
 ---
-title: El mago
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Kokis, Sergio
-publishers:
-- CONACULTA
-place: México
-languages:
-- Español
+cover: covers/ia65ny6r.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-35-0689-7
 item_types:
 - book
-isbn: 978-970-35-0689-7
+languages:
+- Español
+oclc: '75183531'
 pages: 254
+place: México
+publishers:
+- CONACULTA
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '75183531'
+- Novel
+title: El mago
+year: 2004
 zotero_key: IA65NY6R
-cover: covers/ia65ny6r.jpg
 ---
 

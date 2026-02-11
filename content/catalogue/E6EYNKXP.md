@@ -1,27 +1,27 @@
 ---
-title: 'Vox: diccionario general ilustrado de la lengua española'
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Menéndez Pidal, Ramón
 - Gili Gaya, Samuel
-publishers:
-- Biblograf
-place: Barcelona
-languages:
-- Español
+cover: covers/e6eynkxp.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3. ed., corr. y ampliada
+isbn: 978-84-7153-111-7
 item_types:
 - book
-isbn: 978-84-7153-111-7
+languages:
+- Español
+oclc: '2578897'
 pages: 1711
-edition: 3. ed., corr. y ampliada
+place: Barcelona
+publishers:
+- Biblograf
 series: []
 subjects:
 - Dictionary
-- Grammar & Linguistics
-oclc: '2578897'
+- Spanish Literature
+title: 'Vox: diccionario general ilustrado de la lengua española'
+year: 1973
 zotero_key: E6EYNKXP
-cover: covers/e6eynkxp.jpg
 ---
 

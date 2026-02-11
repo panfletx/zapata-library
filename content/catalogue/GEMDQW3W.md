@@ -1,25 +1,26 @@
 ---
-title: Narraciones extraordinarias (1a. selección)
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Poe, Edgar Allan
-publishers:
-- M.E
-place: Madrid
-languages:
-- Español
+cover: covers/gemdqw3w.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-495-0302-3
 item_types:
 - book
-isbn: 978-84-495-0302-3
+languages:
+- Español
+oclc: '431462109'
 pages: 189
+place: Madrid
+publishers:
+- M.E
 series:
 - Clásicos de siempre (Madrid)
 subjects:
-- Fiction
-oclc: '431462109'
+- American Literature
+- Short Stories
+title: Narraciones extraordinarias (1a. selección)
+year: 1996
 zotero_key: GEMDQW3W
-cover: covers/gemdqw3w.jpg
 ---
 

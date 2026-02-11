@@ -1,26 +1,27 @@
 ---
-title: El amor loco
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Breton, André
-publishers:
-- Joaquín Mortiz
-place: México
-languages:
-- Español
+cover: covers/kjeru2hm.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '13379224'
 pages: 123
-edition: 2. ed
+place: México
+publishers:
+- Joaquín Mortiz
 series:
 - Serie del volador
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '13379224'
+- Essay
+- French Literature
+- Surrealism
+title: El amor loco
+year: 1972
 zotero_key: KJERU2HM
-cover: covers/kjeru2hm.jpg
 ---
 

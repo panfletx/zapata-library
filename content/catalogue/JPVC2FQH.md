@@ -1,26 +1,27 @@
 ---
-title: Cándido o el optimismo
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Voltaire
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/jpvc2fqh.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-70-2
 item_types:
 - book
-isbn: 978-968-9364-70-2
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- Fiction
+- French Literature
+- Novel
+title: Cándido o el optimismo
+year: 2008
 zotero_key: JPVC2FQH
-cover: covers/jpvc2fqh.jpg
 ---
 

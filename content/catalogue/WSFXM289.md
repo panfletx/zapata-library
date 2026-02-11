@@ -1,17 +1,17 @@
 ---
-title: Revista, Tinta seca 7
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/wsfxm289.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, Tinta seca 7
+year: 1994
 zotero_key: WSFXM289
-cover: covers/wsfxm289.jpg
 ---
 

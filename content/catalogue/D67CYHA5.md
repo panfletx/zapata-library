@@ -1,36 +1,31 @@
 ---
-title: En la tierra del dolor
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors:
 - Daudet, Alphonse
 - Barnes, Julian
 - Gallego Urrutia, María Teresa
 - Zulaika Goikoetxea, Jesús
-publishers:
-- Alba Editorial
-place: Barcelona
-languages:
-- Español
+cover: covers/d67cyha5.jpg
+cover_note: AMC 2004
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-84-8428-196-2
 item_types:
 - book
-isbn: 978-84-8428-196-2
+languages:
+- Español
+oclc: '53440888'
 pages: 102
-edition: 1. ed
+place: Barcelona
+publishers:
+- Alba Editorial
 series:
 - Alba clásica
 subjects:
-- Biography
-- Diary & Letters
-- Fiction
-- France
 - French Literature
-- Literary Criticism
-- Medicine & Health
-oclc: '53440888'
-cover_note: AMC 2004
+- Short Stories
+title: En la tierra del dolor
+year: 2003
 zotero_key: D67CYHA5
-cover: covers/d67cyha5.jpg
 ---
 

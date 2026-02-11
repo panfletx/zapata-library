@@ -1,31 +1,27 @@
 ---
-title: Myron
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Vidal, Gore
-publishers:
-- Grijalbo
-place: Barcelona
-languages:
-- Español
+cover: covers/zrrtpp7h.jpg
+cover_note: CGT Tabasco, Agosto, 1980
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
+isbn: 978-84-253-0742-3
 item_types:
 - book
-isbn: 978-84-253-0742-3
+languages:
+- Español
+oclc: '21506611'
 pages: 288
-edition: 1. ed
+place: Barcelona
+publishers:
+- Grijalbo
 series: []
 subjects:
-- Fiction
-- Film & Cinema
-- Science
-- Science Fiction
-- Short Stories
-- United States
-oclc: '21506611'
-cover_note: CGT Tabasco, Agosto, 1980
+- American Literature
+- Novel
+title: Myron
+year: 1976
 zotero_key: ZRRTPP7H
-cover: covers/zrrtpp7h.jpg
 ---
 

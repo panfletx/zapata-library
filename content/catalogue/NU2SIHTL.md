@@ -1,29 +1,27 @@
 ---
-title: 'Le Problème de l''incroyance au XVIe siècle: la religion de Rabelais'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Febvre, Lucien Paul Victor
-publishers:
-- A. Michel
-place: Paris
-languages:
-- Français
+cover: covers/nu2sihtl.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-226-03472-4
 item_types:
 - book
-isbn: 978-2-226-03472-4
+languages:
+- Français
+oclc: '20424278'
 pages: 511
+place: Paris
+publishers:
+- A. Michel
 series:
 - Evolution de l'humanité
 subjects:
-- France
 - François Rabelais
-- Literary Criticism
-- Modern History
-- Religion
-oclc: '20424278'
+- French Literature
+- Literary History
+title: 'Le Problème de l''incroyance au XVIe siècle: la religion de Rabelais'
+year: 1988
 zotero_key: NU2SIHTL
-cover: covers/nu2sihtl.jpg
 ---
 

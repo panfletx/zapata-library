@@ -1,26 +1,27 @@
 ---
-title: 'Antología: textos de estética y teoría del arte'
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Sánchez Vázquez, Adolfo
-publishers:
-- Universidad Nacional Autónoma de México
-place: México]
-languages:
-- Español
+cover: covers/wvrsv8aa.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: '[1. ed'
 item_types:
 - book
+languages:
+- Español
+oclc: '872479'
 pages: 492
-edition: '[1. ed'
+place: México]
+publishers:
+- Universidad Nacional Autónoma de México
 series:
 - Lecturas universitarias
 subjects:
 - Aesthetics
-- Visual Art
-oclc: '872479'
+- Anthology
+- Mexican Literature
+title: 'Antología: textos de estética y teoría del arte'
+year: 1972
 zotero_key: WVRSV8AA
-cover: covers/wvrsv8aa.jpg
 ---
 

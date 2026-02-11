@@ -1,26 +1,28 @@
 ---
-title: El diario de José Toledo
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Barbachano Ponce, Miguel
-publishers:
-- Premiá
-place: Tlahuapan, Puebla, México, D.F.
-languages:
-- Español
+cover: covers/fvv6ktpu.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed. en Premiá editora
+isbn: 978-968-434-458-7
 item_types:
 - book
-isbn: 978-968-434-458-7
+languages:
+- Español
+oclc: '26435837'
 pages: 123
-edition: 1. ed. en Premiá editora
+place: Tlahuapan, Puebla, México, D.F.
+publishers:
+- Premiá
 series:
 - Red de Jonás
 subjects:
+- Diary & Letters
 - Fiction
-oclc: '26435837'
+- Mexican Literature
+title: El diario de José Toledo
+year: 1988
 zotero_key: FVV6KTPU
-cover: covers/fvv6ktpu.jpg
 ---
 

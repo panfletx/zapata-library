@@ -1,31 +1,29 @@
 ---
-title: 'Palmeras de la brisa rápida: un viaje a Yucatán'
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Villoro, Juan
-publishers:
-- Alianza Editorial Mexicana
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/gj8esggf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-6001-94-5
 item_types:
 - book
-isbn: 978-968-6001-94-5
-source_url: http://www.gbv.de/dms/spk/iai/toc/214630293.pdf
+languages:
+- Español
+oclc: '23152825'
 pages: 196
-edition: 1a ed
+place: Mexico, D.F.
+publishers:
+- Alianza Editorial Mexicana
 series:
 - Alianza literatura (Mexico City, Mexico)
+source_url: http://www.gbv.de/dms/spk/iai/toc/214630293.pdf
 subjects:
-- Literary Criticism
 - Mexican Literature
-- Mexico
 - Travel Writing
 - Yucatán
-oclc: '23152825'
+title: 'Palmeras de la brisa rápida: un viaje a Yucatán'
+year: 1989
 zotero_key: GJ8ESGGF
-cover: covers/gj8esggf.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: 'La vida dura: una exégesis de lo escuálido'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - O'Brien, Flann
 - Lech, Jorge Miguel
-publishers:
-- Ediciones del Serbal
-place: Barcelona
-languages:
-- Español
+cover: covers/jvu6hlds.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7628-049-2
 item_types:
 - book
-isbn: 978-84-7628-049-2
+languages:
+- Español
+oclc: '302357842'
 pages: 147
+place: Barcelona
+publishers:
+- Ediciones del Serbal
 series: []
 subjects:
 - Irish Literature
-- Translation Studies
-oclc: '302357842'
+- Literary Criticism
+title: 'La vida dura: una exégesis de lo escuálido'
+year: 1988
 zotero_key: JVU6HLDS
-cover: covers/jvu6hlds.jpg
 ---
 

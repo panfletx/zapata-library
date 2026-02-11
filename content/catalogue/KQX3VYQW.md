@@ -1,26 +1,27 @@
 ---
-title: Crónica de los Wapshot
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Cheever, John
-publishers:
-- Alfaguara, Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/kqx3vyqw.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-2734-8
 item_types:
 - book
-isbn: 978-968-29-2734-8
+languages:
+- Español
+oclc: '24925224'
 pages: 412
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Alfaguara, Consejo Nacional para la Cultura y las Artes
 series:
 - Fin de siglo
 subjects:
-- Fiction
-oclc: '24925224'
+- American Literature
+- Novel
+title: Crónica de los Wapshot
+year: 1990
 zotero_key: KQX3VYQW
-cover: covers/kqx3vyqw.jpg
 ---
 

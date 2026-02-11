@@ -1,19 +1,20 @@
 ---
-title: La palabra y el hombre 8
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/h84cjxgu.jpg
+date: '2024-09-01'
+decade: 2000s
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+- Mexican Literature
+title: La palabra y el hombre 8
+year: 2009
 zotero_key: H84CJXGU
-cover: covers/h84cjxgu.jpg
 ---
 

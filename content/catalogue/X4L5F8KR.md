@@ -1,16 +1,16 @@
 ---
-title: Catolica Industry
-date: '2024-09-01'
 authors:
 - Gamez, Valerio
-publishers: []
-languages: []
+cover: covers/x4l5f8kr.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Catholicism
+title: Catolica Industry
 zotero_key: X4L5F8KR
-cover: covers/x4l5f8kr.jpg
 ---
 

@@ -1,29 +1,29 @@
 ---
-title: 'Images et symboles: essais sur le symbolisme magico-religieux'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Eliade, Mircea
 - Dumézil, Georges
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/lq9he2vp.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1989'
+isbn: 978-2-07-028665-2
 item_types:
 - book
-isbn: 978-2-07-028665-2
+languages:
+- Français
+oclc: '19861951'
 pages: 238
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Tel
 subjects:
-- Occult & Esoteric
-- Religion
+- Essay
+- Mysticism
 - Symbolism
-oclc: '19861951'
-exlibris: '1989'
+title: 'Images et symboles: essais sur le symbolisme magico-religieux'
+year: 1988
 zotero_key: LQ9HE2VP
-cover: covers/lq9he2vp.jpg
 ---
 

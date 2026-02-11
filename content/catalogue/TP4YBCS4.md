@@ -1,26 +1,28 @@
 ---
-title: Manuscrit trouvé à Saragosse
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Potocki, Jan
 - Radrizzani, René.
-publishers:
-- J. Corti
-place: Paris
-languages:
-- Français
+cover: covers/tp4ybcs4.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Nouvelleéd. intégrale
+isbn: 978-2-7143-0364-6
 item_types:
 - book
-isbn: 978-2-7143-0364-6
+languages:
+- Français
+oclc: '21547520'
 pages: 714
-edition: Nouvelleéd. intégrale
+place: Paris
+publishers:
+- J. Corti
 series: []
 subjects:
+- Experimental Literature
 - French Literature
-oclc: '21547520'
+- Novel
+title: Manuscrit trouvé à Saragosse
+year: 1990
 zotero_key: TP4YBCS4
-cover: covers/tp4ybcs4.jpg
 ---
 

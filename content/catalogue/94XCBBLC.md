@@ -1,17 +1,18 @@
 ---
-title: Revista, Varia 12
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/94xcbblc.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Literary Criticism
+title: Revista, Varia 12
+year: 1985
 zotero_key: 94XCBBLC
-cover: covers/94xcbblc.jpg
 ---
 

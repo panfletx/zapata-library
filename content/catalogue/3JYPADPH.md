@@ -1,26 +1,28 @@
 ---
-title: 'Ocios y apuntes y la rumba: Angel de Campo'
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Campo, Angel de
-publishers:
-- Editorial Porrua
-place: Mexico
-languages:
-- Español
+cover: covers/3jypadph.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 5. ed
+isbn: 978-968-432-125-0
 item_types:
 - book
-isbn: 978-968-432-125-0
+languages:
+- Español
+oclc: '221620650'
 pages: 344
-edition: 5. ed
+place: Mexico
+publishers:
+- Editorial Porrua
 series:
 - Coleccion de escritores mexicanos
 subjects:
-- Fiction
-oclc: '221620650'
+- Mexican Literature
+- Mexico City
+- Short Stories
+title: 'Ocios y apuntes y la rumba: Angel de Campo'
+year: 1978
 zotero_key: 3JYPADPH
-cover: covers/3jypadph.jpg
 ---
 

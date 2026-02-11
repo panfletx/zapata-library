@@ -1,26 +1,26 @@
 ---
-title: 'Grande sertão: veredas'
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Rosa, João Guimarães
-publishers:
-- Olympio
-place: Rio de Janeiro
-languages:
-- Português
+cover: covers/d7alhihu.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 7a. ed
 item_types:
 - book
+languages:
+- Português
+oclc: '12070464'
 pages: 460
-edition: 7a. ed
+place: Rio de Janeiro
+publishers:
+- Olympio
 series: []
 subjects:
-- Brazil
-- Fiction
-- Short Stories
-oclc: '12070464'
+- Brazilian Literature
+- Novel
+- Rio de Janeiro
+title: 'Grande sertão: veredas'
+year: 1970
 zotero_key: D7ALHIHU
-cover: covers/d7alhihu.jpg
 ---
 

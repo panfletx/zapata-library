@@ -1,26 +1,28 @@
 ---
-title: Los lagartos terribles y otros relatos
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Asimov, Isaac
 - Morán Samaniego, Francisco
-publishers:
-- Alianza
-place: México
-languages:
-- Español
+cover: covers/98cdkvld.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0968-8
 item_types:
 - book
-isbn: 978-968-39-0968-8
+languages:
+- Español
+oclc: '689505414'
 pages: 63
+place: México
+publishers:
+- Alianza
 series:
 - Alianza Cien
 subjects:
-- Fiction
-oclc: '689505414'
+- Latin American Literature
+- Science Fiction
+- Short Stories
+title: Los lagartos terribles y otros relatos
+year: 1994
 zotero_key: 98CDKVLD
-cover: covers/98cdkvld.jpg
 ---
 

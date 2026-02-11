@@ -1,28 +1,28 @@
 ---
-title: Obras completas / I, Poesía / recopilación, ed., pról. y notas de Héctor Valdés
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Tablada, José Juan
 - Valdés, Héctor
-publishers:
-- Universidad Autónoma de México
-place: México
-languages:
-- Español
+cover: covers/stwpbjtj.jpg
+cover_note: dedicatoria Hector
+date: '2024-09-01'
+decade: 1990s
+edition: 1a reimpr
+isbn: 978-968-36-2190-0
 item_types:
 - book
-isbn: 978-968-36-2190-0
+languages:
+- Español
+oclc: '773496533'
 pages: 669
-edition: 1a reimpr
+place: México
+publishers:
+- Universidad Autónoma de México
 series: []
 subjects:
-- Mexico
+- Mexican Literature
 - Poetry
-oclc: '773496533'
-cover_note: dedicatoria Hector
+title: Obras completas / I, Poesía / recopilación, ed., pról. y notas de Héctor Valdés
+year: 1991
 zotero_key: STWPBJTJ
-cover: covers/stwpbjtj.jpg
 ---
 

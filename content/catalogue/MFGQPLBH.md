@@ -1,25 +1,25 @@
 ---
-title: Cúrese naturalmente
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Barton, Maritza
-publishers:
-- Javier Vergara Editor
-place: Buenos Aires
-languages:
-- Español
+cover: covers/mfgqplbh.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-950-15-1801-6
 item_types:
 - book
-isbn: 978-950-15-1801-6
+languages:
+- Español
+oclc: '52130558'
 pages: 191
+place: Buenos Aires
+publishers:
+- Javier Vergara Editor
 series: []
 subjects:
-- Medicine & Health
-- Science
-oclc: '52130558'
+- American Literature
+- Gay Literature
+title: Cúrese naturalmente
+year: 1998
 zotero_key: MFGQPLBH
-cover: covers/mfgqplbh.jpg
 ---
 

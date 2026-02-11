@@ -1,17 +1,18 @@
 ---
-title: Rupestre el libro
-date: '2024-09-01'
-year: 2013
-decade: 2010s
 authors: []
-publishers: []
-languages: []
+cover: covers/6hx2mpbd.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Painting
+- Visual Art
+title: Rupestre el libro
+year: 2013
 zotero_key: 6HX2MPBD
-cover: covers/6hx2mpbd.jpg
 ---
 

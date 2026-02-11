@@ -1,32 +1,27 @@
 ---
-title: La Cultura del novecientos
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Berardinelli, Alfonso
-publishers:
-- Siglo XXI
-place: México, D.F.
-languages:
-- Español
+cover: covers/y4arnw23.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1990'
+isbn: 978-968-23-1228-1
 item_types:
 - book
-isbn: 978-968-23-1228-1
+languages:
+- Español
+oclc: '803273787'
 pages: 6
+place: México, D.F.
+publishers:
+- Siglo XXI
 series: []
 subjects:
-- Architecture
-- Drama
-- Grammar & Linguistics
+- Italian Literature
 - Literary Criticism
-- Modern History
-- Painting
-- Sculpture
-- Structuralism & Poststructuralism
-oclc: '803273787'
-exlibris: '1990'
+- Literary History
+title: La Cultura del novecientos
+year: 1984
 zotero_key: Y4ARNW23
-cover: covers/y4arnw23.jpg
 ---
 

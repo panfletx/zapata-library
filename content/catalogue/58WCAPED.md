@@ -1,28 +1,28 @@
 ---
-title: Pasado negro
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Fonseca, Rubem
 - Losada, Basilio
-publishers:
-- Seix Barral
-place: México
-languages:
-- Español
+cover: covers/58wcaped.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1988'
+isbn: 978-968-6005-38-7
 item_types:
 - book
-isbn: 978-968-6005-38-7
+languages:
+- Español
+oclc: '81707208'
 pages: 219
+place: México
+publishers:
+- Seix Barral
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '81707208'
-cover_note: dedicatoria
-exlibris: '1988'
+- Brazilian Literature
+- Novel
+title: Pasado negro
+year: 1986
 zotero_key: 58WCAPED
-cover: covers/58wcaped.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: 'Cómo leer textos literarios: el equipaje del lector'
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Moreiro, Julián.
-publishers:
-- Edaf
-place: Madrid
-languages:
-- Español
+cover: covers/7lbdhmeb.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-414-0109-9
 item_types:
 - book
-isbn: 978-84-414-0109-9
+languages:
+- Español
+oclc: '317391300'
 pages: 234
+place: Madrid
+publishers:
+- Edaf
 series:
 - Autoaprendizaje
 subjects:
 - Literary Criticism
-- Modern History
-oclc: '317391300'
+- Spanish Literature
+title: 'Cómo leer textos literarios: el equipaje del lector'
+year: 1996
 zotero_key: 7LBDHMEB
-cover: covers/7lbdhmeb.jpg
 ---
 

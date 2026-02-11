@@ -1,27 +1,27 @@
 ---
-title: Obras completas, de Alfonso Reyes. T. VII, Cuestiones gongorinas. Tres alcances a Góngora. Varia. Entre libros. Páginas adicionales
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Reyes, Alfonso
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/9zdqpkin.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1 ̇ed., 1 ̇reimp
+isbn: 978-968-16-0859-0
 item_types:
 - book
-isbn: 978-968-16-0859-0
+languages:
+- Español
+oclc: '642397265'
 pages: 529
-edition: 1 ̇ed., 1 ̇reimp
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '642397265'
+- Alfonso Reyes
+- Literary Criticism
+title: Obras completas, de Alfonso Reyes. T. VII, Cuestiones gongorinas. Tres alcances a Góngora. Varia. Entre libros. Páginas adicionales
+year: 1981
 zotero_key: 9ZDQPKIN
-cover: covers/9zdqpkin.jpg
 ---
 

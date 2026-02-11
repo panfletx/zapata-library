@@ -1,30 +1,29 @@
 ---
-title: Mi último suspiro
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Buñuel, Luis
-publishers:
-- Plaza & Janes
-place: Esplugues de Llobregat (Barcelona)
-languages:
-- Español
+cover: covers/s7gmlfta.jpg
+cover_note: dedicatoria Carlos García T. 1982
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-84-01-34074-1
 item_types:
 - book
-isbn: 978-84-01-34074-1
+languages:
+- Español
+oclc: '10483835'
 pages: 251
-edition: 1a ed
+place: Esplugues de Llobregat (Barcelona)
+publishers:
+- Plaza & Janes
 series:
 - Vida es río
 subjects:
-- Biography
-- Film & Cinema
+- Autobiography & Memoir
 - Luis Buñuel
 - Spain
-oclc: '10483835'
-cover_note: dedicatoria Carlos García T. 1982
+title: Mi último suspiro
+year: 1982
 zotero_key: S7GMLFTA
-cover: covers/s7gmlfta.jpg
 ---
 

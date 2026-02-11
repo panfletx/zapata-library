@@ -1,15 +1,15 @@
 ---
-title: Revista, Dr. Max 42
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/f9xzgcj5.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Medicine & Health
+title: Revista, Dr. Max 42
 zotero_key: F9XZGCJ5
-cover: covers/f9xzgcj5.jpg
 ---
 

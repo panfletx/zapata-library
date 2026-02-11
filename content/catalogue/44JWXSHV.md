@@ -1,35 +1,29 @@
 ---
-title: Escuchar a las musas
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Capote, Truman
 - O'Neill, Ana
-publishers:
-- Universidad Autónoma del Estado de México
-place: Toluca
-languages:
-- Español
+cover: covers/44jwxshv.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2. ed
+exlibris: '1986'
+isbn: 978-968-5140-13-3
 item_types:
 - book
-isbn: 978-968-5140-13-3
+languages:
+- Español
+oclc: '15203895'
 pages: 159
-edition: 2. ed
+place: Toluca
+publishers:
+- Universidad Autónoma del Estado de México
 series:
 - Colección Renacimiento
 subjects:
-- Latin American Politics
-- Literary Criticism
-- Modern History
-- Music
-- Russia
-- Saints & Hagiography
-- Travel Writing
-- United States
-oclc: '15203895'
-exlibris: '1986'
+- American Literature
+- Essay
+title: Escuchar a las musas
+year: 1982
 zotero_key: 44JWXSHV
-cover: covers/44jwxshv.jpg
 ---
 

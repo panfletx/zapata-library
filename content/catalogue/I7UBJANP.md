@@ -1,18 +1,19 @@
 ---
-title: La palabra y el hombre 15
-date: '2024-09-01'
-year: 205
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/i7ubjanp.jpg
+date: '2024-09-01'
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: La palabra y el hombre 15
+year: 205
 zotero_key: I7UBJANP
-cover: covers/i7ubjanp.jpg
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: 'Mémoires d''Hadrien: suivi des Carnets de notes des Mémoires d''Hadrien. Marguerite Yourcenar'
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Yourcenar, Marguerite
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/8cazihc3.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '1131733312'
 pages: 364
+place: Paris
+publishers:
+- Gallimard
 series: []
 subjects:
+- Autobiography & Memoir
 - French Literature
-oclc: '1131733312'
+- Novel
+title: 'Mémoires d''Hadrien: suivi des Carnets de notes des Mémoires d''Hadrien. Marguerite Yourcenar'
+year: 1974
 zotero_key: 8CAZIHC3
-cover: covers/8cazihc3.jpg
 ---
 

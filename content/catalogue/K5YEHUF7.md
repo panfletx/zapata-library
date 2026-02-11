@@ -1,24 +1,25 @@
 ---
-title: El uso de la palabra
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Castellanos, Rosario
-publishers:
-- Excelsior
-place: Mexico
-languages:
-- Español
+cover: covers/k5yehuf7.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a ed
 item_types:
 - book
-edition: 1a ed
+languages:
+- Español
+oclc: '10468504'
+place: Mexico
+publishers:
+- Excelsior
 series:
 - Colección literaria universal
 subjects:
-- Fiction
-oclc: '10468504'
+- Essay
+- Mexican Literature
+title: El uso de la palabra
+year: 1974
 zotero_key: K5YEHUF7
-cover: covers/k5yehuf7.jpg
 ---
 

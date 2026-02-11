@@ -1,27 +1,29 @@
 ---
-title: Chacal y susceptible
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Margot, Sebastián
-publishers:
-- Gobierno del Estado de Coahuila, Secretaría de Educación y Cultura, Instituto Coahuilense de Cultura
-place: Coahuila, Mexico
-languages:
-- Español
+cover: covers/dvxe4k7r.jpg
+cover_note: dedicatoria de Margot 2011
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-607-7643-15-9
 item_types:
 - book
-isbn: 978-607-7643-15-9
+languages:
+- Español
+oclc: '713801741'
 pages: 75
-edition: 1. ed
+place: Coahuila, Mexico
+publishers:
+- Gobierno del Estado de Coahuila, Secretaría de Educación y Cultura, Instituto Coahuilense de Cultura
 series:
 - Fragua (Saltillo, Coahuila, Mexico)
 subjects:
-- Fiction
-oclc: '713801741'
-cover_note: dedicatoria de Margot 2011
+- Mexican Literature
+- Mexico
+- Poetry
+title: Chacal y susceptible
+year: 2008
 zotero_key: DVXE4K7R
-cover: covers/dvxe4k7r.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: 'Tres libros: Ensayos y poemas, De fusilamientos, Prosas dispersas'
-date: '2024-09-01'
-year: 1964
-decade: 1960s
 authors:
 - Torri, Julio
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/srtqa3m7.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1990'
+isbn: 978-968-16-0678-7
 item_types:
 - book
-isbn: 978-968-16-0678-7
+languages:
+- Español
+oclc: '2157146'
 pages: 180
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
 subjects:
 - Essay
-- Mexico
-oclc: '2157146'
-exlibris: '1990'
+- Mexican Literature
+- Poetry
+title: 'Tres libros: Ensayos y poemas, De fusilamientos, Prosas dispersas'
+year: 1964
 zotero_key: SRTQA3M7
-cover: covers/srtqa3m7.jpg
 ---
 

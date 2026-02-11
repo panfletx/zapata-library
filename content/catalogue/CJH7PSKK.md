@@ -1,26 +1,28 @@
 ---
-title: Relatos cómicos
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Poe, Edgar Allan
-publishers:
-- Edimat Libros
-place: Madrid
-languages:
-- Español
+cover: covers/cjh7pskk.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2006'
+isbn: 978-84-8403-414-8
 item_types:
 - book
-isbn: 978-84-8403-414-8
+languages:
+- Español
+oclc: '47039553'
 pages: 160
+place: Madrid
+publishers:
+- Edimat Libros
 series:
 - Clásicos selección
 subjects:
-- Fiction
-oclc: '47039553'
-exlibris: '2006'
+- American Literature
+- Satire & Humor
+- Short Stories
+title: Relatos cómicos
+year: 1999
 zotero_key: CJH7PSKK
-cover: covers/cjh7pskk.jpg
 ---
 

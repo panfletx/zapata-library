@@ -1,24 +1,25 @@
 ---
-title: 'I ching: Il libro dei mutamenti'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Judica Cordiglia, Elena
-publishers:
-- Edizioni mediterranee
-place: Roma
-languages:
-- Italiano
+cover: covers/45pxtvcf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: '[Nuova ed.]'
 item_types:
 - book
+languages:
+- Italiano
+oclc: '955440419'
 pages: 311
-edition: '[Nuova ed.]'
+place: Roma
+publishers:
+- Edizioni mediterranee
 series: []
 subjects:
-- Italian Literature
-oclc: '955440419'
+- China
+- Philosophy
+title: 'I ching: Il libro dei mutamenti'
+year: 1987
 zotero_key: 45PXTVCF
-cover: covers/45pxtvcf.jpg
 ---
 

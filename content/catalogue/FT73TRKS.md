@@ -1,31 +1,28 @@
 ---
-title: 'Pertenecer: lazos entre la sanación y la recuperación'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Linn, Dennis
 - Linn, Sheila Fabricant
 - Linn, Matthew
 - Lozano Gallegos, Carmina
-publishers:
-- Promexa
-place: México
-languages:
-- Español
+cover: covers/ft73trks.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0802-5
 item_types:
 - book
-isbn: 978-968-39-0802-5
+languages:
+- Español
+oclc: '651477727'
 pages: 310
+place: México
+publishers:
+- Promexa
 series:
 - Promexa autoayuda
 subjects:
-- Catholicism
-- Philosophy
-- Psychoanalysis
-- Religion
-oclc: '651477727'
+- Fiction
+title: 'Pertenecer: lazos entre la sanación y la recuperación'
+year: 1992
 zotero_key: FT73TRKS
-cover: covers/ft73trks.jpg
 ---
 

@@ -1,25 +1,27 @@
 ---
-title: Concierto en vivo
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Castillo, Ricardo
-publishers:
-- Editorial Universitaria, U.M.S.N.H.
-place: Morelia, Michoacán
-languages:
-- Español
+cover: covers/5pvcup8z.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '37217715'
 pages: 21
-edition: 1a. ed
+place: Morelia, Michoacán
+publishers:
+- Editorial Universitaria, U.M.S.N.H.
 series:
 - Colección Trilce-Pireni
 subjects:
-- Fiction
-oclc: '37217715'
+- Essay
+- Journalism
+- Mexican Literature
+title: Concierto en vivo
+year: 1981
 zotero_key: 5PVCUP8Z
-cover: covers/5pvcup8z.jpg
 ---
 

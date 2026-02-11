@@ -1,31 +1,32 @@
 ---
-title: 'Mi vida: poemas escogidos'
-featured: true
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Hejinian, Lyn
 - Whitener, Brian
 - Téllez-Pon, Sergio
 - Rivera Garza, Cristina
-publishers:
-- 'Bonobos Edits. ; CONACULTA : FONCA, Programa de Fomento a Proyectos y Coinversiones Culturales'
-place: Toluca, Estado de México, México
-languages:
-- Español
+cover: covers/jhnjkkrl.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2007'
+featured: true
+isbn: 978-970-94656-4-8
 item_types:
 - book
-isbn: 978-970-94656-4-8
+languages:
+- Español
+oclc: '651214293'
 pages: 95
+place: Toluca, Estado de México, México
+publishers:
+- 'Bonobos Edits. ; CONACULTA : FONCA, Programa de Fomento a Proyectos y Coinversiones Culturales'
 series:
 - Colección reino de nadie
 subjects:
 - American Literature
-- Literary Criticism
-oclc: '651214293'
-exlibris: '2007'
+- Poetry
+- Translation Studies
+title: 'Mi vida: poemas escogidos'
+year: 2007
 zotero_key: JHNJKKRL
-cover: covers/jhnjkkrl.jpg
 ---
 

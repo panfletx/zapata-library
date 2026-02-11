@@ -1,25 +1,27 @@
 ---
-title: 'L''enfant de sable: roman'
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Ben Jelloun, Tahar
-publishers:
-- Éditions du Seuil
-place: Paris
-languages:
-- Français
+cover: covers/pquuqncy.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-02-009907-3
 item_types:
 - book
-isbn: 978-2-02-009907-3
+languages:
+- Français
+oclc: '23191413'
 pages: 208
+place: Paris
+publishers:
+- Éditions du Seuil
 series:
 - Collection Points. Roman
 subjects:
-- French Literature
-oclc: '23191413'
+- Arabic Literature
+- North Africa
+- Novel
+title: 'L''enfant de sable: roman'
+year: 1988
 zotero_key: PQUUQNCY
-cover: covers/pquuqncy.jpg
 ---
 

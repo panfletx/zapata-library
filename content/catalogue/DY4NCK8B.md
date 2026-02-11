@@ -1,24 +1,25 @@
 ---
-title: 'Fabulas: la Fontaine'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Dore, Gustavo
-publishers:
-- Edimat Libros
-place: Spain
-languages:
-- Unknown
+cover: covers/dy4nck8b.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-9764-098-5
 item_types:
 - book
-isbn: 978-84-9764-098-5
+languages:
+- Unknown
+oclc: '731388491'
 pages: 208
+place: Spain
+publishers:
+- Edimat Libros
 series: []
 subjects:
 - Fable & Parable
-oclc: '731388491'
+- French Literature
+title: 'Fabulas: la Fontaine'
+year: 2002
 zotero_key: DY4NCK8B
-cover: covers/dy4nck8b.jpg
 ---
 

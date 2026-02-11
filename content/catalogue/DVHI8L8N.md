@@ -1,28 +1,29 @@
 ---
-title: Gargantua y Pantagruel
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Rabelais, François
-publishers:
-- Editorial Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/dvhi8l8n.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
+exlibris: '1974'
 item_types:
 - book
+languages:
+- Español
+oclc: '8172563'
 pages: 893
-edition: 1. ed
+place: Barcelona
+publishers:
+- Editorial Bruguera
 series:
 - Libro clásico
 subjects:
-- Fiction
-- Oral Tradition & Folklore
-- Short Stories
-oclc: '8172563'
-exlibris: '1974'
+- François Rabelais
+- French Literature
+- Novel
+- Satire & Humor
+title: Gargantua y Pantagruel
+year: 1971
 zotero_key: DVHI8L8N
-cover: covers/dvhi8l8n.jpg
 ---
 

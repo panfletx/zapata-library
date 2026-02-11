@@ -1,25 +1,26 @@
 ---
-title: Eric and Enid
-date: '2024-09-01'
-year: 1913
-decade: 1910s
 authors:
 - Chrétien
-publishers:
-- J.M. Dent and Sons ; E.P. Dutton
-place: London, New York
-languages:
-- English
+cover: covers/xxg33w7f.jpg
+date: '2024-09-01'
+decade: 1910s
 item_types:
 - book
+languages:
+- English
+oclc: '1814239'
 pages: 377
+place: London, New York
+publishers:
+- J.M. Dent and Sons ; E.P. Dutton
 series:
 - Everyman's library
 subjects:
-- Fiction
+- English Literature
 - King Arthur
-oclc: '1814239'
+- Medieval Literature
+title: Eric and Enid
+year: 1913
 zotero_key: XXG33W7F
-cover: covers/xxg33w7f.jpg
 ---
 

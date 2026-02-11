@@ -1,27 +1,27 @@
 ---
-title: Acapulco en el sueño
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Tario, Francisco
 - Álvarez Bravo, Lola
-publishers:
-- Centro Cultural Arte Contemporáneo
-place: México, D.F.
-languages:
-- Español
+cover: covers/kshh3zlx.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6191-41-7
 item_types:
 - book
-isbn: 978-968-6191-41-7
+languages:
+- Español
+oclc: '34783548'
 pages: 1
+place: México, D.F.
+publishers:
+- Centro Cultural Arte Contemporáneo
 series: []
 subjects:
-- Mexico
-- Travel Writing
-- Visual Art
-oclc: '34783548'
+- Fiction
+- Mexican Literature
+- Mexico City
+title: Acapulco en el sueño
+year: 1993
 zotero_key: KSHH3ZLX
-cover: covers/kshh3zlx.jpg
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: 'Œuvres de Arthur Rimbaud: vers et proses'
-date: '2024-09-01'
-year: 1949
-decade: 1940s
 authors:
 - Rimbaud, Arthur
-publishers:
-- Mercure de France
-place: Paris
-languages:
-- Français
+cover: covers/pzmcktv2.jpg
+date: '2024-09-01'
+decade: 1940s
 item_types:
 - book
+languages:
+- Français
+oclc: '3230133'
 pages: 319
+place: Paris
+publishers:
+- Mercure de France
 series: []
 subjects:
+- French Literature
 - Poetry
-oclc: '3230133'
+title: 'Œuvres de Arthur Rimbaud: vers et proses'
+year: 1949
 zotero_key: PZMCKTV2
-cover: covers/pzmcktv2.jpg
 ---
 

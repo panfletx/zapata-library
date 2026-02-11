@@ -1,26 +1,27 @@
 ---
-title: Poemas
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - De la Cruz, Sor Juana Inés
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/ycftllet.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-82-5
 item_types:
 - book
-isbn: 978-968-9364-82-5
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- Mexican Literature
+- Poetry
+- Sor Juana Inés de la Cruz
+title: Poemas
+year: 2008
 zotero_key: YCFTLLET
-cover: covers/ycftllet.jpg
 ---
 

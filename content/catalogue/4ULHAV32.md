@@ -1,26 +1,27 @@
 ---
-title: Warhol memoir
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors:
 - Makos, Christopher
-publishers:
-- Charta
-place: Milano
-languages:
-- English
+cover: covers/4ulhav32.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-88-8158-446-8
 item_types:
 - book
-isbn: 978-88-8158-446-8
+languages:
+- English
+oclc: '53028287'
 pages: 118
+place: Milano
+publishers:
+- Charta
 series: []
 subjects:
+- Autobiography & Memoir
 - Photography
-- Visual Art
-oclc: '53028287'
+- United States
+title: Warhol memoir
+year: 2003
 zotero_key: 4ULHAV32
-cover: covers/4ulhav32.jpg
 ---
 
 This book contains a relentless sequence of photos, most of which have never been published before, of the more private, reserved Warhol

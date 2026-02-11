@@ -1,17 +1,18 @@
 ---
-title: La fortuna si diverte
-date: '2024-09-01'
 authors:
 - Setti, Athos
-publishers:
-- Libreria del teatro
-languages: []
+cover: covers/mhli5a2f.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers:
+- Libreria del teatro
 series: []
 subjects:
-- Fiction
+- Drama
+- Italian Literature
+title: La fortuna si diverte
 zotero_key: MHLI5A2F
-cover: covers/mhli5a2f.jpg
 ---
 

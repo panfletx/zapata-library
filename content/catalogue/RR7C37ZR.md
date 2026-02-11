@@ -1,27 +1,25 @@
 ---
-title: 'La relajacion: la terapia imprescindible para mejorar su salud'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Benson, Herbert
 - Proctor, William
-publishers:
-- Grijalbo
-place: Mexico
-languages:
-- Español
+cover: covers/rr7c37zr.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-419-706-0
 item_types:
 - book
-isbn: 978-968-419-706-0
+languages:
+- Español
+oclc: '20663005'
 pages: 249
+place: Mexico
+publishers:
+- Grijalbo
 series: []
 subjects:
-- Buddhism
 - Medicine & Health
-- Religion
-oclc: '20663005'
+title: 'La relajacion: la terapia imprescindible para mejorar su salud'
+year: 1987
 zotero_key: RR7C37ZR
-cover: covers/rr7c37zr.jpg
 ---
 

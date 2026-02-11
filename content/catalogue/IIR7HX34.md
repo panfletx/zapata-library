@@ -1,27 +1,27 @@
 ---
-title: Los 1001 años de la lengua española
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Alatorre, Antonio
-publishers:
-- 'Colegio de México : Fondo de Cultura Económica'
-place: México, D.F.
-languages:
-- Español
+cover: covers/iir7hx34.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Ed. corr. y aum
 item_types:
 - book
-source_url: http://books.google.com/books?id=m2NBAQAAIAAJ
+languages:
+- Español
+oclc: '743492306'
 pages: 342
-edition: Ed. corr. y aum
+place: México, D.F.
+publishers:
+- 'Colegio de México : Fondo de Cultura Económica'
 series:
 - Tezontle
+source_url: http://books.google.com/books?id=m2NBAQAAIAAJ
 subjects:
 - Grammar & Linguistics
-- Modern History
-oclc: '743492306'
+- Spanish Literature
+title: Los 1001 años de la lengua española
+year: 1989
 zotero_key: IIR7HX34
-cover: covers/iir7hx34.jpg
 ---
 

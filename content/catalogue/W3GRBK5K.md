@@ -1,25 +1,27 @@
 ---
-title: 'Yerma: poema trágico en tres actos y seis cuadros'
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - García Lorca, Federico
-publishers:
-- Alianza ; Patria [distribuidor]
-place: Madrid, México
-languages:
-- Español
+cover: covers/w3grbk5k.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1090-5
 item_types:
 - book
-isbn: 978-968-39-1090-5
+languages:
+- Español
+oclc: '589331284'
 pages: 93
+place: Madrid, México
+publishers:
+- Alianza ; Patria [distribuidor]
 series:
 - Alianza Cien
 subjects:
 - Drama
-oclc: '589331284'
+- Poetry
+- Spanish Literature
+title: 'Yerma: poema trágico en tres actos y seis cuadros'
+year: 1994
 zotero_key: W3GRBK5K
-cover: covers/w3grbk5k.jpg
 ---
 

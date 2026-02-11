@@ -1,17 +1,17 @@
 ---
-title: Revista, Fotogramas
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/exzfknfy.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+title: Revista, Fotogramas
+year: 1993
 zotero_key: EXZFKNFY
-cover: covers/exzfknfy.jpg
 ---
 

@@ -1,27 +1,27 @@
 ---
-title: Historia verdadera de la conquista de la Nueva España
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Díaz del Castillo, Bernal
-publishers:
-- Promociones Editoriales Mexicanas
-place: México, D.F.
-languages:
-- Español
+cover: covers/8silzris.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-968-34-0016-1
 item_types:
 - book
-isbn: 978-968-34-0016-1
+languages:
+- Español
+oclc: '7052987'
 pages: 344
+place: México, D.F.
+publishers:
+- Promociones Editoriales Mexicanas
 series:
 - Clásicos de la literatura Mexicana
 subjects:
+- Chronicle
 - Conquest of Mexico
-- Mexico
-- Modern History
-oclc: '7052987'
+- Mexican Literature
+title: Historia verdadera de la conquista de la Nueva España
+year: 1979
 zotero_key: 8SILZRIS
-cover: covers/8silzris.jpg
 ---
 

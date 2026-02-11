@@ -1,24 +1,25 @@
 ---
-title: El Cuarteto de Alejandría
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Durrell, Lawrence
-publishers:
-- Edhasa
-place: Barcelona
-languages:
-- Español
+cover: covers/i5c5szhu.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1976'
 item_types:
 - book
+languages:
+- Español
+oclc: '805650010'
 pages: 4
+place: Barcelona
+publishers:
+- Edhasa
 series: []
 subjects:
-- Fiction
-oclc: '805650010'
-exlibris: '1976'
+- English Literature
+- Novel
+title: El Cuarteto de Alejandría
+year: 1970
 zotero_key: I5C5SZHU
-cover: covers/i5c5szhu.jpg
 ---
 

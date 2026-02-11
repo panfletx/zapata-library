@@ -1,32 +1,28 @@
 ---
-title: Crimen y castigo
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Dostoyevsky, Fyodor
-publishers:
-- Editorial Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/xqx7id4l.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 7. ed
+isbn: 978-84-02-00020-0
 item_types:
 - book
-isbn: 978-84-02-00020-0
+languages:
+- Español
+oclc: '2843207'
 pages: 491
-edition: 7. ed
+place: Barcelona
+publishers:
+- Editorial Bruguera
 series:
 - Joyas literarias
 subjects:
-- Detective & Mystery
-- Fiction
-- Psychoanalysis
-- Russia
-- Saints & Hagiography
-- Short Stories
+- Novel
+- Russian Literature
 - Translation Studies
-oclc: '2843207'
+title: Crimen y castigo
+year: 1973
 zotero_key: XQX7ID4L
-cover: covers/xqx7id4l.jpg
 ---
 

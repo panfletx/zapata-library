@@ -1,28 +1,29 @@
 ---
-title: 'La mujer zurda: relato'
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Handke, Peter
 - Barjau, Eustaquio
-publishers:
-- Alianza
-place: Madrid
-languages:
-- Español
+cover: covers/6ewfi6x2.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 2a ed
+exlibris: '1986'
+isbn: 978-84-206-3054-0
 item_types:
 - book
-isbn: 978-84-206-3054-0
+languages:
+- Español
+oclc: '1344136220'
 pages: 121
-edition: 2a ed
+place: Madrid
+publishers:
+- Alianza
 series:
 - Alianza tres
 subjects:
-- Fiction
-oclc: '1344136220'
-exlibris: '1986'
+- German Literature
+- Novella
+title: 'La mujer zurda: relato'
+year: 1981
 zotero_key: 6EWFI6X2
-cover: covers/6ewfi6x2.jpg
 ---
 

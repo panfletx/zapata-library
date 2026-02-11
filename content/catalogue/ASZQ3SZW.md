@@ -1,28 +1,27 @@
 ---
-title: Jalisco-Michoacán
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Novo, Salvador
-publishers:
-- Secretaría de Cultura de Jalisco
-place: Guadalajara, Jalisco, México
-languages:
-- Español
+cover: covers/aszq3szw.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-624-003-3
 item_types:
 - book
-isbn: 978-970-624-003-3
+languages:
+- Español
+oclc: '29254588'
 pages: 70
+place: Guadalajara, Jalisco, México
+publishers:
+- Secretaría de Cultura de Jalisco
 series:
 - Colección Novedad de la patria
 subjects:
+- Essay
 - Jalisco
-- Luis Zapata
-- Mexico
 - Travel Writing
-oclc: '29254588'
+title: Jalisco-Michoacán
+year: 1992
 zotero_key: ASZQ3SZW
-cover: covers/aszq3szw.jpg
 ---
 

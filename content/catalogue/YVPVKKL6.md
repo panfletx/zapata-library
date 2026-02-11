@@ -1,30 +1,29 @@
 ---
-title: Another country
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Baldwin, James
-publishers:
-- Penguin
-place: Harmondsworth
-languages:
-- English
+cover: covers/yvpvkkl6.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2001'
+isbn: 978-0-14-018411-2
 item_types:
 - book
-isbn: 978-0-14-018411-2
+languages:
+- English
+oclc: '1027277862'
 pages: 426
+place: Harmondsworth
+publishers:
+- Penguin
 series: []
 subjects:
-- Death & Mourning
-- Fiction
-- Modern History
+- American Literature
+- Love & Desire
+- Novel
 - Race & Ethnicity
-- Short Stories
-oclc: '1027277862'
-exlibris: '2001'
+title: Another country
+year: 1990
 zotero_key: YVPVKKL6
-cover: covers/yvpvkkl6.jpg
 ---
 
 First published in 1962, Baldwin&#39;s novel describes American society in terms of corrupted relationships between the sexes and different races.

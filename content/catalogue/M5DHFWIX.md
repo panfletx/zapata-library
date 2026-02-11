@@ -1,27 +1,27 @@
 ---
-title: 'La psicoterapia en la práctica médica: una introducción casuística para médicos'
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Frankl, Viktor Emil
-publishers:
-- San Pablo
-place: Buenos Aires
-languages:
-- Español
+cover: covers/m5dhfwix.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2011'
+isbn: 978-950-861-214-4
 item_types:
 - book
-isbn: 978-950-861-214-4
+languages:
+- Español
+oclc: '55515458'
 pages: 328
+place: Buenos Aires
+publishers:
+- San Pablo
 series:
 - Coolección Noesis / coordinada por el Dr. Claudio García Pintos
 subjects:
-- Madness & Mental Illness
-- Psychoanalysis
-oclc: '55515458'
-exlibris: '2011'
+- Essay
+- Medicine & Health
+title: 'La psicoterapia en la práctica médica: una introducción casuística para médicos'
+year: 1995
 zotero_key: M5DHFWIX
-cover: covers/m5dhfwix.jpg
 ---
 

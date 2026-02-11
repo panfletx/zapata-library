@@ -1,28 +1,28 @@
 ---
-title: Yerbario medicinal mexicano
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Martínez, José R.
-publishers:
-- Editores Mexicanos Unidos
-place: México
-languages:
-- Español
+cover: covers/3hzb5hie.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 8a ed
+isbn: 978-968-15-0037-5
 item_types:
 - book
-isbn: 978-968-15-0037-5
+languages:
+- Español
+oclc: '41280045'
 pages: 221
-edition: 8a ed
+place: México
+publishers:
+- Editores Mexicanos Unidos
 series:
 - Naturismo
 subjects:
-- Dictionary
 - Medicine & Health
+- Mexican Literature
 - Mexico
-oclc: '41280045'
+title: Yerbario medicinal mexicano
+year: 1986
 zotero_key: 3HZB5HIE
-cover: covers/3hzb5hie.jpg
 ---
 

@@ -1,28 +1,25 @@
 ---
-title: Cómo vencer la depresión
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - LaHaye, Tim
-publishers:
-- Editorial Vida
-place: Miami, Fla.
-languages:
-- Español
+cover: covers/e8ynzmdd.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Nueva ed
+isbn: 978-0-8297-0515-7
 item_types:
 - book
-isbn: 978-0-8297-0515-7
+languages:
+- Español
+oclc: '26079781'
 pages: 251
-edition: Nueva ed
+place: Miami, Fla.
+publishers:
+- Editorial Vida
 series: []
 subjects:
-- Madness & Mental Illness
-- Psychoanalysis
-- Religion
-- Science
-oclc: '26079781'
+- Medicine & Health
+title: Cómo vencer la depresión
+year: 1981
 zotero_key: E8YNZMDD
-cover: covers/e8ynzmdd.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Pequeños cuentos para David
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Cruz Sánchez, Lauro
-publishers:
-- Ediciones Texto e Imagen
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/avhdpdk7.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '184842667'
 pages: 92
-edition: 1. ed
+place: Mexico, D.F.
+publishers:
+- Ediciones Texto e Imagen
 series: []
 subjects:
-- Fiction
-oclc: '184842667'
+- Children's Literature
+- Mexican Literature
+- Short Stories
+title: Pequeños cuentos para David
+year: 2006
 zotero_key: AVHDPDK7
-cover: covers/avhdpdk7.jpg
 ---
 

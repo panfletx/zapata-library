@@ -1,26 +1,27 @@
 ---
-title: Como sombras y sueños
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Zapata, Luis
-publishers:
-- Cal y arena
-place: Delegación Cuauhtémoc, México, D. F.
-languages:
-- Español
+cover: covers/axtn9unh.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición en Cal y arena
+isbn: 978-607-9357-10-8
 item_types:
 - book
-isbn: 978-607-9357-10-8
+languages:
+- Español
+oclc: '894558294'
 pages: 220
-edition: Primera edición en Cal y arena
+place: Delegación Cuauhtémoc, México, D. F.
+publishers:
+- Cal y arena
 series: []
 subjects:
-- Fiction
+- Luis Zapata
 - Mexican Literature
-oclc: '894558294'
+- Novel
+title: Como sombras y sueños
+year: 2014
 zotero_key: AXTN9UNH
-cover: covers/axtn9unh.jpg
 ---
 

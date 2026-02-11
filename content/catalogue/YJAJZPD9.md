@@ -1,24 +1,25 @@
 ---
-title: Le Bon usage, grammaire francaise
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Grevisse, Maurice
-publishers:
-- le Club francais du livre
-place: Paris
-languages:
-- Français
+cover: covers/yjajzpd9.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 9e ed. revue
 item_types:
 - book
+languages:
+- Français
+oclc: '270755451'
 pages: 1228
-edition: 9e ed. revue
+place: Paris
+publishers:
+- le Club francais du livre
 series: []
 subjects:
+- French Literature
 - Grammar & Linguistics
-oclc: '270755451'
+title: Le Bon usage, grammaire francaise
+year: 1969
 zotero_key: YJAJZPD9
-cover: covers/yjajzpd9.jpg
 ---
 

@@ -1,27 +1,27 @@
 ---
-title: Humillados y ofendidos
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Dostoievski, Fedor Mikhailovich
-publishers:
-- Juventud
-place: Barcelona
-languages:
-- Español
+cover: covers/qddyfums.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-261-5507-8
 item_types:
 - book
-isbn: 978-84-261-5507-8
+languages:
+- Español
+oclc: '964791421'
 pages: 367
+place: Barcelona
+publishers:
+- Juventud
 series:
 - Coleccion libros de bolsillo Z
 subjects:
-- Fiction
-- Literary Criticism
+- Drama
+- Novel
 - Russian Literature
-oclc: '964791421'
+title: Humillados y ofendidos
+year: 1999
 zotero_key: QDDYFUMS
-cover: covers/qddyfums.jpg
 ---
 

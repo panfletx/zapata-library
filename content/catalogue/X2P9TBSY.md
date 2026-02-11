@@ -1,25 +1,26 @@
 ---
-title: El hacha y la rosa
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Cuenca, Luis Alberto de
-publishers:
-- Editorial Renacimiento
-place: Sevilla
-languages:
-- Español
+cover: covers/x2p9tbsy.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-86307-70-7
 item_types:
 - book
-isbn: 978-84-86307-70-7
+languages:
+- Español
+oclc: '30743771'
 pages: 97
+place: Sevilla
+publishers:
+- Editorial Renacimiento
 series:
 - Col. Renacimiento
 subjects:
 - Poetry
-oclc: '30743771'
+- Spanish Literature
+title: El hacha y la rosa
+year: 1993
 zotero_key: X2P9TBSY
-cover: covers/x2p9tbsy.jpg
 ---
 

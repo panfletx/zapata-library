@@ -1,28 +1,29 @@
 ---
-title: Afectuosamente, su comadre
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Dimayuga, José
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: Chimalistac, D.F. [Mexico]
-languages:
-- Español
+cover: covers/ny8amyyp.jpg
+cover_note: dedicatoria de Dimayuga
+date: '2024-09-01'
+decade: 1990s
+edition: Primera edición
+isbn: 978-968-29-5903-5
 item_types:
 - book
-isbn: 978-968-29-5903-5
+languages:
+- Español
+oclc: '30468604'
 pages: 70
-edition: Primera edición
+place: Chimalistac, D.F. [Mexico]
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Drama
-- Transgender Studies
-oclc: '30468604'
-cover_note: dedicatoria de Dimayuga
+- Mexican Literature
+- Mexico City
+- Short Stories
+title: Afectuosamente, su comadre
+year: 1993
 zotero_key: NY8AMYYP
-cover: covers/ny8amyyp.jpg
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Revista, Libido 34
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/xcmbqxhq.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Sexuality & Eroticism
+title: Revista, Libido 34
 zotero_key: XCMBQXHQ
-cover: covers/xcmbqxhq.jpg
 ---
 

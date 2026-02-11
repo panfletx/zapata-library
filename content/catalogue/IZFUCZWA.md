@@ -1,31 +1,29 @@
 ---
-title: Antiguas literaturas germánicas
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Borges, Jorge Luis
 - Ingenieros, Delia
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/izfuczwa.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a ed., 2a reimpresión
+exlibris: '1979'
 item_types:
 - book
+languages:
+- Español
+oclc: '22755241'
 pages: 179
-edition: 1a ed., 2a reimpresión
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
-- English Literature
 - German Literature
+- Jorge Luis Borges
 - Literary Criticism
-- Medieval Literature
-- Modern History
-oclc: '22755241'
-exlibris: '1979'
+title: Antiguas literaturas germánicas
+year: 1975
 zotero_key: IZFUCZWA
-cover: covers/izfuczwa.jpg
 ---
 

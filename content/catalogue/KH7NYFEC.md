@@ -1,17 +1,19 @@
 ---
-title: Memorias de un peregrino ruso
-date: '2024-09-01'
 authors: []
-publishers:
-- Ediciones del pregrino
-languages: []
+cover: covers/kh7nyfec.jpg
+date: '2024-09-01'
+isbn: 950-9111-08-2
 item_types:
 - book
-isbn: 950-9111-08-2
+languages: []
+publishers:
+- Ediciones del pregrino
 series: []
 subjects:
-- Fiction
+- Diary & Letters
+- Russian Literature
+- Travel Writing
+title: Memorias de un peregrino ruso
 zotero_key: KH7NYFEC
-cover: covers/kh7nyfec.jpg
 ---
 

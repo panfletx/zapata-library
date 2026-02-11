@@ -1,25 +1,27 @@
 ---
-title: Antología poética
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Quevedo, Francisco de
-publishers:
-- RBA
-place: Barcelona
-languages:
-- Español
+cover: covers/3kwbytqs.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-84-473-2535-1
 item_types:
 - book
-isbn: 978-84-473-2535-1
+languages:
+- Español
+oclc: '432915117'
 pages: 225
+place: Barcelona
+publishers:
+- RBA
 series:
 - Historia de la literatura (RBA Editores. 2002)
 subjects:
-- Fiction
-oclc: '432915117'
+- Poetry
+- Spain
+- Spanish Literature
+title: Antología poética
+year: 2002
 zotero_key: 3KWBYTQS
-cover: covers/3kwbytqs.jpg
 ---
 

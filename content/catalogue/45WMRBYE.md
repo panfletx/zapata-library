@@ -1,8 +1,4 @@
 ---
-title: 'A todos nos falta algo: antología del cuento croata'
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Simić Bodrožić, Roman
 - Ferić, Zoran
@@ -14,21 +10,26 @@ authors:
 - Savičević Ivančević, Olja
 - Pilić, Zoran
 - Karakaš, Damir
-publishers:
-- Ediciones Cal y Arena
-place: México
-languages:
-- Español
+cover: covers/45wmrbye.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-9357-12-2
 item_types:
 - book
-isbn: 978-607-9357-12-2
+languages:
+- Español
+oclc: '1018104586'
 pages: 217
-edition: Primera edición
+place: México
+publishers:
+- Ediciones Cal y Arena
 series: []
 subjects:
+- Anthology
 - Short Stories
-oclc: '1018104586'
+title: 'A todos nos falta algo: antología del cuento croata'
+year: 2014
 zotero_key: 45WMRBYE
-cover: covers/45wmrbye.jpg
 ---
 

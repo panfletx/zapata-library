@@ -1,25 +1,27 @@
 ---
-title: Les mille et une nuits. 4, La saveur des jours
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors: []
-publishers:
-- Phébus
-place: Paris
-languages:
-- Français
+cover: covers/tnj6k2tq.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Nouv. éd. entièrement refondue
+isbn: 978-2-85940-083-5
 item_types:
 - book
-isbn: 978-2-85940-083-5
+languages:
+- Français
+oclc: '716105639'
 pages: 397
-edition: Nouv. éd. entièrement refondue
+place: Paris
+publishers:
+- Phébus
 series:
 - Mille et une nuits
 subjects:
-- French Literature
-oclc: '716105639'
+- Anthology
+- Arabic Literature
+- Oral Tradition & Folklore
+title: Les mille et une nuits. 4, La saveur des jours
+year: 1988
 zotero_key: TNJ6K2TQ
-cover: covers/tnj6k2tq.jpg
 ---
 

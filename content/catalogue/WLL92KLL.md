@@ -1,29 +1,28 @@
 ---
-title: Toda esa gran verdad
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Montagner Anguiano, Eduardo
-publishers:
-- Alfaguara
-place: México, D.F.
-languages:
-- Español
+cover: covers/wll92kll.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-770-650-7
 item_types:
 - book
-isbn: 978-970-770-650-7
+languages:
+- Español
+oclc: '226215125'
 pages: 307
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Alfaguara
 series: []
 subjects:
-- Fiction
-- Gay Literature
-- Short Stories
-oclc: '226215125'
-cover_note: dedicatoria
+- Mexican Literature
+- Novel
+title: Toda esa gran verdad
+year: 2006
 zotero_key: WLL92KLL
-cover: covers/wll92kll.jpg
 ---
 
 "Carlo sabe que las botas de hule de Paolo encierran un éxtasis exclusivo, hecho únicamente para él. Lo atrapan, lo enervan, lo transgreden como él a ellas. También sabe que su fetichismo es de por si un riesgo, y que lo es más en el pueblo lleno de establos donde ambos viven."--Cubierta

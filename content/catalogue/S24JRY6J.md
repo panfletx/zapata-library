@@ -1,26 +1,28 @@
 ---
-title: Mi siglo
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Grass, Günter
-publishers:
-- Punto de Lectura
-place: Madrid
-languages:
-- Español
+cover: covers/s24jry6j.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2. ed
+exlibris: '2004'
+isbn: 978-84-663-0190-9
 item_types:
 - book
-isbn: 978-84-663-0190-9
+languages:
+- Español
+oclc: '742535609'
 pages: 494
-edition: 2. ed
+place: Madrid
+publishers:
+- Punto de Lectura
 series: []
 subjects:
-- Fiction
-oclc: '742535609'
-exlibris: '2004'
+- Autobiography & Memoir
+- German Literature
+- Modern History
+title: Mi siglo
+year: 2001
 zotero_key: S24JRY6J
-cover: covers/s24jry6j.jpg
 ---
 

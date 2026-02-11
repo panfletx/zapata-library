@@ -1,25 +1,24 @@
 ---
-title: 'Collins pocket Alemán: español-alemán, Deutsch-Spanisch'
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors: []
-publishers:
-- Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/6gzpn3h3.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-05-0273-1
 item_types:
 - book
-isbn: 978-970-05-0273-1
+languages:
+- Español
+oclc: '41558274'
 pages: 406
+place: México, D.F.
+publishers:
+- Grijalbo
 series: []
 subjects:
 - Dictionary
 - Grammar & Linguistics
-- Modern History
-oclc: '41558274'
+title: 'Collins pocket Alemán: español-alemán, Deutsch-Spanisch'
+year: 1997
 zotero_key: 6GZPN3H3
-cover: covers/6gzpn3h3.jpg
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: Revista, Estudios cinematográficos 22
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/yc9uafnk.jpg
+date: '2024-09-01'
+isbn: 01888056
 item_types:
 - book
-isbn: 01888056
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+title: Revista, Estudios cinematográficos 22
 zotero_key: YC9UAFNK
-cover: covers/yc9uafnk.jpg
 ---
 

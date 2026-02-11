@@ -1,25 +1,27 @@
 ---
-title: Metamorfosis
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Publio Ovidio, Nasón
-publishers:
-- Espasa Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/vrig3em9.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2a. ed
+isbn: 978-84-239-7354-5
 item_types:
 - book
-isbn: 978-84-239-7354-5
-edition: 2a. ed
+languages:
+- Español
+oclc: '32567362'
+place: Madrid
+publishers:
+- Espasa Calpe
 series:
 - Colección Austral
 subjects:
 - Classical Literature
-oclc: '32567362'
+- Mythology
+- Poetry
+title: Metamorfosis
+year: 1972
 zotero_key: VRIG3EM9
-cover: covers/vrig3em9.jpg
 ---
 

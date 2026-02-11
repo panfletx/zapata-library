@@ -1,15 +1,16 @@
 ---
-title: La Jornada semanal
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/wqv34xrg.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Journalism
+- Mexico City
+title: La Jornada semanal
 zotero_key: WQV34XRG
-cover: covers/wqv34xrg.jpg
 ---
 

@@ -1,33 +1,27 @@
 ---
-title: Rigodon
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Céline, Louis-Ferdinand
 - Gibault, François
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/qydxx6pl.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '185646'
 pages: 318
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection folio
 subjects:
-- Autobiography & Memoir
-- Fiction
-- France
-- Historical Fiction
-- Modern History
+- French Literature
 - Novel
-- Race & Ethnicity
-- Short Stories
-oclc: '185646'
+title: Rigodon
+year: 1969
 zotero_key: QYDXX6PL
-cover: covers/qydxx6pl.jpg
 ---
 
 A man, his wife, and their adopted band of nineteen drooling, feeble-minded children travel through devastated Germany at the end of World War II until they are rescued by the Red Cross

@@ -1,25 +1,26 @@
 ---
-title: Desiderata
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Fernàndez, Lluís.
-publishers:
-- Laertes
-place: Barcelona
-languages:
-- Español
+cover: covers/nx49wqri.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7584-000-0
 item_types:
 - book
-isbn: 978-84-7584-000-0
+languages:
+- Español
+oclc: '10932378'
 pages: 234
+place: Barcelona
+publishers:
+- Laertes
 series:
 - Colección Rey de bastos
 subjects:
-- Fiction
-oclc: '10932378'
+- Aphorism
+- Spanish Literature
+title: Desiderata
+year: 1984
 zotero_key: NX49WQRI
-cover: covers/nx49wqri.jpg
 ---
 

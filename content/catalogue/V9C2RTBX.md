@@ -1,23 +1,25 @@
 ---
-title: 'Beowulf: a prose translation'
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors: []
-publishers:
-- Panther
-place: Frogmore, St. Albans, Herts
-languages:
-- English
+cover: covers/v9c2rtbx.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-586-03279-4
 item_types:
 - book
-isbn: 978-0-586-03279-4
+languages:
+- English
+oclc: '4354388'
 pages: 121
+place: Frogmore, St. Albans, Herts
+publishers:
+- Panther
 series: []
 subjects:
-- Fiction
-oclc: '4354388'
+- English Literature
+- Epic
+- Medieval Literature
+title: 'Beowulf: a prose translation'
+year: 1973
 zotero_key: V9C2RTBX
-cover: covers/v9c2rtbx.jpg
 ---
 

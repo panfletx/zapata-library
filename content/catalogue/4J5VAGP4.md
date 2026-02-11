@@ -1,25 +1,27 @@
 ---
-title: Le côté de Guermantes. [II]
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Proust, Marcel
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/4j5vagp4.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-07-036088-8
 item_types:
 - book
-isbn: 978-2-07-036088-8
+languages:
+- Français
+oclc: '45838342'
 pages: 376
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio
 subjects:
 - French Literature
-oclc: '45838342'
+- Novel
+- Paris
+title: Le côté de Guermantes. [II]
+year: 1987
 zotero_key: 4J5VAGP4
-cover: covers/4j5vagp4.jpg
 ---
 

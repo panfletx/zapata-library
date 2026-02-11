@@ -1,28 +1,28 @@
 ---
-title: Tratado de las pasiones del alma
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Antunes, António Lobo
 - Vilavedra, Dolores
-publishers:
-- Debolsillo
-place: Barcelona
-languages:
-- Español
+cover: covers/la4ehpqw.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed. en Debolsillo
+isbn: 978-84-9793-250-9
 item_types:
 - book
-isbn: 978-84-9793-250-9
+languages:
+- Español
+oclc: '433659234'
 pages: 413
-edition: 1a. ed. en Debolsillo
+place: Barcelona
+publishers:
+- Debolsillo
 series:
 - Contemporánea (Barcelona)
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '433659234'
+- Essay
+- Philosophy
+title: Tratado de las pasiones del alma
+year: 2004
 zotero_key: LA4EHPQW
-cover: covers/la4ehpqw.jpg
 ---
 

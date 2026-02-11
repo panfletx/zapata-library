@@ -1,28 +1,29 @@
 ---
-title: Fuenteovejuna
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Vega Carpio, Lope Félix de
 - Perrone, Beatriz E.
 - Pérez, Susana
-publishers:
-- Huemul
-place: Buenos Aires
-languages:
-- Unknown
+cover: covers/kswq2mf9.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 3. ed
+exlibris: '1970'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '253702486'
 pages: 137
-edition: 3. ed
+place: Buenos Aires
+publishers:
+- Huemul
 series:
 - Colección Clásicos Huemul
 subjects:
-- Fiction
-oclc: '253702486'
-exlibris: '1970'
+- Drama
+- Spanish Literature
+title: Fuenteovejuna
+year: 1966
 zotero_key: KSWQ2MF9
-cover: covers/kswq2mf9.jpg
 ---
 

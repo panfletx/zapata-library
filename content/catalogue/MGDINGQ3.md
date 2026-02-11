@@ -1,15 +1,15 @@
 ---
-title: Revista, Centro Guia para Caminantes 11
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/mgdingq3.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Travel Writing
+title: Revista, Centro Guia para Caminantes 11
 zotero_key: MGDINGQ3
-cover: covers/mgdingq3.jpg
 ---
 

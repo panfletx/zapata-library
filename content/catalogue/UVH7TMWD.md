@@ -1,25 +1,25 @@
 ---
-title: Estrictamente bipolar
-date: '2024-09-01'
-year: 2015
-decade: 2010s
 authors:
 - Leader, Darian
-publishers:
-- Sexto Piso España
-place: Madrid
-languages:
-- Español
+cover: covers/uvh7tmwd.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-84-15601-94-4
 item_types:
 - book
-isbn: 978-84-15601-94-4
+languages:
+- Español
+oclc: '1029736094'
 pages: 99
-edition: Primera edición
+place: Madrid
+publishers:
+- Sexto Piso España
 series: []
 subjects:
-- Medicine & Health
-oclc: '1029736094'
+- Madness & Mental Illness
+title: Estrictamente bipolar
+year: 2015
 zotero_key: UVH7TMWD
-cover: covers/uvh7tmwd.jpg
 ---
 

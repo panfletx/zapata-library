@@ -1,26 +1,26 @@
 ---
-title: 'La muerte: un amanecer'
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Kübler-Ross, Elisabeth
-publishers:
-- Luciérnaga Oceano
-place: Barcelona, España
-languages:
-- Español
+cover: covers/edatx98r.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1999'
+isbn: 978-84-494-1131-1
 item_types:
 - book
-isbn: 978-84-494-1131-1
+languages:
+- Español
+oclc: '52091785'
 pages: 118
+place: Barcelona, España
+publishers:
+- Luciérnaga Oceano
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '52091785'
-exlibris: '1999'
+- Death & Mourning
+- Medicine & Health
+title: 'La muerte: un amanecer'
+year: 1998
 zotero_key: EDATX98R
-cover: covers/edatx98r.jpg
 ---
 

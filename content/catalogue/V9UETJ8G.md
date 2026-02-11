@@ -1,18 +1,20 @@
 ---
-title: Los mejores versos de amor, antología
-date: '2024-09-01'
-year: 1957
-decade: 1950s
 authors: []
-publishers:
-- Costa-Amic Ed
-languages: []
+cover: covers/v9uetj8g.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages: []
+publishers:
+- Costa-Amic Ed
 series: []
 subjects:
-- Fiction
+- Anthology
+- Love & Desire
+- Poetry
+title: Los mejores versos de amor, antología
+year: 1957
 zotero_key: V9UETJ8G
-cover: covers/v9uetj8g.jpg
 ---
 

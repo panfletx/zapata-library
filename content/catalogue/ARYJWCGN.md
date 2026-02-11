@@ -1,27 +1,28 @@
 ---
-title: Cantar del Marrakech
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Bautista, Juan Carlos
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: Chimalistac, D.F.
-languages:
-- Español
+cover: covers/aryjwcgn.jpg
+cover_note: José Joaquín
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-5496-2
 item_types:
 - book
-isbn: 978-968-29-5496-2
+languages:
+- Español
+oclc: '30111817'
 pages: 55
-edition: 1. ed
+place: Chimalistac, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Fiction
-oclc: '30111817'
-cover_note: José Joaquín
+- Mexican Literature
+- Poetry
+title: Cantar del Marrakech
+year: 1993
 zotero_key: ARYJWCGN
-cover: covers/aryjwcgn.jpg
 ---
 

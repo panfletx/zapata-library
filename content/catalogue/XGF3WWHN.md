@@ -1,29 +1,27 @@
 ---
-title: De la oscuridad a la luz
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Jampolsky, Gerald G.
-publishers:
-- 'Edivisión : Diana'
-place: México, D.F.
-languages:
-- Español
+cover: covers/xgf3wwhn.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-968-890-124-3
 item_types:
 - book
-isbn: 978-968-890-124-3
+languages:
+- Español
+oclc: '34270670'
 pages: 288
-edition: 1a ed
+place: México, D.F.
+publishers:
+- 'Edivisión : Diana'
 series:
 - Best seller Edivisión
 subjects:
-- Biography
 - Medicine & Health
-- Religion
-- United States
-oclc: '34270670'
+- Philosophy
+title: De la oscuridad a la luz
+year: 1995
 zotero_key: XGF3WWHN
-cover: covers/xgf3wwhn.jpg
 ---
 

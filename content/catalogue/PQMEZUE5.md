@@ -1,28 +1,28 @@
 ---
-title: Return ticket
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Novo, Salvador
-publishers:
-- 'Planeta : Joaquín Mortiz'
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/pqmezue5.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2003'
+isbn: 978-968-27-0844-2
 item_types:
 - book
-isbn: 978-968-27-0844-2
+languages:
+- Español
+oclc: '72901123'
 pages: 95
+place: Mexico, D.F.
+publishers:
+- 'Planeta : Joaquín Mortiz'
 series:
 - Ronda de clásicos mexicanos
 subjects:
+- Autobiography & Memoir
 - Mexican Literature
-- Mexico
 - Travel Writing
-oclc: '72901123'
-exlibris: '2003'
+title: Return ticket
+year: 2002
 zotero_key: PQMEZUE5
-cover: covers/pqmezue5.jpg
 ---
 

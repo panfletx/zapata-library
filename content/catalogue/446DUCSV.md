@@ -1,25 +1,26 @@
 ---
-title: Les fleurs du mal
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Baudelaire, Charles
-publishers:
-- Librairie Charpentier
-place: Paris
-languages:
-- Unknown
+cover: covers/446ducsv.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1973'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '935440621'
+place: Paris
+publishers:
+- Librairie Charpentier
 series:
 - Ouvrages de poche
 subjects:
-- Literary Criticism
+- French Literature
+- Paris
 - Poetry
-oclc: '935440621'
-exlibris: '1973'
+title: Les fleurs du mal
+year: 1963
 zotero_key: 446DUCSV
-cover: covers/446ducsv.jpg
 ---
 

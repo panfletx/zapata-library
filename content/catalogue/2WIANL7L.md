@@ -1,26 +1,28 @@
 ---
-title: La playa ; Fiestas de agosto
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Pavese, Cesare
 - Benítez, Esther
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/2wianl7l.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-02-07844-5
 item_types:
 - book
-isbn: 978-84-02-07844-5
+languages:
+- Español
+oclc: '434618814'
 pages: 284
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Club Bruguera
 subjects:
 - Fiction
-oclc: '434618814'
+- Italian Literature
+- Short Stories
+title: La playa ; Fiestas de agosto
+year: 1981
 zotero_key: 2WIANL7L
-cover: covers/2wianl7l.jpg
 ---
 

@@ -1,24 +1,25 @@
 ---
-title: 'Habeas corpus: and other stories'
-date: '2024-09-01'
-year: 1964
-decade: 1960s
 authors:
 - Green, Peter
-publishers:
-- New American Library
-place: New York
-languages:
-- English
+cover: covers/xjurm8pg.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '4914473'
 pages: 176
+place: New York
+publishers:
+- New American Library
 series:
 - A Signet book
 subjects:
-- Fiction
-oclc: '4914473'
+- English Literature
+- Short Stories
+title: 'Habeas corpus: and other stories'
+year: 1964
 zotero_key: XJURM8PG
-cover: covers/xjurm8pg.jpg
 ---
 

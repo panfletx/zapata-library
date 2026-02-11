@@ -1,25 +1,24 @@
 ---
-title: 'Collins pocket: español-portugués, português-espanhol'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors: []
-publishers:
-- Random House Mondadori
-place: Barcelona
-languages:
-- Español
+cover: covers/kdtjbhx7.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2a ed
+isbn: 978-84-253-4011-6
 item_types:
 - book
-isbn: 978-84-253-4011-6
+languages:
+- Español
+oclc: '804538808'
 pages: 434
-edition: 2a ed
+place: Barcelona
+publishers:
+- Random House Mondadori
 series: []
 subjects:
 - Dictionary
-- Grammar & Linguistics
-oclc: '804538808'
+title: 'Collins pocket: español-portugués, português-espanhol'
+year: 2006
 zotero_key: KDTJBHX7
-cover: covers/kdtjbhx7.jpg
 ---
 

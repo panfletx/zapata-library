@@ -1,26 +1,27 @@
 ---
-title: Oeuvres I Satires; Le lutrin
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Boileau, Nicolas
 - Vercruysse, Jerome
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/kgci4wgn.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '1400519537'
 pages: 244
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier-Flammarion
 subjects:
 - French Literature
-- Literary Criticism
-oclc: '1400519537'
+- Poetry
+- Satire & Humor
+title: Oeuvres I Satires; Le lutrin
+year: 1969
 zotero_key: KGCI4WGN
-cover: covers/kgci4wgn.jpg
 ---
 

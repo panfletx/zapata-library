@@ -1,25 +1,23 @@
 ---
-title: Super bloopers
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Schafer, Kermit
-publishers:
-- Fawcett
-place: Grennwich, Conn.
-languages:
-- English
+cover: covers/nbbdceu4.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '10632092'
 pages: 128
+place: Grennwich, Conn.
+publishers:
+- Fawcett
 series: []
 subjects:
-- Film & Cinema
 - Satire & Humor
-- United States
-oclc: '10632092'
+title: Super bloopers
+year: 1963
 zotero_key: NBBDCEU4
-cover: covers/nbbdceu4.jpg
 ---
 

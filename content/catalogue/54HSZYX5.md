@@ -1,30 +1,28 @@
 ---
-title: 'Orlando: a biography'
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Woolf, Virginia
-publishers:
-- Roads
-place: Dublin
-languages:
-- English
+cover: covers/54hszyx5.jpg
+date: '2024-09-01'
+decade: 2010s
+exlibris: '2014'
+isbn: 978-1-909399-32-7
 item_types:
 - book
-isbn: 978-1-909399-32-7
+languages:
+- English
+oclc: '902746309'
 pages: 253
+place: Dublin
+publishers:
+- Roads
 series: []
 subjects:
-- Fiction
-- Historical Fiction
-- Modern History
-- Sexuality & Eroticism
-- Short Stories
-oclc: '902746309'
-exlibris: '2014'
+- Biography
+- Dublin
+- English Literature
+title: 'Orlando: a biography'
+year: 2014
 zotero_key: 54HSZYX5
-cover: covers/54hszyx5.jpg
 ---
 
 Orlando, a young nobleman and one of Queen Elizabeth I's court favourites, is the object of many ladies' attentions but, after suffering heartbreak, he prefers literary pursuits to entertaining any thoughts of marriage. Having obtained a ambassadorial post in Constantinople, Orlando falls into a long sleep and wakes up suddenly transformed into a woman. Also blessed with the gift of never ageing, she embarks on adventurous travels throughout Europe and the following centuries, observing what it is like to be female

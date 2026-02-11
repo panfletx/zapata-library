@@ -1,31 +1,28 @@
 ---
-title: El loro de Flaubert
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Barnes, Julian
 - Mauri, Antonio
-publishers:
-- Anagrama
-place: Barcelona
-languages:
-- Español
+cover: covers/dlezq8za.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-339-2090-4
 item_types:
 - book
-isbn: 978-84-339-2090-4
+languages:
+- Español
+oclc: '34236522'
 pages: 229
+place: Barcelona
+publishers:
+- Anagrama
 series:
 - Compactos
 subjects:
 - English Literature
-- Essay
 - Fiction
-- French Literature
 - Literary Criticism
-- Modern History
-oclc: '34236522'
+title: El loro de Flaubert
+year: 1995
 zotero_key: DLEZQ8ZA
-cover: covers/dlezq8za.jpg
 ---
 

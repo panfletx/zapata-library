@@ -1,29 +1,27 @@
 ---
-title: La Mujer que no
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Ibargüengoitia, Jorge
-publishers:
-- Alianza Editorial
-place: Azcapotzalco, Mexico
-languages:
-- Español
+cover: covers/uvuepgwy.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1071-4
 item_types:
 - book
-isbn: 978-968-39-1071-4
+languages:
+- Español
+oclc: '34109820'
 pages: 61
+place: Azcapotzalco, Mexico
+publishers:
+- Alianza Editorial
 series:
 - Alianza cien
 subjects:
-- Feminism
-- Fiction
-- Gender Studies
-- Mexico
-- Short Stories
-oclc: '34109820'
+- Mexican Literature
+- Novel
+- Satire & Humor
+title: La Mujer que no
+year: 1994
 zotero_key: UVUEPGWY
-cover: covers/uvuepgwy.jpg
 ---
 

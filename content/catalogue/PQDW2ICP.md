@@ -1,21 +1,21 @@
 ---
-title: Los mercados de la plaza mayor en la ciudad de México (de 1530 a 1745)
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Olvera Ramos, Jorge
-publishers:
-- Escuela Nacional de Antropología e Historia
-languages: []
+cover: covers/pqdw2icp.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - thesis
+languages: []
+publishers:
+- Escuela Nacional de Antropología e Historia
 series: []
 subjects:
+- Chronicle
 - Mexico City
-- Modern History
-cover_note: dedicatoria del autor
+title: Los mercados de la plaza mayor en la ciudad de México (de 1530 a 1745)
+year: 2001
 zotero_key: PQDW2ICP
-cover: covers/pqdw2icp.jpg
 ---
 

@@ -1,30 +1,26 @@
 ---
-title: The 'Marvel comics' illustrated version of 'Star wars'
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Thomas, Roy
 - Chaykin, Howard V.
 - Lucas, George
-publishers:
-- Sphere
-place: London
-languages:
-- English
+cover: covers/cqdkrtz8.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- English
+oclc: '16485318'
 pages: 124
+place: London
+publishers:
+- Sphere
 series: []
 subjects:
-- Anthology
-- Fiction
-- Science
+- Comics & Graphic Novel
 - Science Fiction
-- United States
-- Visual Art
-oclc: '16485318'
+title: The 'Marvel comics' illustrated version of 'Star wars'
+year: 1979
 zotero_key: CQDKRTZ8
-cover: covers/cqdkrtz8.jpg
 ---
 

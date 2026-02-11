@@ -1,24 +1,26 @@
 ---
-title: Dr. Jekyll & Mr. Hyde
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Stevenson, Robert Louis
 - Rothberg, Abraham
-publishers:
-- Bantam Pathfinder Editions
-place: Toronto
-languages:
-- English
+cover: covers/dlhin8ri.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '225886353'
 pages: 106
+place: Toronto
+publishers:
+- Bantam Pathfinder Editions
 series: []
 subjects:
+- English Literature
 - Fiction
-oclc: '225886353'
+- Horror & Gothic
+title: Dr. Jekyll & Mr. Hyde
+year: 1967
 zotero_key: DLHIN8RI
-cover: covers/dlhin8ri.jpg
 ---
 

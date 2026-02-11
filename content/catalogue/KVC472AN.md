@@ -1,18 +1,19 @@
 ---
-title: Líneas de fuga
-date: '2024-09-01'
 authors: []
-publishers: []
-languages:
-- English
+cover: covers/kvc472an.jpg
+date: '2024-09-01'
 item_types:
 - book
-source_url: https://search.worldcat.org/title/8591080
+languages:
+- English
+publishers: []
 series: []
+source_url: https://search.worldcat.org/title/8591080
 subjects:
 - Fiction
+- Latin American Literature
+title: Líneas de fuga
 zotero_key: KVC472AN
-cover: covers/kvc472an.jpg
 ---
 
 Líneas de fuga

@@ -1,20 +1,20 @@
 ---
-title: Algunas memorias de mis tiempos
-date: '2024-09-01'
 authors:
 - Prieto, Guillermo
-publishers:
-- Fondo de Cultura Economica
-languages:
-- Español
+cover: covers/mgi9xhkx.jpg
+date: '2024-09-01'
+isbn: 968-16-5216-9
 item_types:
 - book
-isbn: 968-16-5216-9
+languages:
+- Español
+publishers:
+- Fondo de Cultura Economica
 series: []
 subjects:
-- Fiction
+- Autobiography & Memoir
 - Mexican Literature
+title: Algunas memorias de mis tiempos
 zotero_key: MGI9XHKX
-cover: covers/mgi9xhkx.jpg
 ---
 

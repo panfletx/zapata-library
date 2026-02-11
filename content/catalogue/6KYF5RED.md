@@ -1,28 +1,27 @@
 ---
-title: Voces
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Prokosch, Frederic
 - Bosch, Andrés
-publishers:
-- Mondadori
-place: Barcelona
-languages:
-- Español
+cover: covers/6kyf5red.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-397-0190-3
 item_types:
 - book
-isbn: 978-84-397-0190-3
+languages:
+- Español
+oclc: '38189882'
 pages: 336
+place: Barcelona
+publishers:
+- Mondadori
 series:
 - Literatura Mondadori
 subjects:
-- American Literature
-- Literary Criticism
-- Modern History
-oclc: '38189882'
+- English Literature
+- Poetry
+title: Voces
+year: 1997
 zotero_key: 6KYF5RED
-cover: covers/6kyf5red.jpg
 ---
 

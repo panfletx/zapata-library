@@ -1,29 +1,28 @@
 ---
-title: Esta vez para siempre
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Pérez Gay, Rafael
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/3exc5usl.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+exlibris: '1992'
+isbn: 978-968-493-219-7
 item_types:
 - book
-isbn: 978-968-493-219-7
+languages:
+- Español
+oclc: '24451605'
 pages: 148
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
 - Fiction
-- Literary Criticism
 - Mexican Literature
-- Mexico
-oclc: '24451605'
-exlibris: '1992'
+- Mexico City
+title: Esta vez para siempre
+year: 1990
 zotero_key: 3EXC5USL
-cover: covers/3exc5usl.jpg
 ---
 

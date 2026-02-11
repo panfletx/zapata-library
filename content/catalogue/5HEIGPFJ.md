@@ -1,28 +1,29 @@
 ---
-title: Ryder
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Barnes, Djuna
 - Kúsulas Bastien, Elena
-publishers:
-- Textofilia Ediciones
-place: México, D.F.
-languages:
-- Español
+cover: covers/5heigpfj.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a ed
+isbn: 978-607-7818-41-0
 item_types:
 - book
-isbn: 978-607-7818-41-0
+languages:
+- Español
+oclc: '807327609'
 pages: 310
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Textofilia Ediciones
 series:
 - Colección Hogarth. Serie Narrativa
 subjects:
-- Fiction
-- United States
-oclc: '807327609'
+- American Literature
+- Experimental Literature
+- Novel
+title: Ryder
+year: 2011
 zotero_key: 5HEIGPFJ
-cover: covers/5heigpfj.jpg
 ---
 

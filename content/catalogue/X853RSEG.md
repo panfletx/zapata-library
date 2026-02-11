@@ -1,25 +1,25 @@
 ---
-title: 'Lola Álvarez Bravo, fotografías selectas, 1934-1985: Centro Cultural/Arte Contemporaneo, A.C., 29 de octubre de 1992-31 de enero de 1993'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Alvarez Bravo, Lola
-publishers:
-- 'Fundación Cultural Televisa : Centro Cultural/Arte Contemporáneo'
-place: México, D.F.
-languages:
-- Español
+cover: covers/x853rseg.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6191-40-0
 item_types:
 - book
-isbn: 978-968-6191-40-0
+languages:
+- Español
+oclc: '216963357'
 pages: 449
+place: México, D.F.
+publishers:
+- 'Fundación Cultural Televisa : Centro Cultural/Arte Contemporáneo'
 series: []
 subjects:
-- Museums & Collections
+- Mexico City
 - Photography
-oclc: '216963357'
+title: 'Lola Álvarez Bravo, fotografías selectas, 1934-1985: Centro Cultural/Arte Contemporaneo, A.C., 29 de octubre de 1992-31 de enero de 1993'
+year: 1992
 zotero_key: X853RSEG
-cover: covers/x853rseg.jpg
 ---
 

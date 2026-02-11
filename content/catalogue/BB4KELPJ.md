@@ -1,17 +1,18 @@
 ---
-title: Revista, La nave año 1 núm. 3
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/bb4kelpj.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Spanish Literature
+title: Revista, La nave año 1 núm. 3
+year: 2009
 zotero_key: BB4KELPJ
-cover: covers/bb4kelpj.jpg
 ---
 

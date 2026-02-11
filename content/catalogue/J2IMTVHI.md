@@ -1,25 +1,27 @@
 ---
-title: Le sacré et le profane
-date: '2024-09-01'
-year: 1965
-decade: 1960s
 authors:
 - Eliade, Mircea
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/j2imtvhi.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1994'
 item_types:
 - book
+languages:
+- Français
+oclc: '1400580166'
 pages: 187
+place: Paris
+publishers:
+- Gallimard
 series:
 - Idées
 subjects:
-- French Literature
-oclc: '1400580166'
-exlibris: '1994'
+- Essay
+- Mysticism
+- Religion
+title: Le sacré et le profane
+year: 1965
 zotero_key: J2IMTVHI
-cover: covers/j2imtvhi.jpg
 ---
 

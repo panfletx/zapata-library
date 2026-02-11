@@ -1,26 +1,27 @@
 ---
-title: Caravana del espejo
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Venegas, Ricardo
-publishers:
-- 'Publicaciones del Instituto de Cultura de Morelos : Fondo Estatal para la Cultura y las Artes de Morelos'
-place: Morelos
-languages:
-- Español
+cover: covers/wvut6li8.jpg
+cover_note: dedicatoria de Ricardo Venegas
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '46685785'
 pages: 82
-edition: 1a ed
+place: Morelos
+publishers:
+- 'Publicaciones del Instituto de Cultura de Morelos : Fondo Estatal para la Cultura y las Artes de Morelos'
 series:
 - Amate. Poesía
 subjects:
-- Fiction
-oclc: '46685785'
-cover_note: dedicatoria de Ricardo Venegas
+- Mexican Literature
+- Poetry
+title: Caravana del espejo
+year: 2000
 zotero_key: WVUT6LI8
-cover: covers/wvut6li8.jpg
 ---
 

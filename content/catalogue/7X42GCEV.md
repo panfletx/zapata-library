@@ -1,24 +1,26 @@
 ---
-title: Lógica elemental
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Zubieta Russi, Gonzalo
-publishers:
-- ANUIES
-place: México
-languages:
-- Español
+cover: covers/7x42gcev.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '1097691322'
 pages: 59
+place: México
+publishers:
+- ANUIES
 series:
 - Área matemáticas
 subjects:
+- Education
+- Grammar & Linguistics
 - Philosophy
-oclc: '1097691322'
+title: Lógica elemental
+year: 1973
 zotero_key: 7X42GCEV
-cover: covers/7x42gcev.jpg
 ---
 

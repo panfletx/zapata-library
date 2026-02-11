@@ -1,33 +1,29 @@
 ---
-title: Eneida
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Virgil
 - Ochoa, Eugenio de
-publishers:
-- JM Ediciones
-place: Algete (Madrid)
-languages:
-- English
+cover: covers/y2wey9p4.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Ed. íntegra
+isbn: 978-84-89163-75-1
 item_types:
 - book
-isbn: 978-84-89163-75-1
+languages:
+- English
+oclc: '56937613'
 pages: 314
-edition: Ed. íntegra
+place: Algete (Madrid)
+publishers:
+- JM Ediciones
 series:
 - Clásicos universales (JM Ediciones)
 subjects:
+- Classical Literature
 - Epic
-- Fiction
-- Modern History
-- Oral Tradition & Folklore
-- Poetry
-- Rome
 - Translation Studies
-oclc: '56937613'
+title: Eneida
+year: 1999
 zotero_key: Y2WEY9P4
-cover: covers/y2wey9p4.jpg
 ---
 

@@ -1,32 +1,27 @@
 ---
-title: Queer
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Burroughs, William S.
-publishers:
-- Picador
-place: London
-languages:
-- English
+cover: covers/fxudhlwc.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-0-330-29406-5
 item_types:
 - book
-isbn: 978-0-330-29406-5
+languages:
+- English
+oclc: '14588363'
 pages: 122
+place: London
+publishers:
+- Picador
 series:
 - Picador
 subjects:
-- Fiction
-- Gay Literature
-- Mexico
-- Mexico City
+- American Literature
 - Novel
-- Short Stories
-- United States
-- Urban Life
-oclc: '14588363'
+- Queer Studies
+title: Queer
+year: 1986
 zotero_key: FXUDHLWC
-cover: covers/fxudhlwc.jpg
 ---
 

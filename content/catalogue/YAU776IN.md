@@ -1,26 +1,27 @@
 ---
-title: La Venganza de Carlos Mango
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Rojas González, Francisco
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/yau776in.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-16-1605-2
 item_types:
 - book
-isbn: 978-968-16-1605-2
+languages:
+- Español
+oclc: '1187150933'
 pages: 131
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Lecturas mexicanas
 subjects:
 - Fiction
 - Mexican Literature
-oclc: '1187150933'
+- Short Stories
+title: La Venganza de Carlos Mango
+year: 1984
 zotero_key: YAU776IN
-cover: covers/yau776in.jpg
 ---
 

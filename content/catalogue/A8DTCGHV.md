@@ -1,23 +1,25 @@
 ---
-title: Mountolive
-date: '2024-09-01'
-year: 1959
-decade: 1950s
 authors:
 - Durrell, Lawrence
-publishers:
-- Dutton
-place: New York
-languages:
-- Unknown
+cover: covers/a8dtcghv.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Unknown
+oclc: '1154368251'
 pages: 320
+place: New York
+publishers:
+- Dutton
 series: []
 subjects:
-- Fiction
-oclc: '1154368251'
+- English Literature
+- Middle East
+- Novel
+title: Mountolive
+year: 1959
 zotero_key: A8DTCGHV
-cover: covers/a8dtcghv.jpg
 ---
 

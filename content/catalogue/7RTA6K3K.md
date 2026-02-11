@@ -1,26 +1,27 @@
 ---
-title: Calles como incendios
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Ediciones Océano
-place: México, D.F.
-languages:
-- Español
+cover: covers/7rta6k3k.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-493-068-1
 item_types:
 - book
-isbn: 978-968-493-068-1
+languages:
+- Español
+oclc: '14105884'
 pages: 162
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Ediciones Océano
 series: []
 subjects:
-- Fiction
-oclc: '14105884'
-cover_note: dedicatoria jjb
+- Essay
+- Mexican Literature
+title: Calles como incendios
+year: 1985
 zotero_key: 7RTA6K3K
-cover: covers/7rta6k3k.jpg
 ---
 

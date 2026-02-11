@@ -1,29 +1,29 @@
 ---
-title: 'Sentido contrario: ensayos de literatura moderna'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Universidad Autónoma de Puebla
-place: Puebla
-languages:
-- Español
+cover: covers/yx4dkjve.jpg
+cover_note: dedicatoria de jjb
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-863-113-3
 item_types:
 - book
-isbn: 978-968-863-113-3
+languages:
+- Español
+oclc: '31090742'
 pages: 253
-edition: 1. ed
+place: Puebla
+publishers:
+- Universidad Autónoma de Puebla
 series:
 - Colección Meridiano (Puebla, Mexico)
 subjects:
+- Essay
 - Literary Criticism
-- Literary History
-- Modern History
-oclc: '31090742'
-cover_note: dedicatoria de jjb
+- Mexican Literature
+title: 'Sentido contrario: ensayos de literatura moderna'
+year: 1993
 zotero_key: YX4DKJVE
-cover: covers/yx4dkjve.jpg
 ---
 

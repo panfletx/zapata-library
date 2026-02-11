@@ -1,17 +1,19 @@
 ---
-title: Revista, Letras libres 2007
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/g3nmtpxf.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Literary Criticism
+- Mexican Literature
+title: Revista, Letras libres 2007
+year: 2007
 zotero_key: G3NMTPXF
-cover: covers/g3nmtpxf.jpg
 ---
 

@@ -1,25 +1,24 @@
 ---
-title: Poemas completos
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Cavafy, Constantine
-publishers:
-- Diógenes
-place: México, D.F.
-languages:
-- Español
+cover: covers/w28wjkx3.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1986'
 item_types:
 - book
+languages:
+- Español
+oclc: '52799996'
 pages: 235
+place: México, D.F.
+publishers:
+- Diógenes
 series: []
 subjects:
 - Poetry
-- Translation Studies
-oclc: '52799996'
-exlibris: '1986'
+title: Poemas completos
+year: 1979
 zotero_key: W28WJKX3
-cover: covers/w28wjkx3.jpg
 ---
 

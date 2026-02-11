@@ -1,26 +1,24 @@
 ---
-title: 'Los sueños de Onán: antología del placer solitario'
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors: []
-publishers:
-- Ediciones Intempestivas
-place: Monterrey, México
-languages:
-- Español
+cover: covers/x4w2fx5u.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '768119241'
 pages: 106
-edition: 1. ed
+place: Monterrey, México
+publishers:
+- Ediciones Intempestivas
 series: []
 subjects:
-- Fiction
-- Mexico
-- Poetry
-- Sexuality & Eroticism
-oclc: '768119241'
+- Anthology
+- Erotic Literature
+title: 'Los sueños de Onán: antología del placer solitario'
+year: 2011
 zotero_key: X4W2FX5U
-cover: covers/x4w2fx5u.jpg
 ---
 

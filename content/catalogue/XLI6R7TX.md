@@ -1,27 +1,25 @@
 ---
-title: René, ou, La vie de Chateaubriand
-date: '2024-09-01'
-year: 1938
-decade: 1930s
 authors:
 - Maurois, André
-publishers:
-- B. Grasset
-place: Paris
-languages:
-- Français
+cover: covers/xli6r7tx.jpg
+date: '2024-09-01'
+decade: 1930s
 item_types:
 - book
+languages:
+- Français
+oclc: '343500'
 pages: 494
+place: Paris
+publishers:
+- B. Grasset
 series: []
 subjects:
 - Biography
 - France
 - French Literature
-- Literary Criticism
-- Modern History
-oclc: '343500'
+title: René, ou, La vie de Chateaubriand
+year: 1938
 zotero_key: XLI6R7TX
-cover: covers/xli6r7tx.jpg
 ---
 

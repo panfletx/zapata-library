@@ -1,28 +1,27 @@
 ---
-title: El orgasmógrafo
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Serna, Enrique
-publishers:
-- Planeta Mexicana
-place: México, D.F.
-languages:
-- Español
+cover: covers/cwjbdpz3.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a ed
+isbn: 978-607-07-2000-0
 item_types:
 - book
-isbn: 978-607-07-2000-0
+languages:
+- Español
+oclc: '897508513'
 pages: 203
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Planeta Mexicana
 series: []
 subjects:
-- Fiction
-- Philosophy
-- Sexuality & Eroticism
-- Short Stories
-oclc: '897508513'
+- Mexican Literature
+- Novel
+- Satire & Humor
+title: El orgasmógrafo
+year: 2014
 zotero_key: CWJBDPZ3
-cover: covers/cwjbdpz3.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: 'Gran sertón: veredas'
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Rosa, João Guimarães
-publishers:
-- Planeta-De Agostini
-place: Barcelona
-languages:
-- Español
+cover: covers/qnnvulbs.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7551-445-1
 item_types:
 - book
-isbn: 978-84-7551-445-1
+languages:
+- Español
+oclc: '20919696'
 pages: 463
+place: Barcelona
+publishers:
+- Planeta-De Agostini
 series: []
 subjects:
+- Brazilian Literature
 - Fiction
-oclc: '20919696'
+- Novel
+title: 'Gran sertón: veredas'
+year: 1985
 zotero_key: QNNVULBS
-cover: covers/qnnvulbs.jpg
 ---
 

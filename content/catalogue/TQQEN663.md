@@ -1,24 +1,25 @@
 ---
-title: Guadalajara a través de los tiempos. Relatos y descripciones de viajeros y escritores desde el siglo XVI hasta nuestros días
-date: '2024-09-01'
-year: 1950
-decade: 1950s
 authors: []
-publishers:
-- Banco Refaccionario de Jalisco
-place: Guadalajara
-languages:
-- Español
+cover: covers/tqqen663.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Español
+oclc: '2476844'
 pages: 2
+place: Guadalajara
+publishers:
+- Banco Refaccionario de Jalisco
 series: []
 subjects:
+- Chronicle
 - Jalisco
 - Mexico
 - Travel Writing
-oclc: '2476844'
+title: Guadalajara a través de los tiempos. Relatos y descripciones de viajeros y escritores desde el siglo XVI hasta nuestros días
+year: 1950
 zotero_key: TQQEN663
-cover: covers/tqqen663.jpg
 ---
 

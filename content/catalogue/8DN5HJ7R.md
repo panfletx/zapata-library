@@ -1,25 +1,26 @@
 ---
-title: La tumba
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Agustín, José.
-publishers:
-- Organización Editorial Novaro
-place: México
-languages:
-- Español
+cover: covers/8dn5hj7r.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 7. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2997495'
 pages: 141
-edition: 7. ed
+place: México
+publishers:
+- Organización Editorial Novaro
 series:
 - Nuevos valores
 subjects:
-- Fiction
-oclc: '2997495'
+- Mexican Literature
+- Novel
+title: La tumba
+year: 1974
 zotero_key: 8DN5HJ7R
-cover: covers/8dn5hj7r.jpg
 ---
 

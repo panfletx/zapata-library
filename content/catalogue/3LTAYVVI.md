@@ -1,17 +1,18 @@
 ---
-title: Revista, Acentos 0
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/3ltayvvi.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: Revista, Acentos 0
+year: 2007
 zotero_key: 3LTAYVVI
-cover: covers/3ltayvvi.jpg
 ---
 

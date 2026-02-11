@@ -1,27 +1,28 @@
 ---
-title: Viaje al oriente
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Hesse, Hermann (
 - Scholz, Víctor
-publishers:
-- Plaza & Janés
-place: Esplugues de Llobregat, Barcelona
-languages:
-- Español
+cover: covers/nsrdt376.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1992'
+isbn: 978-84-01-42125-9
 item_types:
 - book
-isbn: 978-84-01-42125-9
+languages:
+- Español
+oclc: '920124287'
 pages: 216
+place: Esplugues de Llobregat, Barcelona
+publishers:
+- Plaza & Janés
 series:
 - Ave Fénix
 subjects:
-- Fiction
-oclc: '920124287'
-exlibris: '1992'
+- German Literature
+- Travel Writing
+title: Viaje al oriente
+year: 1983
 zotero_key: NSRDT376
-cover: covers/nsrdt376.jpg
 ---
 

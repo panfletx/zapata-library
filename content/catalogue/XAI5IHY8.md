@@ -1,40 +1,29 @@
 ---
-title: Fruta verde
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Serna, Enrique
-publishers:
-- Editorial Planeta Mexicana
-place: México, D.F.
-languages:
-- Español
+cover: covers/xai5ihy8.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+isbn: 978-970-37-0571-9
 item_types:
 - book
-isbn: 978-970-37-0571-9
+languages:
+- Español
+oclc: '74885113'
 pages: 310
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Editorial Planeta Mexicana
 series:
 - Autores españoles e iberoamericanos
 subjects:
-- Autobiography & Memoir
-- Bisexuality
-- Fiction
-- Gay Literature
-- Literary Criticism
-- Love & Desire
-- Mexico
-- Mexico City
+- Mexican Literature
 - Novel
-- Psychoanalysis
-- Sexuality & Eroticism
-- Short Stories
-- Urban Life
-oclc: '74885113'
-cover_note: dedicatoria de autor
+title: Fruta verde
+year: 2006
 zotero_key: XAI5IHY8
-cover: covers/xai5ihy8.jpg
 ---
 
 "Construida como un espejo de tres caras, Fruta verde es una novela de aprendizaje que explora la intimidad de tres personajes atraídos y enfrentados por el vértigo de lo prohibido"--Page 4 of cover

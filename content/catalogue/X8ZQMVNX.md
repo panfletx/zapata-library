@@ -1,29 +1,29 @@
 ---
-title: Crimen y castigo
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Dostoevskiï, Fiodor Mijaïlovich (
 - Vidal, Augusto (
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/x8zqmvnx.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 5ª ed
+exlibris: '1989'
+isbn: 978-84-02-06426-4
 item_types:
 - book
-isbn: 978-84-02-06426-4
+languages:
+- Español
+oclc: '919963705'
 pages: 601
-edition: 5ª ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro amigo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '919963705'
-exlibris: '1989'
+- Novel
+- Russian Literature
+title: Crimen y castigo
+year: 1985
 zotero_key: X8ZQMVNX
-cover: covers/x8zqmvnx.jpg
 ---
 

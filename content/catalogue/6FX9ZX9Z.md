@@ -1,31 +1,29 @@
 ---
-title: Sueños de Einstein
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Lightman, Alan P.
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/6fx9zx9z.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+exlibris: '1994'
+isbn: 978-84-7223-693-6
 item_types:
 - book
-isbn: 978-84-7223-693-6
+languages:
+- Español
+oclc: '32129014'
 pages: 150
-edition: 1. ed
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Colección Andanzas
 subjects:
 - Dreams
 - Fiction
-- Philosophy
 - Science
-- Short Stories
-oclc: '32129014'
-exlibris: '1994'
+title: Sueños de Einstein
+year: 1993
 zotero_key: 6FX9ZX9Z
-cover: covers/6fx9zx9z.jpg
 ---
 

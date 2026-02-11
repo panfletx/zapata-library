@@ -1,30 +1,28 @@
 ---
-title: 'Esta narrativa mexicana: ensayos y entrevistas'
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Torres M., Vicente Francisco
-publishers:
-- Leega
-place: México, D.F.
-languages:
-- Español
+cover: covers/zdheppr9.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-495-064-1
 item_types:
 - book
-isbn: 978-968-495-064-1
+languages:
+- Español
+oclc: '24862125'
 pages: 268
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Leega
 series:
 - Leega literaria
 subjects:
-- Fiction
 - Interview
 - Literary Criticism
-- Mexico
-- Modern History
-oclc: '24862125'
+- Mexican Literature
+title: 'Esta narrativa mexicana: ensayos y entrevistas'
+year: 1991
 zotero_key: ZDHEPPR9
-cover: covers/zdheppr9.jpg
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Farda, barba y baby-doll
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Campos, José Gaspar Ferraz de
-publishers:
-- Iglu Editora
-place: São Paulo
-languages:
-- Português
+cover: covers/tspsbnk9.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages:
+- Português
+oclc: '22916343'
 pages: 102
+place: São Paulo
+publishers:
+- Iglu Editora
 series: []
 subjects:
+- Brazilian Literature
 - Fiction
-oclc: '22916343'
+- Sexuality & Eroticism
+title: Farda, barba y baby-doll
+year: 1990
 zotero_key: TSPSBNK9
-cover: covers/tspsbnk9.jpg
 ---
 

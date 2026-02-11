@@ -1,15 +1,16 @@
 ---
-title: Revista, Algarabía, 189
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/sppqvpfl.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Mexican Literature
+title: Revista, Algarabía, 189
 zotero_key: SPPQVPFL
-cover: covers/sppqvpfl.jpg
 ---
 

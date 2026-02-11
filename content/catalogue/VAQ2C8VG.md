@@ -1,28 +1,27 @@
 ---
-title: Manhattan transfer
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Dos Passos, John
-publishers:
-- Origen/Planeta
-place: México
-languages:
-- English
+cover: covers/vaq2c8vg.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-22-0039-7
 item_types:
 - book
-isbn: 978-968-22-0039-7
+languages:
+- English
+oclc: '906795152'
 pages: 310
+place: México
+publishers:
+- Origen/Planeta
 series:
 - Literatura contemporánea
 subjects:
-- Fiction
-- New York
-- Short Stories
+- American Literature
+- Novel
 - Urban Life
-oclc: '906795152'
+title: Manhattan transfer
+year: 1985
 zotero_key: VAQ2C8VG
-cover: covers/vaq2c8vg.jpg
 ---
 

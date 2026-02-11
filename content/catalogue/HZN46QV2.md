@@ -1,17 +1,18 @@
 ---
-title: Revista, Universidad de Guadalajara
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/hzn46qv2.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Bibliography
+- Mexican Literature
+title: Revista, Universidad de Guadalajara
+year: 1986
 zotero_key: HZN46QV2
-cover: covers/hzn46qv2.jpg
 ---
 

@@ -1,26 +1,27 @@
 ---
-title: 'La historia del rey Canamor y del infante Turián, su hijo: la destruición de Jerusalem'
-date: '2024-09-01'
-year: 1946
-decade: 1940s
 authors: []
-publishers:
-- Espasa-Calpe Argentina
-place: Buenos Aires
-languages:
-- Español
+cover: covers/xht4nwgm.jpg
+date: '2024-09-01'
+decade: 1940s
+edition: 2. ed
+exlibris: '1977'
 item_types:
 - book
+languages:
+- Español
+oclc: '2676792'
 pages: 167
-edition: 2. ed
+place: Buenos Aires
+publishers:
+- Espasa-Calpe Argentina
 series:
 - Colección Austral
 subjects:
-- Middle East
-- Modern History
-oclc: '2676792'
-exlibris: '1977'
+- Argentina
+- Epic
+- Medieval Literature
+title: 'La historia del rey Canamor y del infante Turián, su hijo: la destruición de Jerusalem'
+year: 1946
 zotero_key: XHT4NWGM
-cover: covers/xht4nwgm.jpg
 ---
 

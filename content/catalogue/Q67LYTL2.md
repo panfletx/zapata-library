@@ -1,27 +1,28 @@
 ---
-title: Cartelera cinematográfica, 1960-1969
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Amador, María Luisa
 - Ayala Blanco, Jorge
-publishers:
-- Centro Universitario de Estudios Cinematográficos, Coordinación General de Difusión Cultural, Dirección de Literatura/UNAM
-place: México
-languages:
-- Español
+cover: covers/q67lytl2.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-837-945-5
 item_types:
 - book
-isbn: 978-968-837-945-5
+languages:
+- Español
+oclc: '20565412'
 pages: 710
-edition: 1a ed
+place: México
+publishers:
+- Centro Universitario de Estudios Cinematográficos, Coordinación General de Difusión Cultural, Dirección de Literatura/UNAM
 series:
 - Textos de humanidades
 subjects:
 - Film & Cinema
-oclc: '20565412'
+- Mexico
+title: Cartelera cinematográfica, 1960-1969
+year: 1986
 zotero_key: Q67LYTL2
-cover: covers/q67lytl2.jpg
 ---
 

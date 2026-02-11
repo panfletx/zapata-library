@@ -1,26 +1,28 @@
 ---
-title: Crónica de la intervención
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - García Ponce, Juan
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: México, D.F.
-languages:
-- Español
+cover: covers/i4hablkd.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed. en Lecturas mexicanas
+isbn: 978-968-29-3553-4
 item_types:
 - book
-isbn: 978-968-29-3553-4
+languages:
+- Español
+oclc: '29175719'
 pages: 2
-edition: 1. ed. en Lecturas mexicanas
+place: México, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Lecturas mexicanas
 subjects:
-- Fiction
-oclc: '29175719'
+- Chronicle
+- Historical Fiction
+- Mexican Literature
+title: Crónica de la intervención
+year: 1992
 zotero_key: I4HABLKD
-cover: covers/i4hablkd.jpg
 ---
 

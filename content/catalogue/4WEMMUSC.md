@@ -1,26 +1,28 @@
 ---
-title: Diálogos
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Novo, Salvador
-publishers:
-- Organización Editorial Novaro
-place: México
-languages:
-- Español
+cover: covers/4wemmusc.jpg
+cover_note: Efrain Ernesto Pacheco Cedillo
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2040080'
 pages: 149
-edition: 1. ed
+place: México
+publishers:
+- Organización Editorial Novaro
 series:
 - Grandes escritores de nuestro tiempo
 subjects:
-- Fiction
-oclc: '2040080'
-cover_note: Efrain Ernesto Pacheco Cedillo
+- Essay
+- Mexican Literature
+- Mexico
+title: Diálogos
+year: 1970
 zotero_key: 4WEMMUSC
-cover: covers/4wemmusc.jpg
 ---
 

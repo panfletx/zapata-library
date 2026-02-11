@@ -1,27 +1,28 @@
 ---
-title: Libro de buen amor
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Ruiz, Juan
 - Cejador y Frauca, Julio
-publishers:
-- Espasa-Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/3d6mdxa2.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 11a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '254120'
 pages: 2
-edition: 11a ed
+place: Madrid
+publishers:
+- Espasa-Calpe
 series:
 - Clásicos castellanos
 subjects:
+- Medieval Literature
 - Poetry
 - Spanish Literature
-oclc: '254120'
+title: Libro de buen amor
+year: 1970
 zotero_key: 3D6MDXA2
-cover: covers/3d6mdxa2.jpg
 ---
 

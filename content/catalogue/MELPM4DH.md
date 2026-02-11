@@ -1,30 +1,29 @@
 ---
-title: La infancia perdida y otros ensayos
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Greene, Graham
 - Zulaika, Jaime
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/melpm4dh.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a. ed
+exlibris: '1995'
+isbn: 978-84-322-0549-1
 item_types:
 - book
-isbn: 978-84-322-0549-1
+languages:
+- Español
+oclc: '16892578'
 pages: 251
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
 - English Literature
-- Literary Criticism
-- Modern History
-oclc: '16892578'
-exlibris: '1995'
+- Essay
+title: La infancia perdida y otros ensayos
+year: 1986
 zotero_key: MELPM4DH
-cover: covers/melpm4dh.jpg
 ---
 

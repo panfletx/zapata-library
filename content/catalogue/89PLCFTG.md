@@ -1,30 +1,30 @@
 ---
-title: 'Le roman de Tristan: poème du XIIe siècle'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Béroul
 - Muret, Ernest
 - Defourques, L. M.
-publishers:
-- H. Champion
-place: Paris
-languages:
-- Français
+cover: covers/89plcftg.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 4. ʹed. rev.
+isbn: 978-2-85203-066-4
 item_types:
 - book
-isbn: 978-2-85203-066-4
+languages:
+- Français
+oclc: '20435972'
 pages: 171
-edition: 4. ʹed. rev.
+place: Paris
+publishers:
+- H. Champion
 series:
 - Classiques français du Moyen Age
 subjects:
-- Fiction
-- King Arthur
+- Medieval Literature
+- Poetry
 - Tristan & Iseult
-oclc: '20435972'
+title: 'Le roman de Tristan: poème du XIIe siècle'
+year: 1982
 zotero_key: 89PLCFTG
-cover: covers/89plcftg.jpg
 ---
 

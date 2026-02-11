@@ -1,24 +1,25 @@
 ---
-title: Diccionario de los lugares comunes
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Flaubert, Gustave
-publishers:
-- Alvarez
-place: Buenos Aires
-languages:
-- Español
+cover: covers/ptw9wx3l.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '20196031'
 pages: 98
+place: Buenos Aires
+publishers:
+- Alvarez
 series: []
 subjects:
-- Satire & Humor
-oclc: '20196031'
-cover_note: dedicatoria
+- Dictionary
+- French Literature
+title: Diccionario de los lugares comunes
+year: 1966
 zotero_key: PTW9WX3L
-cover: covers/ptw9wx3l.jpg
 ---
 

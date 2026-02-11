@@ -1,27 +1,26 @@
 ---
-title: Paisajes y leyendas
-date: '2024-09-01'
-year: 199
 authors:
 - Altamirano, Ignacio Manuel
-publishers:
-- Alianza Editorial
-place: México
-languages:
-- Español
+cover: covers/v8lrdl5q.jpg
+date: '2024-09-01'
+isbn: 978-968-39-1030-1
 item_types:
 - book
-isbn: 978-968-39-1030-1
+languages:
+- Español
+oclc: '34462836'
 pages: 95
+place: México
+publishers:
+- Alianza Editorial
 series:
 - Alianza cien
 subjects:
-- Biography
-- Mexico
-- Modern History
+- Mexican Literature
 - Oral Tradition & Folklore
-oclc: '34462836'
+- Travel Writing
+title: Paisajes y leyendas
+year: 199
 zotero_key: V8LRDL5Q
-cover: covers/v8lrdl5q.jpg
 ---
 

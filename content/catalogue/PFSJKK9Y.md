@@ -1,25 +1,26 @@
 ---
-title: Autobiografía
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Darwin, Charles
-publishers:
-- 'Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/pfsjkk9y.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0977-0
 item_types:
 - book
-isbn: 978-968-39-0977-0
+languages:
+- Español
+oclc: '651521788'
 pages: 93
+place: México
+publishers:
+- 'Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
 - Autobiography & Memoir
+- Biography
 - Science
-oclc: '651521788'
+title: Autobiografía
+year: 1993
 zotero_key: PFSJKK9Y
-cover: covers/pfsjkk9y.jpg
 ---
 

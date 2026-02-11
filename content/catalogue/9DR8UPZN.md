@@ -1,27 +1,28 @@
 ---
-title: Antología de la poesía brasileña; desde el Romanticísmo a la Generación del Cuarenta y Cinco
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Crespo y Pérez de Madrid, Angel
-publishers:
-- Seix Barral
-place: Barcelona]
-languages:
-- Español
+cover: covers/9dr8upzn.jpg
+cover_note: Joaquin Blanco 1976
+date: '2024-09-01'
+decade: 1970s
+edition: '[1. ed'
+isbn: 978-84-322-3815-4
 item_types:
 - book
-isbn: 978-84-322-3815-4
+languages:
+- Español
+oclc: '1295507'
 pages: 440
-edition: '[1. ed'
+place: Barcelona]
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve de bolsillo
 subjects:
-- Poetry
-oclc: '1295507'
-cover_note: Joaquin Blanco 1976
+- Anthology
+- Essay
+title: Antología de la poesía brasileña; desde el Romanticísmo a la Generación del Cuarenta y Cinco
+year: 1973
 zotero_key: 9DR8UPZN
-cover: covers/9dr8upzn.jpg
 ---
 

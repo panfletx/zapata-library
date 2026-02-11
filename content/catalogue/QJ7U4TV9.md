@@ -1,30 +1,27 @@
 ---
-title: Petit déjeuner chez Tiffany
-date: '2024-09-01'
-year: 1962
-decade: 1960s
 authors:
 - Capote, Truman
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/qj7u4tv9.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '3724031'
 pages: 188
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection folio
 subjects:
-- Children's Literature
-- Feminism
-- Fiction
-- Gender Studies
+- American Literature
 - New York
-- Short Stories
-oclc: '3724031'
-cover_note: dedicatoria
+- Novel
+title: Petit déjeuner chez Tiffany
+year: 1962
 zotero_key: QJ7U4TV9
-cover: covers/qj7u4tv9.jpg
 ---
 

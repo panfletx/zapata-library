@@ -1,23 +1,25 @@
 ---
-title: La experiencia literaria
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Alfonso Reyes
-publishers:
-- Fondo de Cultura Economica / Mexico
-languages:
-- Unknown
+cover: covers/kf6d3qr8.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1990'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '1250385811'
 pages: 1
+publishers:
+- Fondo de Cultura Economica / Mexico
 series: []
 subjects:
-- Mexican Literature
-oclc: '1250385811'
-exlibris: '1990'
+- Alfonso Reyes
+- Essay
+- Literary Criticism
+title: La experiencia literaria
+year: 1983
 zotero_key: KF6D3QR8
-cover: covers/kf6d3qr8.jpg
 ---
 

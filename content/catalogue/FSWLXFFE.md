@@ -1,29 +1,27 @@
 ---
-title: El gato y el ratón
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Grass, Günter
-publishers:
-- Joaquín Mortiz
-place: México
-languages:
-- Español
+cover: covers/fswlxffe.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: '[2a. ed.]'
 item_types:
 - book
+languages:
+- Español
+oclc: '431311884'
 pages: 183
-edition: '[2a. ed.]'
+place: México
+publishers:
+- Joaquín Mortiz
 series:
 - Colección Narradores contemporáneos
 subjects:
 - Fiction
 - German Literature
-- Literary Criticism
-- Science
-- Science Fiction
-oclc: '431311884'
+- Novel
+title: El gato y el ratón
+year: 1969
 zotero_key: FSWLXFFE
-cover: covers/fswlxffe.jpg
 ---
 

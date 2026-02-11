@@ -1,26 +1,27 @@
 ---
-title: El nido de jilgueros y otros cuentos
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Riva Palacio, Vicente
-publishers:
-- Fondo de Cultura Economica
-place: México
-languages:
-- Español
+cover: covers/gzepfxir.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-16-5207-4
 item_types:
 - book
-isbn: 978-968-16-5207-4
+languages:
+- Español
+oclc: '39729733'
 pages: 69
-edition: 1. ed
+place: México
+publishers:
+- Fondo de Cultura Economica
 series: []
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '39729733'
+- Mexico
+- Short Stories
+title: El nido de jilgueros y otros cuentos
+year: 1997
 zotero_key: GZEPFXIR
-cover: covers/gzepfxir.jpg
 ---
 

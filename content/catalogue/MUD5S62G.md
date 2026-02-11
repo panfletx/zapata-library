@@ -1,27 +1,28 @@
 ---
-title: Yo el Supremo
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Roa Bastos, Augusto Antonio
-publishers:
-- Siglo Veintiuno Editores
-place: México
-languages:
-- Español
+cover: covers/mud5s62g.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 14a ed
+isbn: 978-968-23-0156-8
 item_types:
 - book
-isbn: 978-968-23-0156-8
+languages:
+- Español
+oclc: '18508581'
 pages: 467
-edition: 14a ed
+place: México
+publishers:
+- Siglo Veintiuno Editores
 series:
 - La Creación literaria
 subjects:
-- Fiction
-- Latin American Politics
-oclc: '18508581'
+- Historical Fiction
+- Latin American Literature
+- Novel
+title: Yo el Supremo
+year: 1987
 zotero_key: MUD5S62G
-cover: covers/mud5s62g.jpg
 ---
 

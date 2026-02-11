@@ -1,24 +1,26 @@
 ---
-title: 'The disrobing: sex and satire'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Murdoch, Royal
 - Leyland, Winston
-publishers:
-- Gay Sunshine Press
-place: San Francisco
-languages:
-- English
+cover: covers/hziprva6.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- English
+oclc: '601878523'
 pages: 112
+place: San Francisco
+publishers:
+- Gay Sunshine Press
 series: []
 subjects:
-- Fiction
-oclc: '601878523'
+- English Literature
+- Gay Literature
+- Satire & Humor
+title: 'The disrobing: sex and satire'
+year: 1982
 zotero_key: HZIPRVA6
-cover: covers/hziprva6.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: Daisy Miller y Los papeles de Aspern
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - James, Henry
-publishers:
-- Universidad Nacional Autónoma de México
-place: México
-languages:
-- Español
+cover: covers/xfszjf55.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-837-072-8
 item_types:
 - book
-isbn: 978-968-837-072-8
+languages:
+- Español
+oclc: '21707817'
 pages: 238
+place: México
+publishers:
+- Universidad Nacional Autónoma de México
 series:
 - Nuestros clásicos (Mexico City, Mexico)
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '21707817'
+- American Literature
+- Short Stories
+title: Daisy Miller y Los papeles de Aspern
+year: 1984
 zotero_key: XFSZJF55
-cover: covers/xfszjf55.jpg
 ---
 

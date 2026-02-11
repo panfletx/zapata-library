@@ -1,16 +1,18 @@
 ---
-title: Julio Castellanos 1905-1947
-date: '2024-09-01'
 authors: []
-publishers:
-- Banco nacional de México
-languages: []
+cover: covers/mdnqn33x.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers:
+- Banco nacional de México
 series: []
 subjects:
-- Fiction
+- Biography
+- Mexico
+- Painting
+title: Julio Castellanos 1905-1947
 zotero_key: MDNQN33X
-cover: covers/mdnqn33x.jpg
 ---
 

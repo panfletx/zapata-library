@@ -1,28 +1,28 @@
 ---
-title: ¡Mejore su redacción!
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Basulto, Hilda
-publishers:
-- Trillas
-place: México
-languages:
-- Español
+cover: covers/ybxjanq8.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed., 1a reimp
+exlibris: '1992'
+isbn: 978-968-24-3643-7
 item_types:
 - book
-isbn: 978-968-24-3643-7
+languages:
+- Español
+oclc: '911674410'
 pages: 107
-edition: 1a ed., 1a reimp
+place: México
+publishers:
+- Trillas
 series:
 - Mensajes idiomaticos
 subjects:
+- Essay
 - Grammar & Linguistics
-- Literary Criticism
-oclc: '911674410'
-exlibris: '1992'
+title: ¡Mejore su redacción!
+year: 1992
 zotero_key: YBXJANQ8
-cover: covers/ybxjanq8.jpg
 ---
 

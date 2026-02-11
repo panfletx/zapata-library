@@ -1,25 +1,26 @@
 ---
-title: Un garçon près de la riviere
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Vidal, Gore
-publishers:
-- Persona
-place: Paris
-languages:
-- Français
+cover: covers/nqq6jn53.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
-source_url: http://catalogue.bnf.fr/ark:/12148/cb347393791
-pages: 203
-series: []
-subjects:
-- French Literature
+languages:
+- Français
 oclc: '405587717'
+pages: 203
+place: Paris
+publishers:
+- Persona
+series: []
+source_url: http://catalogue.bnf.fr/ark:/12148/cb347393791
+subjects:
+- American Literature
+- Fiction
+title: Un garçon près de la riviere
+year: 1981
 zotero_key: NQQ6JN53
-cover: covers/nqq6jn53.jpg
 ---
 
 Analyse : Roman d'amour

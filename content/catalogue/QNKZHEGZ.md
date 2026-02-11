@@ -1,30 +1,29 @@
 ---
-title: Cartas a mi madre
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Plath, Sylvia
 - Plath, Aurelia Schober
-publishers:
-- Grijalbo
-place: México, D.F.
-languages:
-- English
+cover: covers/qnkzhegz.jpg
+cover_note: José Joaquín Blanco
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-419-861-6
 item_types:
 - book
-isbn: 978-968-419-861-6
+languages:
+- English
+oclc: '22439364'
 pages: 403
+place: México, D.F.
+publishers:
+- Grijalbo
 series:
 - Espejo de tinta
 subjects:
-- Correspondence
-- Literary Criticism
-- Poetry
-- United States
-oclc: '22439364'
-cover_note: José Joaquín Blanco
+- American Literature
+- Autobiography & Memoir
+- Diary & Letters
+title: Cartas a mi madre
+year: 1989
 zotero_key: QNKZHEGZ
-cover: covers/qnkzhegz.jpg
 ---
 

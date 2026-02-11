@@ -1,24 +1,25 @@
 ---
-title: Ora pro nobis
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Aguiar, Flávio
-publishers:
-- Editora Atica
-place: São Paulo
-languages:
-- Português
+cover: covers/q9tqldbb.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Português
+oclc: '3807331'
 pages: 79
+place: São Paulo
+publishers:
+- Editora Atica
 series:
 - Coleção de autores brasileiros
 subjects:
+- Brazilian Literature
 - Fiction
-oclc: '3807331'
+title: Ora pro nobis
+year: 1977
 zotero_key: Q9TQLDBB
-cover: covers/q9tqldbb.jpg
 ---
 

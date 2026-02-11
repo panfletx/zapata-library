@@ -1,32 +1,29 @@
 ---
-title: Morfología del cuento ; seguida de Las transformaciones de los cuentos maravillosos
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Propp, Vladimir Iakovlevich
 - Meletinskiï, E. M.
 - Ortiz, Lourdes
-publishers:
-- Fundamentos
-place: Madrid
-languages:
-- Español
+cover: covers/qa3pn3y2.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3.ª ed
+isbn: 978-84-245-0004-7
 item_types:
 - book
-isbn: 978-84-245-0004-7
+languages:
+- Español
+oclc: '1024470759'
 pages: 234
-edition: 3.ª ed
+place: Madrid
+publishers:
+- Fundamentos
 series:
 - Colección Arte (Editorial Fundamentos)
 subjects:
-- Education
 - Literary Criticism
-- Modern History
-- Philosophy
-- Short Stories
-oclc: '1024470759'
+- Oral Tradition & Folklore
+title: Morfología del cuento ; seguida de Las transformaciones de los cuentos maravillosos
+year: 1977
 zotero_key: QA3PN3Y2
-cover: covers/qa3pn3y2.jpg
 ---
 

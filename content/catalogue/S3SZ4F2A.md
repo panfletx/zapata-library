@@ -1,27 +1,28 @@
 ---
-title: 'Carsick: de Baltimore a San Francisco con el pontífice del trash'
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Waters, John
 - Battistón, Matias
-publishers:
-- Caja Negra
-place: Buenos Aires
-languages:
-- Español
+cover: covers/s3sz4f2a.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-987-1622-32-0
 item_types:
 - book
-isbn: 978-987-1622-32-0
+languages:
+- Español
+oclc: '1310158412'
 pages: 320
+place: Buenos Aires
+publishers:
+- Caja Negra
 series:
 - Synesthesia (Caja Negra)
 subjects:
-- Film & Cinema
-- Literary Criticism
-oclc: '1310158412'
+- Autobiography & Memoir
+- Travel Writing
+- United States
+title: 'Carsick: de Baltimore a San Francisco con el pontífice del trash'
+year: 2014
 zotero_key: S3SZ4F2A
-cover: covers/s3sz4f2a.jpg
 ---
 

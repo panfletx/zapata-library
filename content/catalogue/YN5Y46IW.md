@@ -1,25 +1,26 @@
 ---
-title: Figuras en el trópico, plástica mexicana, 1920-1940
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Debroise, Olivier
-publishers:
-- Océano
-place: Barcelona, España
-languages:
-- Español
+cover: covers/yn5y46iw.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7069-285-7
 item_types:
 - book
-isbn: 978-84-7069-285-7
+languages:
+- Español
+oclc: '11227698'
 pages: 215
+place: Barcelona, España
+publishers:
+- Océano
 series: []
 subjects:
-- Mexico
+- Mexican Literature
 - Painting
-oclc: '11227698'
+- Visual Art
+title: Figuras en el trópico, plástica mexicana, 1920-1940
+year: 1984
 zotero_key: YN5Y46IW
-cover: covers/yn5y46iw.jpg
 ---
 

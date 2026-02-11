@@ -1,32 +1,29 @@
 ---
-title: Vistas de las Cordilleras y monumentos de los pueblos indígenas de América
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Humboldt, Alexander de
 - Silva-Herzog, Jesús.
 - Wolfgang, Paul
 - Wionczek, Miguel S.
 - Labastida, Jaime
-publishers:
-- SHCP
-place: México
-languages:
-- Español
+cover: covers/yc2zn9k7.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '39480514'
 pages: 373
+place: México
+publishers:
+- SHCP
 series: []
 subjects:
-- Ancient History
-- Latin America
+- Indigenous Peoples
 - Mexico
-- Peru
 - Travel Writing
-- United States
-oclc: '39480514'
+title: Vistas de las Cordilleras y monumentos de los pueblos indígenas de América
+year: 1974
 zotero_key: YC2ZN9K7
-cover: covers/yc2zn9k7.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Black Mischief
-date: '2024-09-01'
-year: 1954
-decade: 1950s
 authors:
 - Waugh, Evelyn
-publishers:
-- Penguin Books
-place: London
-languages:
-- English
+cover: covers/ja8pvlkl.jpg
+date: '2024-09-01'
+decade: 1950s
+exlibris: '1991'
 item_types:
 - book
+languages:
+- English
+oclc: '42628850'
 pages: 221
+place: London
+publishers:
+- Penguin Books
 series: []
 subjects:
-- Fiction
-oclc: '42628850'
-exlibris: '1991'
+- English Literature
+- Novel
+- Satire & Humor
+title: Black Mischief
+year: 1954
 zotero_key: JA8PVLKL
-cover: covers/ja8pvlkl.jpg
 ---
 

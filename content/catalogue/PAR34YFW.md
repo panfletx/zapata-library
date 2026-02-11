@@ -1,25 +1,25 @@
 ---
-title: 'The memorial: portrait of a family'
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Isherwood, Christopher
 - Bachardy, Don
-publishers:
-- Avon
-place: New York
-languages:
-- English
+cover: covers/par34yfw.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- English
+oclc: '27357190'
 pages: 1
+place: New York
+publishers:
+- Avon
 series: []
 subjects:
-- Gay Literature
-- Visual Art
-oclc: '27357190'
+- American Literature
+- Autobiography & Memoir
+title: 'The memorial: portrait of a family'
+year: 1977
 zotero_key: PAR34YFW
-cover: covers/par34yfw.jpg
 ---
 

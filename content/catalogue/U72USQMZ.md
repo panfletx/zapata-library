@@ -1,26 +1,28 @@
 ---
-title: Noches florentinas ; Memorias del señor de Schnabelewopski
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Heine, Heinrich (
 - Bravo-Villasante, Carmen (
-publishers:
-- Salvat
-place: Pamplona
-languages:
-- Español
+cover: covers/u72usqmz.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: Luis Zapata
 item_types:
 - book
+languages:
+- Español
+oclc: '920066370'
 pages: 151
+place: Pamplona
+publishers:
+- Salvat
 series:
 - Biblioteca básica Salvat
 subjects:
 - Fiction
-oclc: '920066370'
-exlibris: Luis Zapata
+- German Literature
+- Memory
+title: Noches florentinas ; Memorias del señor de Schnabelewopski
+year: 1971
 zotero_key: U72USQMZ
-cover: covers/u72usqmz.jpg
 ---
 

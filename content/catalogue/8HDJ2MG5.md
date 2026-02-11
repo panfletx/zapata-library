@@ -1,27 +1,23 @@
 ---
-title: 'Revista, Signos lingüísticos: revista semestral'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors: []
-publishers:
-- UAM-Iztapalapa, División de Ciencias Sociales y Humanidades
-place: México, D.F.
-languages:
-- Español
+cover: covers/8hdj2mg5.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages:
+- Español
+oclc: '62770970'
+place: México, D.F.
+publishers:
+- UAM-Iztapalapa, División de Ciencias Sociales y Humanidades
 series: []
 subjects:
-- American Literature
 - Grammar & Linguistics
-- Literary Criticism
-- Modern History
 - Spanish Literature
-- United States
-oclc: '62770970'
-cover_note: dedicatoria
+title: 'Revista, Signos lingüísticos: revista semestral'
+year: 2002
 zotero_key: 8HDJ2MG5
-cover: covers/8hdj2mg5.jpg
 ---
 

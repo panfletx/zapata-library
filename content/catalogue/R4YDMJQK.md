@@ -1,25 +1,26 @@
 ---
-title: Viaje sentimental por Francia e Italia
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Sterne, Laurence
 - Cardona Castro, Francisco Luis
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/r4ydmjqk.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '432867467'
 pages: 224
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro Clasico
 subjects:
-- Fiction
-oclc: '432867467'
+- English Literature
+- Travel Writing
+title: Viaje sentimental por Francia e Italia
+year: 1967
 zotero_key: R4YDMJQK
-cover: covers/r4ydmjqk.jpg
 ---
 

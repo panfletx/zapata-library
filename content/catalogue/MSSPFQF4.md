@@ -1,28 +1,26 @@
 ---
-title: 'La abispa de Chilpancingo: Carlos María de Bustamante'
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors: []
-publishers:
-- Partido Revolucionario Institucional, Comité Ejecutivo Nacional
-place: México
-languages:
-- Español
+cover: covers/msspfqf4.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '906926474'
 pages: 498
+place: México
+publishers:
+- Partido Revolucionario Institucional, Comité Ejecutivo Nacional
 series:
 - Periodismo insurgente
 subjects:
-- Latin American Politics
+- Biography
+- Mexican Literature
 - Mexican Revolution
-- Mexico
-- Modern History
-- War & Conflict
-oclc: '906926474'
-cover_note: dedicatoria
+title: 'La abispa de Chilpancingo: Carlos María de Bustamante'
+year: 1976
 zotero_key: MSSPFQF4
-cover: covers/msspfqf4.jpg
 ---
 

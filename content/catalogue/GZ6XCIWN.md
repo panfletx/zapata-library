@@ -1,17 +1,17 @@
 ---
-title: Revista, Estudios cinematográficos 16
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/gz6xciwn.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+title: Revista, Estudios cinematográficos 16
+year: 1999
 zotero_key: GZ6XCIWN
-cover: covers/gz6xciwn.jpg
 ---
 

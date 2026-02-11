@@ -1,28 +1,28 @@
 ---
-title: Breve historia de la crítica literaria
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Hall, Vernon
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/zx58kiiw.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: Arturo 1993
+isbn: 978-968-16-0968-9
 item_types:
 - book
-isbn: 978-968-16-0968-9
+languages:
+- Español
+oclc: '14511573'
 pages: 313
-edition: 1a ed
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
 - Literary Criticism
-- Modern History
-oclc: '14511573'
-exlibris: Arturo 1993
+- Literary History
+title: Breve historia de la crítica literaria
+year: 1982
 zotero_key: ZX58KIIW
-cover: covers/zx58kiiw.jpg
 ---
 

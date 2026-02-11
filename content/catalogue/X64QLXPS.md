@@ -1,26 +1,27 @@
 ---
-title: La odisea
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Homer
 - Segalá y Estalella, Luis
-publishers:
-- Editorial Porrua
-place: México
-languages:
-- Español
+cover: covers/x64qlxps.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 6. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '5141992'
 pages: 254
-edition: 6. ed
+place: México
+publishers:
+- Editorial Porrua
 series:
 - Colección "Sepan cuantos"
 subjects:
-- Fiction
-oclc: '5141992'
+- Classical Literature
+- Epic
+title: La odisea
+year: 1967
 zotero_key: X64QLXPS
-cover: covers/x64qlxps.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Jorge Luis Borges obras completas 1975-1985
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Borges, Jorge Luis
-publishers:
-- Emece Mexicana
-place: México
-languages:
-- Español
+cover: covers/kty63dt5.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-7152-48-6
 item_types:
 - book
-isbn: 978-968-7152-48-6
+languages:
+- Español
+oclc: '49706810'
 pages: 22
+place: México
+publishers:
+- Emece Mexicana
 series: []
 subjects:
-- Fiction
-oclc: '49706810'
+- Argentine Literature
+- Jorge Luis Borges
+- Poetry
+title: Jorge Luis Borges obras completas 1975-1985
+year: 1989
 zotero_key: KTY63DT5
-cover: covers/kty63dt5.jpg
 ---
 

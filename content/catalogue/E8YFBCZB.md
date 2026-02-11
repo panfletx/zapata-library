@@ -1,26 +1,26 @@
 ---
-title: Sylvie
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - De Nerval, Gerald
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/e8yfbczb.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-80-1
 item_types:
 - book
-isbn: 978-968-9364-80-1
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- French Literature
+- Novella
+title: Sylvie
+year: 2008
 zotero_key: E8YFBCZB
-cover: covers/e8yfbczb.jpg
 ---
 

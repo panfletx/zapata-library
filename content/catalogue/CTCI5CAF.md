@@ -1,27 +1,28 @@
 ---
-title: De un castillo a otro
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Céline, Louis-Ferdinand
 - Kurtz, Carmen
-publishers:
-- Editorial Brugera
-place: Barcelona, España
-languages:
-- Español
+cover: covers/ctci5caf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a edición
+isbn: 978-84-02-08149-0
 item_types:
 - book
-isbn: 978-84-02-08149-0
+languages:
+- Español
+oclc: '907449266'
 pages: 378
-edition: 1a edición
+place: Barcelona, España
+publishers:
+- Editorial Brugera
 series:
 - Club Bruguera
 subjects:
 - Fiction
-oclc: '907449266'
+- French Literature
+title: De un castillo a otro
+year: 1981
 zotero_key: CTCI5CAF
-cover: covers/ctci5caf.jpg
 ---
 

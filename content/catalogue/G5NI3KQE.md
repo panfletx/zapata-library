@@ -1,24 +1,24 @@
 ---
-title: Alas
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Kuzmín, Mijaíl
-publishers:
-- Quimera
-place: México
-languages:
-- Español
+cover: covers/g5ni3kqe.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1st
+isbn: 978-607-7742-72-2
 item_types:
 - book
-isbn: 978-607-7742-72-2
-edition: 1st
+languages:
+- Español
+place: México
+publishers:
+- Quimera
 series: []
 subjects:
 - Fiction
-- Mexican Literature
+- Russian Literature
+title: Alas
+year: 2012
 zotero_key: G5NI3KQE
-cover: covers/g5ni3kqe.jpg
 ---
 

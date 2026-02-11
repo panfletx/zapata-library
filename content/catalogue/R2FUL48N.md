@@ -1,24 +1,25 @@
 ---
-title: Der spanische Rosenstock
-date: '2024-09-01'
-year: 1951
-decade: 1950s
 authors:
 - Bergengruen, Werner
-publishers:
-- R. Wunderlich
-place: Tübingen
-languages:
-- Deutsch
+cover: covers/r2ful48n.jpg
+date: '2024-09-01'
+decade: 1950s
+edition: '[18. Aufl.]'
 item_types:
 - book
+languages:
+- Deutsch
+oclc: '39636028'
 pages: 70
-edition: '[18. Aufl.]'
+place: Tübingen
+publishers:
+- R. Wunderlich
 series: []
 subjects:
 - German Literature
-oclc: '39636028'
+- Novel
+title: Der spanische Rosenstock
+year: 1951
 zotero_key: R2FUL48N
-cover: covers/r2ful48n.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: 3 by Flannery O'Connor
-date: '2024-09-01'
-year: 1962
-decade: 1960s
 authors:
 - O'Connor, Flannery
-publishers:
-- New American Library
-place: New York
-languages:
-- English
+cover: covers/3r2yqxi9.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: New complete and unabridged in one volume
 item_types:
 - book
+languages:
+- English
+oclc: '316212895'
 pages: 445
-edition: New complete and unabridged in one volume
+place: New York
+publishers:
+- New American Library
 series: []
 subjects:
-- Fiction
+- American Literature
 - Short Stories
 - United States
-oclc: '316212895'
+title: 3 by Flannery O'Connor
+year: 1962
 zotero_key: 3R2YQXI9
-cover: covers/3r2yqxi9.jpg
 ---
 

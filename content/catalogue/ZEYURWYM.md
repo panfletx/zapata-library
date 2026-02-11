@@ -1,27 +1,28 @@
 ---
-title: La sangre erguida
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Serna, Enrique
-publishers:
-- Seix Barral
-place: México, D.F
-languages:
-- Español
+cover: covers/zeyurwym.jpg
+cover_note: dedicatoria de Enrique
+date: '2024-09-01'
+decade: 2010s
+exlibris: José Dimayuga
+isbn: 978-607-07-0418-5
 item_types:
 - book
-isbn: 978-607-07-0418-5
+languages:
+- Español
+oclc: '838488577'
 pages: 326
+place: México, D.F
+publishers:
+- Seix Barral
 series: []
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '838488577'
-cover_note: dedicatoria de Enrique
-exlibris: José Dimayuga
+- Mexico City
+- Novel
+title: La sangre erguida
+year: 2010
 zotero_key: ZEYURWYM
-cover: covers/zeyurwym.jpg
 ---
 

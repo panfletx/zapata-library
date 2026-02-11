@@ -1,27 +1,28 @@
 ---
-title: El alienista
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Assis, Joaquim Maria Machado de
 - Martins y Casillas
-publishers:
-- Tusquets
-place: Barcelona
-languages:
-- Español
+cover: covers/jmccduig.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-7223-040-8
 item_types:
 - book
-isbn: 978-84-7223-040-8
+languages:
+- Español
+oclc: '489785525'
 pages: 82
+place: Barcelona
+publishers:
+- Tusquets
 series:
 - Cuadernos marginales
 subjects:
+- Brazilian Literature
 - Fiction
-- Mexican Literature
-oclc: '489785525'
+- Novel
+title: El alienista
+year: 1974
 zotero_key: JMCCDUIG
-cover: covers/jmccduig.jpg
 ---
 

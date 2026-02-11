@@ -1,28 +1,28 @@
 ---
-title: 'Constancia: y otras novelas para vírgenes'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Fuentes, Carlos
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/qesul6ni.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed. para México y Latinoamérica
+isbn: 978-968-16-3368-4
 item_types:
 - book
-isbn: 978-968-16-3368-4
+languages:
+- Español
+oclc: '22199439'
 pages: 380
-edition: 1. ed. para México y Latinoamérica
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Fiction
-- Mexico
-- Short Stories
-oclc: '22199439'
+- Carlos Fuentes
+- Mexican Literature
+- Novella
+title: 'Constancia: y otras novelas para vírgenes'
+year: 1990
 zotero_key: QESUL6NI
-cover: covers/qesul6ni.jpg
 ---
 

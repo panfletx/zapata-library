@@ -1,27 +1,26 @@
 ---
-title: Pour une théorie de la production littéraire
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Macherey, Pierre
-publishers:
-- F. Maspero
-place: Paris
-languages:
-- Français
+cover: covers/lpzh2rjl.jpg
+date: '2024-09-01'
+decade: 1960s
+isbn: 978-2-7071-0137-2
 item_types:
 - book
-isbn: 978-2-7071-0137-2
+languages:
+- Français
+oclc: '5014343'
 pages: 333
+place: Paris
+publishers:
+- F. Maspero
 series:
 - Théorie
 subjects:
-- Economics
+- French Literature
 - Literary Criticism
-- Philosophy
-oclc: '5014343'
+title: Pour une théorie de la production littéraire
+year: 1966
 zotero_key: LPZH2RJL
-cover: covers/lpzh2rjl.jpg
 ---
 

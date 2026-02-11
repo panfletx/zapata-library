@@ -1,26 +1,27 @@
 ---
-title: El villorio
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Faulkner, William
-publishers:
-- Luis de Caralt
-place: Barcelona
-languages:
-- Español
+cover: covers/l6wp3v9m.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a ed
+isbn: 978-84-217-4258-7
 item_types:
 - book
-isbn: 978-84-217-4258-7
+languages:
+- Español
+oclc: '12985074'
 pages: 328
-edition: 1a ed
+place: Barcelona
+publishers:
+- Luis de Caralt
 series:
 - 'Biblioteca universal Caralt : serie novela'
 subjects:
-- Fiction
-oclc: '12985074'
+- American Literature
+- Novel
+title: El villorio
+year: 1978
 zotero_key: L6WP3V9M
-cover: covers/l6wp3v9m.jpg
 ---
 

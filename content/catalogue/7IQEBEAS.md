@@ -1,30 +1,28 @@
 ---
-title: Los premios
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Cortázar, Julio
-publishers:
-- Aguilar, Altea, Taurus, Alfaguara
-place: México, D.F.
-languages:
-- Español
+cover: covers/7iqebeas.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed. en Mexico
+isbn: 978-968-19-0244-5
 item_types:
 - book
-isbn: 978-968-19-0244-5
+languages:
+- Español
+oclc: '33470728'
 pages: 470
-edition: 1a. ed. en Mexico
+place: México, D.F.
+publishers:
+- Aguilar, Altea, Taurus, Alfaguara
 series:
 - Alfaguara literaturas
 subjects:
-- Argentina
-- Fiction
-- Medicine & Health
-- Short Stories
-- Travel Writing
-oclc: '33470728'
+- Julio Cortázar
+- Latin American Literature
+- Novel
+title: Los premios
+year: 1995
 zotero_key: 7IQEBEAS
-cover: covers/7iqebeas.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: Viaje a la obscuridad
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Rhys, Jean
-publishers:
-- Editorial Grijalbo
-place: Mexico D.F.
-languages:
-- Español
+cover: covers/zpeupfkq.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1991'
+isbn: 978-970-05-0103-1
 item_types:
 - book
-isbn: 978-970-05-0103-1
+languages:
+- Español
+oclc: '24422147'
 pages: 223
+place: Mexico D.F.
+publishers:
+- Editorial Grijalbo
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '24422147'
-exlibris: '1991'
+- English Literature
+- Novel
+title: Viaje a la obscuridad
+year: 1990
 zotero_key: ZPEUPFKQ
-cover: covers/zpeupfkq.jpg
 ---
 

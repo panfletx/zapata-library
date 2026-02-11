@@ -1,21 +1,23 @@
 ---
-title: Santa
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Gamboa, Federico
-publishers:
-- Aguilar
-place: Mexico
-languages: []
+cover: covers/dull7nsi.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1976'
 item_types:
 - book
+languages: []
+place: Mexico
+publishers:
+- Aguilar
 series: []
 subjects:
 - Fiction
-exlibris: '1976'
+- Mexican Literature
+- Urban Life
+title: Santa
+year: 1976
 zotero_key: DULL7NSI
-cover: covers/dull7nsi.jpg
 ---
 

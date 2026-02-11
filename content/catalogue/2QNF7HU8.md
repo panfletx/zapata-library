@@ -1,24 +1,26 @@
 ---
-title: Suave patria y otros poemas
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - López Verlarde, Rambon
-publishers:
-- Editorial Nueva Nicaragua de Managua
-place: Nicaragua
-languages:
-- Español
+cover: covers/2qnf7hu8.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-16-1526-0
 item_types:
 - book
-isbn: 978-968-16-1526-0
+languages:
+- Español
+oclc: '1080842836'
 pages: 110
+place: Nicaragua
+publishers:
+- Editorial Nueva Nicaragua de Managua
 series: []
 subjects:
-- Fiction
-oclc: '1080842836'
+- Love & Desire
+- Mexican Literature
+- Poetry
+title: Suave patria y otros poemas
+year: 1983
 zotero_key: 2QNF7HU8
-cover: covers/2qnf7hu8.jpg
 ---
 

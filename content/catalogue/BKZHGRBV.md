@@ -1,30 +1,28 @@
 ---
-title: Tachas y otros cuentos
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Hernández, Efrén
-publishers:
-- Fondo de Cultura Económica
-place: México, D.F.
-languages:
-- Español
+cover: covers/bkzhgrbv.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición electrónica
+isbn: 978-607-16-0660-0
 item_types:
 - book
-isbn: 978-607-16-0660-0
-source_url: http://www.digitaliapublishing.com/a/43018/
+languages:
+- Español
+oclc: '1001307691'
 pages: 1
-edition: Primera edición electrónica
+place: México, D.F.
+publishers:
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
+source_url: http://www.digitaliapublishing.com/a/43018/
 subjects:
-- Fiction
 - Mexican Literature
-- Mexico
 - Short Stories
-oclc: '1001307691'
+title: Tachas y otros cuentos
+year: 2010
 zotero_key: BKZHGRBV
-cover: covers/bkzhgrbv.jpg
 ---
 

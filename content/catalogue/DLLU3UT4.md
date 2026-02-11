@@ -1,16 +1,18 @@
 ---
-title: 'Storia della letteratura italiana: Le origini e la Scuola siciliana'
-date: '2024-09-01'
 authors: []
-publishers:
-- Fratelli Fabbri Editori
-languages: []
+cover: covers/dllu3ut4.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers:
+- Fratelli Fabbri Editori
 series: []
 subjects:
-- Fiction
+- Italian Literature
+- Literary History
+- Medieval Literature
+title: 'Storia della letteratura italiana: Le origini e la Scuola siciliana'
 zotero_key: DLLU3UT4
-cover: covers/dllu3ut4.jpg
 ---
 

@@ -1,27 +1,29 @@
 ---
-title: Hombres sin mujer
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Montenegro, Carlos
 - Zapata, Luis
-publishers:
-- Lectorum ; L.D. Books
-place: México, D.F., Miami
-languages:
-- Español
+cover: covers/5f8wlhxb.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-732-280-6
 item_types:
 - book
-isbn: 978-970-732-280-6
+languages:
+- Español
+oclc: '630501183'
 pages: 298
-edition: 1. ed
+place: México, D.F., Miami
+publishers:
+- Lectorum ; L.D. Books
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
 subjects:
-- Fiction
-oclc: '630501183'
+- Luis Zapata
+- Mexican Literature
+- Novel
+title: Hombres sin mujer
+year: 2008
 zotero_key: 5F8WLHXB
-cover: covers/5f8wlhxb.jpg
 ---
 

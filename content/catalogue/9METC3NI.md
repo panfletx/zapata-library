@@ -1,25 +1,27 @@
 ---
-title: Combatiendo los miedos
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - De Mello, Anthony
-publishers:
-- Lumen
-place: Buenos Aires, Ag.
-languages:
-- Español
+cover: covers/9metc3ni.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-950-724-447-6
 item_types:
 - book
-isbn: 978-950-724-447-6
+languages:
+- Español
+oclc: '906853621'
 pages: 39
+place: Buenos Aires, Ag.
+publishers:
+- Lumen
 series:
 - Colección minilibros de autoayuda
 subjects:
-- Psychoanalysis
-oclc: '906853621'
+- Essay
+- Philosophy
+- Religion
+title: Combatiendo los miedos
+year: 1995
 zotero_key: 9METC3NI
-cover: covers/9metc3ni.jpg
 ---
 

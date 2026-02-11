@@ -1,29 +1,27 @@
 ---
-title: 'Sherlock Holmes: el ultimo saludo de Sherlock Holmes: el signo de los cuatro ; El valle del terror'
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Doyle, Arthur Conan
-publishers:
-- Óptima
-place: Barcelona
-languages:
-- Español
+cover: covers/5pay69qk.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 3. ed
+isbn: 978-84-89693-81-4
 item_types:
 - book
-isbn: 978-84-89693-81-4
+languages:
+- Español
+oclc: '48537845'
 pages: 485
-edition: 3. ed
+place: Barcelona
+publishers:
+- Óptima
 series: []
 subjects:
 - Detective & Mystery
-- Fiction
+- English Literature
 - Sherlock Holmes
-- Short Stories
-- United Kingdom
-oclc: '48537845'
+title: 'Sherlock Holmes: el ultimo saludo de Sherlock Holmes: el signo de los cuatro ; El valle del terror'
+year: 2000
 zotero_key: 5PAY69QK
-cover: covers/5pay69qk.jpg
 ---
 

@@ -1,25 +1,27 @@
 ---
-title: El Louvre
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Gallet, Michel
-publishers:
-- Fernand Hazan et Vilo
-place: Paris
-languages:
-- Español
+cover: covers/g4s68kpd.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1973'
 item_types:
 - book
+languages:
+- Español
+oclc: '55321676'
 pages: 79
+place: Paris
+publishers:
+- Fernand Hazan et Vilo
 series:
 - Colección Vila
 subjects:
+- France
 - Museums & Collections
-oclc: '55321676'
-exlibris: '1973'
+- Visual Art
+title: El Louvre
+year: 1966
 zotero_key: G4S68KPD
-cover: covers/g4s68kpd.jpg
 ---
 

@@ -1,25 +1,26 @@
 ---
-title: Poèmes
-date: '2024-09-01'
-year: 1948
-decade: 1940s
 authors:
 - Genet, Jean
-publishers:
-- Arbalète de Barbezat
-place: Lieu de publication non identifié
-languages:
-- Français
+cover: covers/lucy4dxd.jpg
+date: '2024-09-01'
+decade: 1940s
+edition: Tiré à 1000 exemplaires
 item_types:
 - book
-source_url: http://catalogue.bnf.fr/ark:/12148/cb352845728
+languages:
+- Français
+oclc: '406450923'
 pages: 107
-edition: Tiré à 1000 exemplaires
+place: Lieu de publication non identifié
+publishers:
+- Arbalète de Barbezat
 series: []
+source_url: http://catalogue.bnf.fr/ark:/12148/cb352845728
 subjects:
 - French Literature
-oclc: '406450923'
+- Poetry
+title: Poèmes
+year: 1948
 zotero_key: LUCY4DXD
-cover: covers/lucy4dxd.jpg
 ---
 

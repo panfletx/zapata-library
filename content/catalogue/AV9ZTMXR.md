@@ -1,28 +1,27 @@
 ---
-title: Santa Anna
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Fowler, Will
 - Rubio Ruiz, Ricardo Martín
-publishers:
-- Universidad Veracruzana
-place: Xalapa, Veracruz
-languages:
-- Español
+cover: covers/av9ztmxr.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-502-001-3
 item_types:
 - book
-isbn: 978-607-502-001-3
+languages:
+- Español
+oclc: '1097211058'
 pages: 550
+place: Xalapa, Veracruz
+publishers:
+- Universidad Veracruzana
 series: []
 subjects:
 - Biography
 - Mexican Revolution
 - Mexico
-- Modern History
-oclc: '1097211058'
+title: Santa Anna
+year: 2010
 zotero_key: AV9ZTMXR
-cover: covers/av9ztmxr.jpg
 ---
 

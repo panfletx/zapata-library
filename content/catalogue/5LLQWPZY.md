@@ -1,27 +1,27 @@
 ---
-title: Lusitania
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Faria, Almeida
-publishers:
-- Ediciones Alfaguara
-place: Madrid
-languages:
-- Español
+cover: covers/5llqwpzy.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1994'
+isbn: 978-84-204-8032-9
 item_types:
 - book
-isbn: 978-84-204-8032-9
+languages:
+- Español
+oclc: '17367373'
 pages: 140
+place: Madrid
+publishers:
+- Ediciones Alfaguara
 series:
 - Nueva ficción
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '17367373'
-exlibris: '1994'
+- Novel
+- Portugal
+title: Lusitania
+year: 1985
 zotero_key: 5LLQWPZY
-cover: covers/5llqwpzy.jpg
 ---
 

@@ -1,25 +1,27 @@
 ---
-title: Alguien que anda por ahí y otros relatos
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Cortázar, Julio
-publishers:
-- Ediciones B
-place: Barcelona
-languages:
-- Español
+cover: covers/8g86pjdt.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-406-0247-3
 item_types:
 - book
-isbn: 978-84-406-0247-3
+languages:
+- Español
+oclc: '22533306'
 pages: 178
+place: Barcelona
+publishers:
+- Ediciones B
 series:
 - Libro amigo
 subjects:
-- Fiction
-oclc: '22533306'
+- Julio Cortázar
+- Latin American Literature
+- Short Stories
+title: Alguien que anda por ahí y otros relatos
+year: 1988
 zotero_key: 8G86PJDT
-cover: covers/8g86pjdt.jpg
 ---
 

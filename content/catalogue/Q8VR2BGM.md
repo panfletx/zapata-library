@@ -1,30 +1,27 @@
 ---
-title: El ombligo como centro erótico
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Tibón, Gutierre
-publishers:
-- 'Secretaria de Educación Pública, Cultura SEP : Fondo de Cultura Económica'
-place: México, D.F.
-languages:
-- Español
+cover: covers/q8vr2bgm.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed. en Lecturas mexicanas
+isbn: 978-968-16-1266-5
 item_types:
 - book
-isbn: 978-968-16-1266-5
+languages:
+- Español
+oclc: '13548877'
 pages: 133
-edition: 1a ed. en Lecturas mexicanas
+place: México, D.F.
+publishers:
+- 'Secretaria de Educación Pública, Cultura SEP : Fondo de Cultura Económica'
 series:
 - Lecturas mexicanas
 subjects:
-- Feminism
-- Modern History
-- Oral Tradition & Folklore
-- Philosophy
-- Religion
-oclc: '13548877'
+- Essay
+- Sexuality & Eroticism
+title: El ombligo como centro erótico
+year: 1984
 zotero_key: Q8VR2BGM
-cover: covers/q8vr2bgm.jpg
 ---
 

@@ -1,27 +1,26 @@
 ---
-title: Recuerdos de provincia
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Sarmiento, Domingo Faustino
-publishers:
-- Salvat Editores
-place: Madrid
-languages:
-- Español
+cover: covers/gpitgljc.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '3371436'
 pages: 170
+place: Madrid
+publishers:
+- Salvat Editores
 series:
 - Biblioteca básica Salvat
 subjects:
 - Argentina
+- Argentine Literature
 - Autobiography & Memoir
-- Biography
-- Modern History
-oclc: '3371436'
+title: Recuerdos de provincia
+year: 1970
 zotero_key: GPITGLJC
-cover: covers/gpitgljc.jpg
 ---
 

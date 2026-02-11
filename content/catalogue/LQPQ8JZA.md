@@ -1,29 +1,30 @@
 ---
-title: La Dama del Perrito
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Chejov, Anton Pavlovich
 - Zaballa, Julio Hector de, trad
 - Tasin, N, trad
-publishers:
-- Conaculta, Alianza
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/lqpq8jza.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1995'
+isbn: 978-968-39-1185-8
 item_types:
 - book
-isbn: 978-968-39-1185-8
+languages:
+- Español
+oclc: '906714062'
 pages: 64
+place: Mexico, D.F.
+publishers:
+- Conaculta, Alianza
 series:
 - Alianza Cien
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '906714062'
-exlibris: '1995'
+- Russian Literature
+- Short Stories
+- Translation Studies
+title: La Dama del Perrito
+year: 1994
 zotero_key: LQPQ8JZA
-cover: covers/lqpq8jza.jpg
 ---
 

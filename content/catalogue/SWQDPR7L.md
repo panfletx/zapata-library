@@ -1,25 +1,26 @@
 ---
-title: En la tarima
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Conde, Rosina
-publishers:
-- Universidad Autónoma Metropolitana
-place: México, D.F.
-languages:
-- Español
+cover: covers/swqdpr7l.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '15620337'
 pages: 29
+place: México, D.F.
+publishers:
+- Universidad Autónoma Metropolitana
 series:
 - Colección Laberinto
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '15620337'
+- Mexico City
+- Poetry
+title: En la tarima
+year: 1984
 zotero_key: SWQDPR7L
-cover: covers/swqdpr7l.jpg
 ---
 

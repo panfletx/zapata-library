@@ -1,26 +1,25 @@
 ---
-title: Cazadores en la nieve
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Wolff, Tobías
-publishers:
-- Editorial Alfaguara.
-place: Buenos Aires
-languages:
-- Español
+cover: covers/fimd2ipk.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a.ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1255993224'
 pages: 255
-edition: 1a.ed
+place: Buenos Aires
+publishers:
+- Editorial Alfaguara.
 series: []
 subjects:
 - American Literature
-- Literary Criticism
 - Short Stories
-oclc: '1255993224'
+title: Cazadores en la nieve
+year: 1991
 zotero_key: FIMD2IPK
-cover: covers/fimd2ipk.jpg
 ---
 

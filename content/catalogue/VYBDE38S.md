@@ -1,19 +1,21 @@
 ---
-title: Padre rico, padre pobre
-date: '2024-09-01'
-year: 2013
-decade: 2010s
 authors:
 - Kiyosaki, Robert T.
-publishers: []
-languages:
-- Español
+cover: covers/vybde38s.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Economics
+- Essay
+- United States
+title: Padre rico, padre pobre
+year: 2013
 zotero_key: VYBDE38S
-cover: covers/vybde38s.jpg
 ---
 

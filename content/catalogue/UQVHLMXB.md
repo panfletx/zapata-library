@@ -1,27 +1,28 @@
 ---
-title: El miedo a los animales
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors:
 - Serna, Enrique
-publishers:
-- Planeta Mexicana Conaculta
-place: México, D.F
-languages:
-- Español
+cover: covers/uqvhlmxb.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed. en "Narrativa Actual Mexicana."
+isbn: 978-970-690-022-7
 item_types:
 - book
-isbn: 978-970-690-022-7
+languages:
+- Español
+oclc: '433221965'
 pages: 269
-edition: 1a. ed. en "Narrativa Actual Mexicana."
+place: México, D.F
+publishers:
+- Planeta Mexicana Conaculta
 series:
 - Narrativa actual mexicana
 subjects:
-- Fiction
+- Horror & Gothic
 - Mexican Literature
-oclc: '433221965'
+- Novel
+title: El miedo a los animales
+year: 2000
 zotero_key: UQVHLMXB
-cover: covers/uqvhlmxb.jpg
 ---
 

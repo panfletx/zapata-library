@@ -1,30 +1,30 @@
 ---
-title: 'Con los ojos abiertos: conversaciones con Marguerite Yourcenar'
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Yourcenar, Marguerite
 - Galey, Matthieu
 - Berni, Elena
-publishers:
-- Plaza & Janés
-place: Esplugues de Llobregat, Barcelona
-languages:
-- Español
+cover: covers/vmjgidh6.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: '[1a. ed.]'
+exlibris: '1991'
+isbn: 978-84-01-42218-8
 item_types:
 - book
-isbn: 978-84-01-42218-8
+languages:
+- Español
+oclc: '433997172'
 pages: 274
-edition: '[1a. ed.]'
+place: Esplugues de Llobregat, Barcelona
+publishers:
+- Plaza & Janés
 series:
 - Ave Fénix
 subjects:
 - French Literature
 - Interview
-oclc: '433997172'
-exlibris: '1991'
+title: 'Con los ojos abiertos: conversaciones con Marguerite Yourcenar'
+year: 1989
 zotero_key: VMJGIDH6
-cover: covers/vmjgidh6.jpg
 ---
 

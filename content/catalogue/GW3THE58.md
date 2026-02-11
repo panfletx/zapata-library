@@ -1,26 +1,28 @@
 ---
-title: Diccionario de dudas y dificultades de la lengua española
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Seco Reymundo, Manuel
 - Fernández Ramírez, Salvador
-publishers:
-- Espasa Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/gw3the58.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 9a ed. rev. y puesta al día, 8a reimp
+isbn: 978-84-239-6948-7
 item_types:
 - book
-isbn: 978-84-239-6948-7
+languages:
+- Español
+oclc: '851308134'
 pages: 545
-edition: 9a ed. rev. y puesta al día, 8a reimp
+place: Madrid
+publishers:
+- Espasa Calpe
 series: []
 subjects:
 - Dictionary
-oclc: '851308134'
+- Grammar & Linguistics
+- Spanish Literature
+title: Diccionario de dudas y dificultades de la lengua española
+year: 1994
 zotero_key: GW3THE58
-cover: covers/gw3the58.jpg
 ---
 

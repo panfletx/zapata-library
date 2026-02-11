@@ -1,25 +1,26 @@
 ---
-title: Arrieras somos
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Conde, Rosina
-publishers:
-- Dirección de Investigación y Fomento de la Cultura Regional
-place: México
-languages:
-- Español
+cover: covers/uqkfzi9h.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-6608-31-1
 item_types:
 - book
-isbn: 978-968-6608-31-1
+languages:
+- Español
+oclc: '53039453'
 pages: 108
-edition: 1. ed
+place: México
+publishers:
+- Dirección de Investigación y Fomento de la Cultura Regional
 series: []
 subjects:
-- Fiction
-oclc: '53039453'
+- Mexican Literature
+- Poetry
+title: Arrieras somos
+year: 1994
 zotero_key: UQKFZI9H
-cover: covers/uqkfzi9h.jpg
 ---
 

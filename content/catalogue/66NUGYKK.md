@@ -1,29 +1,31 @@
 ---
-title: Guillermo de Inglaterra
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Troyes, Chrétien, de
 - Lemarchand, Marie-José.
 - Baranda, Nieves
 - Chrétien
-publishers:
-- Alianza Editorial
-place: Madrid
-languages:
-- Español
+cover: covers/66nugykk.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2011'
+isbn: 978-84-206-3635-1
 item_types:
 - book
-isbn: 978-84-206-3635-1
+languages:
+- Español
+oclc: '48151953'
 pages: 125
+place: Madrid
+publishers:
+- Alianza Editorial
 series:
 - Romanische Bibliothek
 subjects:
-- Fiction
-oclc: '48151953'
-exlibris: '2011'
+- English Literature
+- King Arthur
+- Medieval Literature
+title: Guillermo de Inglaterra
+year: 1997
 zotero_key: 66NUGYKK
-cover: covers/66nugykk.jpg
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: En la ardiente oscuridad
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Buero Vallejo, Antonio
-publishers:
-- Espasa-Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/cnjvqg2k.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 9a ed
+isbn: 978-84-239-1510-1
 item_types:
 - book
-isbn: 978-84-239-1510-1
+languages:
+- Español
+oclc: '823268515'
 pages: 208
-edition: 9a ed
+place: Madrid
+publishers:
+- Espasa-Calpe
 series:
 - Coleccion Austral
 subjects:
-- Fiction
-oclc: '823268515'
+- Drama
+- Spain
+- Spanish Literature
+title: En la ardiente oscuridad
+year: 1986
 zotero_key: CNJVQG2K
-cover: covers/cnjvqg2k.jpg
 ---
 

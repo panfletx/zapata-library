@@ -1,17 +1,19 @@
 ---
-title: Don quijote de la mancha
-date: '2024-09-01'
 authors:
 - De Cervantes, Miguel
-publishers: []
-languages: []
+cover: covers/5mr28ima.jpg
+date: '2024-09-01'
+exlibris: '2005'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
-exlibris: '2005'
+- Classical Literature
+- Novel
+- Spanish Literature
+title: Don quijote de la mancha
 zotero_key: 5MR28IMA
-cover: covers/5mr28ima.jpg
 ---
 

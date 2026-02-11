@@ -1,15 +1,15 @@
 ---
-title: Revista, saber ver 31
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/fzwzsm3b.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, saber ver 31
 zotero_key: FZWZSM3B
-cover: covers/fzwzsm3b.jpg
 ---
 

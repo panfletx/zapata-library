@@ -1,31 +1,31 @@
 ---
-title: 'Prisma: antología poética de la vanguardia hispanoamericana'
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors:
 - Gutiérrez Vega, Hugo
 - Gutiérrez, León Guillermo
 - Tarrab Rivera, Alejandro
-publishers:
-- Alfaguara
-place: Col. del Valle, México
-languages:
-- Español
+cover: covers/nyxghdvc.jpg
+cover_note: '2011'
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-19-0857-7
 item_types:
 - book
-isbn: 978-968-19-0857-7
+languages:
+- Español
+oclc: '55126294'
 pages: 251
-edition: 1a ed
+place: Col. del Valle, México
+publishers:
+- Alfaguara
 series: []
 subjects:
-- Experimental Literature
-- Latin America
+- Anthology
+- Avant-garde
+- Latin American Literature
 - Poetry
-- United States
-oclc: '55126294'
-cover_note: '2011'
+title: 'Prisma: antología poética de la vanguardia hispanoamericana'
+year: 2003
 zotero_key: NYXGHDVC
-cover: covers/nyxghdvc.jpg
 ---
 

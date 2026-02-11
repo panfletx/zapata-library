@@ -1,26 +1,26 @@
 ---
-title: Un hombre célebre y otros cuentos
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Machado de Assis
-publishers:
-- 'Consejo Nacional para la Cultura y las Artes : Alianza Editorial'
-place: México
-languages:
-- Español
+cover: covers/9xgk3h4d.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1105-6
 item_types:
 - book
-isbn: 978-968-39-1105-6
+languages:
+- Español
+oclc: '50678336'
 pages: 95
+place: México
+publishers:
+- 'Consejo Nacional para la Cultura y las Artes : Alianza Editorial'
 series:
 - Alianza cien
 subjects:
-- Latin American Literature
-- Literary Criticism
-oclc: '50678336'
+- Brazilian Literature
+- Short Stories
+title: Un hombre célebre y otros cuentos
+year: 1994
 zotero_key: 9XGK3H4D
-cover: covers/9xgk3h4d.jpg
 ---
 

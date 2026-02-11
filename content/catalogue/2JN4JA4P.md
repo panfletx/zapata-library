@@ -1,25 +1,27 @@
 ---
-title: 'Triste Fim De Policarpo Quaresma: Romance'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Barreto, Lima
 - Lima, Oliveira
-publishers:
-- Brasiliense
-place: Sao Paulo
-languages:
-- Português
+cover: covers/2jn4ja4p.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 26 ed
 item_types:
 - book
+languages:
+- Português
+oclc: '37130925'
 pages: 1
-edition: 26 ed
+place: Sao Paulo
+publishers:
+- Brasiliense
 series: []
 subjects:
-- Fiction
-oclc: '37130925'
+- Brazilian Literature
+- Novel
+- Satire & Humor
+title: 'Triste Fim De Policarpo Quaresma: Romance'
+year: 1982
 zotero_key: 2JN4JA4P
-cover: covers/2jn4ja4p.jpg
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Revista, El nuevo mal del siglo 2
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/43cynuil.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, El nuevo mal del siglo 2
 zotero_key: 43CYNUIL
-cover: covers/43cynuil.jpg
 ---
 

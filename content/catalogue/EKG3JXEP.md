@@ -1,26 +1,27 @@
 ---
-title: Máximas espirituales
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Gibran, Kahlil
 - Navarro Mateo, Amalia
-publishers:
-- M.E. Editores
-place: Madrid
-languages:
-- Español
+cover: covers/ekg3jxep.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-495-0390-0
 item_types:
 - book
-isbn: 978-84-495-0390-0
+languages:
+- Español
+oclc: '40144795'
+place: Madrid
+publishers:
+- M.E. Editores
 series:
 - Clásicos de siempre
 subjects:
-- Aphorism
-- Poetry
-oclc: '40144795'
+- Chronicle
+- Historical Fiction
+- Mexico
+title: Máximas espirituales
+year: 1997
 zotero_key: EKG3JXEP
-cover: covers/ekg3jxep.jpg
 ---
 

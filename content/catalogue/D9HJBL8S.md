@@ -1,25 +1,26 @@
 ---
-title: 'Los endebles: Las musas huérfanas ; El Camino de los Pasos Peligrosos'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Bouchard, Michel Marc
-publishers:
-- Ediciones El Milagro
-place: Manzanillo, Mexico
-languages:
-- Español
+cover: covers/d9hjbl8s.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-6773-63-7
 item_types:
 - book
-isbn: 978-968-6773-63-7
+languages:
+- Español
+oclc: '51151984'
 pages: 214
-edition: 1a ed
+place: Manzanillo, Mexico
+publishers:
+- Ediciones El Milagro
 series: []
 subjects:
-- Fiction
-oclc: '51151984'
+- Drama
+- French Literature
+title: 'Los endebles: Las musas huérfanas ; El Camino de los Pasos Peligrosos'
+year: 2002
 zotero_key: D9HJBL8S
-cover: covers/d9hjbl8s.jpg
 ---
 

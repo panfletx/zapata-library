@@ -1,29 +1,28 @@
 ---
-title: 'Primero Dios: los escritores mexicanos hablan de sus amores, odios, peleas y reconcilaciones con la divinidad'
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Salinas, Adela
-publishers:
-- Editorial Colibrí
-place: México
-languages:
-- Español
+cover: covers/5dah8emv.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-5062-12-1
 item_types:
 - book
-isbn: 978-968-5062-12-1
+languages:
+- Español
+oclc: '77807885'
 pages: 229
-edition: 1. ed
+place: México
+publishers:
+- Editorial Colibrí
 series:
 - Colección Cantera rosa
 subjects:
 - Interview
-- Literary Criticism
-- Mexico
+- Mexican Literature
 - Religion
-oclc: '77807885'
+title: 'Primero Dios: los escritores mexicanos hablan de sus amores, odios, peleas y reconcilaciones con la divinidad'
+year: 1999
 zotero_key: 5DAH8EMV
-cover: covers/5dah8emv.jpg
 ---
 

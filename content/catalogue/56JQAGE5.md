@@ -1,27 +1,27 @@
 ---
-title: Diccionario enciclopédico de las ciencias del lenguaje
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Ducrot, Oswald
 - Todorov, Tzvetan
-publishers:
-- Siglo Veintiuno
-place: Buenos Aires
-languages:
-- Español
+cover: covers/56jqage5.jpg
+cover_note: Marcela de Aguinaga Quiroz Noviembre Mexico 1979
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '760598184'
 pages: 421
+place: Buenos Aires
+publishers:
+- Siglo Veintiuno
 series:
 - Lingüística
 subjects:
 - Dictionary
 - Grammar & Linguistics
-oclc: '760598184'
-cover_note: Marcela de Aguinaga Quiroz Noviembre Mexico 1979
+title: Diccionario enciclopédico de las ciencias del lenguaje
+year: 1974
 zotero_key: 56JQAGE5
-cover: covers/56jqage5.jpg
 ---
 

@@ -1,26 +1,27 @@
 ---
-title: Dos siglos de cuento mexicano XIX y XX
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Cortés, Jaime Erasto
-publishers:
-- Promexa Editores
-place: México
-languages:
-- Español
+cover: covers/a6thmn8p.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed. en Clásicos de la literatura mexicana
 item_types:
 - book
+languages:
+- Español
+oclc: '6055039'
 pages: 596
-edition: 1. ed. en Clásicos de la literatura mexicana
+place: México
+publishers:
+- Promexa Editores
 series:
 - Clásicos de la literatura mexicana
 subjects:
-- Mexico
+- Literary History
+- Mexican Literature
 - Short Stories
-oclc: '6055039'
+title: Dos siglos de cuento mexicano XIX y XX
+year: 1979
 zotero_key: A6THMN8P
-cover: covers/a6thmn8p.jpg
 ---
 

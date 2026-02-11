@@ -1,20 +1,22 @@
 ---
-title: Poesías completas
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - De León, Fray Luis
-publishers:
-- Aguilar
-place: Mexico
-languages: []
+cover: covers/tyflrd2m.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages: []
+place: Mexico
+publishers:
+- Aguilar
 series: []
 subjects:
-- Fiction
+- Mysticism
+- Poetry
+- Spanish Literature
+title: Poesías completas
+year: 1976
 zotero_key: TYFLRD2M
-cover: covers/tyflrd2m.jpg
 ---
 

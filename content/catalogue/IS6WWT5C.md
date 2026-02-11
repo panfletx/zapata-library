@@ -1,25 +1,26 @@
 ---
-title: 'Casi nada: poemas, 1926-1977'
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Bowles, Paul Frederich
 - Mansour, Mónica
-publishers:
-- 'Editores del Hotel Ambosmundos : Fideicomiso para la Cultura México/USA'
-place: México
-languages:
-- Español
+cover: covers/is6wwt5c.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6737-04-2
 item_types:
 - book
-isbn: 978-968-6737-04-2
+languages:
+- Español
+oclc: '651436647'
 pages: 87
+place: México
+publishers:
+- 'Editores del Hotel Ambosmundos : Fideicomiso para la Cultura México/USA'
 series: []
 subjects:
-- Fiction
-oclc: '651436647'
+- American Literature
+- Poetry
+title: 'Casi nada: poemas, 1926-1977'
+year: 1997
 zotero_key: IS6WWT5C
-cover: covers/is6wwt5c.jpg
 ---
 

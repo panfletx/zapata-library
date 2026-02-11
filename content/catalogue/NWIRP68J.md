@@ -1,29 +1,28 @@
 ---
-title: Cuentos, crónicas y ensayos
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Gutiérrez Nájera, Manuel
 - Maillefert, Alfredo
-publishers:
-- Universidad Nacional Autónoma de México
-place: México
-languages:
-- Español
+cover: covers/nwirp68j.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 3a ed
+isbn: 978-968-36-2019-4
 item_types:
 - book
-isbn: 978-968-36-2019-4
+languages:
+- Español
+oclc: '31119791'
 pages: 160
-edition: 3a ed
+place: México
+publishers:
+- Universidad Nacional Autónoma de México
 series:
 - Biblioteca del estudiante universitario (Universidad Nacional Autónoma de México)
 subjects:
-- Literary Criticism
+- Anthology
 - Mexican Literature
-- Mexico
-oclc: '31119791'
+title: Cuentos, crónicas y ensayos
+year: 1992
 zotero_key: NWIRP68J
-cover: covers/nwirp68j.jpg
 ---
 

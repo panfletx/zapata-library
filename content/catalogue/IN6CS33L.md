@@ -1,25 +1,26 @@
 ---
-title: El ángel azul
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Von Sternberg, Josef
 - Mann, Heinrich
-publishers:
-- Era
-place: México
-languages:
-- Español
+cover: covers/in6cs33l.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '6169182'
 pages: 159
+place: México
+publishers:
+- Era
 series:
 - Cine club era
 subjects:
-- Film & Cinema
-oclc: '6169182'
+- German Literature
+- Screenplay
+title: El ángel azul
+year: 1973
 zotero_key: IN6CS33L
-cover: covers/in6cs33l.jpg
 ---
 

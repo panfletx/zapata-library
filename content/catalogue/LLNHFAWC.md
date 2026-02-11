@@ -1,24 +1,25 @@
 ---
-title: Quién de nosotros
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Benedetti, Mario
-publishers:
-- Editorial Alfa Argentina
-place: Buenos Aires
-languages:
-- Español
+cover: covers/llnhfawc.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 6. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2023081'
 pages: 108
-edition: 6. ed
+place: Buenos Aires
+publishers:
+- Editorial Alfa Argentina
 series: []
 subjects:
-- Fiction
-oclc: '2023081'
+- Novel
+- Uruguay
+title: Quién de nosotros
+year: 1974
 zotero_key: LLNHFAWC
-cover: covers/llnhfawc.jpg
 ---
 

@@ -1,28 +1,29 @@
 ---
-title: Prosa completa
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Borges, Jorge Luis
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/54xxxcuf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+exlibris: '1981'
+isbn: 978-84-02-06746-3
 item_types:
 - book
-isbn: 978-84-02-06746-3
+languages:
+- Español
+oclc: '6870476'
 pages: 2
-edition: 1. ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Narradores de hoy
 subjects:
-- Latin American Literature
-- Short Stories
-oclc: '6870476'
-exlibris: '1981'
+- Argentine Literature
+- Essay
+- Jorge Luis Borges
+title: Prosa completa
+year: 1980
 zotero_key: 54XXXCUF
-cover: covers/54xxxcuf.jpg
 ---
 

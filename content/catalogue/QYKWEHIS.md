@@ -1,23 +1,23 @@
 ---
-title: Historia de la pintura
-date: '2024-09-01'
 authors:
 - Lassaigne, Jacques
-publishers:
-- Asuri
-place: Bilbao [Spain]
-languages:
-- Unknown
+cover: covers/qykwehis.jpg
+date: '2024-09-01'
+isbn: 978-84-330-0431-4
 item_types:
 - book
-isbn: 978-84-330-0431-4
+languages:
+- Unknown
+oclc: '1230339277'
 pages: 4
+place: Bilbao [Spain]
+publishers:
+- Asuri
 series: []
 subjects:
-- Modern History
 - Painting
-oclc: '1230339277'
+- Visual Art
+title: Historia de la pintura
 zotero_key: QYKWEHIS
-cover: covers/qykwehis.jpg
 ---
 

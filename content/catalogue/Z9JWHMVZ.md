@@ -1,25 +1,25 @@
 ---
-title: 'Depresión: cómo identificarla, cómo curarla, cómo superarla'
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Sturgeon, Wina
-publishers:
-- Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/z9jwhmvz.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-419-699-5
 item_types:
 - book
-isbn: 978-968-419-699-5
+languages:
+- Español
+oclc: '18865309'
 pages: 297
+place: México, D.F.
+publishers:
+- Grijalbo
 series:
 - Autoayuda y superación
 subjects:
-- Madness & Mental Illness
-oclc: '18865309'
+- Medicine & Health
+title: 'Depresión: cómo identificarla, cómo curarla, cómo superarla'
+year: 1987
 zotero_key: Z9JWHMVZ
-cover: covers/z9jwhmvz.jpg
 ---
 

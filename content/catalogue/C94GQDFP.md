@@ -1,29 +1,27 @@
 ---
-title: El fantasma de Canterville
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Wilde, Oscar
-publishers:
-- Alianza
-place: Madrid
-languages:
-- Español
+cover: covers/c94gqdfp.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-206-4611-4
 item_types:
 - book
-isbn: 978-84-206-4611-4
+languages:
+- Español
+oclc: '30856983'
 pages: 61
+place: Madrid
+publishers:
+- Alianza
 series:
 - Alianza cien
 subjects:
-- Fiction
+- English Literature
 - Horror & Gothic
-- Modern History
 - Short Stories
-- United Kingdom
-oclc: '30856983'
+title: El fantasma de Canterville
+year: 1993
 zotero_key: C94GQDFP
-cover: covers/c94gqdfp.jpg
 ---
 

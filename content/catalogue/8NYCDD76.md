@@ -1,27 +1,28 @@
 ---
-title: No volverán los trenes
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Acosta, Andrés
-publishers:
-- Consejo Nacional para la Cultura y las Artes
-place: Chimalistac, D.F.
-languages:
-- Español
+cover: covers/8nycdd76.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-970-18-1339-3
 item_types:
 - book
-isbn: 978-970-18-1339-3
+languages:
+- Español
+oclc: '40280937'
 pages: 104
-edition: 1. ed
+place: Chimalistac, D.F.
+publishers:
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fondo editorial tierra adentro
 subjects:
-- Fiction
-oclc: '40280937'
-cover_note: dedicatoria del autor
+- Mexican Literature
+- Poetry
+title: No volverán los trenes
+year: 1998
 zotero_key: 8NYCDD76
-cover: covers/8nycdd76.jpg
 ---
 

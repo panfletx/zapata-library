@@ -1,29 +1,29 @@
 ---
-title: 'Macunaíma: el héroe sin ningún carácter'
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Andrade, Mário de
 - Campos, Haroldo de
 - Olea, Héctor R.
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/bxs3ssyj.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1a. ed
+isbn: 978-84-322-0316-9
 item_types:
 - book
-isbn: 978-84-322-0316-9
+languages:
+- Español
+oclc: '4555739'
 pages: 266
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '4555739'
+- Brazilian Literature
+- Novel
+title: 'Macunaíma: el héroe sin ningún carácter'
+year: 1977
 zotero_key: BXS3SSYJ
-cover: covers/bxs3ssyj.jpg
 ---
 

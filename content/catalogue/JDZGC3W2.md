@@ -1,22 +1,24 @@
 ---
-title: 'Temor, placer y dolor: pláticas en Saanem 1967'
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Krishnamurti, Jiddu
-publishers:
-- Orión
-place: México
-languages:
-- Español
+cover: covers/jdzgc3w2.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '651203695'
+place: México
+publishers:
+- Orión
 series: []
 subjects:
-- Occult & Esoteric
-oclc: '651203695'
+- Philosophy
+- Religion
+- Speech & Lecture
+title: 'Temor, placer y dolor: pláticas en Saanem 1967'
+year: 1981
 zotero_key: JDZGC3W2
-cover: covers/jdzgc3w2.jpg
 ---
 

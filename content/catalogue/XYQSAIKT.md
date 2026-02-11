@@ -1,26 +1,26 @@
 ---
-title: LÉurope Médiévale
-date: '2024-09-01'
-year: 1951
-decade: 1950s
 authors:
 - Moraze, Charles
 - Wolff, Philippe
-publishers:
-- Armand Colin
-place: Paris
-languages:
-- Français
+cover: covers/xyqsaikt.jpg
+date: '2024-09-01'
+decade: 1950s
 item_types:
 - book
+languages:
+- Français
+oclc: '929392766'
 pages: 315
+place: Paris
+publishers:
+- Armand Colin
 series:
 - Nouveau cours d'histoire
 subjects:
+- France
 - Medieval History
-- Modern History
-oclc: '929392766'
+title: LÉurope Médiévale
+year: 1951
 zotero_key: XYQSAIKT
-cover: covers/xyqsaikt.jpg
 ---
 

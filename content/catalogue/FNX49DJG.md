@@ -1,15 +1,17 @@
 ---
-title: Manual profesor de conversación ilustrado lecciones 21 a 40 Italiano 1
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/fnx49djg.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Dictionary
+- Education
+- Grammar & Linguistics
+title: Manual profesor de conversación ilustrado lecciones 21 a 40 Italiano 1
 zotero_key: FNX49DJG
-cover: covers/fnx49djg.jpg
 ---
 

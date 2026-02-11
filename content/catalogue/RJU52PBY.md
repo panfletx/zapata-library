@@ -1,17 +1,18 @@
 ---
-title: Revista, La nave año 1 núm. 2
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/rju52pby.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: Revista, La nave año 1 núm. 2
+year: 2009
 zotero_key: RJU52PBY
-cover: covers/rju52pby.jpg
 ---
 

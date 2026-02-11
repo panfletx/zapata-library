@@ -1,27 +1,28 @@
 ---
-title: Preludio ; En la bahia
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Mansfield, Katherine
-publishers:
-- Fontamara
-place: Barcelona
-languages:
-- Español
+cover: covers/ermtpa7i.jpg
+cover_note: dedicatoria de Martín
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7367-120-0
 item_types:
 - book
-isbn: 978-84-7367-120-0
+languages:
+- Español
+oclc: '46919222'
 pages: 159
+place: Barcelona
+publishers:
+- Fontamara
 series:
 - Colección Alejandría
 subjects:
+- English Literature
 - Fiction
-- Mexican Literature
-oclc: '46919222'
-cover_note: dedicatoria de Martín
+- Short Stories
+title: Preludio ; En la bahia
+year: 1980
 zotero_key: ERMTPA7I
-cover: covers/ermtpa7i.jpg
 ---
 

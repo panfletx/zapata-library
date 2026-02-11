@@ -1,29 +1,29 @@
 ---
-title: Narraciones
-featured: true
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Borges, Jorge Luis
-publishers:
-- Salvat Editores
-place: Buenos Aires
-languages:
-- Español
+cover: covers/2ca5l7ij.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1995'
+featured: true
+isbn: 978-84-345-8019-0
 item_types:
 - book
-isbn: 978-84-345-8019-0
+languages:
+- Español
+oclc: '22418654'
 pages: 135
+place: Buenos Aires
+publishers:
+- Salvat Editores
 series:
 - Biblioteca básica Salvat
 subjects:
-- Argentina
-- Essay
+- Argentine Literature
+- Jorge Luis Borges
 - Short Stories
-oclc: '22418654'
-exlibris: '1995'
+title: Narraciones
+year: 1982
 zotero_key: 2CA5L7IJ
-cover: covers/2ca5l7ij.jpg
 ---
 

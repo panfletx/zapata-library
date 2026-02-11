@@ -1,26 +1,25 @@
 ---
-title: 'An overdose of death: (original title, the Patriotic murders)'
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors:
 - Christie, Agatha
-publishers:
-- Dell Pub. Co.
-place: New York, N.Y.
-languages:
-- English
+cover: covers/lmpgagva.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: New Dell edition
 item_types:
 - book
+languages:
+- English
+oclc: '37925292'
 pages: 192
-edition: New Dell edition
+place: New York, N.Y.
+publishers:
+- Dell Pub. Co.
 series: []
 subjects:
+- American Literature
 - Detective & Mystery
-- Fiction
-- Short Stories
-oclc: '37925292'
+title: 'An overdose of death: (original title, the Patriotic murders)'
+year: 1960
 zotero_key: LMPGAGVA
-cover: covers/lmpgagva.jpg
 ---
 

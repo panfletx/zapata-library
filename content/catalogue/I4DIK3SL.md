@@ -1,28 +1,27 @@
 ---
-title: 'Letras al vuelo: estudios de literatura mexicana'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- El Nacional
-place: México, D.F.
-languages:
-- Español
+cover: covers/i4dik3sl.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6389-43-2
 item_types:
 - book
-isbn: 978-968-6389-43-2
+languages:
+- Español
+oclc: '26984072'
 pages: 250
+place: México, D.F.
+publishers:
+- El Nacional
 series: []
 subjects:
 - Literary Criticism
+- Literary History
 - Mexican Literature
-- Mexico
-- Modern History
-oclc: '26984072'
-cover_note: dedicatoria jjb
+title: 'Letras al vuelo: estudios de literatura mexicana'
+year: 1992
 zotero_key: I4DIK3SL
-cover: covers/i4dik3sl.jpg
 ---
 

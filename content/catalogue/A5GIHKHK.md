@@ -1,26 +1,28 @@
 ---
-title: 'Una llamada al amor: consciencia, libertad, felicidad'
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Mello, Anthony de
 - García-Abril, Jesús.
-publishers:
-- Ed. Sal Terrae
-place: Santander
-languages:
-- Español
+cover: covers/a5gihkhk.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-293-0923-2
 item_types:
 - book
-isbn: 978-84-293-0923-2
+languages:
+- Español
+oclc: '715863523'
 pages: 131
+place: Santander
+publishers:
+- Ed. Sal Terrae
 series:
 - Pozo de Siquem
 subjects:
-- Fiction
-oclc: '715863523'
+- Ethics
+- Philosophy
+- Religion
+title: 'Una llamada al amor: consciencia, libertad, felicidad'
+year: 1992
 zotero_key: A5GIHKHK
-cover: covers/a5gihkhk.jpg
 ---
 

@@ -1,27 +1,28 @@
 ---
-title: Arcadia todas las noches
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Cabrera Infante, G.
-publishers:
-- Editorial Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/fqzhh62n.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
+isbn: 978-84-322-0336-7
 item_types:
 - book
-isbn: 978-84-322-0336-7
+languages:
+- Español
+oclc: '5776817'
 pages: 197
-edition: 1. ed
+place: Barcelona
+publishers:
+- Editorial Seix Barral
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Film & Cinema
-- United States
-oclc: '5776817'
+- Cuban Literature
+- Experimental Literature
+- Novel
+title: Arcadia todas las noches
+year: 1978
 zotero_key: FQZHH62N
-cover: covers/fqzhh62n.jpg
 ---
 

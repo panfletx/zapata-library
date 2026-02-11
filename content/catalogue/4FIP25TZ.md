@@ -1,24 +1,26 @@
 ---
-title: Para orar el padrenuestro
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Sosa Elízaga, Alejandra Maria
-publishers:
-- Librería Parroquial de Clavería
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/4fip25tz.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-91553-0-3
 item_types:
 - book
-isbn: 978-970-91553-0-3
+languages:
+- Español
+oclc: '36850133'
 pages: 198
+place: Mexico, D.F.
+publishers:
+- Librería Parroquial de Clavería
 series: []
 subjects:
+- Catholicism
+- Essay
 - Religion
-oclc: '36850133'
+title: Para orar el padrenuestro
+year: 1995
 zotero_key: 4FIP25TZ
-cover: covers/4fip25tz.jpg
 ---
 

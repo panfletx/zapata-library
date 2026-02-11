@@ -1,28 +1,28 @@
 ---
-title: ¿Quien puede hacer que amanezca?
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Mello, Anthony de
 - García Abril, Jesús
-publishers:
-- Editorial Sal terrae
-place: Santander, España
-languages:
-- Español
+cover: covers/hah56ide.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Seventh edition
+isbn: 978-84-293-0724-5
 item_types:
 - book
-isbn: 978-84-293-0724-5
+languages:
+- Español
+oclc: '1344755724'
 pages: 247
-edition: Seventh edition
+place: Santander, España
+publishers:
+- Editorial Sal terrae
 series:
 - Colección "El pozo de Siquen"
 subjects:
-- Catholicism
+- Essay
 - Religion
-oclc: '1344755724'
+title: ¿Quien puede hacer que amanezca?
+year: 1991
 zotero_key: HAH56IDE
-cover: covers/hah56ide.jpg
 ---
 

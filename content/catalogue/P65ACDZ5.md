@@ -1,26 +1,27 @@
 ---
-title: Cyropédie ; L'Hipparque ; De l'équitation ; Hiéron ; Agésilas ; Les Revenus
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Xenofont
 - Chambry, Pierre
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/p65acdz5.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1979'
 item_types:
 - book
+languages:
+- Français
+oclc: '805606485'
 pages: 510
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier Flammarion
 subjects:
-- French Literature
-oclc: '805606485'
-exlibris: '1979'
+- Ancient History
+- Classical Literature
+title: Cyropédie ; L'Hipparque ; De l'équitation ; Hiéron ; Agésilas ; Les Revenus
+year: 1967
 zotero_key: P65ACDZ5
-cover: covers/p65acdz5.jpg
 ---
 

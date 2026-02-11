@@ -1,31 +1,29 @@
 ---
-title: 'Jamás fandango al cielo: narrativa afromestiza'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Díaz Pérez, María Cristina
 - Aparicio Prudente, Francisca
 - García Casarrubias, Adela
-publishers:
-- Dirección General de Culturas Populares
-place: México, D.F.
-languages:
-- Español
+cover: covers/ltw7vxbq.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '34642356'
 pages: 242
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Dirección General de Culturas Populares
 series: []
 subjects:
-- Grammar & Linguistics
 - Mexican Literature
-- Mexico
-- Oaxaca
+- Mexico City
 - Short Stories
-oclc: '34642356'
-cover_note: dedicatoria
+title: 'Jamás fandango al cielo: narrativa afromestiza'
+year: 1993
 zotero_key: LTW7VXBQ
-cover: covers/ltw7vxbq.jpg
 ---
 

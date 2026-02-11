@@ -1,24 +1,26 @@
 ---
-title: Oeuvres complètes I
-date: '2024-09-01'
-year: 1964
-decade: 1960s
 authors:
 - Molière
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/zitzrs49.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Français
+oclc: '848476368'
 pages: 4
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Texte intégral GF
 subjects:
+- Classical Literature
+- Drama
 - French Literature
-oclc: '848476368'
+title: Oeuvres complètes I
+year: 1964
 zotero_key: ZITZRS49
-cover: covers/zitzrs49.jpg
 ---
 

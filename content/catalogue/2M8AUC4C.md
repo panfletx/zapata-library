@@ -1,25 +1,27 @@
 ---
-title: Guerrero, 1849-1999
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Neri Quevedo, Edgar
-publishers:
-- Gobierno del Estado de Guerrero
-place: Guerrero, México
-languages:
-- Español
+cover: covers/2m8auc4c.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed
+isbn: 978-970-18-4221-8
 item_types:
 - book
-isbn: 978-970-18-4221-8
+languages:
+- Español
+oclc: '46546462'
 pages: 2
-edition: 1a ed
+place: Guerrero, México
+publishers:
+- Gobierno del Estado de Guerrero
 series: []
 subjects:
+- Chronicle
+- Contemporary History
 - Mexico
-oclc: '46546462'
+title: Guerrero, 1849-1999
+year: 1999
 zotero_key: 2M8AUC4C
-cover: covers/2m8auc4c.jpg
 ---
 

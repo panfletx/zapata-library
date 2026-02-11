@@ -1,15 +1,16 @@
 ---
-title: Qué es la Biblia
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/fhf769ls.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Judaism
+- Religion
+title: Qué es la Biblia
 zotero_key: FHF769LS
-cover: covers/fhf769ls.jpg
 ---
 

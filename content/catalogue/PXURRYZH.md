@@ -1,25 +1,26 @@
 ---
-title: La vida es sueño ; El alcade de Zalamea ; El mágico prodigioso
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Calderón de la Barca, Pedro
-publishers:
-- Editorial Losada
-place: Buenos Aires
-languages:
-- Español
+cover: covers/pxurryzh.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3d ed
 item_types:
 - book
+languages:
+- Español
+oclc: '2171018'
 pages: 259
-edition: 3d ed
+place: Buenos Aires
+publishers:
+- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:
 - Drama
-oclc: '2171018'
+- Spanish Literature
+title: La vida es sueño ; El alcade de Zalamea ; El mágico prodigioso
+year: 1972
 zotero_key: PXURRYZH
-cover: covers/pxurryzh.jpg
 ---
 

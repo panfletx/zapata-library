@@ -1,25 +1,26 @@
 ---
-title: 'La montagne magique: roman'
-date: '2024-09-01'
-year: 1931
-decade: 1930s
 authors:
 - Mann, Thomas
-publishers:
-- A. Fayard
-place: Paris
-languages:
-- Français
+cover: covers/7npsjgev.jpg
+date: '2024-09-01'
+decade: 1930s
+isbn: 978-2-253-01844-5
 item_types:
 - book
-isbn: 978-2-253-01844-5
+languages:
+- Français
+oclc: '489828415'
 pages: 1016
+place: Paris
+publishers:
+- A. Fayard
 series:
 - Le Livre de poche
 subjects:
-- French Literature
-oclc: '489828415'
+- German Literature
+- Novel
+title: 'La montagne magique: roman'
+year: 1931
 zotero_key: 7NPSJGEV
-cover: covers/7npsjgev.jpg
 ---
 

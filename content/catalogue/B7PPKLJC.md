@@ -1,29 +1,27 @@
 ---
-title: Psicología y alquimia
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Jung, C. G.
-publishers:
-- Plaza & Janés
-place: Barcelona
-languages:
-- Español
+cover: covers/b7ppkljc.jpg
+cover_note: dedicatoria de José Dimayuga
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-01-47221-3
 item_types:
 - book
-isbn: 978-84-01-47221-3
+languages:
+- Español
+oclc: '25809046'
 pages: 410
+place: Barcelona
+publishers:
+- Plaza & Janés
 series:
 - Otros horizontes
 subjects:
 - Occult & Esoteric
 - Psychoanalysis
-- Religion
-- Symbolism
-oclc: '25809046'
-cover_note: dedicatoria de José Dimayuga
+title: Psicología y alquimia
+year: 1989
 zotero_key: B7PPKLJC
-cover: covers/b7ppkljc.jpg
 ---
 

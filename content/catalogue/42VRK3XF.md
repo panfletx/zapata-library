@@ -1,28 +1,28 @@
 ---
-title: 'Eclipse: cierta poesía 1973-2003'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Fressia, Alfredo
-publishers:
-- Alforja Arte y Literatura
-place: México City
-languages:
-- Español
+cover: covers/42vrk3xf.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-5189-33-0
 item_types:
 - book
-isbn: 978-968-5189-33-0
+languages:
+- Español
+oclc: '259768096'
 pages: 142
-edition: 1a ed
+place: México City
+publishers:
+- Alforja Arte y Literatura
 series:
 - Azor (Mexico City, Mexico)
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '259768096'
-cover_note: dedicatoria
+- Poetry
+title: 'Eclipse: cierta poesía 1973-2003'
+year: 2006
 zotero_key: 42VRK3XF
-cover: covers/42vrk3xf.jpg
 ---
 

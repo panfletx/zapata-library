@@ -1,15 +1,15 @@
 ---
-title: Revista, El espejo de urania
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/w68rln6q.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Encyclopedia
+title: Revista, El espejo de urania
 zotero_key: W68RLN6Q
-cover: covers/w68rln6q.jpg
 ---
 

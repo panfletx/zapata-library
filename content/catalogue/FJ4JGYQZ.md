@@ -1,19 +1,20 @@
 ---
-title: La palabra y el hombre 3
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/fj4jgyqz.jpg
+date: '2024-09-01'
+decade: 2000s
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: La palabra y el hombre 3
+year: 2008
 zotero_key: FJ4JGYQZ
-cover: covers/fj4jgyqz.jpg
 ---
 

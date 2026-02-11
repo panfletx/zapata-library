@@ -1,26 +1,26 @@
 ---
-title: El arte escenico
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Stanislavsky, Konstantin
-publishers:
-- Siglo Veintiuno Editores
-place: Mexico
-languages:
-- Español
+cover: covers/8e4mklcl.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-23-0441-5
 item_types:
 - book
-isbn: 978-968-23-0441-5
+languages:
+- Español
+oclc: '301627695'
 pages: 345
+place: Mexico
+publishers:
+- Siglo Veintiuno Editores
 series:
 - Artes
 subjects:
 - Drama
-- Visual Art
-oclc: '301627695'
+- Essay
+title: El arte escenico
+year: 1980
 zotero_key: 8E4MKLCL
-cover: covers/8e4mklcl.jpg
 ---
 

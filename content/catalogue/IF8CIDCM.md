@@ -1,27 +1,26 @@
 ---
-title: 'Un episodio distante: cuentos, 1939-1948'
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Bowles, Paul
-publishers:
-- Alfaguara
-place: Madrid
-languages:
-- Español
+cover: covers/if8cidcm.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-204-2418-7
 item_types:
 - book
-isbn: 978-84-204-2418-7
+languages:
+- Español
+oclc: '38024554'
 pages: 315
+place: Madrid
+publishers:
+- Alfaguara
 series:
 - Literatura Alfaguara
 subjects:
+- American Literature
 - Short Stories
-- Translation Studies
-- United States
-oclc: '38024554'
+title: 'Un episodio distante: cuentos, 1939-1948'
+year: 1984
 zotero_key: IF8CIDCM
-cover: covers/if8cidcm.jpg
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: Veinte poemas de amor y una cancion desesperada 20 poemas de amor y una cancion desesperada
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Neruda, Pablo
-publishers:
-- Ed. Mexicanos Unidos
-place: Mexico
-languages:
-- Unknown
+cover: covers/u88q9nqw.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 7. ed
+isbn: 978-968-15-0108-2
 item_types:
 - book
-isbn: 978-968-15-0108-2
+languages:
+- Unknown
+oclc: '630846492'
 pages: 125
-edition: 7. ed
+place: Mexico
+publishers:
+- Ed. Mexicanos Unidos
 series:
 - Coleccion poesia
 subjects:
-- Fiction
-oclc: '630846492'
+- Latin American Literature
+- Love & Desire
+- Poetry
+title: Veinte poemas de amor y una cancion desesperada 20 poemas de amor y una cancion desesperada
+year: 1982
 zotero_key: U88Q9NQW
-cover: covers/u88q9nqw.jpg
 ---
 

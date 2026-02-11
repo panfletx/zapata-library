@@ -1,25 +1,26 @@
 ---
-title: Delirio
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Restrepo, Laura
-publishers:
-- Punto de Lectura
-place: Madrid
-languages:
-- Español
+cover: covers/peqmrbac.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-958-704-474-4
 item_types:
 - book
-isbn: 978-958-704-474-4
+languages:
+- Español
+oclc: '827723579'
 pages: 303
+place: Madrid
+publishers:
+- Punto de Lectura
 series:
 - Punto de Lectura
 subjects:
-- Fiction
-oclc: '827723579'
+- Latin American Literature
+- Novel
+title: Delirio
+year: 2006
 zotero_key: PEQMRBAC
-cover: covers/peqmrbac.jpg
 ---
 

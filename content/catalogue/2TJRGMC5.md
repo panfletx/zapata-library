@@ -1,19 +1,20 @@
 ---
-title: Gramática del estudiante - Alemán
-date: '2024-09-01'
 authors:
 - Wagner, Detlev
 - Sans, Neus
-publishers:
-- Wagner Idiomas y Difusión
-languages: []
+cover: covers/2tjrgmc5.jpg
+date: '2024-09-01'
+isbn: 84-494-2089-X
 item_types:
 - book
-isbn: 84-494-2089-X
+languages: []
+publishers:
+- Wagner Idiomas y Difusión
 series: []
 subjects:
-- Fiction
+- Education
+- Grammar & Linguistics
+title: Gramática del estudiante - Alemán
 zotero_key: 2TJRGMC5
-cover: covers/2tjrgmc5.jpg
 ---
 

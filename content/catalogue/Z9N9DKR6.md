@@ -1,26 +1,28 @@
 ---
-title: 'Pays de Neige: roman'
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors:
 - Kawabata, Yasunari
 - Fujimori, Bunkichi
 - Guerne, Armel
-publishers:
-- Albin Michel
-place: Paris
-languages:
-- Unknown
+cover: covers/z9n9dkr6.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1989'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '971176015'
 pages: 253
+place: Paris
+publishers:
+- Albin Michel
 series: []
 subjects:
-- Fiction
-oclc: '971176015'
-exlibris: '1989'
+- Japan
+- Japanese Literature
+- Novel
+title: 'Pays de Neige: roman'
+year: 1960
 zotero_key: Z9N9DKR6
-cover: covers/z9n9dkr6.jpg
 ---
 

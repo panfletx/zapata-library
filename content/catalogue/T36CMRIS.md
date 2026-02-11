@@ -1,26 +1,28 @@
 ---
-title: Point counter point
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Huxley, Aldous
-publishers:
-- Penguin Books
-place: Harmondsworth
-languages:
-- English
+cover: covers/t36cmris.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Reprint
+exlibris: '1978'
 item_types:
 - book
+languages:
+- English
+oclc: '757915114'
 pages: 434
-edition: Reprint
+place: Harmondsworth
+publishers:
+- Penguin Books
 series:
 - Penguin Modern Classics
 subjects:
-- Modern History
-oclc: '757915114'
-exlibris: '1978'
+- English Literature
+- Novel
+- Postmodernism
+title: Point counter point
+year: 1972
 zotero_key: T36CMRIS
-cover: covers/t36cmris.jpg
 ---
 

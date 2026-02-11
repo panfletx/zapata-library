@@ -1,27 +1,27 @@
 ---
-title: Jacinto de Jesus
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Villalobos, Hugo
-publishers:
-- Distribuciones Fontamara
-place: México
-languages:
-- Español
+cover: covers/i98jf8mr.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-476-384-5
 item_types:
 - book
-isbn: 978-968-476-384-5
+languages:
+- Español
+oclc: '123353187'
 pages: 209
-edition: 1. ed
+place: México
+publishers:
+- Distribuciones Fontamara
 series:
 - Fontamara (Series)
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '123353187'
+- Novel
+title: Jacinto de Jesus
+year: 2001
 zotero_key: I98JF8MR
-cover: covers/i98jf8mr.jpg
 ---
 

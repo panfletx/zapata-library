@@ -1,17 +1,17 @@
 ---
-title: Revista, Observateur
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/nb5m38sz.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Satire & Humor
+title: Revista, Observateur
+year: 1991
 zotero_key: NB5M38SZ
-cover: covers/nb5m38sz.jpg
 ---
 

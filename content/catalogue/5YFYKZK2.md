@@ -1,25 +1,25 @@
 ---
-title: Versos de amor y anarquía
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Cárdenas, Alejandra
-publishers:
-- Universidad Autónoma de Guerrero
-place: Chilpancingo, Gro.
-languages:
-- Español
+cover: covers/5yfykzk2.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '48297168'
 pages: 27
+place: Chilpancingo, Gro.
+publishers:
+- Universidad Autónoma de Guerrero
 series:
 - Serie nuevos escritores
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '48297168'
+- Poetry
+title: Versos de amor y anarquía
+year: 1985
 zotero_key: 5YFYKZK2
-cover: covers/5yfykzk2.jpg
 ---
 

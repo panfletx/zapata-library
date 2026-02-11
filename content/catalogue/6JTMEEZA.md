@@ -1,29 +1,30 @@
 ---
-title: 'Le petit Robert 1: dictionnaire alphabétique et analogique de la langue française'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Robert, Paul
 - Rey, Alain
 - Rey-Debove, Josette
-publishers:
-- Le Robert
-place: Paris
-languages:
-- Français
+cover: covers/6jtmeeza.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Nouv. éd. rev., corr. et mise à jour en 1990
+isbn: 978-2-85036-066-4
 item_types:
 - book
-isbn: 978-2-85036-066-4
-source_url: https://bac-lac.on.worldcat.org/oclc/397118707
+languages:
+- Français
+oclc: '20794842'
 pages: 2171
-edition: Nouv. éd. rev., corr. et mise à jour en 1990
+place: Paris
+publishers:
+- Le Robert
 series: []
+source_url: https://bac-lac.on.worldcat.org/oclc/397118707
 subjects:
 - Dictionary
-- Grammar & Linguistics
-oclc: '20794842'
+- France
+- French Literature
+title: 'Le petit Robert 1: dictionnaire alphabétique et analogique de la langue française'
+year: 1990
 zotero_key: 6JTMEEZA
-cover: covers/6jtmeeza.jpg
 ---
 

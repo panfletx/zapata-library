@@ -1,27 +1,29 @@
 ---
-title: El pabellón número seis
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Chéjov, Antón Pávlovich
 - Quijano, Alvaro
 - Abollado, Luis
-publishers:
-- CNCA
-place: México
-languages:
-- Español
+cover: covers/wcbfby6z.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-18-1501-4
 item_types:
 - book
-isbn: 978-970-18-1501-4
+languages:
+- Español
+oclc: '880322735'
 pages: 87
+place: México
+publishers:
+- CNCA
 series:
 - Clásicos para hoy
 subjects:
-- Fiction
-oclc: '880322735'
+- Drama
+- Madness & Mental Illness
+- Russian Literature
+title: El pabellón número seis
+year: 1998
 zotero_key: WCBFBY6Z
-cover: covers/wcbfby6z.jpg
 ---
 

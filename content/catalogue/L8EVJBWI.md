@@ -1,29 +1,28 @@
 ---
-title: 'Trois contes: Un cœur simple ; La légende de saint Julien l''Hospitalier ; Hérodias'
-date: '2024-09-01'
-year: 1965
-decade: 1960s
 authors:
 - Flaubert, Gustave
 - Suffel, Jacques
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/l8evjbwi.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: Luis Zapata
 item_types:
 - book
+languages:
+- Français
+oclc: '8511593'
 pages: 184
+place: Paris
+publishers:
+- Garnier-Flammarion
 series:
 - Garnier Flammarion (Series)
 subjects:
-- Fiction
-- Religion
-- Saints & Hagiography
+- France
+- French Literature
 - Short Stories
-oclc: '8511593'
-exlibris: Luis Zapata
+title: 'Trois contes: Un cœur simple ; La légende de saint Julien l''Hospitalier ; Hérodias'
+year: 1965
 zotero_key: L8EVJBWI
-cover: covers/l8evjbwi.jpg
 ---
 

@@ -1,16 +1,17 @@
 ---
-title: Revista, Spiegel Special
-date: '2024-09-01'
 authors: []
-publishers: []
-languages:
-- Deutsch
+cover: covers/matgu3wt.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages:
+- Deutsch
+publishers: []
 series: []
 subjects:
-- German Literature
+- Contemporary History
+- Germany
+title: Revista, Spiegel Special
 zotero_key: MATGU3WT
-cover: covers/matgu3wt.jpg
 ---
 

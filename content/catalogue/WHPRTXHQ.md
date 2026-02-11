@@ -1,24 +1,26 @@
 ---
-title: 'À l''ami qui ne m''a pas sauvé la vie: roman'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Guibert, Hervé
-publishers:
-- Éditions Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/whprtxhq.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-07-071890-0
 item_types:
 - book
-isbn: 978-2-07-071890-0
+languages:
+- Français
+oclc: '883568769'
 pages: 265
+place: Paris
+publishers:
+- Éditions Gallimard
 series: []
 subjects:
+- AIDS & HIV
 - French Literature
-oclc: '883568769'
+- Novel
+title: 'À l''ami qui ne m''a pas sauvé la vie: roman'
+year: 1990
 zotero_key: WHPRTXHQ
-cover: covers/whprtxhq.jpg
 ---
 

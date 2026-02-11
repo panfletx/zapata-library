@@ -1,28 +1,26 @@
 ---
-title: Sanar las adicciones
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Jampolsky, Lee L.
-publishers:
-- Obelisco
-place: Barcelona
-languages:
-- Español
+cover: covers/ldtewhwa.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-84-7720-382-7
 item_types:
 - book
-isbn: 978-84-7720-382-7
+languages:
+- Español
+oclc: '434322100'
 pages: 232
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Obelisco
 series:
 - Colección Nueva consciencia
 subjects:
-- Education
 - Medicine & Health
-- Philosophy
-oclc: '434322100'
+title: Sanar las adicciones
+year: 1994
 zotero_key: LDTEWHWA
-cover: covers/ldtewhwa.jpg
 ---
 

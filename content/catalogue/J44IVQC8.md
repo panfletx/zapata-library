@@ -1,26 +1,27 @@
 ---
-title: Los grandes y los pequeños amores
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Aguilera Garramuño, Marco Tulio
-publishers:
-- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes : J. Mortíz'
-place: México, D.F.
-languages:
-- Español
+cover: covers/j44ivqc8.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-29-3990-7
 item_types:
 - book
-isbn: 978-968-29-3990-7
+languages:
+- Español
+oclc: '27161192'
 pages: 119
-edition: 1. ed
+place: México, D.F.
+publishers:
+- 'Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes : J. Mortíz'
 series:
 - Premios bellas artes de literatura
 subjects:
-- Fiction
-oclc: '27161192'
+- Essay
+- Mexican Literature
+title: Los grandes y los pequeños amores
+year: 1992
 zotero_key: J44IVQC8
-cover: covers/j44ivqc8.jpg
 ---
 

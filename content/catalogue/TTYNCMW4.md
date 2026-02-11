@@ -1,18 +1,20 @@
 ---
-title: Revista, Universidad de México 85
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors: []
-publishers: []
-languages: []
+cover: covers/ttyncmw4.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 01851330
 item_types:
 - book
-isbn: 01851330
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Contemporary History
+- Mexican Literature
+title: Revista, Universidad de México 85
+year: 2011
 zotero_key: TTYNCMW4
-cover: covers/ttyncmw4.jpg
 ---
 

@@ -1,27 +1,29 @@
 ---
-title: Cachimbo
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Bartolo, Jesús
-publishers:
-- Univ. Autónoma del Estado de México (UAEM)
-place: Toluca, México
-languages:
-- Español
+cover: covers/tq7jy3vh.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-835-655-5
 item_types:
 - book
-isbn: 978-968-835-655-5
+languages:
+- Español
+oclc: '255348201'
 pages: 56
-edition: 1. ed
+place: Toluca, México
+publishers:
+- Univ. Autónoma del Estado de México (UAEM)
 series:
 - Serie José Yurrieta Valdés
 subjects:
-- Fiction
-oclc: '255348201'
-cover_note: dedicatoria de autor
+- Mexican Literature
+- Poetry
+- Urban Life
+title: Cachimbo
+year: 2001
 zotero_key: TQ7JY3VH
-cover: covers/tq7jy3vh.jpg
 ---
 

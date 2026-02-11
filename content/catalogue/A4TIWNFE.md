@@ -1,28 +1,28 @@
 ---
-title: Angelo
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Visconti, Luchino
 - Monreal, José Ramón
-publishers:
-- Ediciones B
-place: Barcelona
-languages:
-- Español
+cover: covers/a4tiwnfe.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-84-406-4160-1
 item_types:
 - book
-isbn: 978-84-406-4160-1
+languages:
+- Español
+oclc: '433991420'
 pages: 188
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Ediciones B
 series:
 - Tiempos modernos
 subjects:
-- Italian Literature
-- Literary Criticism
-oclc: '433991420'
+- Film & Cinema
+- Screenplay
+title: Angelo
+year: 1993
 zotero_key: A4TIWNFE
-cover: covers/a4tiwnfe.jpg
 ---
 

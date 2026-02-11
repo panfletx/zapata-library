@@ -1,20 +1,22 @@
 ---
-title: Meditaciones. Soliloquios. Manual. Suspiros.
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Agustín, San
-publishers:
-- Aguilar
-place: Mexico
-languages: []
+cover: covers/yiad45ve.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages: []
+place: Mexico
+publishers:
+- Aguilar
 series: []
 subjects:
-- Fiction
+- Philosophy
+- Religion
+- Saints & Hagiography
+title: Meditaciones. Soliloquios. Manual. Suspiros.
+year: 1976
 zotero_key: YIAD45VE
-cover: covers/yiad45ve.jpg
 ---
 

@@ -1,29 +1,27 @@
 ---
-title: Las florecillas de San Francisco
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Francisco de Asís
 - Muelas, Federico
-publishers:
-- Salvat Editores
-place: Madrid
-languages:
-- Español
+cover: covers/xtjgxp4b.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1980'
 item_types:
 - book
+languages:
+- Español
+oclc: '318214404'
 pages: 175
+place: Madrid
+publishers:
+- Salvat Editores
 series:
 - Biblioteca Básica Salvat
 subjects:
-- Biography
-- Catholicism
-- Modern History
 - Saints & Hagiography
-oclc: '318214404'
-exlibris: '1980'
+- Spanish Literature
+title: Las florecillas de San Francisco
+year: 1969
 zotero_key: XTJGXP4B
-cover: covers/xtjgxp4b.jpg
 ---
 

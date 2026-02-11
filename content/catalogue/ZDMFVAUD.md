@@ -1,22 +1,24 @@
 ---
-title: España, la calle
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Márquez Gileta, Salvador
-publishers:
-- Puertabierta editores
-place: México
-languages: []
+cover: covers/zdmfvaud.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a ed.
+isbn: 978-607-8286-39-3
 item_types:
 - book
-isbn: 978-607-8286-39-3
-edition: 1a ed.
+languages: []
+place: México
+publishers:
+- Puertabierta editores
 series: []
 subjects:
-- Fiction
+- Essay
+- Spain
+- Urban Life
+title: España, la calle
+year: 1995
 zotero_key: ZDMFVAUD
-cover: covers/zdmfvaud.jpg
 ---
 

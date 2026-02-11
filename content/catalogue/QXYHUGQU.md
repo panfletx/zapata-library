@@ -1,24 +1,23 @@
 ---
-title: Awareness
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - De Mello, Anthony
-publishers:
-- DoubleDay
-place: New York, NY
-languages:
-- English
+cover: covers/qxyhugqu.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-0-385-24937-9
 item_types:
 - book
-isbn: 978-0-385-24937-9
+languages:
+- English
+oclc: '855188235'
+place: New York, NY
+publishers:
+- DoubleDay
 series: []
 subjects:
-- Catholicism
-- Religion
-oclc: '855188235'
+- Philosophy
+title: Awareness
+year: 1992
 zotero_key: QXYHUGQU
-cover: covers/qxyhugqu.jpg
 ---
 

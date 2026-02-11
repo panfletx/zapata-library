@@ -1,24 +1,26 @@
 ---
-title: La muerte en Venecia Las Tablas de la Ley
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Mann, Thomas
-publishers:
-- '[Planeta'
-place: Barcelona
-languages:
-- Español
+cover: covers/3fv3vfgs.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '1158051020'
 pages: 157
+place: Barcelona
+publishers:
+- '[Planeta'
 series:
 - Rotativa
 subjects:
+- Death & Mourning
 - Fiction
-oclc: '1158051020'
+- German Literature
+title: La muerte en Venecia Las Tablas de la Ley
+year: 1972
 zotero_key: 3FV3VFGS
-cover: covers/3fv3vfgs.jpg
 ---
 

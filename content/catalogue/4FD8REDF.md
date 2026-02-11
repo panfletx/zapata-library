@@ -1,28 +1,29 @@
 ---
-title: Antología de Alvaro de Campos
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Pessoa, Fernando
 - Llardent, José Antonio
-publishers:
-- Nacional
-place: Madrid
-languages:
-- Español
+cover: covers/4fd8redf.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Ed. bilingüe
+exlibris: '1982'
+isbn: 978-84-276-0448-3
 item_types:
 - book
-isbn: 978-84-276-0448-3
+languages:
+- Español
+oclc: '7909700'
 pages: 402
-edition: Ed. bilingüe
+place: Madrid
+publishers:
+- Nacional
 series:
 - Alfar. Coleccion de poesia
 subjects:
+- Anthology
 - Poetry
-oclc: '7909700'
-exlibris: '1982'
+title: Antología de Alvaro de Campos
+year: 1978
 zotero_key: 4FD8REDF
-cover: covers/4fd8redf.jpg
 ---
 

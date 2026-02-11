@@ -1,3 +1,5 @@
 ---
-title: "Catalogue"
+subjects:
+- Bibliography
+title: Catalogue
 ---

@@ -1,28 +1,27 @@
 ---
-title: A beneficio de inventario
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Yourcenar, Marguerite
 - Catalayud, Emma
-publishers:
-- Santillana
-place: Madrid
-languages:
-- Español
+cover: covers/yfliiygl.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-204-2722-5
 item_types:
 - book
-isbn: 978-84-204-2722-5
+languages:
+- Español
+oclc: '34205205'
 pages: 272
+place: Madrid
+publishers:
+- Santillana
 series:
 - Alfaguara/Bolsillo
 subjects:
-- Literary Criticism
-- Modern History
-- Rome
-oclc: '34205205'
+- Essay
+- French Literature
+title: A beneficio de inventario
+year: 1995
 zotero_key: YFLIIYGL
-cover: covers/yfliiygl.jpg
 ---
 

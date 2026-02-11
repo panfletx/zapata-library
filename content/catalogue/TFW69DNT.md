@@ -1,21 +1,22 @@
 ---
-title: La piel derramada
-date: '2024-09-01'
-year: 2019
-decade: 2010s
 authors:
 - Reyes, Uriel
-publishers:
-- Literatelia
-languages: []
+cover: covers/tfw69dnt.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-98374-7-1
 item_types:
 - book
-isbn: 978-607-98374-7-1
+languages: []
+publishers:
+- Literatelia
 series: []
 subjects:
+- Fiction
 - Mexican Literature
-cover_note: dedicatoria
+title: La piel derramada
+year: 2019
 zotero_key: TFW69DNT
-cover: covers/tfw69dnt.jpg
 ---
 

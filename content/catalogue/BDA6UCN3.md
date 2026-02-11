@@ -1,29 +1,29 @@
 ---
-title: 'Se visten novias: somos insuperables'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Cal y arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/bda6ucn3.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-493-249-4
 item_types:
 - book
-isbn: 978-968-493-249-4
+languages:
+- Español
+oclc: '28402330'
 pages: 166
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Cal y arena
 series:
 - Crónica (Distrito Federal, Mexico)
 subjects:
 - Essay
-- Fiction
-- Mexico
-oclc: '28402330'
-cover_note: dedicatoria jjb
+- Mexican Literature
+- Mexico City
+title: 'Se visten novias: somos insuperables'
+year: 1993
 zotero_key: BDA6UCN3
-cover: covers/bda6ucn3.jpg
 ---
 

@@ -1,30 +1,27 @@
 ---
-title: Bom-Crioulo
-featured: true
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Caminha, Adolfo
-publishers:
-- Posada
-place: México, D.F.
-languages:
-- Español
+cover: covers/elvgc9ji.jpg
+date: '2024-09-01'
+decade: 1980s
+featured: true
+isbn: 978-968-433-195-2
 item_types:
 - book
-isbn: 978-968-433-195-2
+languages:
+- Español
+oclc: '17928128'
 pages: 189
+place: México, D.F.
+publishers:
+- Posada
 series: []
 subjects:
-- Brazil
-- Fiction
-- Gay Literature
-- Rio de Janeiro
-- Short Stories
-- Travel Writing
-oclc: '17928128'
+- Brazilian Literature
+- Novel
+- Sexuality & Eroticism
+title: Bom-Crioulo
+year: 1987
 zotero_key: ELVGC9JI
-cover: covers/elvgc9ji.jpg
 ---
 

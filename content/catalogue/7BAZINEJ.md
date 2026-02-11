@@ -1,26 +1,28 @@
 ---
-title: Historia de la vida del Buscón, llamado Don Pablos
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Quevedo, Francisco de
 - Golacheca, José.
-publishers:
-- Jorge A. Mestas
-place: Algete (Madrid)
-languages:
-- Español
+cover: covers/7bazinej.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-89163-77-5
 item_types:
 - book
-isbn: 978-84-89163-77-5
+languages:
+- Español
+oclc: '432827516'
 pages: 156
+place: Algete (Madrid)
+publishers:
+- Jorge A. Mestas
 series:
 - Clásicos universales (Algete)
 subjects:
-- Fiction
-oclc: '432827516'
+- Novel
+- Satire & Humor
+- Spanish Literature
+title: Historia de la vida del Buscón, llamado Don Pablos
+year: 1999
 zotero_key: 7BAZINEJ
-cover: covers/7bazinej.jpg
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: 'Il respiro: una decisione'
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Bernhard, Thomas
-publishers:
-- Adelphi
-place: Milano
-languages:
-- Italiano
+cover: covers/cizicc9b.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 4. ed
+isbn: 978-88-459-0680-0
 item_types:
 - book
-isbn: 978-88-459-0680-0
+languages:
+- Italiano
+oclc: '982268472'
 pages: 125
-edition: 4. ed
+place: Milano
+publishers:
+- Adelphi
 series:
 - Fabula / Adelphi
 subjects:
-- Italian Literature
-oclc: '982268472'
+- Existentialism
+- German Literature
+- Novel
+title: 'Il respiro: una decisione'
+year: 2004
 zotero_key: CIZICC9B
-cover: covers/cizicc9b.jpg
 ---
 

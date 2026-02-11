@@ -1,19 +1,20 @@
 ---
-title: La palabra y el hombre 2
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors: []
-publishers: []
-languages:
-- Español
+cover: covers/gaw4c2ip.jpg
+date: '2024-09-01'
+decade: 2000s
+issn: 01855727
 item_types:
 - magazineArticle
-issn: 01855727
+languages:
+- Español
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+- Mexican Literature
+title: La palabra y el hombre 2
+year: 2007
 zotero_key: GAW4C2IP
-cover: covers/gaw4c2ip.jpg
 ---
 

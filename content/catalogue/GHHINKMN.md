@@ -1,26 +1,26 @@
 ---
-title: Llamadas nocturnas
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Pérez Gay, Rafael
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/ghhinkmn.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-493-248-7
 item_types:
 - book
-isbn: 978-968-493-248-7
+languages:
+- Español
+oclc: '28641897'
 pages: 172
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '28641897'
+- Short Stories
+title: Llamadas nocturnas
+year: 1993
 zotero_key: GHHINKMN
-cover: covers/ghhinkmn.jpg
 ---
 

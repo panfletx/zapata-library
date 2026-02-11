@@ -1,27 +1,29 @@
 ---
-title: El conde Lucanor
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Manuel, Juan
 - Fradejas Rueda, José Manuel
-publishers:
-- Plaza & Janés
-place: Barcelona
-languages:
-- Español
+cover: covers/mz5dhkdc.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1993'
+isbn: 978-84-01-90546-9
 item_types:
 - book
-isbn: 978-84-01-90546-9
+languages:
+- Español
+oclc: '695262245'
 pages: 276
+place: Barcelona
+publishers:
+- Plaza & Janés
 series:
 - 'Clásicos Plaza y Janés : biblioteca crítica de autores españoles'
 subjects:
-- Fiction
-oclc: '695262245'
-exlibris: '1993'
+- Fable & Parable
+- Medieval Literature
+- Spanish Literature
+title: El conde Lucanor
+year: 1984
 zotero_key: MZ5DHKDC
-cover: covers/mz5dhkdc.jpg
 ---
 

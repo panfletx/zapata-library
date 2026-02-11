@@ -1,26 +1,26 @@
 ---
-title: Robinson Crusoe
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Defoe, Daniel
 - Suero Roca, Teresa
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/hiwsj29a.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1973'
 item_types:
 - book
+languages:
+- Español
+oclc: '433851096'
 pages: 558
+place: Barcelona
+publishers:
+- Bruguera
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '433851096'
-exlibris: '1973'
+- English Literature
+- Novel
+title: Robinson Crusoe
+year: 1972
 zotero_key: HIWSJ29A
-cover: covers/hiwsj29a.jpg
 ---
 

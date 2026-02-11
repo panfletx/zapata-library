@@ -1,15 +1,15 @@
 ---
-title: Revista, El nuevo mal del siglo 1
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/gxxg7q84.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+title: Revista, El nuevo mal del siglo 1
 zotero_key: GXXG7Q84
-cover: covers/gxxg7q84.jpg
 ---
 

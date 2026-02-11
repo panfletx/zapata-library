@@ -1,30 +1,28 @@
 ---
-title: Obras completas
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Dostoyevsky, Fyodor
 - Cansinos Assens, Rafael
-publishers:
-- Aguilar
-place: México
-languages:
-- Español
+cover: covers/glmlarn7.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1993'
+isbn: 978-968-19-0139-4
 item_types:
 - book
-isbn: 978-968-19-0139-4
+languages:
+- Español
+oclc: '39825547'
 pages: 19
+place: México
+publishers:
+- Aguilar
 series:
 - Grandes cl'asicos
 subjects:
-- Anthology
-- Literary Criticism
-- Mexican Literature
-- Mexico
-oclc: '39825547'
-exlibris: '1993'
+- Novel
+- Russian Literature
+title: Obras completas
+year: 1991
 zotero_key: GLMLARN7
-cover: covers/glmlarn7.jpg
 ---
 

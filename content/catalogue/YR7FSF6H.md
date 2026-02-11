@@ -1,28 +1,27 @@
 ---
-title: 'Literatura mexicana del siglo XX: estudios y apuntes'
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Gutiérrez, León Guillermo
-publishers:
-- Universidad Autónoma del Estado de Morelos ; Juan Pablos Editor
-place: Cuernavaca, Morelos, México, D.F.
-languages:
-- Español
+cover: covers/yr7fsf6h.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1. ed
+isbn: 978-607-7771-61-6
 item_types:
 - book
-isbn: 978-607-7771-61-6
+languages:
+- Español
+oclc: '809535401'
 pages: 206
-edition: 1. ed
+place: Cuernavaca, Morelos, México, D.F.
+publishers:
+- Universidad Autónoma del Estado de Morelos ; Juan Pablos Editor
 series: []
 subjects:
 - Literary Criticism
+- Literary History
 - Mexican Literature
-- Mexico
-- Modern History
-oclc: '809535401'
+title: 'Literatura mexicana del siglo XX: estudios y apuntes'
+year: 2012
 zotero_key: YR7FSF6H
-cover: covers/yr7fsf6h.jpg
 ---
 

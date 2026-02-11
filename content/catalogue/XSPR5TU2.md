@@ -1,24 +1,26 @@
 ---
-title: La muerte de la familia
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Cooper, D. G.
-publishers:
-- Paidós
-place: Buenos Aires
-languages:
-- Español
+cover: covers/xspr5tu2.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '48323923'
 pages: 172
+place: Buenos Aires
+publishers:
+- Paidós
 series:
 - Biblioteca Mundo Moderno
 subjects:
+- Essay
 - Family
-oclc: '48323923'
+- Philosophy
+title: La muerte de la familia
+year: 1971
 zotero_key: XSPR5TU2
-cover: covers/xspr5tu2.jpg
 ---
 

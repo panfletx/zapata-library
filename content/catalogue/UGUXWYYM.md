@@ -1,26 +1,27 @@
 ---
-title: 'Le cercle du petit ciel: roman'
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Ya, Ding
-publishers:
-- Institut Nazareth et Louis-Braille
-place: Longueuil
-languages:
-- Français
+cover: covers/uguxwyym.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-07-039268-1
 item_types:
 - book
-isbn: 978-2-07-039268-1
+languages:
+- Français
+oclc: '938003147'
 pages: 223
+place: Longueuil
+publishers:
+- Institut Nazareth et Louis-Braille
 series:
 - Folio
 subjects:
-- Horror & Gothic
-- Modern History
-oclc: '938003147'
+- China
+- French Literature
+- Novel
+title: 'Le cercle du petit ciel: roman'
+year: 1994
 zotero_key: UGUXWYYM
-cover: covers/uguxwyym.jpg
 ---
 

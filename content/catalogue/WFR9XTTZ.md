@@ -1,27 +1,28 @@
 ---
-title: 'Memoria y modernidad: cultura popular en América Latina'
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Rowe, William
 - Schelling, Vivian
-publishers:
-- Consejo nacional por la cultura y las artes
-place: México
-languages:
-- Español
+cover: covers/wfr9xttz.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-29-5566-2
 item_types:
 - book
-isbn: 978-968-29-5566-2
+languages:
+- Español
+oclc: '489653833'
 pages: 271
+place: México
+publishers:
+- Consejo nacional por la cultura y las artes
 series:
 - Los Noventa
 subjects:
-- Latin America
-- Modern History
-oclc: '489653833'
+- Essay
+- Latin American Literature
+- Memory
+title: 'Memoria y modernidad: cultura popular en América Latina'
+year: 1991
 zotero_key: WFR9XTTZ
-cover: covers/wfr9xttz.jpg
 ---
 

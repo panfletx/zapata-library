@@ -1,24 +1,25 @@
 ---
-title: Consejos para viajeros
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors: []
-publishers:
-- Anaya & Mario Muchnik
-place: Madrid
-languages:
-- Español
+cover: covers/zpfb4sk8.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7979-257-2
 item_types:
 - book
-isbn: 978-84-7979-257-2
+languages:
+- Español
+oclc: '434383176'
 pages: 60
+place: Madrid
+publishers:
+- Anaya & Mario Muchnik
 series:
 - Aguamarina
 subjects:
+- Spain
 - Travel Writing
-oclc: '434383176'
+title: Consejos para viajeros
+year: 1994
 zotero_key: ZPFB4SK8
-cover: covers/zpfb4sk8.jpg
 ---
 

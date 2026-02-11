@@ -1,25 +1,27 @@
 ---
-title: Elegías
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Editorial Quinqué
-place: México
-languages:
-- Español
+cover: covers/agmxwfi9.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-6245-09-7
 item_types:
 - book
-isbn: 978-968-6245-09-7
+languages:
+- Español
+oclc: '32334754'
 pages: 69
-edition: 1. ed
+place: México
+publishers:
+- Editorial Quinqué
 series: []
 subjects:
-- Fiction
-oclc: '32334754'
+- Death & Mourning
+- Mexican Literature
+- Poetry
+title: Elegías
+year: 1992
 zotero_key: AGMXWFI9
-cover: covers/agmxwfi9.jpg
 ---
 

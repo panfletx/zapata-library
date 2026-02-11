@@ -1,34 +1,29 @@
 ---
-title: 'El río: novelas de caballería'
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Cardoza y Aragón, Luis
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/7ymz85gf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: '1990'
+isbn: 978-968-16-2387-6
 item_types:
 - book
-isbn: 978-968-16-2387-6
+languages:
+- Español
+oclc: '15877381'
 pages: 898
-edition: 1a ed
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Autobiography & Memoir
-- Biography
-- Fiction
-- Latin American Literature
-- Literary Criticism
-- Love & Desire
-- Mexico
-- Modern History
-oclc: '15877381'
-exlibris: '1990'
+- Latin America
+- Mexican Literature
+- Novel
+title: 'El río: novelas de caballería'
+year: 1986
 zotero_key: 7YMZ85GF
-cover: covers/7ymz85gf.jpg
 ---
 

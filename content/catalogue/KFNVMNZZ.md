@@ -1,26 +1,28 @@
 ---
-title: 'Quiet days in Clichy and the world of sex: two books'
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Miller, Henry
-publishers:
-- 'Grove Press : Distributed by Random House'
-place: New York
-languages:
-- English
+cover: covers/kfnvmnzz.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1st ed
+isbn: 978-0-8021-4159-0
 item_types:
 - book
-isbn: 978-0-8021-4159-0
+languages:
+- English
+oclc: '4138895'
 pages: 147
-edition: 1st ed
+place: New York
+publishers:
+- 'Grove Press : Distributed by Random House'
 series:
 - Black cat book
 subjects:
-- Fiction
-oclc: '4138895'
+- American Literature
+- Erotic Literature
+- Novel
+title: 'Quiet days in Clichy and the world of sex: two books'
+year: 1978
 zotero_key: KFNVMNZZ
-cover: covers/kfnvmnzz.jpg
 ---
 

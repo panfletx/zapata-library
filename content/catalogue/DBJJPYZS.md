@@ -1,23 +1,24 @@
 ---
-title: 'Balada da praia dos cães: dissertação sobre um crime'
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Pires, José Cardoso
-publishers:
-- 'O Jornal : Distribuição de Dijornal'
-place: Lisboa
-languages:
-- Português
+cover: covers/dbjjpyzs.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Português
+oclc: '11068082'
 pages: 256
+place: Lisboa
+publishers:
+- 'O Jornal : Distribuição de Dijornal'
 series: []
 subjects:
-- Fiction
-oclc: '11068082'
+- Detective & Mystery
+- Novel
+title: 'Balada da praia dos cães: dissertação sobre um crime'
+year: 1982
 zotero_key: DBJJPYZS
-cover: covers/dbjjpyzs.jpg
 ---
 

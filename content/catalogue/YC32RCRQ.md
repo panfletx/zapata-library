@@ -1,35 +1,29 @@
 ---
-title: Saltatriz ; Diminuto
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Granados, Antonio
 - Varela, Cecilia
-publishers:
-- Ediciones El Naranjo
-place: México, D.F.
-languages:
-- Español
+cover: covers/yc32rcrq.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-968-5389-69-3
 item_types:
 - book
-isbn: 978-968-5389-69-3
+languages:
+- Español
+oclc: '244417045'
 pages: 1
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones El Naranjo
 series:
 - Para lectores que empiezan
 subjects:
-- Children's Literature
-- Education
-- Fiction
-- Grammar & Linguistics
-- Music
-- Novel
+- Mexican Literature
 - Poetry
-- Short Stories
-oclc: '244417045'
+title: Saltatriz ; Diminuto
+year: 2008
 zotero_key: YC32RCRQ
-cover: covers/yc32rcrq.jpg
 ---
 
 "Saltatriz is a tiny woman who sells used songs, and Diminuto has a minute in the place where his heart should be; the two meet in the middle of this unusual flip book."--Publisher's description

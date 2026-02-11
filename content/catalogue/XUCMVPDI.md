@@ -1,24 +1,26 @@
 ---
-title: Pompas fúnebres
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Genet, Jean
-publishers:
-- Corregidor
-place: Buenos Aires
-languages:
-- Español
+cover: covers/xucmvpdi.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1986'
 item_types:
 - book
+languages:
+- Español
+oclc: '3807613'
 pages: 273
+place: Buenos Aires
+publishers:
+- Corregidor
 series: []
 subjects:
-- Fiction
-oclc: '3807613'
-exlibris: '1986'
+- Death & Mourning
+- French Literature
+- Novel
+title: Pompas fúnebres
+year: 1975
 zotero_key: XUCMVPDI
-cover: covers/xucmvpdi.jpg
 ---
 

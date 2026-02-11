@@ -1,28 +1,27 @@
 ---
-title: Novela y sociedad
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Zéraffa, Michel
 - Castelló, José Aderaldo
-publishers:
-- Amorrortu Editores
-place: Argentina
-languages:
-- Español
+cover: covers/6p6rvyai.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1979'
 item_types:
 - book
+languages:
+- Español
+oclc: '318447894'
 pages: 167
+place: Argentina
+publishers:
+- Amorrortu Editores
 series:
 - Biblioteca de Sociología
 subjects:
-- Fiction
 - Literary Criticism
-- Modern History
-oclc: '318447894'
-exlibris: '1979'
+- Novel
+title: Novela y sociedad
+year: 1973
 zotero_key: 6P6RVYAI
-cover: covers/6p6rvyai.jpg
 ---
 

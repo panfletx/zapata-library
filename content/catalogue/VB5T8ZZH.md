@@ -1,26 +1,26 @@
 ---
-title: Down there on a visit
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Isherwood, Christopher
-publishers:
-- Avon
-place: New York
-languages:
-- English
+cover: covers/vb5t8zzh.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-380-50369-8
 item_types:
 - book
-isbn: 978-0-380-50369-8
+languages:
+- English
+oclc: '9270929'
 pages: 310
+place: New York
+publishers:
+- Avon
 series: []
 subjects:
-- Fiction
+- English Literature
 - Gay Literature
-- Short Stories
-oclc: '9270929'
+- Novel
+title: Down there on a visit
+year: 1978
 zotero_key: VB5T8ZZH
-cover: covers/vb5t8zzh.jpg
 ---
 

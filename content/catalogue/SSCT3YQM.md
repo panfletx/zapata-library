@@ -1,25 +1,27 @@
 ---
-title: Sujodol ; El maestro
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Bunin, Ivan Alekseevič.
-publishers:
-- Espasa-Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/ssct3yqm.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '2003'
 item_types:
 - book
+languages:
+- Español
+oclc: '1404646245'
 pages: 147
+place: Madrid
+publishers:
+- Espasa-Calpe
 series:
 - Colección austral
 subjects:
-- Fiction
-oclc: '1404646245'
-exlibris: '2003'
+- Novel
+- Russian Literature
+- Short Stories
+title: Sujodol ; El maestro
+year: 1966
 zotero_key: SSCT3YQM
-cover: covers/ssct3yqm.jpg
 ---
 

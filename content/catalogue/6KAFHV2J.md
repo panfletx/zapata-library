@@ -1,26 +1,26 @@
 ---
-title: En resumidas cuentas
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Boyd, William
-publishers:
-- Alfaguara
-place: Barcelona
-languages:
-- Español
+cover: covers/6kafhv2j.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-204-2791-1
 item_types:
 - book
-isbn: 978-84-204-2791-1
+languages:
+- Español
+oclc: '919903375'
 pages: 317
+place: Barcelona
+publishers:
+- Alfaguara
 series:
 - Alfaguara/bolsillo
 subjects:
+- English Literature
 - Fiction
-- Mexican Literature
-oclc: '919903375'
+title: En resumidas cuentas
+year: 1993
 zotero_key: 6KAFHV2J
-cover: covers/6kafhv2j.jpg
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: Martín Fierro
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Hernández, José
-publishers:
-- 'Editorial Origen : Editorial Omgsa'
-place: México
-languages:
-- Español
+cover: covers/gipmalfv.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-6200-54-6
 item_types:
 - book
-isbn: 978-968-6200-54-6
+languages:
+- Español
+oclc: '19500061'
 pages: 231
+place: México
+publishers:
+- 'Editorial Origen : Editorial Omgsa'
 series:
 - Historia universal de la literatura
 subjects:
-- Argentina
-- Poetry
-oclc: '19500061'
+- Argentine Literature
+- Epic
+title: Martín Fierro
+year: 1983
 zotero_key: GIPMALFV
-cover: covers/gipmalfv.jpg
 ---
 

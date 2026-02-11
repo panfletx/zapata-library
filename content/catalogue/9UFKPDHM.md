@@ -1,25 +1,27 @@
 ---
-title: Fanny Hill
-date: '2024-09-01'
-year: 198
 authors:
 - Cleland, John
 - Podestá, Beatriz
-publishers:
-- Edit. Bolsilibro
-place: México
-languages:
-- Español
+cover: covers/9ufkpdhm.jpg
+date: '2024-09-01'
+exlibris: '1992'
+isbn: 978-968-899-006-3
 item_types:
 - book
-isbn: 978-968-899-006-3
+languages:
+- Español
+oclc: '651485703'
 pages: 249
+place: México
+publishers:
+- Edit. Bolsilibro
 series: []
 subjects:
-- Fiction
-oclc: '651485703'
-exlibris: '1992'
+- English Literature
+- Erotic Literature
+- Novel
+title: Fanny Hill
+year: 198
 zotero_key: 9UFKPDHM
-cover: covers/9ufkpdhm.jpg
 ---
 

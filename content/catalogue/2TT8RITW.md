@@ -1,17 +1,19 @@
 ---
-title: Las intermitencias del amor
-date: '2024-09-01'
 authors:
 - Tapia Bernal, Luis Miguel
-publishers: []
-languages: []
+cover: covers/2tt8ritw.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria del autor
+- Love & Desire
+- Mexican Literature
+- Novel
+title: Las intermitencias del amor
 zotero_key: 2TT8RITW
-cover: covers/2tt8ritw.jpg
 ---
 

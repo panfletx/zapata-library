@@ -1,27 +1,28 @@
 ---
-title: Tebas de mi corazón
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Piñon, Nélida
-publishers:
-- Alfaguara
-place: México, D.F.
-languages:
-- Español
+cover: covers/jvl2ecnf.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1997'
+isbn: 978-84-204-2104-9
 item_types:
 - book
-isbn: 978-84-204-2104-9
+languages:
+- Español
+oclc: '34405953'
 pages: 499
+place: México, D.F.
+publishers:
+- Alfaguara
 series:
 - Fin de Siglo
 subjects:
+- Brazilian Literature
 - Fiction
-- Translation Studies
-oclc: '34405953'
-exlibris: '1997'
+- Novel
+title: Tebas de mi corazón
+year: 1991
 zotero_key: JVL2ECNF
-cover: covers/jvl2ecnf.jpg
 ---
 

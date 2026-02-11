@@ -1,25 +1,28 @@
 ---
-title: Nieve sobre Oaxaca
-date: '2024-09-01'
-year: 2009
-decade: 2000s
 authors:
 - Torre, Gerardo de la
-publishers:
-- Consejo Estatal para las Culturas y las Artes y Chiapas
-place: Tuxtla Gutiérrez, Chiapas
-languages:
-- Español
+cover: covers/8bnpy4yw.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-697-266-8
 item_types:
 - book
-isbn: 978-970-697-266-8
+languages:
+- Español
+oclc: '636749768'
 pages: 116
+place: Tuxtla Gutiérrez, Chiapas
+publishers:
+- Consejo Estatal para las Culturas y las Artes y Chiapas
 series:
 - Colección Hechos en palabras
 subjects:
-- Fiction
-oclc: '636749768'
+- Chiapas
+- Mexican Literature
+- Novel
+- Oaxaca
+title: Nieve sobre Oaxaca
+year: 2009
 zotero_key: 8BNPY4YW
-cover: covers/8bnpy4yw.jpg
 ---
 

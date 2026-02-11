@@ -1,18 +1,19 @@
 ---
-title: Viaje por América
-date: '2024-09-01'
 authors:
 - Humboldt, Alejandro De
 - Labastida, Jaime
-publishers: []
-languages: []
+cover: covers/itg43vf4.jpg
+date: '2024-09-01'
+exlibris: '2010'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
-exlibris: '2010'
+- Latin America
+- Travel Writing
+title: Viaje por América
 zotero_key: ITG43VF4
-cover: covers/itg43vf4.jpg
 ---
 

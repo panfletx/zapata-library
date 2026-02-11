@@ -1,24 +1,26 @@
 ---
-title: Las jarchas mozárabes y los comienzos de la lírica románica
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Frenk Alatorre, Margit
-publishers:
-- Centro de Estudios Lingüísticos y Literarios, El Colegio de México
-place: México
-languages:
-- Español
+cover: covers/dfsxprrc.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1979'
 item_types:
 - book
+languages:
+- Español
+oclc: '48309605'
 pages: 4
+place: México
+publishers:
+- Centro de Estudios Lingüísticos y Literarios, El Colegio de México
 series: []
 subjects:
-- Poetry
-oclc: '48309605'
-exlibris: '1979'
+- Literary History
+- Medieval Literature
+- Spanish Literature
+title: Las jarchas mozárabes y los comienzos de la lírica románica
+year: 1972
 zotero_key: DFSXPRRC
-cover: covers/dfsxprrc.jpg
 ---
 

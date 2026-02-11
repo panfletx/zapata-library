@@ -1,23 +1,23 @@
 ---
-title: Delicias culinarias
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors: []
-publishers:
-- Selecciones del Reader's digest
-place: México
-languages:
-- Español
+cover: covers/iu5cq7tq.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-28-0028-3
 item_types:
 - book
-isbn: 978-968-28-0028-3
+languages:
+- Español
+oclc: '16165405'
 pages: 352
+place: México
+publishers:
+- Selecciones del Reader's digest
 series: []
 subjects:
 - Food & Gastronomy
-oclc: '16165405'
+title: Delicias culinarias
+year: 1981
 zotero_key: IU5CQ7TQ
-cover: covers/iu5cq7tq.jpg
 ---
 

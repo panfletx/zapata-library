@@ -1,27 +1,26 @@
 ---
-title: 'El destino de la novela: Camus - Hemingway - Moravia - Joyce - Faulkner - Sholojov - Robbe-Grillet'
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Kozhinov, Vadim Valerianovich
-publishers:
-- Editorial Orbelus
-place: Buenos Aires
-languages:
-- Español
+cover: covers/ayu2enej.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '37336249'
 pages: 269
+place: Buenos Aires
+publishers:
+- Editorial Orbelus
 series:
 - Colección Testimonios (Editorial Orbelus)
 subjects:
-- Fiction
+- Latin American Literature
 - Literary Criticism
-- Modern History
-- United States
-oclc: '37336249'
+- Literary History
+title: 'El destino de la novela: Camus - Hemingway - Moravia - Joyce - Faulkner - Sholojov - Robbe-Grillet'
+year: 1967
 zotero_key: AYU2ENEJ
-cover: covers/ayu2enej.jpg
 ---
 

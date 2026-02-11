@@ -1,26 +1,28 @@
 ---
-title: Adolphe ; Le Cahier rouge ; Cécile
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Constant, Benjamin
 - Roulin, Alfred
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/2fljqwe2.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1975'
 item_types:
 - book
+languages:
+- Français
+oclc: '24052314'
 pages: 310
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio
 subjects:
 - French Literature
-oclc: '24052314'
-exlibris: '1975'
+- Love & Desire
+- Novel
+title: Adolphe ; Le Cahier rouge ; Cécile
+year: 1989
 zotero_key: 2FLJQWE2
-cover: covers/2fljqwe2.jpg
 ---
 

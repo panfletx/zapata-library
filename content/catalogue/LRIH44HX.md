@@ -1,26 +1,26 @@
 ---
-title: Renart el zorro
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors:
 - Anonimo
-publishers:
-- Premia
-place: Mexico
-languages:
-- Español
+cover: covers/lrih44hx.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 3 ed
+isbn: 978-968-434-098-5
 item_types:
 - book
-isbn: 978-968-434-098-5
+languages:
+- Español
+oclc: '970454572'
 pages: 96
-edition: 3 ed
+place: Mexico
+publishers:
+- Premia
 series: []
 subjects:
-- Fiction
-- Poetry
-oclc: '970454572'
+- Fable & Parable
+- Medieval Literature
+title: Renart el zorro
+year: 1992
 zotero_key: LRIH44HX
-cover: covers/lrih44hx.jpg
 ---
 

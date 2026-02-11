@@ -1,26 +1,27 @@
 ---
-title: The Oxford anthology of English literature. Volume II, 1800 to the present
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Kermode, Frank
 - Hollander, John
-publishers:
-- Oxford University Press
-place: New York
-languages:
-- English
+cover: covers/nh8swvhe.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-0-19-501660-4
 item_types:
 - book
-isbn: 978-0-19-501660-4
+languages:
+- English
+oclc: '24117398'
 pages: 2238
+place: New York
+publishers:
+- Oxford University Press
 series: []
 subjects:
+- Anthology
 - English Literature
-- Literary Criticism
-oclc: '24117398'
+- Literary History
+title: The Oxford anthology of English literature. Volume II, 1800 to the present
+year: 1973
 zotero_key: NH8SWVHE
-cover: covers/nh8swvhe.jpg
 ---
 

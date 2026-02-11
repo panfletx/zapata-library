@@ -1,25 +1,27 @@
 ---
-title: Candide ou l'optimisme
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Voltaire
-publishers:
-- EJL
-place: Paris
-languages:
-- Français
+cover: covers/lrtrzvtg.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-277-30031-1
 item_types:
 - book
-isbn: 978-2-277-30031-1
+languages:
+- Français
+oclc: '806310468'
 pages: 95
+place: Paris
+publishers:
+- EJL
 series:
 - Librio
 subjects:
 - French Literature
-oclc: '806310468'
+- Novel
+- Satire & Humor
+title: Candide ou l'optimisme
+year: 1996
 zotero_key: LRTRZVTG
-cover: covers/lrtrzvtg.jpg
 ---
 

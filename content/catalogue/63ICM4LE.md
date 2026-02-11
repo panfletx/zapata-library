@@ -1,15 +1,16 @@
 ---
-title: Revista, National Geographic
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/63icm4le.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Nature & Environment
+- Travel Writing
+title: Revista, National Geographic
 zotero_key: 63ICM4LE
-cover: covers/63icm4le.jpg
 ---
 

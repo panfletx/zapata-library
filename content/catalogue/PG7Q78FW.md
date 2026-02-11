@@ -1,27 +1,29 @@
 ---
-title: La revocación del edicto de Nantes
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Klossowski, Pierre
 - Alban, Michèle
 - García Ponce, Juan
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/pg7q78fw.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '36215636'
 pages: 141
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
-- Literary Criticism
-oclc: '36215636'
+- Aesthetics
+- Essay
+- French Literature
+title: La revocación del edicto de Nantes
+year: 1975
 zotero_key: PG7Q78FW
-cover: covers/pg7q78fw.jpg
 ---
 

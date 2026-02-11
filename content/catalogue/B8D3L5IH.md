@@ -1,29 +1,27 @@
 ---
-title: Historia de la ciudad de México desde su fundación hasta 1854
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Orozco y Berra, Manuel
-publishers:
-- SepDiana
-place: México
-languages:
-- Español
+cover: covers/b8d3l5ih.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-13-0795-0
 item_types:
 - book
-isbn: 978-968-13-0795-0
+languages:
+- Español
+oclc: '8176608'
 pages: 188
-edition: 1a ed
+place: México
+publishers:
+- SepDiana
 series:
 - SepSetentas Diana
 subjects:
-- Mexico
+- Historical Fiction
 - Mexico City
-- Modern History
-- Urban Life
-oclc: '8176608'
+title: Historia de la ciudad de México desde su fundación hasta 1854
+year: 1980
 zotero_key: B8D3L5IH
-cover: covers/b8d3l5ih.jpg
 ---
 

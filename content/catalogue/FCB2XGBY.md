@@ -1,23 +1,25 @@
 ---
-title: L'art de jouir
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors:
 - Onfray, Michel
-publishers:
-- Grasset
-place: Lieu de publication non identifié
-languages:
-- Français
+cover: covers/fcb2xgby.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-253-94198-9
 item_types:
 - book
-isbn: 978-2-253-94198-9
+languages:
+- Français
+oclc: '406390693'
+place: Lieu de publication non identifié
+publishers:
+- Grasset
 series: []
 subjects:
+- Essay
+- French Literature
 - Philosophy
-oclc: '406390693'
+title: L'art de jouir
+year: 1991
 zotero_key: FCB2XGBY
-cover: covers/fcb2xgby.jpg
 ---
 

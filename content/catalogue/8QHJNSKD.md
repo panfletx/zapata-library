@@ -1,25 +1,27 @@
 ---
-title: La divina comedia
-date: '2024-09-01'
-year: 1968
-decade: 1960s
 authors:
 - Dante Alighieri
-publishers:
-- Porrua
-place: Mexico
-languages:
-- Español
+cover: covers/8qhjnskd.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: 4. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1264869561'
 pages: 304
-edition: 4. ed
+place: Mexico
+publishers:
+- Porrua
 series:
 - Coleccion Sepan cuantos ; 15
 subjects:
-- Fiction
-oclc: '1264869561'
+- Classical Literature
+- Epic
+- Italian Literature
+title: La divina comedia
+year: 1968
 zotero_key: 8QHJNSKD
-cover: covers/8qhjnskd.jpg
 ---
 

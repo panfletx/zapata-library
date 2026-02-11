@@ -1,25 +1,27 @@
 ---
-title: Manifiesto de amor
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Samperio, Guillermo
 - Holgado
-publishers:
-- El Tucán de Virginia
-place: México
-languages:
-- Español
+cover: covers/wf8mingv.jpg
+cover_note: dedicatoria Samperio 1987
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '1385247068'
 pages: 49
+place: México
+publishers:
+- El Tucán de Virginia
 series: []
 subjects:
-- Mexico
-oclc: '1385247068'
-cover_note: dedicatoria Samperio 1987
+- Love & Desire
+- Mexican Literature
+- Poetry
+title: Manifiesto de amor
+year: 1980
 zotero_key: WF8MINGV
-cover: covers/wf8mingv.jpg
 ---
 

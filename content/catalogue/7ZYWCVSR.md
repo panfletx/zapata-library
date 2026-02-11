@@ -1,26 +1,26 @@
 ---
-title: 'Cuatro comedias: Las paredes oyen ; La verdad sospechosa ; Los pechos privilegiados ; Ganar amigos'
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Ruiz de Alarcón y Mendoza, Juan
-publishers:
-- Porrúa
-place: México
-languages:
-- Español
+cover: covers/7zywcvsr.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '1097793436'
 pages: 206
+place: México
+publishers:
+- Porrúa
 series:
 - '"Sepan cuantos-- "'
 subjects:
+- Classical Literature
 - Drama
-- Literary Criticism
 - Spanish Literature
-oclc: '1097793436'
+title: 'Cuatro comedias: Las paredes oyen ; La verdad sospechosa ; Los pechos privilegiados ; Ganar amigos'
+year: 1977
 zotero_key: 7ZYWCVSR
-cover: covers/7zywcvsr.jpg
 ---
 

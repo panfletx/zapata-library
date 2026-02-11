@@ -1,17 +1,18 @@
 ---
-title: Revista, Biblioteca de México 11 y 12
-date: '2024-09-01'
-year: 1992
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/hqjppdw7.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Bibliography
+- Mexican Literature
+title: Revista, Biblioteca de México 11 y 12
+year: 1992
 zotero_key: HQJPPDW7
-cover: covers/hqjppdw7.jpg
 ---
 

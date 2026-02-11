@@ -1,24 +1,26 @@
 ---
-title: Georg Groddeck
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Clément, Catherine
-publishers:
-- L'Arc
-place: Aix-en-Provence
-languages:
-- Français
+cover: covers/rjt7sj3z.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Français
+oclc: '6995692'
 pages: 103
+place: Aix-en-Provence
+publishers:
+- L'Arc
 series:
 - Arc (Aix-en-Provence, France)
 subjects:
+- Biography
+- French Literature
 - Psychoanalysis
-oclc: '6995692'
+title: Georg Groddeck
+year: 1980
 zotero_key: RJT7SJ3Z
-cover: covers/rjt7sj3z.jpg
 ---
 

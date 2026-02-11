@@ -1,31 +1,31 @@
 ---
-title: El insólito caso del Señor Morton
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Zapata, Martín
 - Adame, Domingo
 - Fediuk, Elka
 - Medina Avalos, Paloma López
-publishers:
-- Universidad Veracruzana, Facultad de Teatro
-place: Xalapa, Ver.
-languages:
-- Español
+cover: covers/mq7wel6s.jpg
+cover_note: dedicatoria de Martin Zapata
+date: '2024-09-01'
+decade: 2000s
+edition: Primera edición
+isbn: 978-968-834-731-7
 item_types:
 - book
-isbn: 978-968-834-731-7
+languages:
+- Español
+oclc: '1256665522'
 pages: 72
-edition: Primera edición
+place: Xalapa, Ver.
+publishers:
+- Universidad Veracruzana, Facultad de Teatro
 series:
 - Serie Creación (Universidad Veracruzana)
 subjects:
-- Fiction
+- Drama
 - Mexican Literature
-oclc: '1256665522'
-cover_note: dedicatoria de Martin Zapata
+title: El insólito caso del Señor Morton
+year: 2006
 zotero_key: MQ7WEL6S
-cover: covers/mq7wel6s.jpg
 ---
 

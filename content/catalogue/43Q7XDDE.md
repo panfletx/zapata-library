@@ -1,26 +1,26 @@
 ---
-title: Son caminos
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Simon, John Oliver
 - Acosta Hernández, Juvenal
-publishers:
-- Hotel Ambosmundos
-place: México D.F.
-languages:
-- English
+cover: covers/43q7xdde.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6737-02-8
 item_types:
 - book
-isbn: 978-968-6737-02-8
+languages:
+- English
+oclc: '782956604'
 pages: 118
+place: México D.F.
+publishers:
+- Hotel Ambosmundos
 series: []
 subjects:
+- Mexico City
 - Poetry
-- Translation Studies
-oclc: '782956604'
+title: Son caminos
+year: 1996
 zotero_key: 43Q7XDDE
-cover: covers/43q7xdde.jpg
 ---
 

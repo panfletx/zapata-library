@@ -1,28 +1,29 @@
 ---
-title: Fragmentos
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Arquíloco
 - Molina Ayala, José
-publishers:
-- Textofilia Ediciones ; Universidad Autonóma de Nuevo León, Biblioteca Universitaria Raúl Rangel Frías
-place: México, D.F., Monterrey, Nuevo León, México
-languages:
-- Español
+cover: covers/ttc7xn86.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a ed
+isbn: 978-607-7818-30-4
 item_types:
 - book
-isbn: 978-607-7818-30-4
+languages:
+- Español
+oclc: '807327701'
 pages: 146
-edition: 1a ed
+place: México, D.F., Monterrey, Nuevo León, México
+publishers:
+- Textofilia Ediciones ; Universidad Autonóma de Nuevo León, Biblioteca Universitaria Raúl Rangel Frías
 series:
 - Colección Ión. Serie Poesía
 subjects:
+- Ancient History
+- Classical Literature
 - Poetry
-- Translation Studies
-oclc: '807327701'
+title: Fragmentos
+year: 2011
 zotero_key: TTC7XN86
-cover: covers/ttc7xn86.jpg
 ---
 

@@ -1,26 +1,25 @@
 ---
-title: Diccionario de retórica y poética
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Beristáin, Helena
-publishers:
-- Editorial Porrúa
-place: México
-languages:
-- Español
+cover: covers/lx2hyya7.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 9th ed
 item_types:
 - book
+languages:
+- Español
+oclc: '231363285'
 pages: 520
-edition: 9th ed
+place: México
+publishers:
+- Editorial Porrúa
 series: []
 subjects:
 - Dictionary
-- Grammar & Linguistics
 - Rhetoric
-oclc: '231363285'
+title: Diccionario de retórica y poética
+year: 2006
 zotero_key: LX2HYYA7
-cover: covers/lx2hyya7.jpg
 ---
 

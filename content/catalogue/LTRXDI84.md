@@ -1,26 +1,26 @@
 ---
-title: Antología del corazón
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Carlson, Richard
 - Shield, Benjamin
-publishers:
-- Grupo Editorial Norma
-place: Barcelona, Spain
-languages:
-- Español
+cover: covers/ltrxdi84.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-958-04-3740-6
 item_types:
 - book
-isbn: 978-958-04-3740-6
+languages:
+- Español
+oclc: '38273640'
 pages: 232
+place: Barcelona, Spain
+publishers:
+- Grupo Editorial Norma
 series: []
 subjects:
-- Love & Desire
-- Religion
-oclc: '38273640'
+- Anthology
+- Essay
+title: Antología del corazón
+year: 1997
 zotero_key: LTRXDI84
-cover: covers/ltrxdi84.jpg
 ---
 

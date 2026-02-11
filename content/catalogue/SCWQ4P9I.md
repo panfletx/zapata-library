@@ -1,31 +1,29 @@
 ---
-title: 'Historias médicas: ¿qué me pasa, doctor?'
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Ayala, Francisco
-publishers:
-- Páginas de Espuma
-place: Madrid
-languages:
-- Español
+cover: covers/scwq4p9i.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-84-95642-01-1
 item_types:
 - book
-isbn: 978-84-95642-01-1
-source_url: http://catdir.loc.gov/catdir/enhancements/fy0836/2001423227-d.html
+languages:
+- Español
+oclc: '47686585'
 pages: 222
-edition: 1. ed
+place: Madrid
+publishers:
+- Páginas de Espuma
 series:
 - Narrativa breve (Madrid, Spain)
+source_url: http://catdir.loc.gov/catdir/enhancements/fy0836/2001423227-d.html
 subjects:
-- Fiction
-- Latin America
 - Medicine & Health
 - Short Stories
-- United States
-oclc: '47686585'
+- Spanish Literature
+title: 'Historias médicas: ¿qué me pasa, doctor?'
+year: 2001
 zotero_key: SCWQ4P9I
-cover: covers/scwq4p9i.jpg
 ---
 

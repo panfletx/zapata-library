@@ -1,28 +1,29 @@
 ---
-title: Un buen hombre en África
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Boyd, William
 - Moreno, Bernardo
-publishers:
-- Alfaguara
-place: Madrid
-languages:
-- Español
+cover: covers/vrkuqpn4.jpg
+cover_note: regalo de José
+date: '2024-09-01'
+decade: 1990s
+edition: 2a. ed
+exlibris: '1995'
+isbn: 978-84-204-2463-7
 item_types:
 - book
-isbn: 978-84-204-2463-7
+languages:
+- Español
+oclc: '34205177'
 pages: 469
-edition: 2a. ed
+place: Madrid
+publishers:
+- Alfaguara
 series: []
 subjects:
-- Fiction
-oclc: '34205177'
-cover_note: regalo de José
-exlibris: '1995'
+- English Literature
+- Novel
+title: Un buen hombre en África
+year: 1995
 zotero_key: VRKUQPN4
-cover: covers/vrkuqpn4.jpg
 ---
 

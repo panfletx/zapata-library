@@ -1,31 +1,30 @@
 ---
-title: 'Prodigios y maravillas: verdadera y notable relación en la cual se declaran tres admirables sucesos que son de los más señalados y se reúnen para noticia y asombro por ser todos ellos de grande
-  ejemplo'
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Carranza, Claudia
 - Mateo, José Manuel
 - Gómez Morin, Mauricio
-publishers:
-- Ideazapato
-place: San Luis Potosí, México
-languages:
-- Español
+cover: covers/syc7nkgs.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-00-5502-7
 item_types:
 - book
-isbn: 978-607-00-5502-7
+languages:
+- Español
+oclc: '972178760'
 pages: 54
-edition: Primera edición
+place: San Luis Potosí, México
+publishers:
+- Ideazapato
 series: []
 subjects:
-- Childhood
-- Children's Literature
+- Chronicle
+- Mexican Literature
 - Mexico
-- Science
-oclc: '972178760'
+title: 'Prodigios y maravillas: verdadera y notable relación en la cual se declaran tres admirables sucesos que son de los más señalados y se reúnen para noticia y asombro por ser todos ellos de grande
+  ejemplo'
+year: 2012
 zotero_key: SYC7NKGS
-cover: covers/syc7nkgs.jpg
 ---
 

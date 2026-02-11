@@ -1,31 +1,30 @@
 ---
-title: José Revueltas
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Blanco, José Joaquín
 - Revueltas, José
-publishers:
-- 'Consejo Nacional de Recursos para la Atención de la Juventud : Editorial Terra Nova'
-place: México, D.F.
-languages:
-- Español
+cover: covers/xwvibzm3.jpg
+cover_note: dedicatoria de jjb
+date: '2024-09-01'
+decade: 1980s
+edition: 1. ed
+isbn: 978-968-473-045-8
 item_types:
 - book
-isbn: 978-968-473-045-8
+languages:
+- Español
+oclc: '16683749'
 pages: 142
-edition: 1. ed
+place: México, D.F.
+publishers:
+- 'Consejo Nacional de Recursos para la Atención de la Juventud : Editorial Terra Nova'
 series:
 - Grandes maestros mexicanos
 subjects:
-- Fiction
-- Literary Criticism
+- Biography
 - Mexican Literature
-- Mexico
-oclc: '16683749'
-cover_note: dedicatoria de jjb
+- Mexico City
+title: José Revueltas
+year: 1985
 zotero_key: XWVIBZM3
-cover: covers/xwvibzm3.jpg
 ---
 

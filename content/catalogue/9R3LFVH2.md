@@ -1,28 +1,28 @@
 ---
-title: Ernesto
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Saba, Umberto
 - Fernández, Guillermo
-publishers:
-- Quimera
-place: Cuauhtémoc, México
-languages:
-- Español
+cover: covers/9r3lfvh2.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+isbn: 978-970-95563-2-2
 item_types:
 - book
-isbn: 978-970-95563-2-2
+languages:
+- Español
+oclc: '317062591'
 pages: 133
-edition: 1. ed
+place: Cuauhtémoc, México
+publishers:
+- Quimera
 series:
 - Colección Thélema
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '317062591'
+- Italian Literature
+- Novella
+title: Ernesto
+year: 2007
 zotero_key: 9R3LFVH2
-cover: covers/9r3lfvh2.jpg
 ---
 

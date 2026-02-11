@@ -1,28 +1,27 @@
 ---
-title: 'Eduardo Cárdenas Fonseca: de desaburrimiento'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Cárdenas Fonseca, Eduardo
 - Salazar, Ignacio
 - Zapata, Luis
-publishers:
-- Galería Lourdes Chumacero
-place: México, D.F.
-languages:
-- Español
+cover: covers/e7xvf8nx.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages:
+- Español
+oclc: '47142307'
 pages: 71
+place: México, D.F.
+publishers:
+- Galería Lourdes Chumacero
 series:
 - Arte contemporaneo
 subjects:
-- Mexico
-- Museums & Collections
-- Painting
-oclc: '47142307'
+- Mexican Literature
+- Visual Art
+title: 'Eduardo Cárdenas Fonseca: de desaburrimiento'
+year: 1993
 zotero_key: E7XVF8NX
-cover: covers/e7xvf8nx.jpg
 ---
 

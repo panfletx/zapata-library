@@ -1,31 +1,29 @@
 ---
-title: 'Jaula de palabras: una antología de la nueva narrativa mexicana'
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Sáinz, Gustavo
-publishers:
-- Editorial Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/zte7gn9f.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+exlibris: '1991'
+isbn: 978-968-419-137-2
 item_types:
 - book
-isbn: 978-968-419-137-2
+languages:
+- Español
+oclc: '8473674'
 pages: 478
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Editorial Grijalbo
 series:
 - Escritores mexicanos (Editorial Grijalbo)
 subjects:
 - Anthology
-- Fiction
-- Mexico
-- Modern History
-- Short Stories
-oclc: '8473674'
-exlibris: '1991'
+- Contemporary History
+- Mexican Literature
+title: 'Jaula de palabras: una antología de la nueva narrativa mexicana'
+year: 1980
 zotero_key: ZTE7GN9F
-cover: covers/zte7gn9f.jpg
 ---
 

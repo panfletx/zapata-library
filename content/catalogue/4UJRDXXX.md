@@ -1,24 +1,26 @@
 ---
-title: Guerra del tiempo
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Carpentier, Alejo
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/4ujrdxxx.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-0971-8
 item_types:
 - book
-isbn: 978-968-39-0971-8
+languages:
+- Español
+oclc: '651521737'
 pages: 95
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Fiction
-oclc: '651521737'
+- Caribbean
+- Cuban Literature
+- Short Stories
+title: Guerra del tiempo
+year: 1994
 zotero_key: 4UJRDXXX
-cover: covers/4ujrdxxx.jpg
 ---
 

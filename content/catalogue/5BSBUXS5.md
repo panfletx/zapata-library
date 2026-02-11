@@ -1,25 +1,27 @@
 ---
-title: 'Le récit médiéval: XII-XIII siècles'
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Baumgartner, Emmanuèle
-publishers:
-- Hachette
-place: Paris
-languages:
-- Français
+cover: covers/5bsbuxs5.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2000'
+isbn: 978-2-01-019714-7
 item_types:
 - book
-isbn: 978-2-01-019714-7
+languages:
+- Français
+oclc: '859869970'
 pages: 154
+place: Paris
+publishers:
+- Hachette
 series: []
 subjects:
 - French Literature
-oclc: '859869970'
-exlibris: '2000'
+- Literary History
+- Medieval Literature
+title: 'Le récit médiéval: XII-XIII siècles'
+year: 1995
 zotero_key: 5BSBUXS5
-cover: covers/5bsbuxs5.jpg
 ---
 

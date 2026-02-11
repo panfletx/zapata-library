@@ -1,24 +1,25 @@
 ---
-title: Œuvres poétiques [de] Clément Marot
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Marot, Clément
-publishers:
-- Garnier, Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/n6yngxwb.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '1046455'
 pages: 504
+place: Paris
+publishers:
+- Garnier, Flammarion
 series:
 - Garnier Flammarion (Series)
 subjects:
+- French Literature
 - Poetry
-oclc: '1046455'
+title: Œuvres poétiques [de] Clément Marot
+year: 1973
 zotero_key: N6YNGXWB
-cover: covers/n6yngxwb.jpg
 ---
 

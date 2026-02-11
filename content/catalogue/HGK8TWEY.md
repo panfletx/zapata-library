@@ -1,25 +1,26 @@
 ---
-title: Nezahualcóyotl
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Martínez, José-Luis
-publishers:
-- Secretaria de Educación Pública
-place: México
-languages:
-- Español
+cover: covers/hgk8twey.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '1331525314'
 pages: 201
+place: México
+publishers:
+- Secretaria de Educación Pública
 series:
 - SepSetentas
 subjects:
-- Literary Criticism
+- Biography
+- Mexican Literature
 - Pre-Columbian
-oclc: '1331525314'
+title: Nezahualcóyotl
+year: 1972
 zotero_key: HGK8TWEY
-cover: covers/hgk8twey.jpg
 ---
 

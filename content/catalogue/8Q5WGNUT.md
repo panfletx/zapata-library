@@ -1,32 +1,29 @@
 ---
-title: En todas partes, ninguna
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Debroise, Olivier
-publishers:
-- Ediciones Océano
-place: México, D.F.
-languages:
-- Español
+cover: covers/8q5wgnut.jpg
+cover_note: dedicatoria de Olivier
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-493-100-8
 item_types:
 - book
-isbn: 978-968-493-100-8
+languages:
+- Español
+oclc: '16545920'
 pages: 121
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Ediciones Océano
 series: []
 subjects:
-- Fiction
-- Gay Literature
-- Mexico
-- Modern History
-- Short Stories
-- Social Movements
-oclc: '16545920'
-cover_note: dedicatoria de Olivier
+- Biography
+- Mexican Literature
+- Photography
+title: En todas partes, ninguna
+year: 1986
 zotero_key: 8Q5WGNUT
-cover: covers/8q5wgnut.jpg
 ---
 
 "La historia de un decadente mexicano homosexual en un México de fin de siglo. Y narrada con todos los absurdos heredados de las vanguardias literarias."--Goodreads

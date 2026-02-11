@@ -1,31 +1,27 @@
 ---
-title: 'Le thé au harem d''Archi Ahmed: roman'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Charef, Mehdi
-publishers:
-- Mercure de France
-place: Paris
-languages:
-- Français
+cover: covers/cnabdwzy.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1993'
+isbn: 978-2-7152-0110-1
 item_types:
 - book
-isbn: 978-2-7152-0110-1
+languages:
+- Français
+oclc: '10280816'
 pages: 182
+place: Paris
+publishers:
+- Mercure de France
 series: []
 subjects:
-- Fiction
 - France
-- Modern History
-- North Africa
+- French Literature
 - Novel
-- Paris
-- Short Stories
-oclc: '10280816'
-exlibris: '1993'
+title: 'Le thé au harem d''Archi Ahmed: roman'
+year: 1983
 zotero_key: CNABDWZY
-cover: covers/cnabdwzy.jpg
 ---
 

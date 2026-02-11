@@ -1,17 +1,18 @@
 ---
-title: Revista, magazine littéraire
-date: '2024-09-01'
-year: 2000
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/bm2ussw9.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- French Literature
+- Literary Criticism
+title: Revista, magazine littéraire
+year: 2000
 zotero_key: BM2USSW9
-cover: covers/bm2ussw9.jpg
 ---
 

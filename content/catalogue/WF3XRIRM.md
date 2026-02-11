@@ -1,18 +1,19 @@
 ---
-title: Revista Nexos
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/wf3xrirm.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 01851535
 item_types:
 - book
-isbn: 01851535
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Literary Criticism
+title: Revista Nexos
+year: 2007
 zotero_key: WF3XRIRM
-cover: covers/wf3xrirm.jpg
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Vedanta for the Western world
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors: []
-publishers:
-- Viking Press
-place: New York
-languages:
-- English
+cover: covers/uyllv2nv.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: Viking Compass ed
+exlibris: Joaquín Blanco 1976
 item_types:
 - book
+languages:
+- English
+oclc: '1075719'
 pages: 453
-edition: Viking Compass ed
+place: New York
+publishers:
+- Viking Press
 series: []
 subjects:
+- Buddhism
+- Philosophy
 - Religion
-oclc: '1075719'
-exlibris: Joaquín Blanco 1976
+title: Vedanta for the Western world
+year: 1960
 zotero_key: UYLLV2NV
-cover: covers/uyllv2nv.jpg
 ---
 

@@ -1,30 +1,28 @@
 ---
-title: 'Treasures of the night: the collected poems of Jean Genet'
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Genet, Jean
 - Sullivan, Bill
-publishers:
-- Gay Sunshine Press
-place: San Francisco
-languages:
-- English
+cover: covers/ku3mz3cy.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: First edition
+isbn: 978-0-917342-75-2
 item_types:
 - book
-isbn: 978-0-917342-75-2
+languages:
+- English
+oclc: '6889758'
 pages: 118
-edition: First edition
+place: San Francisco
+publishers:
+- Gay Sunshine Press
 series: []
 subjects:
+- French Literature
 - Gay Literature
-- Jean Genet
-- Literary Criticism
 - Poetry
-- Translation Studies
-oclc: '6889758'
+title: 'Treasures of the night: the collected poems of Jean Genet'
+year: 1981
 zotero_key: KU3MZ3CY
-cover: covers/ku3mz3cy.jpg
 ---
 

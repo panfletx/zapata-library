@@ -1,27 +1,27 @@
 ---
-title: Crónica de la poesía mexicana
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Universidad Autónoma de Sinaloa
-place: Culiacán
-languages:
-- Español
+cover: covers/c8atjahx.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1970s
+edition: 2a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1097757558'
 pages: 261
-edition: 2a ed
+place: Culiacán
+publishers:
+- Universidad Autónoma de Sinaloa
 series: []
 subjects:
-- Literary Criticism
-- Mexico
-- Modern History
-oclc: '1097757558'
-cover_note: dedicatoria
+- Chronicle
+- Mexican Literature
+- Poetry
+title: Crónica de la poesía mexicana
+year: 1978
 zotero_key: C8ATJAHX
-cover: covers/c8atjahx.jpg
 ---
 

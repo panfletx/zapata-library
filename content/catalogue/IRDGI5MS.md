@@ -1,24 +1,25 @@
 ---
-title: Fotografía en blanco y negro
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Busselle, Michael
-publishers:
-- Grijalbo ; RotoVision
-place: Miguel Hidalgo, México, D.F., Crans-pres-Celigny, Suiza
-languages:
-- Español
+cover: covers/irdgi5ms.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-05-0969-3
 item_types:
 - book
-isbn: 978-970-05-0969-3
+languages:
+- Español
+oclc: '44262047'
 pages: 126
+place: Miguel Hidalgo, México, D.F., Crans-pres-Celigny, Suiza
+publishers:
+- Grijalbo ; RotoVision
 series: []
 subjects:
 - Photography
-oclc: '44262047'
+- Visual Art
+title: Fotografía en blanco y negro
+year: 1998
 zotero_key: IRDGI5MS
-cover: covers/irdgi5ms.jpg
 ---
 

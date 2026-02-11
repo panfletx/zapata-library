@@ -1,26 +1,28 @@
 ---
-title: Muerte en el bosque
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Dávila, Amparo
-publishers:
-- Secretaria de Educación Publica, Cultura SEP
-place: México, D.F.
-languages:
-- Español
+cover: covers/xpkhyd9w.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed. en Lecturas mexicanas
+isbn: 978-968-16-1854-4
 item_types:
 - book
-isbn: 978-968-16-1854-4
+languages:
+- Español
+oclc: '12645167'
 pages: 131
-edition: 1a ed. en Lecturas mexicanas
+place: México, D.F.
+publishers:
+- Secretaria de Educación Publica, Cultura SEP
 series:
 - Lecturas mexicanas
 subjects:
+- Horror & Gothic
+- Mexican Literature
 - Short Stories
-oclc: '12645167'
+title: Muerte en el bosque
+year: 1985
 zotero_key: XPKHYD9W
-cover: covers/xpkhyd9w.jpg
 ---
 

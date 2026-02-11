@@ -1,29 +1,26 @@
 ---
-title: Charles de Foucauld
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Castillon du Perron, Marguerite
-publishers:
-- B. Grasset
-place: Paris
-languages:
-- Français
+cover: covers/xyzyd82p.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-246-27361-5
 item_types:
 - book
-isbn: 978-2-246-27361-5
+languages:
+- Français
+oclc: '9464952'
 pages: 521
+place: Paris
+publishers:
+- B. Grasset
 series: []
 subjects:
 - Biography
-- Catholicism
-- France
-- North Africa
-- Religion
+- French Literature
 - Saints & Hagiography
-oclc: '9464952'
+title: Charles de Foucauld
+year: 1982
 zotero_key: XYZYD82P
-cover: covers/xyzyd82p.jpg
 ---
 

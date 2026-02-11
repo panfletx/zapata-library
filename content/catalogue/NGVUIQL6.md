@@ -1,25 +1,25 @@
 ---
-title: Le nouveau roman
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Ricardou, Jean
-publishers:
-- Seuil
-place: Paris
-languages:
-- Français
+cover: covers/ngvuiql6.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '457550705'
 pages: 180
+place: Paris
+publishers:
+- Seuil
 series:
 - Collections Microcosme
 subjects:
-- Fiction
+- French Literature
 - Literary Criticism
-oclc: '457550705'
+title: Le nouveau roman
+year: 1973
 zotero_key: NGVUIQL6
-cover: covers/ngvuiql6.jpg
 ---
 

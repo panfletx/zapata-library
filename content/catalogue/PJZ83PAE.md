@@ -1,17 +1,19 @@
 ---
-title: Revista, Proceso 170
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/pjz83pae.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Contemporary History
+- Journalism
+- Mexico
+title: Revista, Proceso 170
+year: 1980
 zotero_key: PJZ83PAE
-cover: covers/pjz83pae.jpg
 ---
 

@@ -1,25 +1,26 @@
 ---
-title: Ends and Escapes
-date: '2024-09-01'
-year: 1975
-decade: 1970s
 authors:
 - Pepper, D.
-publishers:
-- Nelson
-place: London
-languages:
-- English
+cover: covers/4bsq53tz.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Di 1 ban
+isbn: 978-0-17-432064-7
 item_types:
 - book
-isbn: 978-0-17-432064-7
+languages:
+- English
+oclc: '966012230'
 pages: 88
-edition: Di 1 ban
+place: London
+publishers:
+- Nelson
 series: []
 subjects:
+- English Literature
 - Fiction
-oclc: '966012230'
+title: Ends and Escapes
+year: 1975
 zotero_key: 4BSQ53TZ
-cover: covers/4bsq53tz.jpg
 ---
 

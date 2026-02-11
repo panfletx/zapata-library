@@ -1,31 +1,28 @@
 ---
-title: 'Función de medianoche: ensayos de literatura cotidiana'
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/at2g4kl7.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-411-057-1
 item_types:
 - book
-isbn: 978-968-411-057-1
+languages:
+- Español
+oclc: '17054662'
 pages: 190
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
+- Essay
 - Literary Criticism
 - Mexican Literature
-- Mexico
-- Mexico City
-- Modern History
-- Urban Life
-oclc: '17054662'
+title: 'Función de medianoche: ensayos de literatura cotidiana'
+year: 1981
 zotero_key: AT2G4KL7
-cover: covers/at2g4kl7.jpg
 ---
 

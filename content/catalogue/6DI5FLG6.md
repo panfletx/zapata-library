@@ -1,25 +1,27 @@
 ---
-title: El inmoralista
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - Gide, André
-publishers:
-- Editorial Argos Vergara
-place: Barcelona
-languages:
-- Español
+cover: covers/6di5flg6.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-7017-999-0
 item_types:
 - book
-isbn: 978-84-7017-999-0
+languages:
+- Español
+oclc: '8117822'
 pages: 158
+place: Barcelona
+publishers:
+- Editorial Argos Vergara
 series:
 - Libros DB
 subjects:
-- Fiction
-oclc: '8117822'
+- French Literature
+- Novel
+- Sexuality & Eroticism
+title: El inmoralista
+year: 1981
 zotero_key: 6DI5FLG6
-cover: covers/6di5flg6.jpg
 ---
 

@@ -1,9 +1,4 @@
 ---
-title: 'Les classiques de la littérature amoureuse: Crébillon fils ..., John Cleland ..., Vivant Denon ..., D.A.F. de Sade [et autres] et aussi : Ovide, Lucien, Clément Marot, Pierre de Ronsard, Louise
-  Labé, Charles Baudelaire, Paul verlaine, Renée Vivien ...'
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Aziza, Claude
 - Crébillon fils
@@ -14,24 +9,27 @@ authors:
 - Mirbeau, Octave
 - Rebell, Hugues
 - Apollinaire, Guillaume
-publishers:
-- Omnibus
-place: Paris
-languages:
-- Français
+cover: covers/7c6r5qmq.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-258-04511-8
 item_types:
 - book
-isbn: 978-2-258-04511-8
+languages:
+- Français
+oclc: '36707572'
 pages: 942
+place: Paris
+publishers:
+- Omnibus
 series: []
 subjects:
 - Anthology
 - Erotic Literature
-- Fiction
-- Literary Criticism
-- Sexuality & Eroticism
-oclc: '36707572'
+- French Literature
+title: 'Les classiques de la littérature amoureuse: Crébillon fils ..., John Cleland ..., Vivant Denon ..., D.A.F. de Sade [et autres] et aussi : Ovide, Lucien, Clément Marot, Pierre de Ronsard, Louise
+  Labé, Charles Baudelaire, Paul verlaine, Renée Vivien ...'
+year: 1996
 zotero_key: 7C6R5QMQ
-cover: covers/7c6r5qmq.jpg
 ---
 

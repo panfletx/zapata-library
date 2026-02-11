@@ -1,25 +1,27 @@
 ---
-title: Teoría y técnica de la literatura
-date: '2024-09-01'
-year: 1986
-decade: 1980s
 authors:
 - Montes de Oca, Francisco
-publishers:
-- Editorial Porrúa
-place: México, D.F.
-languages:
-- Español
+cover: covers/pi2vaaaf.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 11a ed
+isbn: 978-968-432-173-1
 item_types:
 - book
-isbn: 978-968-432-173-1
+languages:
+- Español
+oclc: '17304770'
 pages: 217
-edition: 11a ed
+place: México, D.F.
+publishers:
+- Editorial Porrúa
 series: []
 subjects:
 - Literary Criticism
-oclc: '17304770'
+- Literary History
+- Mexican Literature
+title: Teoría y técnica de la literatura
+year: 1986
 zotero_key: PI2VAAAF
-cover: covers/pi2vaaaf.jpg
 ---
 

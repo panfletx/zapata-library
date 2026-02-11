@@ -1,27 +1,26 @@
 ---
-title: Cocina Libanesa
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Wilson, Anne
 - Guix, Alba
-publishers:
-- Könemann
-place: Köln
-languages:
-- Español
+cover: covers/7u9mi2hn.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Edición española
+isbn: 978-3-89508-830-8
 item_types:
 - book
-isbn: 978-3-89508-830-8
+languages:
+- Español
+oclc: '42721390'
 pages: 64
-edition: Edición española
+place: Köln
+publishers:
+- Könemann
 series: []
 subjects:
 - Food & Gastronomy
-- Modern History
-oclc: '42721390'
+title: Cocina Libanesa
+year: 1997
 zotero_key: 7U9MI2HN
-cover: covers/7u9mi2hn.jpg
 ---
 

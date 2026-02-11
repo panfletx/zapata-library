@@ -1,27 +1,27 @@
 ---
-title: Tristán e Isolda
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Béroul
-publishers:
-- Conaculta
-place: México, D.F.
-languages:
-- Español
+cover: covers/phpje6n9.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-18-8388-4
 item_types:
 - book
-isbn: 978-970-18-8388-4
-source_url: http://i1382.photobucket.com/albums/ah249/CMA2016/eplstockimage_worldlanguagebook_zpsunvaw0go.jpg
-pages: 156
-series: []
-subjects:
-- Fiction
-- King Arthur
-- Tristan & Iseult
+languages:
+- Español
 oclc: '732330610'
+pages: 156
+place: México, D.F.
+publishers:
+- Conaculta
+series: []
+source_url: http://i1382.photobucket.com/albums/ah249/CMA2016/eplstockimage_worldlanguagebook_zpsunvaw0go.jpg
+subjects:
+- Epic
+- Medieval Literature
+- Tristan & Iseult
+title: Tristán e Isolda
+year: 1990
 zotero_key: PHPJE6N9
-cover: covers/phpje6n9.jpg
 ---
 

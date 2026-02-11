@@ -1,30 +1,28 @@
 ---
-title: 'Manual de técnicas narrativas: las voces del relato'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Paredes, Alberto
-publishers:
-- Grijalbo
-place: Miguel Hidalgo, México, D.F.
-languages:
-- Español
+cover: covers/8p7nxm6k.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-970-05-0469-8
 item_types:
 - book
-isbn: 978-970-05-0469-8
+languages:
+- Español
+oclc: '30841615'
 pages: 109
-edition: 1. ed
+place: Miguel Hidalgo, México, D.F.
+publishers:
+- Grijalbo
 series:
 - Interdisciplinaria
 subjects:
-- Fiction
+- Essay
+- Grammar & Linguistics
 - Literary Criticism
-- Modern History
-- Rhetoric
-- United States
-oclc: '30841615'
+title: 'Manual de técnicas narrativas: las voces del relato'
+year: 1993
 zotero_key: 8P7NXM6K
-cover: covers/8p7nxm6k.jpg
 ---
 

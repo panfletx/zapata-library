@@ -1,16 +1,17 @@
 ---
-title: En la mira y la mirada
-date: '2024-09-01'
 authors:
 - Cardenas Fonseca, Eduardo
-publishers: []
-languages: []
+cover: covers/kpiackan.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Essay
+- Mexican Literature
+title: En la mira y la mirada
 zotero_key: KPIACKAN
-cover: covers/kpiackan.jpg
 ---
 

@@ -1,27 +1,27 @@
 ---
-title: 'L''homme blessé: scénario et notes'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Chéreau, Patrice
 - Guibert, Hervé.
-publishers:
-- Editions de Minuit
-place: Paris
-languages:
-- Français
+cover: covers/w33wca2y.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-7073-0643-2
 item_types:
 - book
-isbn: 978-2-7073-0643-2
+languages:
+- Français
+oclc: '10725381'
 pages: 199
+place: Paris
+publishers:
+- Editions de Minuit
 series: []
 subjects:
-- Drama
 - Film & Cinema
+- French Literature
 - Screenplay
-oclc: '10725381'
+title: 'L''homme blessé: scénario et notes'
+year: 1983
 zotero_key: W33WCA2Y
-cover: covers/w33wca2y.jpg
 ---
 

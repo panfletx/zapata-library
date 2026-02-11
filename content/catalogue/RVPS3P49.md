@@ -1,26 +1,26 @@
 ---
-title: Historia gráfica de México. 4, Época colonial III
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Florescano, Enrique
-publishers:
-- 'Instituto Nacional de Antropología e Historia : Editorial patria'
-place: México D.F.
-languages:
-- Español
+cover: covers/rvps3p49.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-39-0129-3
 item_types:
 - book
-isbn: 978-968-39-0129-3
+languages:
+- Español
+oclc: '1367339785'
 pages: 160
+place: México D.F.
+publishers:
+- 'Instituto Nacional de Antropología e Historia : Editorial patria'
 series: []
 subjects:
-- Colonialism & Postcolonialism
+- Conquest of Mexico
+- Historical Fiction
 - Mexico
-- Modern History
-oclc: '1367339785'
+title: Historia gráfica de México. 4, Época colonial III
+year: 1988
 zotero_key: RVPS3P49
-cover: covers/rvps3p49.jpg
 ---
 

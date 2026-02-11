@@ -1,24 +1,25 @@
 ---
-title: Exercices sur la grammaire française
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Grevisse, Maurice
-publishers:
-- Éditions J. Duculot
-place: Gembloux
-languages:
-- Français
+cover: covers/srv3uv9p.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: Vingt-cinquième édition
 item_types:
 - book
+languages:
+- Français
+oclc: '1665461'
 pages: 304
-edition: Vingt-cinquième édition
+place: Gembloux
+publishers:
+- Éditions J. Duculot
 series: []
 subjects:
+- French Literature
 - Grammar & Linguistics
-oclc: '1665461'
+title: Exercices sur la grammaire française
+year: 1963
 zotero_key: SRV3UV9P
-cover: covers/srv3uv9p.jpg
 ---
 

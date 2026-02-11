@@ -1,4 +1,5 @@
 ---
+subjects:
+- Bibliography
 title: Catálogo
-subjects: null
 ---

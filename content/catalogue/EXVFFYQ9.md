@@ -1,27 +1,28 @@
 ---
-title: Capitanes intrépidos y otros cuentos
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors:
 - Kipling, Rudyard
-publishers:
-- Grupo Editorial Tomo
-place: México, D.F.
-languages:
-- Español
+cover: covers/exvffyq9.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+exlibris: '2004'
 item_types:
 - book
-source_url: https://archive.org/details/capitanesintrepi0000kipl
+languages:
+- Español
+oclc: '1148235436'
 pages: 218
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Grupo Editorial Tomo
 series:
 - Clásicos tomo
+source_url: https://archive.org/details/capitanesintrepi0000kipl
 subjects:
-- Fiction
-oclc: '1148235436'
-exlibris: '2004'
+- English Literature
+- Short Stories
+title: Capitanes intrépidos y otros cuentos
+year: 2003
 zotero_key: EXVFFYQ9
-cover: covers/exvffyq9.jpg
 ---
 

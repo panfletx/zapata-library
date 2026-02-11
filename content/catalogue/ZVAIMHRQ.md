@@ -1,30 +1,28 @@
 ---
-title: 'Unzipped: a novella and six short stories'
-date: '2024-09-01'
-year: 1983
-decade: 1980s
 authors:
 - Coriolan, John
 - Tom
-publishers:
-- Gay Sunshine Press
-place: San Francisco
-languages:
-- English
+cover: covers/zvaimhrq.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1st edition
+isbn: 978-0-917342-31-8
 item_types:
 - book
-isbn: 978-0-917342-31-8
+languages:
+- English
+oclc: '9466011'
 pages: 160
-edition: 1st edition
+place: San Francisco
+publishers:
+- Gay Sunshine Press
 series: []
 subjects:
-- Erotic Literature
-- Fiction
 - Gay Literature
-- Sexuality & Eroticism
+- Novella
 - Short Stories
-oclc: '9466011'
+title: 'Unzipped: a novella and six short stories'
+year: 1983
 zotero_key: ZVAIMHRQ
-cover: covers/zvaimhrq.jpg
 ---
 

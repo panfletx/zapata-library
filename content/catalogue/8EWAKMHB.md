@@ -1,17 +1,18 @@
 ---
-title: Los días de búsqueda
-date: '2024-09-01'
 authors:
 - Hernández, Alexander
 - Devenir, Jesús
-publishers: []
-languages: []
+cover: covers/8ewakmhb.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Latin American Literature
+- Poetry
+title: Los días de búsqueda
 zotero_key: 8EWAKMHB
-cover: covers/8ewakmhb.jpg
 ---
 

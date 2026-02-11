@@ -1,25 +1,27 @@
 ---
-title: 'Notas a Apocalipsis now: diario de una filmación'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Coppola, Eleanor
-publishers:
-- Emecé Editores
-place: Buenos Aires
-languages:
-- Español
+cover: covers/minl7kdy.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2006'
+isbn: 978-950-04-2380-9
 item_types:
 - book
-isbn: 978-950-04-2380-9
+languages:
+- Español
+oclc: '52974143'
 pages: 286
+place: Buenos Aires
+publishers:
+- Emecé Editores
 series: []
 subjects:
+- Biography
+- Diary & Letters
 - Film & Cinema
-oclc: '52974143'
-exlibris: '2006'
+title: 'Notas a Apocalipsis now: diario de una filmación'
+year: 2002
 zotero_key: MINL7KDY
-cover: covers/minl7kdy.jpg
 ---
 

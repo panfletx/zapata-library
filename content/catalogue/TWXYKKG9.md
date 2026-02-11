@@ -1,26 +1,27 @@
 ---
-title: L'angoisse du gardien de but au moment du penalty
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Handke, Peter
 - Gaudu, Anne
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/twxykkg9.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-07-037407-6
 item_types:
 - book
-isbn: 978-2-07-037407-6
+languages:
+- Français
+oclc: '43361310'
 pages: 152
+place: Paris
+publishers:
+- Gallimard
 series:
 - Collection Folio
 subjects:
-- French Literature
-oclc: '43361310'
+- Drama
+- German Literature
+title: L'angoisse du gardien de but au moment du penalty
+year: 1998
 zotero_key: TWXYKKG9
-cover: covers/twxykkg9.jpg
 ---
 

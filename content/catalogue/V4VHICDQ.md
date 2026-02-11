@@ -1,27 +1,26 @@
 ---
-title: L'amour et l'Occident
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors:
 - Rougemont, Denis de
-publishers:
-- Plon
-place: Paris
-languages:
-- Français
+cover: covers/v4vhicdq.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '82658822'
 pages: 313
+place: Paris
+publishers:
+- Plon
 series:
 - 10/18
 subjects:
-- Literary Criticism
+- Essay
+- French Literature
 - Love & Desire
-- Medieval History
-- Tristan & Iseult
-oclc: '82658822'
+title: L'amour et l'Occident
+year: 1971
 zotero_key: V4VHICDQ
-cover: covers/v4vhicdq.jpg
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: Revista, Estudios cinematográficos 25
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/6l7cxfxp.jpg
+date: '2024-09-01'
+isbn: 01888056
 item_types:
 - book
-isbn: 01888056
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+title: Revista, Estudios cinematográficos 25
 zotero_key: 6L7CXFXP
-cover: covers/6l7cxfxp.jpg
 ---
 

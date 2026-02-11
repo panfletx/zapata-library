@@ -1,28 +1,26 @@
 ---
-title: Forward>> Kioto
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Villoro, Juan
-publishers:
-- Textos de Cartón
-place: Córdoba, Argentina
-languages:
-- Español
+cover: covers/kn6q6jmd.jpg
+date: '2024-09-01'
+decade: 2010s
 item_types:
 - book
+languages:
+- Español
+oclc: '1043903880'
 pages: 30
+place: Córdoba, Argentina
+publishers:
+- Textos de Cartón
 series:
 - Colección Narrativa (Textos de Cartón)
 subjects:
-- Argentina
-- Bibliography
-- Fiction
-- Japan
-- Short Stories
-oclc: '1043903880'
+- Essay
+- Mexican Literature
+- Travel Writing
+title: Forward>> Kioto
+year: 2010
 zotero_key: KN6Q6JMD
-cover: covers/kn6q6jmd.jpg
 ---
 

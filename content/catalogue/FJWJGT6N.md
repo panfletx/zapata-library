@@ -1,15 +1,17 @@
 ---
-title: De la historia y la verdad del unicornio
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/fjwjgt6n.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Animals
+- Fable & Parable
+- Mythology
+title: De la historia y la verdad del unicornio
 zotero_key: FJWJGT6N
-cover: covers/fjwjgt6n.jpg
 ---
 

@@ -1,15 +1,17 @@
 ---
-title: Poemas y cuentos 8
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/jevptui6.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+- Poetry
+- Short Stories
+title: Poemas y cuentos 8
 zotero_key: JEVPTUI6
-cover: covers/jevptui6.jpg
 ---
 

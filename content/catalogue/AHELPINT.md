@@ -1,26 +1,27 @@
 ---
-title: Poema de mio Cid
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Cid
-publishers:
-- Editorial Porrúa
-place: México, D.F.
-languages:
-- Español
+cover: covers/ahelpint.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 11. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '3146838'
 pages: 279
-edition: 11. ed
+place: México, D.F.
+publishers:
+- Editorial Porrúa
 series:
 - '"Sepan cuantos-- "'
 subjects:
 - Epic
-- Fiction
-oclc: '3146838'
+- Medieval Literature
+- Spanish Literature
+title: Poema de mio Cid
+year: 1976
 zotero_key: AHELPINT
-cover: covers/ahelpint.jpg
 ---
 

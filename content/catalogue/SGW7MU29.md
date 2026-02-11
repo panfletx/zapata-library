@@ -1,26 +1,25 @@
 ---
-title: Azul, cuentos, poemas en prosa
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Darío, Rubén
-publishers:
-- Aguilar
-place: Madrid
-languages:
-- Español
+cover: covers/sgw7mu29.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-84-03-87007-9
 item_types:
 - book
-isbn: 978-84-03-87007-9
+languages:
+- Español
+oclc: '20960879'
 pages: 345
+place: Madrid
+publishers:
+- Aguilar
 series: []
 subjects:
-- Latin America
+- Latin American Literature
 - Poetry
-- United States
-oclc: '20960879'
+title: Azul, cuentos, poemas en prosa
+year: 1987
 zotero_key: SGW7MU29
-cover: covers/sgw7mu29.jpg
 ---
 

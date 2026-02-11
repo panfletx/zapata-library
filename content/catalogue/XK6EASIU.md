@@ -1,24 +1,24 @@
 ---
-title: 'La Biblia: texto integro traducido del hebreo y del griego'
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors: []
-publishers:
-- Ediciones Paulinas ; Verbo Divino
-place: Madrid, Estella, Navarra
-languages:
-- Español
+cover: covers/xk6easiu.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 23 ed
+isbn: 978-84-285-0003-6
 item_types:
 - book
-isbn: 978-84-285-0003-6
+languages:
+- Español
+oclc: '6478262'
 pages: 1049
-edition: 23 ed
+place: Madrid, Estella, Navarra
+publishers:
+- Ediciones Paulinas ; Verbo Divino
 series: []
 subjects:
-- Fiction
-oclc: '6478262'
+- Religion
+title: 'La Biblia: texto integro traducido del hebreo y del griego'
+year: 1972
 zotero_key: XK6EASIU
-cover: covers/xk6easiu.jpg
 ---
 

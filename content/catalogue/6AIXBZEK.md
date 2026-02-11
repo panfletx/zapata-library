@@ -1,24 +1,26 @@
 ---
-title: El cerebro de mi hermano
-date: '2024-09-01'
-year: 2014
-decade: 2010s
 authors:
 - Pérez Gay, Rafael
-publishers:
-- Seix Barral
-place: México, D.F.
-languages:
-- Español
+cover: covers/6aixbzek.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-07-1929-5
 item_types:
 - book
-isbn: 978-607-07-1929-5
+languages:
+- Español
+oclc: '931764211'
 pages: 141
+place: México, D.F.
+publishers:
+- Seix Barral
 series: []
 subjects:
-- Gay Literature
-oclc: '931764211'
+- Mexican Literature
+- Mexico City
+- Novel
+title: El cerebro de mi hermano
+year: 2014
 zotero_key: 6AIXBZEK
-cover: covers/6aixbzek.jpg
 ---
 

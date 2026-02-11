@@ -1,28 +1,28 @@
 ---
-title: Historia de la civilización ibérica
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Oliveira Martins, J. P.
-publishers:
-- Aguilar
-place: Madrid
-languages:
-- Español
+cover: covers/ielhjqt4.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: '[Rev. ed'
+exlibris: '1986'
+isbn: 978-84-03-87062-8
 item_types:
 - book
-isbn: 978-84-03-87062-8
+languages:
+- Español
+oclc: '61655889'
 pages: 412
-edition: '[Rev. ed'
+place: Madrid
+publishers:
+- Aguilar
 series:
 - Libro Aguilar
 subjects:
-- Modern History
+- Portugal
 - Spain
-oclc: '61655889'
-exlibris: '1986'
+title: Historia de la civilización ibérica
+year: 1988
 zotero_key: IELHJQT4
-cover: covers/ielhjqt4.jpg
 ---
 

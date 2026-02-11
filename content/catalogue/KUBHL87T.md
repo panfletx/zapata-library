@@ -1,25 +1,28 @@
 ---
-title: Prosa y poesia
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Reyes, Alfonso
-publishers:
-- Rei méxico
-place: México
-languages:
-- Unknown
+cover: covers/kubhl87t.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1995'
+isbn: 978-968-456-010-9
 item_types:
 - book
-isbn: 978-968-456-010-9
+languages:
+- Unknown
+oclc: '1097714063'
 pages: 203
+place: México
+publishers:
+- Rei méxico
 series: []
 subjects:
-- Mexico
-oclc: '1097714063'
-exlibris: '1995'
+- Alfonso Reyes
+- Essay
+- Mexican Literature
+- Poetry
+title: Prosa y poesia
+year: 1987
 zotero_key: KUBHL87T
-cover: covers/kubhl87t.jpg
 ---
 

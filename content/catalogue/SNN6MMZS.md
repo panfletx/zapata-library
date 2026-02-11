@@ -1,28 +1,27 @@
 ---
-title: El Satiricón
-date: '2024-09-01'
-year: 1967
-decade: 1960s
 authors:
 - Petronius Arbiter
 - Samaranch, Francisco de P.
-publishers:
-- Aguilar
-place: Madrid
-languages:
-- Español
+cover: covers/snn6mmzs.jpg
+date: '2024-09-01'
+decade: 1960s
+exlibris: '1973'
 item_types:
 - book
+languages:
+- Español
+oclc: '17961306'
 pages: 282
+place: Madrid
+publishers:
+- Aguilar
 series:
 - Biblioteca de iniciacion al humanismo
 subjects:
 - Classical Literature
-- Literary Criticism
 - Satire & Humor
-oclc: '17961306'
-exlibris: '1973'
+title: El Satiricón
+year: 1967
 zotero_key: SNN6MMZS
-cover: covers/snn6mmzs.jpg
 ---
 

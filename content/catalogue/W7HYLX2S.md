@@ -1,15 +1,16 @@
 ---
-title: 'Magnum in Motion: Photographers and the moving image'
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/w7hylx2s.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Film & Cinema
+- Photography
+title: 'Magnum in Motion: Photographers and the moving image'
 zotero_key: W7HYLX2S
-cover: covers/w7hylx2s.jpg
 ---
 

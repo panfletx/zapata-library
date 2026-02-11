@@ -1,27 +1,27 @@
 ---
-title: Cenizas de mi padre
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Isaac, Claudio
-publishers:
-- Casa Juan Pablos
-place: México, D.F.
-languages:
-- Español
+cover: covers/dq6altch.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a. ed
+isbn: 978-968-9172-45-1
 item_types:
 - book
-isbn: 978-968-9172-45-1
+languages:
+- Español
+oclc: '276813585'
 pages: 177
-edition: 1a. ed
+place: México, D.F.
+publishers:
+- Casa Juan Pablos
 series: []
 subjects:
-- Biography
-- Film & Cinema
-- Mexico
-oclc: '276813585'
+- Family
+- Fiction
+- Mexican Literature
+title: Cenizas de mi padre
+year: 2008
 zotero_key: DQ6ALTCH
-cover: covers/dq6altch.jpg
 ---
 

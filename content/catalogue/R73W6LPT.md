@@ -1,30 +1,27 @@
 ---
-title: Escribir
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Duras, Marguerite
-publishers:
-- Tusquets Editores
-place: Barcelona
-languages:
-- Español
+cover: covers/r73w6lpt.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-7223-779-7
 item_types:
 - book
-isbn: 978-84-7223-779-7
+languages:
+- Español
+oclc: '318159307'
 pages: 127
+place: Barcelona
+publishers:
+- Tusquets Editores
 series:
 - Marginales
 subjects:
 - Essay
-- Film & Cinema
 - French Literature
-- Literary Criticism
 - Marguerite Duras
-- Screenplay
-oclc: '318159307'
+title: Escribir
+year: 1994
 zotero_key: R73W6LPT
-cover: covers/r73w6lpt.jpg
 ---
 

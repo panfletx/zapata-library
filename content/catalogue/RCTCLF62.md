@@ -1,31 +1,29 @@
 ---
-title: 'Los límites de la noche: relatos'
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors:
 - Parra, Eduardo Antonio
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/rctclf62.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2. ed
+exlibris: '2011'
+isbn: 978-968-411-516-3
 item_types:
 - book
-isbn: 978-968-411-516-3
+languages:
+- Español
+oclc: '48807919'
 pages: 134
-edition: 2. ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
 - Fiction
-- Mexico
-- Modern History
-- Poetry
+- Mexican Literature
 - Short Stories
-oclc: '48807919'
-exlibris: '2011'
+title: 'Los límites de la noche: relatos'
+year: 2001
 zotero_key: RCTCLF62
-cover: covers/rctclf62.jpg
 ---
 

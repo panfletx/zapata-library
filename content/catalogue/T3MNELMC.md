@@ -1,26 +1,26 @@
 ---
-title: 'Enciclopedia de conocimientos fundamentales: UNAM-Siglo XXI'
-date: '2024-09-01'
-year: 2010
-decade: 2010s
 authors:
 - Labastida, Jaime
 - Ruiz, Rosaura
-publishers:
-- 'UNAM : Siglo XXI'
-place: México
-languages:
-- Español
+cover: covers/t3mnelmc.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a ed
+isbn: 978-607-03-0225-1
 item_types:
 - book
-isbn: 978-607-03-0225-1
-edition: 1a ed
+languages:
+- Español
+oclc: '712655848'
+place: México
+publishers:
+- 'UNAM : Siglo XXI'
 series: []
 subjects:
-- Dictionary
+- Education
 - Encyclopedia
-oclc: '712655848'
+title: 'Enciclopedia de conocimientos fundamentales: UNAM-Siglo XXI'
+year: 2010
 zotero_key: T3MNELMC
-cover: covers/t3mnelmc.jpg
 ---
 

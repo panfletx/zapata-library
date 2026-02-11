@@ -1,27 +1,25 @@
 ---
-title: 'Le vent paraclet: [essai]'
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Tournier, Michel
-publishers:
-- Gallimard
-place: Paris
-languages:
-- Français
+cover: covers/4d2qsfvz.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-07-029618-7
 item_types:
 - book
-isbn: 978-2-07-029618-7
+languages:
+- Français
+oclc: '3312093'
 pages: 293
+place: Paris
+publishers:
+- Gallimard
 series: []
 subjects:
-- Biography
 - Essay
 - French Literature
-- Literary Criticism
-oclc: '3312093'
+title: 'Le vent paraclet: [essai]'
+year: 1977
 zotero_key: 4D2QSFVZ
-cover: covers/4d2qsfvz.jpg
 ---
 

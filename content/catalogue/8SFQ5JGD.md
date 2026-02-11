@@ -1,15 +1,15 @@
 ---
-title: Revista, Claudia
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/8sfq5jgd.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Fashion
+title: Revista, Claudia
 zotero_key: 8SFQ5JGD
-cover: covers/8sfq5jgd.jpg
 ---
 

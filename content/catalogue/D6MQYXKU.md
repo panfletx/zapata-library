@@ -1,24 +1,24 @@
 ---
-title: 'Hondón catracho: cuentos'
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - Pérez Cadalso, Eliseo
-publishers:
-- Departamento de Actividades Literarias de la Dirección General de Cultura y Bellas Artes de Guatemala
-place: Guatemala
-languages:
-- Español
+cover: covers/d6mqyxku.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '3797273'
 pages: 133
+place: Guatemala
+publishers:
+- Departamento de Actividades Literarias de la Dirección General de Cultura y Bellas Artes de Guatemala
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '3797273'
+- Guatemala
+- Short Stories
+title: 'Hondón catracho: cuentos'
+year: 1974
 zotero_key: D6MQYXKU
-cover: covers/d6mqyxku.jpg
 ---
 

@@ -1,28 +1,27 @@
 ---
-title: Cuentos de H. Bustos Domecq
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Borges, Jorge Luis
 - Bioy Casares, Adolfo
-publishers:
-- Origen Planeta
-place: México
-languages:
-- Español
+cover: covers/7gxgjs9q.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-22-0169-1
 item_types:
 - book
-isbn: 978-968-22-0169-1
+languages:
+- Español
+oclc: '651210200'
 pages: 291
+place: México
+publishers:
+- Origen Planeta
 series: []
 subjects:
-- Argentina
-- Argentine Literature
-- Literary Criticism
+- Jorge Luis Borges
+- Latin American Literature
 - Short Stories
-oclc: '651210200'
+title: Cuentos de H. Bustos Domecq
+year: 1985
 zotero_key: 7GXGJS9Q
-cover: covers/7gxgjs9q.jpg
 ---
 

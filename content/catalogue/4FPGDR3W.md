@@ -1,25 +1,26 @@
 ---
-title: 'Medicina natural: cómo combatir las enfermedades más comunes'
-date: '2024-09-01'
-year: 1997
-decade: 1990s
 authors:
 - Pérez Agustí, Adolfo
-publishers:
-- EDIMAT
-place: Madrid
-languages:
-- Español
+cover: covers/4fpgdr3w.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
-source_url: https://archive.org/details/medicinanaturalc0000pere
+languages:
+- Español
+oclc: '1245533261'
 pages: 191
+place: Madrid
+publishers:
+- EDIMAT
 series:
 - Guías de salud natural
+source_url: https://archive.org/details/medicinanaturalc0000pere
 subjects:
 - Medicine & Health
-oclc: '1245533261'
+- Spanish Literature
+title: 'Medicina natural: cómo combatir las enfermedades más comunes'
+year: 1997
 zotero_key: 4FPGDR3W
-cover: covers/4fpgdr3w.jpg
 ---
 

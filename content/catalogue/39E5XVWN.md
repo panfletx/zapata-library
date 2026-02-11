@@ -1,27 +1,28 @@
 ---
-title: Ver con los ojos y otros relatos novelescos
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Unamuno, Miguel de
-publishers:
-- Espasa-Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/39e5xvwn.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '2003'
+isbn: 978-84-239-1532-3
 item_types:
 - book
-isbn: 978-84-239-1532-3
+languages:
+- Español
+oclc: '912556'
 pages: 152
+place: Madrid
+publishers:
+- Espasa-Calpe
 series:
 - Colección Austral
 subjects:
-- Fiction
+- Madrid
 - Short Stories
-oclc: '912556'
-exlibris: '2003'
+- Spanish Literature
+title: Ver con los ojos y otros relatos novelescos
+year: 1973
 zotero_key: 39E5XVWN
-cover: covers/39e5xvwn.jpg
 ---
 

@@ -1,26 +1,27 @@
 ---
-title: País de sensibles
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Dimayuga, José
-publishers:
-- publisher not identified
-place: Mexico
-languages:
-- Español
+cover: covers/8xueqbp6.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+exlibris: dedicatoria José 1994
 item_types:
 - book
+languages:
+- Español
+oclc: '41928971'
 pages: 47
-edition: 1. ed
+place: Mexico
+publishers:
+- publisher not identified
 series:
 - Teatro IberoAmericano
 subjects:
-- Fiction
-oclc: '41928971'
-exlibris: dedicatoria José 1994
+- Mexican Literature
+- Novel
+title: País de sensibles
+year: 1994
 zotero_key: 8XUEQBP6
-cover: covers/8xueqbp6.jpg
 ---
 

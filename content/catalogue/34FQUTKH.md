@@ -1,29 +1,30 @@
 ---
-title: 'El derecho al juego: lecturas y evocaciones de José Joaquín Blanco'
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Leyva, José Mariano
 - Téllez-Pon, Sergio
 - Aguilar, Luis Miguel
-publishers:
-- Quimera
-place: Mexico, D.F.
-languages:
-- Español
+cover: covers/34fqutkh.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: Primera edición
+isbn: 978-607-00-6175-2
 item_types:
 - book
-isbn: 978-607-00-6175-2
+languages:
+- Español
+oclc: '856655165'
 pages: 101
-edition: Primera edición
+place: Mexico, D.F.
+publishers:
+- Quimera
 series:
 - Colección Discursus
 subjects:
+- Biography
 - Literary Criticism
 - Mexican Literature
-oclc: '856655165'
+title: 'El derecho al juego: lecturas y evocaciones de José Joaquín Blanco'
+year: 2012
 zotero_key: 34FQUTKH
-cover: covers/34fqutkh.jpg
 ---
 

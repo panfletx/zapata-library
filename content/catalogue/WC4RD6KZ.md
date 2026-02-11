@@ -1,32 +1,28 @@
 ---
-title: 'Crónica literaria: un siglo de escritores mexicanos'
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Cal y Arena
-place: México, D.F.
-languages:
-- Español
+cover: covers/wc4rd6kz.jpg
+cover_note: dedicatoria del autor
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-493-298-2
 item_types:
 - book
-isbn: 978-968-493-298-2
+languages:
+- Español
+oclc: '35693149'
 pages: 655
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Cal y Arena
 series: []
 subjects:
-- Chronicle
 - Essay
-- Literary Criticism
+- Literary History
 - Mexican Literature
-- Mexico
-- Modern History
-- Speech & Lecture
-oclc: '35693149'
-cover_note: dedicatoria del autor
+title: 'Crónica literaria: un siglo de escritores mexicanos'
+year: 1996
 zotero_key: WC4RD6KZ
-cover: covers/wc4rd6kz.jpg
 ---
 

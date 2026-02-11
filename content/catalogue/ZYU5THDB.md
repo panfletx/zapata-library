@@ -1,28 +1,29 @@
 ---
-title: Ensayos escogidos
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Montaigne, Michel de
 - Martín del Campo, Angelina
-publishers:
-- Editorial Trillas
-place: México
-languages:
-- Español
+cover: covers/zyu5thdb.jpg
+cover_note: dedicatoria de Angelina
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-24-1346-9
 item_types:
 - book
-isbn: 978-968-24-1346-9
+languages:
+- Español
+oclc: '21325043'
 pages: 370
-edition: 1a ed
+place: México
+publishers:
+- Editorial Trillas
 series:
 - Linterna mágica
 subjects:
-- Fiction
-oclc: '21325043'
-cover_note: dedicatoria de Angelina
+- Essay
+- French Literature
+title: Ensayos escogidos
+year: 1987
 zotero_key: ZYU5THDB
-cover: covers/zyu5thdb.jpg
 ---
 

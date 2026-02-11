@@ -1,29 +1,28 @@
 ---
-title: Asamblea de poetas jóvenes de México
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Zaid, Gabriel
-publishers:
-- Siglo Veintiuno Editores
-place: México, D.F.
-languages:
-- Español
+cover: covers/hkui56tk.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-23-1012-6
 item_types:
 - book
-isbn: 978-968-23-1012-6
+languages:
+- Español
+oclc: '7163492'
 pages: 290
-edition: 1a ed
+place: México, D.F.
+publishers:
+- Siglo Veintiuno Editores
 series:
 - Creación literaria (Siglo Veintiuno Editores)
 subjects:
 - Anthology
-- Mexico
-- Modern History
+- Mexican Literature
 - Poetry
-oclc: '7163492'
+title: Asamblea de poetas jóvenes de México
+year: 1980
 zotero_key: HKUI56TK
-cover: covers/hkui56tk.jpg
 ---
 

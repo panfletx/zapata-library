@@ -1,26 +1,28 @@
 ---
-title: 'The Canterbury tales: translated into modern English by Nevil Coghil'
-date: '2024-09-01'
-year: 1960
-decade: 1960s
 authors:
 - Chaucer, Geoffrey
 - Coghill, Nevill
-publishers:
-- Penguin Books
-place: Harmondsworth, Middlexes Eng
-languages:
-- English
+cover: covers/38ybzibg.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: '[Rev.]'
 item_types:
 - book
+languages:
+- English
+oclc: '974894593'
 pages: 525
-edition: '[Rev.]'
+place: Harmondsworth, Middlexes Eng
+publishers:
+- Penguin Books
 series:
 - Penguin classics
 subjects:
-- Fiction
-oclc: '974894593'
+- English Literature
+- Medieval Literature
+- Poetry
+title: 'The Canterbury tales: translated into modern English by Nevil Coghil'
+year: 1960
 zotero_key: 38YBZIBG
-cover: covers/38ybzibg.jpg
 ---
 

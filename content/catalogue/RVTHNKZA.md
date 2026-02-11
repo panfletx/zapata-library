@@ -1,27 +1,28 @@
 ---
-title: Del asesinato considerado como una de las bellas artes / Luis Loayza
-date: '2024-09-01'
-year: 1981
-decade: 1980s
 authors:
 - De Quincey, Thomas
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/rvthnkza.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a. ed
+isbn: 978-84-02-07859-9
 item_types:
 - book
-isbn: 978-84-02-07859-9
+languages:
+- Español
+oclc: '13512446'
 pages: 156
-edition: 1a. ed
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libros amigos
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '13512446'
+- English Literature
+- Essay
+- Satire & Humor
+title: Del asesinato considerado como una de las bellas artes / Luis Loayza
+year: 1981
 zotero_key: RVTHNKZA
-cover: covers/rvthnkza.jpg
 ---
 

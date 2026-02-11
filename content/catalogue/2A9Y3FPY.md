@@ -1,26 +1,27 @@
 ---
-title: Los casos de monsieur Dupin
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Poe, Edgar Allan
-publishers:
-- Agencia Promotora de Publicaciones
-place: México
-languages:
-- Español
+cover: covers/2a9y3fpy.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1a ed
+isbn: 978-968-9364-68-9
 item_types:
 - book
-isbn: 978-968-9364-68-9
-edition: 1a ed
+languages:
+- Español
+oclc: '906937915'
+place: México
+publishers:
+- Agencia Promotora de Publicaciones
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Anthology
-- Literary Criticism
-oclc: '906937915'
+- American Literature
+- Detective & Mystery
+- Short Stories
+title: Los casos de monsieur Dupin
+year: 2008
 zotero_key: 2A9Y3FPY
-cover: covers/2a9y3fpy.jpg
 ---
 

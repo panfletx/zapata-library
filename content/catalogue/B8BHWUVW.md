@@ -1,27 +1,26 @@
 ---
-title: Los orígines de la novela
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - García Gual, Carlos
-publishers:
-- Ediciones ISTMO
-place: Madrid
-languages:
-- Español
+cover: covers/b8bhwuvw.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Español
+oclc: '43511464'
 pages: 399
+place: Madrid
+publishers:
+- Ediciones ISTMO
 series:
 - Colección Fundamentos
 subjects:
-- Fiction
-- Literary Criticism
-- Modern History
-oclc: '43511464'
-exlibris: '1978'
+- Literary History
+- Novel
+title: Los orígines de la novela
+year: 1972
 zotero_key: B8BHWUVW
-cover: covers/b8bhwuvw.jpg
 ---
 

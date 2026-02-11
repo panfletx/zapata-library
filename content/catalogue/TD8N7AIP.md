@@ -1,17 +1,18 @@
 ---
-title: Entrevista a Luis Zapata ¿Qué onda con la literatura jóven?
-date: '2024-09-01'
 authors:
 - Basave, Oscar
-publishers: []
-languages: []
+cover: covers/td8n7aip.jpg
+date: '2024-09-01'
 item_types:
 - magazineArticle
+languages: []
+publishers: []
 series: []
 subjects:
 - Interview
 - Luis Zapata
+- Mexican Literature
+title: Entrevista a Luis Zapata ¿Qué onda con la literatura jóven?
 zotero_key: TD8N7AIP
-cover: covers/td8n7aip.jpg
 ---
 

@@ -1,24 +1,24 @@
 ---
-title: El pensamiento salvaje
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Lévi-Strauss, Claude
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/ymtthyrz.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '20208656'
 pages: 413
+place: México
+publishers:
+- Fondo de Cultura Económica
 series: []
 subjects:
-- Modern History
-- Psychoanalysis
-oclc: '20208656'
+- Philosophy
+- Structuralism & Poststructuralism
+title: El pensamiento salvaje
+year: 1970
 zotero_key: YMTTHYRZ
-cover: covers/ymtthyrz.jpg
 ---
 

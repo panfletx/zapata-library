@@ -1,30 +1,29 @@
 ---
-title: 'Un chavo bien helado: crónicas de los años ochenta'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Ediciones Era
-place: México, D.F.
-languages:
-- Español
+cover: covers/j2avkmx8.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-411-306-0
 item_types:
 - book
-isbn: 978-968-411-306-0
+languages:
+- Español
+oclc: '24903911'
 pages: 236
-edition: 1. ed
+place: México, D.F.
+publishers:
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:
-- Literary Criticism
+- Chronicle
 - Mexican Literature
-- Mexico
-- Modern History
-oclc: '24903911'
-cover_note: dedicatoria jjb
+- Mexico City
+title: 'Un chavo bien helado: crónicas de los años ochenta'
+year: 1990
 zotero_key: J2AVKMX8
-cover: covers/j2avkmx8.jpg
 ---
 

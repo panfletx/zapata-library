@@ -1,32 +1,29 @@
 ---
-title: Retrato de un matrimonio
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Nicolson, Nigel
 - Sackville-West, V.
-publishers:
-- Editorial Grijalbo
-place: México, D.F.
-languages:
-- Español
+cover: covers/icl4jr3d.jpg
+cover_note: Regalo de José
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1997'
+isbn: 978-968-419-862-3
 item_types:
 - book
-isbn: 978-968-419-862-3
+languages:
+- Español
+oclc: '22392546'
 pages: 320
+place: México, D.F.
+publishers:
+- Editorial Grijalbo
 series:
 - Espejo de tinta
 subjects:
+- Biography
 - English Literature
-- Family
-- Feminism
-- Gender Studies
-- Love & Desire
-oclc: '22392546'
-cover_note: Regalo de José
-exlibris: '1997'
+title: Retrato de un matrimonio
+year: 1989
 zotero_key: ICL4JR3D
-cover: covers/icl4jr3d.jpg
 ---
 

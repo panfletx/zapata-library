@@ -1,25 +1,25 @@
 ---
-title: 'El gran libro de la salud: enciclopedia médica de selecciones'
-date: '2024-09-01'
-year: 1971
-decade: 1970s
 authors: []
-publishers:
-- Reader's Digest
-place: México
-languages:
-- Español
+cover: covers/kt3smqsg.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2a. ed
+isbn: 978-968-28-0035-1
 item_types:
 - book
-isbn: 978-968-28-0035-1
+languages:
+- Español
+oclc: '45119233'
 pages: 976
-edition: 2a. ed
+place: México
+publishers:
+- Reader's Digest
 series: []
 subjects:
+- Encyclopedia
 - Medicine & Health
-- Science
-oclc: '45119233'
+title: 'El gran libro de la salud: enciclopedia médica de selecciones'
+year: 1971
 zotero_key: KT3SMQSG
-cover: covers/kt3smqsg.jpg
 ---
 

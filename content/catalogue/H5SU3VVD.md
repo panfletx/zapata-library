@@ -1,25 +1,27 @@
 ---
-title: Formacion del espiritu cientifico
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Bachelard, Gaston
-publishers:
-- Siglo XXI Editores
-place: Argentina
-languages:
-- Unknown
+cover: covers/h5su3vvd.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 5. ed
+exlibris: '1977'
 item_types:
 - book
+languages:
+- Unknown
+oclc: '778097365'
 pages: 302
-edition: 5. ed
+place: Argentina
+publishers:
+- Siglo XXI Editores
 series: []
 subjects:
-- Mexican Literature
-oclc: '778097365'
-exlibris: '1977'
+- French Literature
+- Philosophy
+- Science
+title: Formacion del espiritu cientifico
+year: 1976
 zotero_key: H5SU3VVD
-cover: covers/h5su3vvd.jpg
 ---
 

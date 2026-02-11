@@ -1,19 +1,20 @@
 ---
-title: Revista, Nexos 136
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/k3nxteca.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 01851535
 item_types:
 - book
-isbn: 01851535
+languages: []
+publishers: []
 series:
 - '31'
 subjects:
-- Fiction
+- Essay
+- Mexican Literature
+title: Revista, Nexos 136
+year: 1989
 zotero_key: K3NXTECA
-cover: covers/k3nxteca.jpg
 ---
 

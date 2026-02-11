@@ -1,25 +1,27 @@
 ---
-title: Poesía
-date: '2024-09-01'
-year: 1987
-decade: 1980s
 authors:
 - Storni, Alfonsina
-publishers:
-- Mexicanos Unidos
-place: México, D.F.
-languages:
-- Español
+cover: covers/rdfjtdg5.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 4a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '22037229'
 pages: 160
-edition: 4a ed
+place: México, D.F.
+publishers:
+- Mexicanos Unidos
 series:
 - Colección Poesía
 subjects:
+- Argentine Literature
+- Feminism
 - Poetry
-oclc: '22037229'
+title: Poesía
+year: 1987
 zotero_key: RDFJTDG5
-cover: covers/rdfjtdg5.jpg
 ---
 

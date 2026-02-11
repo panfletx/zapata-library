@@ -1,18 +1,19 @@
 ---
-title: Revista, Universidad de México
-date: '2024-09-01'
-year: 1991
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/hwxeag3e.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 01851330
 item_types:
 - book
-isbn: 01851330
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Bibliography
+- Mexican Literature
+title: Revista, Universidad de México
+year: 1991
 zotero_key: HWXEAG3E
-cover: covers/hwxeag3e.jpg
 ---
 

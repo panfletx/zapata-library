@@ -1,28 +1,29 @@
 ---
-title: Las tribulaciones del estudiante Toerless
-date: '2024-09-01'
-year: 1969
-decade: 1960s
 authors:
 - Musil, Robert
 - Bixio, Roberto
 - Formosa, Feliu
-publishers:
-- Seix Barral
-place: Barcelona
-languages:
-- Español
+cover: covers/s3hrltew.jpg
+cover_note: Veronica Gonzalez de Leon 1975
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '919716175'
 pages: 180
+place: Barcelona
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve de bolsillo
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '919716175'
-cover_note: Veronica Gonzalez de Leon 1975
+- Childhood
+- German Literature
+- Novel
+title: Las tribulaciones del estudiante Toerless
+year: 1969
 zotero_key: S3HRLTEW
-cover: covers/s3hrltew.jpg
 ---
 

@@ -1,25 +1,27 @@
 ---
-title: La ciudad tan personal
-date: '2024-09-01'
-year: 1976
-decade: 1970s
 authors:
 - Blanco, José Joaquín
-publishers:
-- CEFOL
-place: México
-languages:
-- Español
+cover: covers/lqdtupsi.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '689544576'
 pages: 59
+place: México
+publishers:
+- CEFOL
 series:
 - Ciervo herido
 subjects:
-- Fiction
-oclc: '689544576'
-cover_note: dedicatoria jjb
+- Essay
+- Mexican Literature
+- Mexico City
+title: La ciudad tan personal
+year: 1976
 zotero_key: LQDTUPSI
-cover: covers/lqdtupsi.jpg
 ---
 

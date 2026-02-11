@@ -1,24 +1,26 @@
 ---
-title: La suave patria y otros poemas
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - López Velarde, Ramón
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/yzyz39su.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1059-2
 item_types:
 - book
-isbn: 978-968-39-1059-2
+languages:
+- Español
+oclc: '651521489'
 pages: 96
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Fiction
-oclc: '651521489'
+- Mexican Literature
+- National Identity
+- Poetry
+title: La suave patria y otros poemas
+year: 1994
 zotero_key: YZYZ39SU
-cover: covers/yzyz39su.jpg
 ---
 

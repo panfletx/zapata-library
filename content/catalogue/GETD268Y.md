@@ -1,34 +1,25 @@
 ---
-title: Literatura Norteamericana II
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors: []
-publishers:
-- Gallimard/Promexa
-place: México
-languages:
-- Español
+cover: covers/getd268y.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-34-0188-5
 item_types:
 - book
-isbn: 978-968-34-0188-5
+languages:
+- Español
+oclc: '50759510'
 pages: 13
+place: México
+publishers:
+- Gallimard/Promexa
 series: []
 subjects:
 - American Literature
-- English Literature
-- French Literature
-- German Literature
-- Latin America
 - Latin American Literature
 - Literary Criticism
-- Modern History
-- Russian Literature
-- Spanish Literature
-- Translation Studies
-- United States
-oclc: '50759510'
+title: Literatura Norteamericana II
+year: 1982
 zotero_key: GETD268Y
-cover: covers/getd268y.jpg
 ---
 

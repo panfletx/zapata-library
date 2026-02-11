@@ -1,25 +1,27 @@
 ---
-title: Orfeo
-date: '2024-09-01'
-year: 2007
-decade: 2000s
 authors:
 - Monteverdi, Claudio
-publishers:
-- Prisa Innova
-place: España
-languages:
-- Italiano
+cover: covers/5l5mqxr9.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-9972-37-114-1
 item_types:
 - book
-isbn: 978-9972-37-114-1
+languages:
+- Italiano
+oclc: '1395407182'
 pages: 2
+place: España
+publishers:
+- Prisa Innova
 series:
 - Los Clasicos de la Opera. 400 anos
 subjects:
-- Italian Literature
-oclc: '1395407182'
+- Italy
+- Music
+- Opera
+title: Orfeo
+year: 2007
 zotero_key: 5L5MQXR9
-cover: covers/5l5mqxr9.jpg
 ---
 

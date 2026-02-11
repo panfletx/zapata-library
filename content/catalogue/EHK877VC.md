@@ -1,27 +1,29 @@
 ---
-title: Lola rennt
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Tykwer, Tom
-publishers:
-- Rowohlt-Taschenbuch-Verl.
-place: Reinbek bei Hamburg
-languages:
-- Deutsch
+cover: covers/ehk877vc.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: Orig. Ausg
+exlibris: '2004'
+isbn: 978-3-499-22455-3
 item_types:
 - book
-isbn: 978-3-499-22455-3
+languages:
+- Deutsch
+oclc: '634712475'
 pages: 141
-edition: Orig. Ausg
+place: Reinbek bei Hamburg
+publishers:
+- Rowohlt-Taschenbuch-Verl.
 series:
 - Rororo
 subjects:
 - Film & Cinema
-oclc: '634712475'
-exlibris: '2004'
+- German Literature
+- Screenplay
+title: Lola rennt
+year: 1998
 zotero_key: EHK877VC
-cover: covers/ehk877vc.jpg
 ---
 

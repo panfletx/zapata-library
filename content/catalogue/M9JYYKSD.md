@@ -1,24 +1,26 @@
 ---
-title: Le bachelier
-date: '2024-09-01'
-year: 1970
-decade: 1970s
 authors:
 - Vallès, Jules
 - Carassus, Emilien
-publishers:
-- Garnier-Flammarion
-place: Paris
-languages:
-- Français
+cover: covers/m9jyyksd.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Français
+oclc: '1033739'
 pages: 318
+place: Paris
+publishers:
+- Garnier-Flammarion
 series: []
 subjects:
+- Autobiography & Memoir
 - French Literature
-oclc: '1033739'
+- Novel
+title: Le bachelier
+year: 1970
 zotero_key: M9JYYKSD
-cover: covers/m9jyyksd.jpg
 ---
 

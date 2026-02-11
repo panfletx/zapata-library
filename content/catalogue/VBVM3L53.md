@@ -1,27 +1,27 @@
 ---
-title: Piedra caliente
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Ojeda, Jorge Arturo
-publishers:
-- Fontamara
-place: México
-languages:
-- Español
+cover: covers/vbvm3l53.jpg
+cover_note: dedicatoria de Ojeda
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-476-241-1
 item_types:
 - book
-isbn: 978-968-476-241-1
+languages:
+- Español
+oclc: '760663355'
 pages: 97
+place: México
+publishers:
+- Fontamara
 series:
 - Fontamara
 subjects:
-- Fiction
 - Mexican Literature
-oclc: '760663355'
-cover_note: dedicatoria de Ojeda
+- Poetry
+title: Piedra caliente
+year: 1995
 zotero_key: VBVM3L53
-cover: covers/vbvm3l53.jpg
 ---
 

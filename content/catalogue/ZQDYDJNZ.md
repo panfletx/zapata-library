@@ -1,25 +1,27 @@
 ---
-title: Memorial de Aires
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Machado de Assis
-publishers:
-- Expressão e Cultura
-place: Rio de Janeiro
-languages:
-- Português
+cover: covers/zqdydjnz.jpg
+date: '2024-09-01'
+decade: 1980s
+exlibris: '1991'
+isbn: 978-85-208-0102-4
 item_types:
 - book
-isbn: 978-85-208-0102-4
+languages:
+- Português
+oclc: '21111703'
 pages: 108
+place: Rio de Janeiro
+publishers:
+- Expressão e Cultura
 series: []
 subjects:
-- Fiction
-oclc: '21111703'
-exlibris: '1991'
+- Brazilian Literature
+- Novel
+- Rio de Janeiro
+title: Memorial de Aires
+year: 1988
 zotero_key: ZQDYDJNZ
-cover: covers/zqdydjnz.jpg
 ---
 

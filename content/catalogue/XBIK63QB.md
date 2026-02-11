@@ -1,25 +1,26 @@
 ---
-title: Infancia es destino
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Ramírez, Santiago
-publishers:
-- Siglo XXI
-place: México
-languages:
-- Español
+cover: covers/xbik63qb.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 2a ed
 item_types:
 - book
+languages:
+- Español
+oclc: '1097691102'
 pages: 216
-edition: 2a ed
+place: México
+publishers:
+- Siglo XXI
 series:
 - Psicología y etología
 subjects:
+- Childhood
 - Psychoanalysis
-oclc: '1097691102'
+title: Infancia es destino
+year: 1977
 zotero_key: XBIK63QB
-cover: covers/xbik63qb.jpg
 ---
 

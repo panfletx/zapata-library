@@ -1,20 +1,21 @@
 ---
-title: Verbi italiani
-date: '2024-09-01'
 authors:
 - Peconi, A.
-publishers:
-- Ediciones Uno
-place: México
-languages:
-- Español
+cover: covers/57ed2shi.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages:
+- Español
+oclc: '906647273'
+place: México
+publishers:
+- Ediciones Uno
 series: []
 subjects:
 - Grammar & Linguistics
-oclc: '906647273'
+- Italian Literature
+title: Verbi italiani
 zotero_key: 57ED2SHI
-cover: covers/57ed2shi.jpg
 ---
 

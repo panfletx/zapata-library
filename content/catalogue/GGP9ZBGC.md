@@ -1,32 +1,28 @@
 ---
-title: América Latina en su literatura
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - Fernández Moreno, César
-publishers:
-- Siglo Veintiuno ; UNESCO
-place: México, Paris
-languages:
-- Español
+cover: covers/ggp9zbgc.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 8th ed
+exlibris: '1982'
+isbn: 978-968-23-0136-0
 item_types:
 - book
-isbn: 978-968-23-0136-0
+languages:
+- Español
+oclc: '10193089'
 pages: 494
-edition: 8th ed
+place: México, Paris
+publishers:
+- Siglo Veintiuno ; UNESCO
 series:
 - Serie "América Latina en su cultura."
 subjects:
-- American Literature
-- Latin America
 - Latin American Literature
 - Literary Criticism
-- Modern History
-- United States
-oclc: '10193089'
-exlibris: '1982'
+title: América Latina en su literatura
+year: 1982
 zotero_key: GGP9ZBGC
-cover: covers/ggp9zbgc.jpg
 ---
 

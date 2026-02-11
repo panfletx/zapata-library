@@ -1,23 +1,25 @@
 ---
-title: The catcher in the rye
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Salinger, J. D. (Jerome David)
-publishers:
-- Bantam Books
-place: New York
-languages:
-- English
+cover: covers/gbuh6w3v.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- English
+oclc: '816899561'
 pages: 277
+place: New York
+publishers:
+- Bantam Books
 series: []
 subjects:
 - American Literature
-oclc: '816899561'
+- Childhood
+- Fiction
+title: The catcher in the rye
+year: 1972
 zotero_key: GBUH6W3V
-cover: covers/gbuh6w3v.jpg
 ---
 

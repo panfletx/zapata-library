@@ -1,21 +1,21 @@
 ---
-title: Cocina popular internacional
-date: '2024-09-01'
-year: 2004
-decade: 2000s
 authors:
 - Wilson, Anne
-publishers:
-- H. Kliczkowski-onlybook, s.l.
-place: Madrid
-languages:
-- Español
+cover: covers/vcgxtcdj.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages:
+- Español
+place: Madrid
+publishers:
+- H. Kliczkowski-onlybook, s.l.
 series: []
 subjects:
-- Fiction
+- Food & Gastronomy
+title: Cocina popular internacional
+year: 2004
 zotero_key: VCGXTCDJ
-cover: covers/vcgxtcdj.jpg
 ---
 

@@ -1,21 +1,23 @@
 ---
-title: La escuela de las mujeres
-date: '2024-09-01'
 authors:
 - Blanco, José Joaquín
 - Ocegueda, Aleida
-publishers:
-- Editorial la torre de Lulio
-languages:
-- Español
+cover: covers/flvfvuam.jpg
+cover_note: dedicatoria jjb
+date: '2024-09-01'
+isbn: 970-94403-0-7
 item_types:
 - book
-isbn: 970-94403-0-7
+languages:
+- Español
+publishers:
+- Editorial la torre de Lulio
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria jjb
+- Education
+- Essay
+- Feminism
+title: La escuela de las mujeres
 zotero_key: FLVFVUAM
-cover: covers/flvfvuam.jpg
 ---
 

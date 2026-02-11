@@ -1,15 +1,15 @@
 ---
-title: Revista, Editions Persona
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/d449jcmh.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Anthology
+title: Revista, Editions Persona
 zotero_key: D449JCMH
-cover: covers/d449jcmh.jpg
 ---
 

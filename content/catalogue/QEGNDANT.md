@@ -1,24 +1,25 @@
 ---
-title: La ruta interior
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Hesse, Hermann
-publishers:
-- Epoca
-place: México, D.F.
-languages:
-- Español
+cover: covers/qegndant.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1992'
 item_types:
 - book
+languages:
+- Español
+oclc: '24571871'
 pages: 258
+place: México, D.F.
+publishers:
+- Epoca
 series: []
 subjects:
-- Fiction
-oclc: '24571871'
-exlibris: '1992'
+- German Literature
+- Novel
+title: La ruta interior
+year: 1978
 zotero_key: QEGNDANT
-cover: covers/qegndant.jpg
 ---
 

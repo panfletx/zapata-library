@@ -1,25 +1,24 @@
 ---
-title: Memorias de mis tiempos
-date: '2024-09-01'
-year: 994
 authors:
 - Prieto, Guillermo
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/cyq8ivby.jpg
+date: '2024-09-01'
+isbn: 978-968-39-1058-5
 item_types:
 - book
-isbn: 978-968-39-1058-5
+languages:
+- Español
+oclc: '651521493'
 pages: 63
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Biography
-- Mexico
-- Modern History
-oclc: '651521493'
+- Autobiography & Memoir
+- Mexican Literature
+title: Memorias de mis tiempos
+year: 994
 zotero_key: CYQ8IVBY
-cover: covers/cyq8ivby.jpg
 ---
 

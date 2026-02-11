@@ -1,27 +1,28 @@
 ---
-title: Historia gráfica de México. 6, Siglo diecinueve. II
-date: '2024-09-01'
-year: 1988
-decade: 1980s
 authors:
 - Aguilar, Luis Miguel
 - Blanco, José Joaquín
 - Torre, Guadalupe de la
-publishers:
-- 'Instituto Nacional de Antropología e Historia : Editorial Patria'
-place: México D.F.
-languages:
-- Español
+cover: covers/i8zyab59.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-39-0129-3
 item_types:
 - book
-isbn: 978-968-39-0129-3
+languages:
+- Español
+oclc: '1367349081'
 pages: 158
+place: México D.F.
+publishers:
+- 'Instituto Nacional de Antropología e Historia : Editorial Patria'
 series: []
 subjects:
+- Historical Fiction
 - Mexico
 - Modern History
-oclc: '1367349081'
+title: Historia gráfica de México. 6, Siglo diecinueve. II
+year: 1988
 zotero_key: I8ZYAB59
-cover: covers/i8zyab59.jpg
 ---
 

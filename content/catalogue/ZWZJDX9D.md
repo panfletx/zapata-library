@@ -1,26 +1,27 @@
 ---
-title: El goce de la piel
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Reynoso, Oswaldo
-publishers:
-- Editorial San Marcos
-place: Jesús María, Lima
-languages:
-- Español
+cover: covers/zwzjdx9d.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 1. ed
+exlibris: '2007'
+isbn: 978-9972-34-305-6
 item_types:
 - book
-isbn: 978-9972-34-305-6
+languages:
+- Español
+oclc: '62199587'
 pages: 50
-edition: 1. ed
+place: Jesús María, Lima
+publishers:
+- Editorial San Marcos
 series: []
 subjects:
-- Fiction
-oclc: '62199587'
-exlibris: '2007'
+- Novel
+- Sexuality & Eroticism
+title: El goce de la piel
+year: 2005
 zotero_key: ZWZJDX9D
-cover: covers/zwzjdx9d.jpg
 ---
 

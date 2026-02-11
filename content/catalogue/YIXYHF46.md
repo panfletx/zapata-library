@@ -1,25 +1,26 @@
 ---
-title: Relatos orales de Chiloé
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Haverbeck O., Erwin
 - Arán F., Luis
-publishers:
-- 'Facultad de Filosofía y Humanidades, Dirección de Investigacion, Universidad Austral de Chile : Editorial Andrés Bello'
-place: Santiago, Chile?
-languages:
-- Español
+cover: covers/yixyhf46.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages:
+- Español
+oclc: '24172982'
 pages: 228
+place: Santiago, Chile?
+publishers:
+- 'Facultad de Filosofía y Humanidades, Dirección de Investigacion, Universidad Austral de Chile : Editorial Andrés Bello'
 series: []
 subjects:
 - Chile
-- Short Stories
-oclc: '24172982'
+- Chilean Literature
+- Oral Tradition & Folklore
+title: Relatos orales de Chiloé
+year: 1989
 zotero_key: YIXYHF46
-cover: covers/yixyhf46.jpg
 ---
 

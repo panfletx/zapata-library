@@ -1,27 +1,26 @@
 ---
-title: 'Never plead guilty: the story of Jake Ehrlich'
-date: '2024-09-01'
-year: 1963
-decade: 1960s
 authors:
 - Noble, John Wesley
 - Averbuch, Bernard
-publishers:
-- Bantam Books
-place: New York
-languages:
-- English
+cover: covers/nfc8tx86.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '6597325'
 pages: 246
+place: New York
+publishers:
+- Bantam Books
 series: []
 subjects:
 - Biography
-- Detective & Mystery
-- Modern History
+- Law
 - United States
-oclc: '6597325'
+title: 'Never plead guilty: the story of Jake Ehrlich'
+year: 1963
 zotero_key: NFC8TX86
-cover: covers/nfc8tx86.jpg
 ---
 

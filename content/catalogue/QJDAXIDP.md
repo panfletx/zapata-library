@@ -1,25 +1,26 @@
 ---
-title: Luz de agosto
-date: '2024-09-01'
-year: 1984
-decade: 1980s
 authors:
 - Faulkner, William
-publishers:
-- 'Editorial Origen : Editorial Seix Barral'
-place: México, Barcelona
-languages:
-- Español
+cover: covers/qjdaxidp.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-968-6200-97-3
 item_types:
 - book
-isbn: 978-968-6200-97-3
+languages:
+- Español
+oclc: '1089489016'
 pages: 356
+place: México, Barcelona
+publishers:
+- 'Editorial Origen : Editorial Seix Barral'
 series:
 - Obras maestras del siglo XX
 subjects:
-- Fiction
-oclc: '1089489016'
+- American Literature
+- Novel
+title: Luz de agosto
+year: 1984
 zotero_key: QJDAXIDP
-cover: covers/qjdaxidp.jpg
 ---
 

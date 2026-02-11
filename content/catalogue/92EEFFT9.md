@@ -1,28 +1,27 @@
 ---
-title: La Doretea
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Vega y Carpio, Félix Lope de
-publishers:
-- Espasa-Calpe
-place: Madrid
-languages:
-- Español
+cover: covers/92eefft9.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: Quinta edición
+isbn: 978-84-239-0422-8
 item_types:
 - book
-isbn: 978-84-239-0422-8
+languages:
+- Español
+oclc: '964822205'
 pages: 227
-edition: Quinta edición
+place: Madrid
+publishers:
+- Espasa-Calpe
 series:
 - Colección austral
 subjects:
-- Literary Criticism
-- Modern History
-- Poetry
-oclc: '964822205'
+- Drama
+- Spanish Literature
+title: La Doretea
+year: 1973
 zotero_key: 92EEFFT9
-cover: covers/92eefft9.jpg
 ---
 

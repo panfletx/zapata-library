@@ -1,28 +1,28 @@
 ---
-title: 'Besar, hacer cosquillas y aburrirse: ensayos psicoanalíticos sobre la vida no psicoanalizada'
-date: '2024-09-01'
-year: 2002
-decade: 2000s
 authors:
 - Philips, Adam
 - Pérez Villanueva, Luis Estebán.
-publishers:
-- Editorial Oceano
-place: México, D.F.
-languages:
-- Español
+cover: covers/zxehp37v.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-970-651-628-2
 item_types:
 - book
-isbn: 978-970-651-628-2
+languages:
+- Español
+oclc: '57733380'
 pages: 183
+place: México, D.F.
+publishers:
+- Editorial Oceano
 series:
 - Ojo infalible
 subjects:
+- Essay
 - Philosophy
 - Psychoanalysis
-- Sigmund Freud
-oclc: '57733380'
+title: 'Besar, hacer cosquillas y aburrirse: ensayos psicoanalíticos sobre la vida no psicoanalizada'
+year: 2002
 zotero_key: ZXEHP37V
-cover: covers/zxehp37v.jpg
 ---
 

@@ -1,30 +1,31 @@
 ---
-title: '8 1/2: scénario bilingue'
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Fellini, Federico
 - Manganaro, Jean-Paul
-publishers:
-- Seuil
-place: Paris
-languages:
-- Français
+cover: covers/rvn5sjlk.jpg
+cover_note: Regalo de Angelina
+date: '2024-09-01'
+decade: 1990s
+exlibris: '2004'
+isbn: 978-2-02-023535-8
 item_types:
 - book
-isbn: 978-2-02-023535-8
-source_url: http://catalogue.bnf.fr/ark:/12148/cb35852263d
+languages:
+- Français
+oclc: '36541642'
 pages: 343
+place: Paris
+publishers:
+- Seuil
 series:
 - Points. Série Point-virgule
+source_url: http://catalogue.bnf.fr/ark:/12148/cb35852263d
 subjects:
 - Film & Cinema
+- Italian Literature
 - Screenplay
-oclc: '36541642'
-cover_note: Regalo de Angelina
-exlibris: '2004'
+title: '8 1/2: scénario bilingue'
+year: 1996
 zotero_key: RVN5SJLK
-cover: covers/rvn5sjlk.jpg
 ---
 

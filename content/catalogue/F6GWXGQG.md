@@ -1,29 +1,26 @@
 ---
-title: Con Catulo de rodilla
-date: '2024-09-01'
-year: 2008
-decade: 2000s
 authors:
 - Suárez, Joseantonio
-publishers:
-- La Cartonera
-place: Cuernavaca, Morelos, México
-languages:
-- Español
+cover: covers/f6gwxgqg.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: Primera edición
 item_types:
 - book
+languages:
+- Español
+oclc: '469264425'
 pages: 31
-edition: Primera edición
+place: Cuernavaca, Morelos, México
+publishers:
+- La Cartonera
 series: []
 subjects:
-- Bibliography
-- Mexico
-- Modern History
+- Mexican Literature
 - Poetry
-- Rome
-oclc: '469264425'
+title: Con Catulo de rodilla
+year: 2008
 zotero_key: F6GWXGQG
-cover: covers/f6gwxgqg.jpg
 ---
 
 Poems

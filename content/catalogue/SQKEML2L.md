@@ -1,28 +1,29 @@
 ---
-title: Anda suelto un befo
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Sisniega Campbell, Marcel
-publishers:
-- 'Secretaría de Educación Pública, Sep, Cultura : CREA'
-place: México, D.F.
-languages:
-- Español
+cover: covers/sqkeml2l.jpg
+cover_note: dedicatoria
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed
+isbn: 978-968-29-0019-8
 item_types:
 - book
-isbn: 978-968-29-0019-8
+languages:
+- Español
+oclc: '14281350'
 pages: 76
-edition: 1a ed
+place: México, D.F.
+publishers:
+- 'Secretaría de Educación Pública, Sep, Cultura : CREA'
 series:
 - Letras nuevas
 subjects:
-- Fiction
-- Mexico
-oclc: '14281350'
-cover_note: dedicatoria
+- Children's Literature
+- Mexican Literature
+- Short Stories
+title: Anda suelto un befo
+year: 1985
 zotero_key: SQKEML2L
-cover: covers/sqkeml2l.jpg
 ---
 

@@ -1,21 +1,23 @@
 ---
-title: Kiss Kiss
-date: '2024-09-01'
-year: 1962
-decade: 1960s
 authors:
 - Dahl Roald
-publishers:
-- Penguin Books
-languages:
-- English
+cover: covers/ekm2ywr5.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '1009646903'
+publishers:
+- Penguin Books
 series: []
 subjects:
-- Fiction
-oclc: '1009646903'
+- English Literature
+- Satire & Humor
+- Short Stories
+title: Kiss Kiss
+year: 1962
 zotero_key: EKM2YWR5
-cover: covers/ekm2ywr5.jpg
 ---
 

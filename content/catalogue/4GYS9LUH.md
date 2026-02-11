@@ -1,21 +1,22 @@
 ---
-title: Las sustancias de la fe
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Abundez, Norma
-publishers:
-- Tinta nueva ediciones
-languages: []
+cover: covers/4gys9luh.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
+decade: 2000s
+isbn: 968-5243-35-2
 item_types:
 - book
-isbn: 968-5243-35-2
+languages: []
+publishers:
+- Tinta nueva ediciones
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria de autor
+- Religion
+- Spanish Literature
+title: Las sustancias de la fe
+year: 2005
 zotero_key: 4GYS9LUH
-cover: covers/4gys9luh.jpg
 ---
 

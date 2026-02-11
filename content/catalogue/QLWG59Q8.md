@@ -1,16 +1,18 @@
 ---
-title: Nuestra única arma
-date: '2024-09-01'
 authors:
 - Zapata, Luis
-publishers: []
-languages: []
+cover: covers/qlwg59q8.jpg
+date: '2024-09-01'
 item_types:
 - magazineArticle
+languages: []
+publishers: []
 series: []
 subjects:
+- Essay
+- Luis Zapata
 - Mexican Literature
+title: Nuestra única arma
 zotero_key: QLWG59Q8
-cover: covers/qlwg59q8.jpg
 ---
 

@@ -1,30 +1,28 @@
 ---
-title: 'Cartas a un joven poeta: y, Antología poética'
-date: '2024-09-01'
-year: 2005
-decade: 2000s
 authors:
 - Rilke, Rainer Maria
 - Iturbide, Mauricio
-publishers:
-- Editores Mexicanos Unidos
-place: Mexico City
-languages:
-- Español
+cover: covers/qc2wk9na.jpg
+date: '2024-09-01'
+decade: 2000s
+isbn: 978-968-15-1513-3
 item_types:
 - book
-isbn: 978-968-15-1513-3
+languages:
+- Español
+oclc: '69182354'
 pages: 180
+place: Mexico City
+publishers:
+- Editores Mexicanos Unidos
 series:
 - Colección Grandes de la literatura
 subjects:
 - Correspondence
-- Literary Criticism
-- Modern History
+- German Literature
 - Poetry
-- Translation Studies
-oclc: '69182354'
+title: 'Cartas a un joven poeta: y, Antología poética'
+year: 2005
 zotero_key: QC2WK9NA
-cover: covers/qc2wk9na.jpg
 ---
 

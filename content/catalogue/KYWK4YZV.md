@@ -1,25 +1,26 @@
 ---
-title: Quién mató a Zebedee
-date: '2024-09-01'
-year: 1998
-decade: 1990s
 authors:
 - Collins, Wilkie
-publishers:
-- Unidad Editorial
-place: Madrid
-languages:
-- Español
+cover: covers/kywk4yzv.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-84-8130-061-1
 item_types:
 - book
-isbn: 978-84-8130-061-1
+languages:
+- Español
+oclc: '50685448'
 pages: 93
+place: Madrid
+publishers:
+- Unidad Editorial
 series:
 - Las novelas del verano. Negra
 subjects:
-- Fiction
-oclc: '50685448'
+- Detective & Mystery
+- English Literature
+title: Quién mató a Zebedee
+year: 1998
 zotero_key: KYWK4YZV
-cover: covers/kywk4yzv.jpg
 ---
 

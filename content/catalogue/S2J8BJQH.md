@@ -1,26 +1,27 @@
 ---
-title: Comedias [de] Plauto
-date: '2024-09-01'
-year: 1968
-decade: 1960s
 authors:
 - Plaute
 - Solà, Alexis Eudald
-publishers:
-- Bruguera
-place: Barcelona
-languages:
-- Español
+cover: covers/s2j8bjqh.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '807817035'
 pages: 331
+place: Barcelona
+publishers:
+- Bruguera
 series:
 - Libro clásico (Bruguera)
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '807817035'
+- Ancient History
+- Classical Literature
+- Drama
+title: Comedias [de] Plauto
+year: 1968
 zotero_key: S2J8BJQH
-cover: covers/s2j8bjqh.jpg
 ---
 

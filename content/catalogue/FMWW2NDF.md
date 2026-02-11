@@ -1,26 +1,25 @@
 ---
-title: Diccionario de términos literarios y artísticos
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Alvarez del Real, María Eloísa
-publishers:
-- Editorial America
-place: Panamá, República de Panamá
-languages:
-- Español
+cover: covers/fmww2ndf.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-0-944499-68-9
 item_types:
 - book
-isbn: 978-0-944499-68-9
+languages:
+- Español
+oclc: '25267764'
 pages: 384
+place: Panamá, República de Panamá
+publishers:
+- Editorial America
 series: []
 subjects:
 - Dictionary
 - Literary Criticism
-- Visual Art
-oclc: '25267764'
+title: Diccionario de términos literarios y artísticos
+year: 1990
 zotero_key: FMWW2NDF
-cover: covers/fmww2ndf.jpg
 ---
 

@@ -1,29 +1,31 @@
 ---
-title: 'Asfódelos y otros cuentos: antología crítica'
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Couto Castillo, Bernardo
 - Cervantes, María.
 - Correa, María Guadalupe
 - Stein, Tadeo P.
-publishers:
-- Editorial Serapis
-place: Rosario, Argentina
-languages:
-- Español
+cover: covers/9rhhlds2.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a ed
+isbn: 978-987-26984-0-9
 item_types:
 - book
-isbn: 978-987-26984-0-9
+languages:
+- Español
+oclc: '786308733'
 pages: 253
-edition: 1a ed
+place: Rosario, Argentina
+publishers:
+- Editorial Serapis
 series:
 - Serie Diecinueve
 subjects:
+- Anthology
+- Argentine Literature
 - Short Stories
-oclc: '786308733'
+title: 'Asfódelos y otros cuentos: antología crítica'
+year: 2011
 zotero_key: 9RHHLDS2
-cover: covers/9rhhlds2.jpg
 ---
 

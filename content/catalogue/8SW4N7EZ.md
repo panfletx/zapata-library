@@ -1,25 +1,27 @@
 ---
-title: Belarmino y Apolonio
-date: '2024-09-01'
-year: 1944
-decade: 1940s
 authors:
 - Pérez de Ayala, Ramón
-publishers:
-- Losada
-place: Buenos Aires
-languages:
-- Español
+cover: covers/8sw4n7ez.jpg
+date: '2024-09-01'
+decade: 1940s
+edition: 2 éd
 item_types:
 - book
+languages:
+- Español
+oclc: '4242342'
 pages: 197
-edition: 2 éd
+place: Buenos Aires
+publishers:
+- Losada
 series:
 - Biblioteca contemporánea
 subjects:
 - Fiction
-oclc: '4242342'
+- Novel
+- Spanish Literature
+title: Belarmino y Apolonio
+year: 1944
 zotero_key: 8SW4N7EZ
-cover: covers/8sw4n7ez.jpg
 ---
 

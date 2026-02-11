@@ -1,15 +1,15 @@
 ---
-title: Revista, ¡Extra! Contenido
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/vnfcnnuv.jpg
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+title: Revista, ¡Extra! Contenido
 zotero_key: VNFCNNUV
-cover: covers/vnfcnnuv.jpg
 ---
 

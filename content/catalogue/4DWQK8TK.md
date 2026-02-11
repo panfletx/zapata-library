@@ -1,28 +1,27 @@
 ---
-title: La mujer que no
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Ibargüengoitia, Jorge
-publishers:
-- Alianza
-place: México, D.F.
-languages:
-- Español
+cover: covers/4dwqk8tk.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-39-1036-3
 item_types:
 - book
-isbn: 978-968-39-1036-3
+languages:
+- Español
+oclc: '1187062057'
 pages: 59
+place: México, D.F.
+publishers:
+- Alianza
 series:
 - Alianza cien
 subjects:
-- Latin American Literature
-- Literary Criticism
-- Mexico
-- Short Stories
-oclc: '1187062057'
+- Mexican Literature
+- Mexico City
+- Novel
+title: La mujer que no
+year: 1994
 zotero_key: 4DWQK8TK
-cover: covers/4dwqk8tk.jpg
 ---
 

@@ -1,32 +1,28 @@
 ---
-title: A single man
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Isherwood, Christopher
-publishers:
-- Avon Books
-place: New York
-languages:
-- English
+cover: covers/xz9va69v.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1979'
+isbn: 978-0-380-37689-6
 item_types:
 - book
-isbn: 978-0-380-37689-6
+languages:
+- English
+oclc: '5789663'
 pages: 157
+place: New York
+publishers:
+- Avon Books
 series:
 - Bard book
 subjects:
-- Death & Mourning
-- Education
-- Fiction
+- American Literature
 - Gay Literature
 - Novel
-- Psychoanalysis
-- Short Stories
-oclc: '5789663'
-exlibris: '1979'
+title: A single man
+year: 1978
 zotero_key: XZ9VA69V
-cover: covers/xz9va69v.jpg
 ---
 

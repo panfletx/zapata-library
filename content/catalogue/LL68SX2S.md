@@ -1,26 +1,27 @@
 ---
-title: Larousse de la conjugación
-date: '2024-09-01'
-year: 1982
-decade: 1980s
 authors:
 - García-Pelayo y Gross, Ramón.
 - García-Pelayo y Gross, Fernando
 - Durand, Micheline
-publishers:
-- Larousse
-place: Paris
-languages:
-- Español
+cover: covers/ll68sx2s.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-2-03-490043-3
 item_types:
 - book
-isbn: 978-2-03-490043-3
+languages:
+- Español
+oclc: '10147215'
 pages: 175
+place: Paris
+publishers:
+- Larousse
 series: []
 subjects:
+- Dictionary
 - Grammar & Linguistics
-oclc: '10147215'
+title: Larousse de la conjugación
+year: 1982
 zotero_key: LL68SX2S
-cover: covers/ll68sx2s.jpg
 ---
 

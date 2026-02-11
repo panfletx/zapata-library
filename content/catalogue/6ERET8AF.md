@@ -1,25 +1,27 @@
 ---
-title: La gaceta sideral
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Galilei, Galileo
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/6eret8af.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1994'
+isbn: 978-968-39-1179-7
 item_types:
 - book
-isbn: 978-968-39-1179-7
+languages:
+- Español
+oclc: '651521480'
 pages: 93
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
+- Historical Fiction
+- Italy
 - Science
-oclc: '651521480'
-exlibris: '1994'
+title: La gaceta sideral
+year: 1994
 zotero_key: 6ERET8AF
-cover: covers/6eret8af.jpg
 ---
 

@@ -1,32 +1,28 @@
 ---
-title: Nouvelles allemandes d'aujourd'hui Deutsche Kurzgeschichten der Gegenwart
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors:
 - Lance, Alain
 - Müller, Reiner
-publishers:
-- Presses Pocket
-place: Paris
-languages:
-- Deutsch
+cover: covers/kgyz7cu8.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-2-266-08994-4
 item_types:
 - book
-isbn: 978-2-266-08994-4
+languages:
+- Deutsch
+oclc: '490509445'
 pages: 1
+place: Paris
+publishers:
+- Presses Pocket
 series:
 - Les Langues pour tous (Paris)
 subjects:
 - Anthology
-- Education
-- Grammar & Linguistics
-- Modern History
+- German Literature
 - Short Stories
-- Speech & Lecture
-- Translation Studies
-oclc: '490509445'
+title: Nouvelles allemandes d'aujourd'hui Deutsche Kurzgeschichten der Gegenwart
+year: 1999
 zotero_key: KGYZ7CU8
-cover: covers/kgyz7cu8.jpg
 ---
 

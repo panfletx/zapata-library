@@ -1,17 +1,18 @@
 ---
-title: Revista, Machete 1
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors: []
-publishers: []
-languages: []
+cover: covers/28gzh5tg.jpg
+date: '2024-09-01'
+decade: 1980s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Journalism
+- Latin American Politics
+title: Revista, Machete 1
+year: 1980
 zotero_key: 28GZH5TG
-cover: covers/28gzh5tg.jpg
 ---
 

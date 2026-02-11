@@ -1,25 +1,26 @@
 ---
-title: Los Evangelios según Mateo, Marcos Lucas y Juan
-date: '2024-09-01'
-year: 1996
-decade: 1990s
 authors:
 - Peña, Ernesto de la
-publishers:
-- Aguilar
-place: México
-languages:
-- Español
+cover: covers/hjc74kzq.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1a. ed
+isbn: 978-968-19-0252-0
 item_types:
 - book
-isbn: 978-968-19-0252-0
+languages:
+- Español
+oclc: '37823357'
 pages: 184
-edition: 1a. ed
+place: México
+publishers:
+- Aguilar
 series: []
 subjects:
+- Mexico
 - Religion
-oclc: '37823357'
+title: Los Evangelios según Mateo, Marcos Lucas y Juan
+year: 1996
 zotero_key: HJC74KZQ
-cover: covers/hjc74kzq.jpg
 ---
 

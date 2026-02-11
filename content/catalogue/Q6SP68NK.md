@@ -1,27 +1,27 @@
 ---
-title: 'The waning of the Middle Ages: a study of the forms of life, thought and art in France and the Netherlands in the XIVth and XVth centuries'
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Huizinga, Johan
-publishers:
-- Doubleday
-place: Garden City, N.Y.
-languages:
-- English
+cover: covers/q6sp68nk.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: Anchor books ed
 item_types:
 - book
+languages:
+- English
+oclc: '477691234'
 pages: 362
-edition: Anchor books ed
+place: Garden City, N.Y.
+publishers:
+- Doubleday
 series: []
 subjects:
 - France
 - Medieval History
-- Modern History
+- Medieval Literature
 - Netherlands
-oclc: '477691234'
+title: 'The waning of the Middle Ages: a study of the forms of life, thought and art in France and the Netherlands in the XIVth and XVth centuries'
+year: 1989
 zotero_key: Q6SP68NK
-cover: covers/q6sp68nk.jpg
 ---
 

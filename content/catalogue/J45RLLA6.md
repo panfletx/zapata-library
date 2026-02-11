@@ -1,26 +1,26 @@
 ---
-title: Vidas secas
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Ramos, Graciliano
-publishers:
-- Editorial de Arte y Literatura
-place: La Habana
-languages:
-- Español
+cover: covers/j45rlla6.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1986'
 item_types:
 - book
+languages:
+- Español
+oclc: '9628403'
 pages: 123
+place: La Habana
+publishers:
+- Editorial de Arte y Literatura
 series:
 - Ediciones Huracán
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '9628403'
-exlibris: '1986'
+- Brazilian Literature
+- Novel
+title: Vidas secas
+year: 1977
 zotero_key: J45RLLA6
-cover: covers/j45rlla6.jpg
 ---
 

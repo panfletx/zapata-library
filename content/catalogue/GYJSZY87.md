@@ -1,26 +1,28 @@
 ---
-title: Ficción
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Zorrilla, Oscar
-publishers:
-- Difusión Cultural, Departamento de Humanidades
-place: México
-languages:
-- Español
+cover: covers/gyjszy87.jpg
+cover_note: dedicatoria del autor 1977
+date: '2024-09-01'
+decade: 1970s
+edition: 1. ed
 item_types:
 - book
+languages:
+- Español
+oclc: '39910395'
 pages: 99
-edition: 1. ed
+place: México
+publishers:
+- Difusión Cultural, Departamento de Humanidades
 series:
 - Textos de humanidades
 subjects:
 - Fiction
-oclc: '39910395'
-cover_note: dedicatoria del autor 1977
+- Mexican Literature
+- Mexico
+title: Ficción
+year: 1977
 zotero_key: GYJSZY87
-cover: covers/gyjszy87.jpg
 ---
 

@@ -1,28 +1,28 @@
 ---
-title: El trabajo del actor sobre sí mismo en el proceso creador de la encarnación
-date: '2024-09-01'
-year: 2003
-decade: 2000s
 authors:
 - Stanislavskiï, Konstantin Sergueevich
 - Saura, Jorge
-publishers:
-- Alba Editorial
-place: Barcelona
-languages:
-- Español
+cover: covers/69xcqiq8.jpg
+date: '2024-09-01'
+decade: 2000s
+exlibris: '2007'
+isbn: 978-84-8428-182-5
 item_types:
 - book
-isbn: 978-84-8428-182-5
+languages:
+- Español
+oclc: '657093813'
 pages: 378
+place: Barcelona
+publishers:
+- Alba Editorial
 series:
 - Artes escénicas
 subjects:
 - Drama
-- Education
-oclc: '657093813'
-exlibris: '2007'
+- Russian Literature
+title: El trabajo del actor sobre sí mismo en el proceso creador de la encarnación
+year: 2003
 zotero_key: 69XCQIQ8
-cover: covers/69xcqiq8.jpg
 ---
 

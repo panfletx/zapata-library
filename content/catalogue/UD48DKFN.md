@@ -1,16 +1,18 @@
 ---
-title: Parlar par véneto víver a Mésico
-date: '2024-09-01'
 authors: []
-publishers: []
-languages: []
+cover: covers/ud48dkfn.jpg
+cover_note: dedicatoria de autor
+date: '2024-09-01'
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
-cover_note: dedicatoria de autor
+- Mexico
+- Migration & Exile
+- Travel Writing
+title: Parlar par véneto víver a Mésico
 zotero_key: UD48DKFN
-cover: covers/ud48dkfn.jpg
 ---
 

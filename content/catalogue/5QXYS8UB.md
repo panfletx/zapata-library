@@ -1,31 +1,28 @@
 ---
-title: Archivo Lowry
-date: '2024-09-01'
-year: 2011
-decade: 2010s
 authors:
 - Ortiz y Ortiz, Raúl
 - Cuevas, Ángel
-publishers:
-- Instituto de Cultura de Morelos
-place: Cuernavaca, Morelos [Mexico]
-languages:
-- Español
+cover: covers/5qxys8ub.jpg
+date: '2024-09-01'
+decade: 2010s
+edition: 1a. ed
+isbn: 978-607-7773-33-7
 item_types:
 - book
-isbn: 978-607-7773-33-7
+languages:
+- Español
+oclc: '813224835'
 pages: 245
-edition: 1a. ed
+place: Cuernavaca, Morelos [Mexico]
+publishers:
+- Instituto de Cultura de Morelos
 series:
 - Colección La sombra del viajero
 subjects:
 - Bibliography
-- Biography
-- Correspondence
-- English Literature
-- Literary Criticism
-oclc: '813224835'
+- Mexico
+title: Archivo Lowry
+year: 2011
 zotero_key: 5QXYS8UB
-cover: covers/5qxys8ub.jpg
 ---
 

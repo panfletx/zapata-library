@@ -1,25 +1,27 @@
 ---
-title: 'Pueblo en vilo: microhistoria de San José de Gracia'
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - González y González, Luis
-publishers:
-- El Colegio de México
-place: México
-languages:
-- Español
+cover: covers/maqi6ni9.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3. ed
+isbn: 978-968-12-0012-1
 item_types:
 - book
-isbn: 978-968-12-0012-1
+languages:
+- Español
+oclc: '5489802'
 pages: 417
-edition: 3. ed
+place: México
+publishers:
+- El Colegio de México
 series: []
 subjects:
-- Mexico
-oclc: '5489802'
+- Chronicle
+- Mexican Literature
+- Rural Life
+title: 'Pueblo en vilo: microhistoria de San José de Gracia'
+year: 1979
 zotero_key: MAQI6NI9
-cover: covers/maqi6ni9.jpg
 ---
 

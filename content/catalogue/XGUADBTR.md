@@ -1,24 +1,26 @@
 ---
-title: Miguel Street
-date: '2024-09-01'
-year: 1966
-decade: 1960s
 authors:
 - Naipaul, V. S.
-publishers:
-- New English Library
-place: London
-languages:
-- English
+cover: covers/xguadbtr.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- English
+oclc: '893901'
 pages: 158
+place: London
+publishers:
+- New English Library
 series:
 - A Four Square book
 subjects:
+- Caribbean
+- English Literature
 - Fiction
-oclc: '893901'
+title: Miguel Street
+year: 1966
 zotero_key: XGUADBTR
-cover: covers/xguadbtr.jpg
 ---
 

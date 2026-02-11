@@ -1,25 +1,26 @@
 ---
-title: La ciencia como vocación
-date: '2024-09-01'
-year: 1994
-decade: 1990s
 authors:
 - Weber, Max
-publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
-place: México
-languages:
-- Español
+cover: covers/v7zvb7kj.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1994'
 item_types:
 - book
+languages:
+- Español
+oclc: '651521559'
 pages: 63
+place: México
+publishers:
+- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Education
+- Essay
+- Philosophy
 - Science
-oclc: '651521559'
-exlibris: '1994'
+title: La ciencia como vocación
+year: 1994
 zotero_key: V7ZVB7KJ
-cover: covers/v7zvb7kj.jpg
 ---
 

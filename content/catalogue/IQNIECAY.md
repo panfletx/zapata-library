@@ -1,27 +1,28 @@
 ---
-title: La vida es larga y además no importa
-date: '2024-09-01'
-year: 1980
-decade: 1980s
 authors:
 - Blanco, José Joaquín
-publishers:
-- Premia Editora
-place: México
-languages:
-- Español
+cover: covers/iqniecay.jpg
+cover_note: dedicatoria de jjb
+date: '2024-09-01'
+decade: 1980s
+edition: 3. ed
+isbn: 978-968-434-081-7
 item_types:
 - book
-isbn: 978-968-434-081-7
+languages:
+- Español
+oclc: '6542092'
 pages: 93
-edition: 3. ed
+place: México
+publishers:
+- Premia Editora
 series:
 - La Red Jonás
 subjects:
-- Fiction
-oclc: '6542092'
-cover_note: dedicatoria de jjb
+- Mexican Literature
+- Novel
+title: La vida es larga y además no importa
+year: 1980
 zotero_key: IQNIECAY
-cover: covers/iqniecay.jpg
 ---
 

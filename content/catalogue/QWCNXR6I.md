@@ -1,17 +1,18 @@
 ---
-title: Revista, Casa del tiempo 29
-date: '2024-09-01'
-year: 2001
-decade: 2000s
 authors: []
-publishers: []
-languages: []
+cover: covers/qwcnxr6i.jpg
+date: '2024-09-01'
+decade: 2000s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Literary Criticism
+- Mexican Literature
+title: Revista, Casa del tiempo 29
+year: 2001
 zotero_key: QWCNXR6I
-cover: covers/qwcnxr6i.jpg
 ---
 

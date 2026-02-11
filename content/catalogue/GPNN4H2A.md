@@ -1,25 +1,27 @@
 ---
-title: Realidad & deseo producciones
-date: '2024-09-01'
-year: 2012
-decade: 2010s
 authors:
 - Bravo Varela, Hernán
-publishers:
-- Bonobos / poesía
-place: '[Coahuila] Mexico'
-languages:
-- Español
+cover: covers/gpnn4h2a.jpg
+date: '2024-09-01'
+decade: 2010s
+isbn: 978-607-8099-37-5
 item_types:
 - book
-isbn: 978-607-8099-37-5
+languages:
+- Español
+oclc: '829393448'
 pages: 64
+place: '[Coahuila] Mexico'
+publishers:
+- Bonobos / poesía
 series:
 - Colección Reino de nadie
 subjects:
-- Fiction
-oclc: '829393448'
+- Mexican Literature
+- Mexico
+- Poetry
+title: Realidad & deseo producciones
+year: 2012
 zotero_key: GPNN4H2A
-cover: covers/gpnn4h2a.jpg
 ---
 

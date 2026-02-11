@@ -1,17 +1,19 @@
 ---
-title: Revista, Letras libres 8
-date: '2024-09-01'
-year: 1999
-decade: 1990s
 authors: []
-publishers: []
-languages: []
+cover: covers/jlralbrj.jpg
+date: '2024-09-01'
+decade: 1990s
 item_types:
 - book
+languages: []
+publishers: []
 series: []
 subjects:
-- Fiction
+- Essay
+- Latin American Literature
+- Literary Criticism
+title: Revista, Letras libres 8
+year: 1999
 zotero_key: JLRALBRJ
-cover: covers/jlralbrj.jpg
 ---
 

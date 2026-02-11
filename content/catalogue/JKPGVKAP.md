@@ -1,31 +1,29 @@
 ---
-title: 'Los dominios de la belleza: antología de relatos y crónicas'
-date: '2024-09-01'
-year: 2006
-decade: 2000s
 authors:
 - Mujica Láinez, Manuel
 - Laera, Alejandra
-publishers:
-- Fondo de Cultura Económica
-place: Mexico
-languages:
-- Español
+cover: covers/jkpgvkap.jpg
+date: '2024-09-01'
+decade: 2000s
+edition: 2a ed
+isbn: 978-968-16-8068-8
 item_types:
 - book
-isbn: 978-968-16-8068-8
+languages:
+- Español
+oclc: '144487096'
 pages: 487
-edition: 2a ed
+place: Mexico
+publishers:
+- Fondo de Cultura Económica
 series:
 - Tierra Firme
 subjects:
-- Argentina
-- Essay
-- Fiction
-- Literary Criticism
+- Anthology
+- Argentine Literature
 - Short Stories
-oclc: '144487096'
+title: 'Los dominios de la belleza: antología de relatos y crónicas'
+year: 2006
 zotero_key: JKPGVKAP
-cover: covers/jkpgvkap.jpg
 ---
 

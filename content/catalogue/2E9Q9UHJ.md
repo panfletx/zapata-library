@@ -1,27 +1,27 @@
 ---
-title: Historia gráfica de México. 1, Época prehispánica
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - García-Bárcena, Joaquín.
-publishers:
-- 'Instituto Nacional de Antropología e Historia : Editorial patria'
-place: México D.F.
-languages:
-- Español
+cover: covers/2e9q9uhj.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1ª edición, 1ª reimpresión
+isbn: 978-968-39-0129-3
 item_types:
 - book
-isbn: 978-968-39-0129-3
+languages:
+- Español
+oclc: '1367329937'
 pages: 160
-edition: 1ª edición, 1ª reimpresión
+place: México D.F.
+publishers:
+- 'Instituto Nacional de Antropología e Historia : Editorial patria'
 series: []
 subjects:
+- Chronicle
 - Mexico
-- Modern History
 - Pre-Columbian
-oclc: '1367329937'
+title: Historia gráfica de México. 1, Época prehispánica
+year: 1989
 zotero_key: 2E9Q9UHJ
-cover: covers/2e9q9uhj.jpg
 ---
 

@@ -1,30 +1,27 @@
 ---
-title: Literatura europea y Edad Media latina
-date: '2024-09-01'
-year: 1955
-decade: 1950s
 authors:
 - Curtius, Ernst Robert
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/nmegdu2d.jpg
+date: '2024-09-01'
+decade: 1950s
+edition: 1. ed. en español, 1. reimpressión
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Español
+oclc: '383038795'
 pages: 902
-edition: 1. ed. en español, 1. reimpressión
+place: México
+publishers:
+- Fondo de Cultura Económica
 series:
 - Sección de lengua y estudios literarios
 subjects:
-- Classical Literature
-- Literary Criticism
-- Medieval History
+- Literary History
 - Medieval Literature
-- Modern History
-oclc: '383038795'
-exlibris: '1978'
+title: Literatura europea y Edad Media latina
+year: 1955
 zotero_key: NMEGDU2D
-cover: covers/nmegdu2d.jpg
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: Los inestables; novela
-date: '2024-09-01'
-year: 1968
-decade: 1960s
 authors:
 - Teruel, Alberto X.
-publishers:
-- B. Costa-Amic
-place: México
-languages:
-- Español
+cover: covers/kynsfhwx.jpg
+date: '2024-09-01'
+decade: 1960s
 item_types:
 - book
+languages:
+- Español
+oclc: '4731620'
 pages: 372
+place: México
+publishers:
+- B. Costa-Amic
 series: []
 subjects:
-- Fiction
-oclc: '4731620'
+- Mexican Literature
+- Novel
+title: Los inestables; novela
+year: 1968
 zotero_key: KYNSFHWX
-cover: covers/kynsfhwx.jpg
 ---
 

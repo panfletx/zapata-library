@@ -1,25 +1,26 @@
 ---
-title: Nuevos cuentistas brasileños
-date: '2024-09-01'
-year: 1979
-decade: 1970s
 authors:
 - Macedo Soares, Flavio
-publishers:
-- Monte Avila
-place: Caracas
-languages:
-- Español
+cover: covers/esbcngbk.jpg
+date: '2024-09-01'
+decade: 1970s
 item_types:
 - book
+languages:
+- Español
+oclc: '716869954'
 pages: 237
+place: Caracas
+publishers:
+- Monte Avila
 series:
 - Colección Continente
 subjects:
 - Anthology
+- Brazilian Literature
 - Short Stories
-oclc: '716869954'
+title: Nuevos cuentistas brasileños
+year: 1979
 zotero_key: ESBCNGBK
-cover: covers/esbcngbk.jpg
 ---
 

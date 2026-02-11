@@ -1,30 +1,27 @@
 ---
-title: Un campeón desparejo
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Bioy Casares, Adolfo
-publishers:
-- Tusquets Editores
-place: Barcelona
-languages:
-- Español
+cover: covers/hesnyaav.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-84-7223-695-0
 item_types:
 - book
-isbn: 978-84-7223-695-0
+languages:
+- Español
+oclc: '30356688'
 pages: 110
-edition: 1. ed
+place: Barcelona
+publishers:
+- Tusquets Editores
 series:
 - Colección Andanzas
 subjects:
-- Argentina
-- Fiction
-- Poetry
-- Short Stories
-- Spain
-oclc: '30356688'
+- Argentine Literature
+- Novel
+title: Un campeón desparejo
+year: 1993
 zotero_key: HESNYAAV
-cover: covers/hesnyaav.jpg
 ---
 

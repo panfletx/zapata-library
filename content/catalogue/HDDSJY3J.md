@@ -1,29 +1,28 @@
 ---
-title: En contacto
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Bowles, Paul
 - Miller, Jeffrey G.
 - Giralt Gorina, Pilar
-publishers:
-- Seix Barral
-place: México
-languages:
-- Español
+cover: covers/hddsjy3j.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-968-6941-02-9
 item_types:
 - book
-isbn: 978-968-6941-02-9
+languages:
+- Español
+oclc: '906821725'
 pages: 333
+place: México
+publishers:
+- Seix Barral
 series:
 - Biblioteca breve
 subjects:
 - American Literature
 - Correspondence
-- Literary Criticism
-oclc: '906821725'
+title: En contacto
+year: 1995
 zotero_key: HDDSJY3J
-cover: covers/hddsjy3j.jpg
 ---
 

@@ -1,29 +1,28 @@
 ---
-title: Nuevos rumbos del teatro
-date: '2024-09-01'
-year: 1973
-decade: 1970s
 authors:
 - Miralles, Alberto
 - Chaikin, Joseph
-publishers:
-- Salvat
-place: Barcelona
-languages:
-- Español
+cover: covers/4dmxdh5v.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-345-7370-3
 item_types:
 - book
-isbn: 978-84-345-7370-3
+languages:
+- Español
+oclc: '644812413'
 pages: 142
+place: Barcelona
+publishers:
+- Salvat
 series:
 - Biblioteca Salvat de grandes temas
 subjects:
 - Drama
-- Literary Criticism
-- Modern History
-oclc: '644812413'
+- Spanish Literature
+title: Nuevos rumbos del teatro
+year: 1973
 zotero_key: 4DMXDH5V
-cover: covers/4dmxdh5v.jpg
 ---
 
 Nuevos rumbos del teatro

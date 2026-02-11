@@ -1,31 +1,27 @@
 ---
-title: 'En brazos de la mujer madura: memorias galantes de András Vajda ; [traducción: Ana Maria de la Fuente]'
-date: '2024-09-01'
-year: 1990
-decade: 1990s
 authors:
 - Vizinczey, Stephen
-publishers:
-- Grijalbo
-place: Mexico
-languages:
-- Español
+cover: covers/avnkgv8d.jpg
+date: '2024-09-01'
+decade: 1990s
+exlibris: '1990'
+isbn: 978-968-419-996-5
 item_types:
 - book
-isbn: 978-968-419-996-5
+languages:
+- Español
+oclc: '26296242'
 pages: 190
+place: Mexico
+publishers:
+- Grijalbo
 series: []
 subjects:
-- Education
-- Feminism
-- Fiction
-- France
-- Gender Studies
+- Autobiography & Memoir
 - Love & Desire
-- Short Stories
-oclc: '26296242'
-exlibris: '1990'
+- Novel
+title: 'En brazos de la mujer madura: memorias galantes de András Vajda ; [traducción: Ana Maria de la Fuente]'
+year: 1990
 zotero_key: AVNKGV8D
-cover: covers/avnkgv8d.jpg
 ---
 

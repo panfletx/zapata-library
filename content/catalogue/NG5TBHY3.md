@@ -1,23 +1,24 @@
 ---
-title: Cultura e ideales de la edad media. La Romántica caballeresca
-date: '2024-09-01'
 authors:
 - Vedel, Vald
-publishers:
-- Ediciones Mono's
-place: México, D.F.
-languages:
-- Español
+cover: covers/ng5tbhy3.jpg
+date: '2024-09-01'
+exlibris: regalo de Alberto Paredes 2003
 item_types:
 - book
+languages:
+- Español
+oclc: '50256154'
 pages: 159
+place: México, D.F.
+publishers:
+- Ediciones Mono's
 series: []
 subjects:
+- Essay
 - Medieval History
-- Modern History
-oclc: '50256154'
-exlibris: regalo de Alberto Paredes 2003
+- Medieval Literature
+title: Cultura e ideales de la edad media. La Romántica caballeresca
 zotero_key: NG5TBHY3
-cover: covers/ng5tbhy3.jpg
 ---
 

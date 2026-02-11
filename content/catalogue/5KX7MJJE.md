@@ -1,29 +1,28 @@
 ---
-title: Le travail au Moyen Age
-date: '2024-09-01'
-year: 1965
-decade: 1960s
 authors:
 - Heers, Jacques
-publishers:
-- Presses universitaires de France
-place: Paris
-languages:
-- Français
+cover: covers/5kx7mjje.jpg
+date: '2024-09-01'
+decade: 1960s
+edition: '[1. éd.]'
+exlibris: '1978'
 item_types:
 - book
+languages:
+- Français
+oclc: '20438151'
 pages: 124
-edition: '[1. éd.]'
+place: Paris
+publishers:
+- Presses universitaires de France
 series:
 - Que sais-je? Le point des connaissances actuelles
 subjects:
-- Economics
+- Essay
 - France
-- Modern History
-- Poverty & Class
-oclc: '20438151'
-exlibris: '1978'
+- Medieval History
+title: Le travail au Moyen Age
+year: 1965
 zotero_key: 5KX7MJJE
-cover: covers/5kx7mjje.jpg
 ---
 

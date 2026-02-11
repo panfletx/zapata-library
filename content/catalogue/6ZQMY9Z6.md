@@ -1,28 +1,29 @@
 ---
-title: Recuerdos, sueños, pensamientos
-date: '2024-09-01'
-year: 1989
-decade: 1980s
 authors:
 - Jung, C. G.
 - Jaffé, Aniela
-publishers:
-- Seix Barral
-place: México
-languages:
-- Español
+cover: covers/6zqmy9z6.jpg
+date: '2024-09-01'
+decade: 1980s
+edition: 1a ed., 1a reimp
+exlibris: '1990'
+isbn: 978-968-6005-58-5
 item_types:
 - book
-isbn: 978-968-6005-58-5
+languages:
+- Español
+oclc: '893592906'
 pages: 425
-edition: 1a ed., 1a reimp
+place: México
+publishers:
+- Seix Barral
 series: []
 subjects:
-- Biography
+- Autobiography & Memoir
 - Psychoanalysis
-oclc: '893592906'
-exlibris: '1990'
+- Sigmund Freud
+title: Recuerdos, sueños, pensamientos
+year: 1989
 zotero_key: 6ZQMY9Z6
-cover: covers/6zqmy9z6.jpg
 ---
 

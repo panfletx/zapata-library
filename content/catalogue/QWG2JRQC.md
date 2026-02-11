@@ -1,27 +1,28 @@
 ---
-title: Las noches de ventura
-date: '2024-09-01'
-year: 1995
-decade: 1990s
 authors:
 - Aguilera Garramuño, Marco Tulio
-publishers:
-- Grupo Editorial Planeta
-place: México
-languages:
-- Español
+cover: covers/qwg2jrqc.jpg
+date: '2024-09-01'
+decade: 1990s
+edition: 1. ed
+isbn: 978-968-406-515-4
 item_types:
 - book
-isbn: 978-968-406-515-4
+languages:
+- Español
+oclc: '33004498'
 pages: 233
-edition: 1. ed
+place: México
+publishers:
+- Grupo Editorial Planeta
 series:
 - Grandes narradores (Mexico City, Mexico)
 subjects:
 - Fiction
-- Mexico
-oclc: '33004498'
+- Mexican Literature
+- Novel
+title: Las noches de ventura
+year: 1995
 zotero_key: QWG2JRQC
-cover: covers/qwg2jrqc.jpg
 ---
 

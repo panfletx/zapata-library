@@ -1,30 +1,25 @@
 ---
-title: Primeras novelas europeas
-date: '2024-09-01'
-year: 1974
-decade: 1970s
 authors:
 - García Gual, Carlos
-publishers:
-- Ediciones ISTMO
-place: Madrid
-languages:
-- Español
+cover: covers/wkscu8y4.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-84-7090-055-6
 item_types:
 - book
-isbn: 978-84-7090-055-6
+languages:
+- Español
+oclc: '1846384'
 pages: 309
+place: Madrid
+publishers:
+- Ediciones ISTMO
 series:
 - Biblioteca de estudios críticos, 2. Sección literatura
 subjects:
-- Epic
-- Fiction
-- Literary Criticism
-- Medieval History
-- Medieval Literature
-- Modern History
-oclc: '1846384'
+- Literary History
+title: Primeras novelas europeas
+year: 1974
 zotero_key: WKSCU8Y4
-cover: covers/wkscu8y4.jpg
 ---
 

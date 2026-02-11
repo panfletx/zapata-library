@@ -1,25 +1,24 @@
 ---
-title: 'No antigamente, na vida: estórias'
-date: '2024-09-01'
-year: 1977
-decade: 1970s
 authors:
 - Vieira, José Luandino
-publishers:
-- Edições 70
-place: Lisboa
-languages:
-- Português
+cover: covers/yf4rnlh5.jpg
+date: '2024-09-01'
+decade: 1970s
+edition: 3. ed
 item_types:
 - book
+languages:
+- Português
+oclc: '7001342'
 pages: 200
-edition: 3. ed
+place: Lisboa
+publishers:
+- Edições 70
 series: []
 subjects:
-- Latin American Literature
-- Literary Criticism
-oclc: '7001342'
+- Short Stories
+title: 'No antigamente, na vida: estórias'
+year: 1977
 zotero_key: YF4RNLH5
-cover: covers/yf4rnlh5.jpg
 ---
 

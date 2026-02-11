@@ -1,27 +1,26 @@
 ---
-title: 'Inglés para todos: practicar'
-date: '2024-09-01'
-year: 1993
-decade: 1990s
 authors:
 - Hammer-Merle, Lynn
-publishers:
-- Larousse
-place: México, D.F.
-languages:
-- English
+cover: covers/fw5y8fly.jpg
+date: '2024-09-01'
+decade: 1990s
+isbn: 978-970-607-026-5
 item_types:
 - book
-isbn: 978-970-607-026-5
+languages:
+- English
+oclc: '30541012'
 pages: 350
+place: México, D.F.
+publishers:
+- Larousse
 series: []
 subjects:
-- AIDS & HIV
 - Education
 - Grammar & Linguistics
-oclc: '30541012'
+title: 'Inglés para todos: practicar'
+year: 1993
 zotero_key: FW5Y8FLY
-cover: covers/fw5y8fly.jpg
 ---
 
 Spanish speakers can learn the basics of conversational English quickly and easily with this book and cassette program

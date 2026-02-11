@@ -1,28 +1,27 @@
 ---
-title: 'La voie du silence: l''expérience d''un moine'
-date: '2024-09-01'
-year: 1978
-decade: 1970s
 authors:
 - Déchanet, Jean
-publishers:
-- Desclée De Brouwer
-place: Paris
-languages:
-- Français
+cover: covers/xrdcb3qv.jpg
+date: '2024-09-01'
+decade: 1970s
+isbn: 978-2-220-02163-8
 item_types:
 - book
-isbn: 978-2-220-02163-8
+languages:
+- Français
+oclc: '5895022'
 pages: 232
+place: Paris
+publishers:
+- Desclée De Brouwer
 series:
 - L'Ordinaire
 subjects:
-- Buddhism
-- Painting
-- Philosophy
-- Religion
-oclc: '5895022'
+- Autobiography & Memoir
+- French Literature
+- Mysticism
+title: 'La voie du silence: l''expérience d''un moine'
+year: 1978
 zotero_key: XRDCB3QV
-cover: covers/xrdcb3qv.jpg
 ---
 

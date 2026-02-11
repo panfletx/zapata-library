@@ -1,24 +1,25 @@
 ---
-title: 'El cuento hispanoamericano: antología crítico-histórica'
-date: '2024-09-01'
-year: 1972
-decade: 1970s
 authors:
 - Menton, Seymour
-publishers:
-- Fondo de Cultura Económica
-place: México
-languages:
-- Español
+cover: covers/icn5dyru.jpg
+date: '2024-09-01'
+decade: 1970s
+exlibris: '1974'
 item_types:
 - book
+languages:
+- Español
+oclc: '1131131504'
+place: México
+publishers:
+- Fondo de Cultura Económica
 series: []
 subjects:
-- Fiction
-- Mexican Literature
-oclc: '1131131504'
-exlibris: '1974'
+- Anthology
+- Latin American Literature
+- Literary Criticism
+title: 'El cuento hispanoamericano: antología crítico-histórica'
+year: 1972
 zotero_key: ICN5DYRU
-cover: covers/icn5dyru.jpg
 ---
 

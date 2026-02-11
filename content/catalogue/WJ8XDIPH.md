@@ -1,25 +1,25 @@
 ---
-title: 'Ettedgui: arte información para la comunidad'
-date: '2024-09-01'
-year: 1985
-decade: 1980s
 authors:
 - Ettedgui, Marco Antonio
-publishers:
-- Ediciones Oxigeno
-place: Caracas
-languages:
-- Español
+cover: covers/wj8xdiph.jpg
+date: '2024-09-01'
+decade: 1980s
+isbn: 978-980-265-039-2
 item_types:
 - book
-isbn: 978-980-265-039-2
+languages:
+- Español
+oclc: '21347201'
 pages: 245
+place: Caracas
+publishers:
+- Ediciones Oxigeno
 series: []
 subjects:
-- Anthology
-- Gay Literature
-oclc: '21347201'
+- Essay
+- Visual Art
+title: 'Ettedgui: arte información para la comunidad'
+year: 1985
 zotero_key: WJ8XDIPH
-cover: covers/wj8xdiph.jpg
 ---
 
