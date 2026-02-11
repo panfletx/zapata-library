@@ -8,7 +8,7 @@ isbn: 978-84-204-2515-3
 item_types:
 - book
 languages:
-- Català
+- Español
 oclc: '803079266'
 pages: 173
 place: Madrid

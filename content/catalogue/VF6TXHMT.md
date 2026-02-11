@@ -8,7 +8,7 @@ edition: 7a ed
 item_types:
 - book
 languages:
-- Català
+- Español
 oclc: '803490644'
 pages: 55
 place: México, D.F.

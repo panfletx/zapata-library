@@ -10,7 +10,7 @@ isbn: 978-84-7509-027-6
 item_types:
 - book
 languages:
-- Català
+- Español
 oclc: '803497817'
 pages: 198
 place: Barcelona, etc.
