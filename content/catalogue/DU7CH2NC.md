@@ -19,6 +19,7 @@ series:
 subjects:
 - Fiction
 - Novel
+- Uruguayan Literature
 title: Juntacadáveres ; El astillero
 year: 1984
 zotero_key: DU7CH2NC

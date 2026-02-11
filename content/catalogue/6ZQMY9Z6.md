@@ -21,7 +21,6 @@ series: []
 subjects:
 - Autobiography & Memoir
 - Psychoanalysis
-- Sigmund Freud
 title: Recuerdos, sueños, pensamientos
 year: 1989
 zotero_key: 6ZQMY9Z6

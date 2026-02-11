@@ -17,7 +17,7 @@ publishers:
 - Alfaguara
 series: []
 subjects:
-- Mexican Literature
+- Guatemalan Literature
 - Satire & Humor
 - Short Stories
 title: La vaca

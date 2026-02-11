@@ -16,9 +16,9 @@ publishers:
 series:
 - Biblioteca basica Salvat
 subjects:
-- Argentine Literature
 - Novel
 - Urban Life
+- Uruguayan Literature
 title: El astillero
 year: 1971
 zotero_key: T49NGJ2H

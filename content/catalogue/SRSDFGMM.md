@@ -18,9 +18,9 @@ publishers:
 series:
 - Alfaguara literaturas
 subjects:
-- Argentine Literature
 - Fiction
 - Novel
+- Uruguayan Literature
 title: Cuando ya no importe
 year: 1993
 zotero_key: SRSDFGMM

@@ -22,6 +22,7 @@ source_url: http://www.gbv.de/dms/bowker/toc/9788437611549.pdf
 subjects:
 - Experimental Literature
 - Short Stories
+- Uruguayan Literature
 title: Nadie encendía las lámparas
 year: 1993
 zotero_key: Z5ZB9W7S

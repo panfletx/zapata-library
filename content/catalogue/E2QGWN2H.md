@@ -21,7 +21,7 @@ series:
 subjects:
 - Philosophy
 - Psychoanalysis
-- Sigmund Freud
+- Religion
 title: Respuesta a Job
 year: 1998
 zotero_key: E2QGWN2H

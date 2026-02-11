@@ -20,7 +20,7 @@ series:
 subjects:
 - Biography
 - Essay
-- Mexican Literature
+- Guatemalan Literature
 title: 'Lo demás es silencio: la vida y la obra de Eduardo Torres'
 year: 1978
 zotero_key: 2D26AKMW

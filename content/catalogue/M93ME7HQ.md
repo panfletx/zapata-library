@@ -18,6 +18,7 @@ publishers:
 series:
 - Lecturas mexicanas
 subjects:
+- Guatemalan Literature
 - Latin American Literature
 - Satire & Humor
 - Short Stories

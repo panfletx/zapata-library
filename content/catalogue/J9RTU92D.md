@@ -20,6 +20,7 @@ source_url: http://catdir.loc.gov/catdir/enhancements/fy1115/95185930-b.html
 subjects:
 - Essay
 - Literary Criticism
+- Uruguayan Literature
 title: Confesiones de un lector
 year: 1995
 zotero_key: J9RTU92D

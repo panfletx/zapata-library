@@ -19,7 +19,7 @@ series:
 - Biblioteca de Bolsillo
 subjects:
 - Fable & Parable
-- Mexican Literature
+- Guatemalan Literature
 - Short Stories
 title: La oveja negra y demás fábulas
 year: 1983

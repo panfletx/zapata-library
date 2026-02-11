@@ -17,9 +17,9 @@ publishers:
 series:
 - Historia de la Literatura Latinoamericana
 subjects:
-- Colombia
 - Latin American Literature
 - Novel
+- Uruguayan Literature
 title: Juntacadáveres ; El astillero
 year: 1984
 zotero_key: 8HNPADKP

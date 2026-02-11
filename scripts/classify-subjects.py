@@ -39,7 +39,7 @@ VALID_CATEGORIES = [
     "Food & Gastronomy", "France", "François Rabelais", "French Literature",
     "Gabriel García Márquez", "Gay Literature", "Gender Studies",
     "German Literature", "Germany", "Grammar & Linguistics", "Greece",
-    "Guatemala", "Haiti", "Havana", "Historical Fiction", "Horror & Gothic",
+    "Guatemala", "Guatemalan Literature", "Haiti", "Havana", "Historical Fiction", "Horror & Gothic",
     "Human Rights", "India", "Indigenous Peoples", "Interview",
     "Irish Literature", "Islam", "Italian Literature", "Italy", "Jalisco",
     "Japan", "Japanese Literature", "Jean Genet", "Jorge Luis Borges",
@@ -68,7 +68,7 @@ VALID_CATEGORIES = [
     "Structuralism & Poststructuralism", "Surrealism", "Symbolism",
     "Transgender Studies", "Translation Studies", "Travel Writing",
     "Tristan & Iseult", "United Kingdom", "United States", "Urban Life",
-    "Uruguay", "Vienna", "Visual Art", "War & Conflict", "Yucatán",
+    "Uruguay", "Uruguayan Literature", "Vienna", "Visual Art", "War & Conflict", "Yucatán",
 ]
 
 CATEGORIES_STR = "\n".join(f"- {c}" for c in VALID_CATEGORIES)

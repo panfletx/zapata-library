@@ -19,9 +19,9 @@ publishers:
 - Alfaguara
 series: []
 subjects:
-- Drama
-- Film & Cinema
-- Mexican Literature
+- Guatemalan Literature
+- Satire & Humor
+- Short Stories
 title: Cuentos, fábulas y Lo demás es silencio
 year: 1996
 zotero_key: KNB3PFD5

@@ -414,6 +414,9 @@ other = "Grecia"
 [subj_Guatemala]
 other = "Guatemala"
 
+[subj_Guatemalan_Literature]
+other = "Literatura guatemalteca"
+
 [subj_Haiti]
 other = "Haití"
 
@@ -761,6 +764,9 @@ other = "Vida urbana"
 
 [subj_Uruguay]
 other = "Uruguay"
+
+[subj_Uruguayan_Literature]
+other = "Literatura uruguaya"
 
 [subj_Vienna]
 other = "Viena"

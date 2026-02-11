@@ -17,7 +17,7 @@ publishers:
 - Bibliotex
 series: []
 subjects:
-- Guatemala
+- Guatemalan Literature
 - Latin American Literature
 - Short Stories
 title: Movimiento perpetuo

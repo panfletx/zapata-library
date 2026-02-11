@@ -18,7 +18,7 @@ series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:
 - Essay
-- Mexican Literature
+- Guatemalan Literature
 - Satire & Humor
 title: Movimiento perpetuo
 year: 1972

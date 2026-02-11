@@ -17,7 +17,7 @@ publishers:
 series: []
 subjects:
 - Novel
-- Uruguay
+- Uruguayan Literature
 title: Quién de nosotros
 year: 1974
 zotero_key: LLNHFAWC

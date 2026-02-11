@@ -21,6 +21,7 @@ subjects:
 - Contemporary History
 - Essay
 - Latin American Literature
+- Uruguayan Literature
 title: Memoria del fuego
 year: 1984
 zotero_key: AIAEB4EF
