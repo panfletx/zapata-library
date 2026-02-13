@@ -8,7 +8,7 @@ exlibris: '1976'
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1190927451'
 pages: 124
 place: Barcelona

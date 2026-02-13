@@ -9,7 +9,7 @@ decade: 1970s
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '935389165'
 place: Paris
 publishers:

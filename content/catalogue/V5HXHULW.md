@@ -9,7 +9,7 @@ exlibris: '1977'
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '971173419'
 pages: 221
 place: Paris

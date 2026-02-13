@@ -9,7 +9,7 @@ exlibris: '1977'
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '778097365'
 pages: 302
 place: Argentina

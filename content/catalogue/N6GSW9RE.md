@@ -8,7 +8,7 @@ isbn: 978-84-376-0118-2
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1103448331'
 pages: 582
 place: Madrid, Spain

@@ -8,7 +8,7 @@ exlibris: '1976'
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '958997208'
 pages: 442
 place: Paris

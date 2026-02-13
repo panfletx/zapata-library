@@ -6,7 +6,7 @@ decade: 1870s
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '921328273'
 publishers:
 - Garnier frères (Paris)

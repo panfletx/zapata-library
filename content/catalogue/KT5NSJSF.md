@@ -7,7 +7,7 @@ decade: 1970s
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '1069146638'
 pages: 440
 place: Paris

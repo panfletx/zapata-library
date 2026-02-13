@@ -9,7 +9,7 @@ isbn: 978-968-15-0108-2
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '630846492'
 pages: 125
 place: Mexico

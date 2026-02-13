@@ -8,7 +8,7 @@ isbn: 978-970-18-5263-7
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1097758702'
 pages: 657
 place: México

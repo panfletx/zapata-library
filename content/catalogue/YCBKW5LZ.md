@@ -8,7 +8,7 @@ isbn: 978-2-903669-08-9
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '252233344'
 pages: 202
 place: Paris

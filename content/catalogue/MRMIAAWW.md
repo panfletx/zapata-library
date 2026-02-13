@@ -11,7 +11,7 @@ isbn: 978-970-07-0980-2
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1097718327'
 pages: 426
 place: México

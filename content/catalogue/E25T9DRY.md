@@ -9,7 +9,7 @@ isbn: 978-968-29-3554-1
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '644993604'
 pages: 549
 place: México

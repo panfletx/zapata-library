@@ -9,7 +9,7 @@ isbn: 978-968-456-010-9
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1097714063'
 pages: 203
 place: México

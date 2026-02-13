@@ -10,7 +10,7 @@ exlibris: '1989'
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '971176015'
 pages: 253
 place: Paris

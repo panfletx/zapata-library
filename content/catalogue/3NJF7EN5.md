@@ -9,7 +9,7 @@ exlibris: '1975'
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1079966611'
 pages: 147
 publishers:

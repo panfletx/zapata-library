@@ -8,7 +8,7 @@ exlibris: '1990'
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1250385811'
 pages: 1
 publishers:

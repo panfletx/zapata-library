@@ -9,7 +9,7 @@ isbn: 978-968-432-947-8
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1097705248'
 pages: 451
 place: México

@@ -9,7 +9,7 @@ isbn: 978-968-6026-32-0
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1070609296'
 pages: 141
 place: México

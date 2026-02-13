@@ -10,7 +10,7 @@ isbn: 978-968-29-1416-4
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1072540114'
 pages: 194
 place: México, D.F

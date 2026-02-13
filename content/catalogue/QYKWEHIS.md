@@ -7,7 +7,7 @@ isbn: 978-84-330-0431-4
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '1230339277'
 pages: 4
 place: Bilbao [Spain]

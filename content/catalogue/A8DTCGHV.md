@@ -7,7 +7,7 @@ decade: 1950s
 item_types:
 - book
 languages:
-- Unknown
+- English
 oclc: '1154368251'
 pages: 320
 place: New York

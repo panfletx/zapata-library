@@ -9,7 +9,7 @@ isbn: 978-968-16-1600-7
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '631108286'
 pages: 180
 place: México

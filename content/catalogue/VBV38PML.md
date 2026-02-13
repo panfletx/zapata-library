@@ -8,7 +8,7 @@ isbn: 978-2-02-011573-5
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '230936008'
 pages: 188
 place: Paris

@@ -8,7 +8,7 @@ exlibris: '1973'
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '935440621'
 place: Paris
 publishers:

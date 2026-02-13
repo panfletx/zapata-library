@@ -8,7 +8,7 @@ decade: 1990s
 item_types:
 - book
 languages:
-- Unknown
+- Français
 oclc: '1009817358'
 publishers:
 - C. Bourgois,

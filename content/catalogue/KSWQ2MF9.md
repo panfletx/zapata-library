@@ -11,7 +11,7 @@ exlibris: '1970'
 item_types:
 - book
 languages:
-- Unknown
+- Español
 oclc: '253702486'
 pages: 137
 place: Buenos Aires
