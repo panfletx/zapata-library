@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - American Literature
-- Historical Fiction
 - War & Conflict
 title: Shadow over Babylon
 year: 1995

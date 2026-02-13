@@ -16,7 +16,6 @@ publishers:
 - Penguin Random House
 series: []
 subjects:
-- Historical Fiction
 - Modern History
 title: El renacimiento
 year: 2015

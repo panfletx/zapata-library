@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Latin American Politics
-- Madness & Mental Illness
 - Mexico City
 - Prison
 title: 'Manicomios y prisiones: aportaciones críticas del I Encuentro Latinoamericano y V Internacional de Alternativas a la Psiquiatría, realizado en la Ciudad de Cuernavaca del 2 al 6 de octubre de 1981'

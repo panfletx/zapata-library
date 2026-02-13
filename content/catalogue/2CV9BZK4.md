@@ -20,7 +20,6 @@ series:
 source_url: https://www.loc.gov/catdir/enhancements/fy1616/89040540-b.html
 subjects:
 - American Literature
-- Historical Fiction
 - Novel
 title: Death comes for the archbishop
 year: 1990

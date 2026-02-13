@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - American Literature
-- Madness & Mental Illness
 - Short Stories
 title: Erections, ejaculations, exhibitions, and general tales of ordinary madness
 year: 1972

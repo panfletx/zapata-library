@@ -18,7 +18,6 @@ series:
 - Escritores de lengua española
 subjects:
 - Cuban Literature
-- Historical Fiction
 - Novel
 title: 'El mundo alucinante: (una novela de aventuras)'
 year: 1969

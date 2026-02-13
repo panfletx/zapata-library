@@ -17,7 +17,6 @@ publishers:
 series:
 - Biblioteca de la Literatura Universal
 subjects:
-- Madness & Mental Illness
 - Novel
 - Russian Literature
 title: El jugador

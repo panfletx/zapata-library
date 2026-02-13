@@ -19,7 +19,6 @@ series:
 - Lecturas mexicanas
 subjects:
 - Chronicle
-- Historical Fiction
 - Mexican Literature
 title: Crónica de la intervención
 year: 1992

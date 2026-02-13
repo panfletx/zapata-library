@@ -17,7 +17,6 @@ series: []
 subjects:
 - American Literature
 - Ancient History
-- Historical Fiction
 title: 'The jealous gods: a processional novel of the fifth century, B.C. (concerning one Alcibiades)'
 year: 1928
 zotero_key: MJXWN27N

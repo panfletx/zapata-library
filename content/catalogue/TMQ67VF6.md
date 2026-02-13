@@ -20,7 +20,6 @@ series:
 - Clásicos universales (JM Ediciones)
 subjects:
 - Chronicle
-- Historical Fiction
 - Travel Writing
 title: Libro de las maravillas
 year: 2007

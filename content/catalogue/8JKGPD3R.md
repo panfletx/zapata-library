@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - American Literature
-- Madness & Mental Illness
 - Novel
 title: The bell jar
 year: 1972

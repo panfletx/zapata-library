@@ -18,7 +18,6 @@ series:
 - El libro de bolsillo
 subjects:
 - American Literature
-- Historical Fiction
 - Novel
 title: Años inolvidables
 year: 1974

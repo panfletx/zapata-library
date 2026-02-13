@@ -11,7 +11,6 @@ publishers:
 - Ediciones del Estado de Morelos
 series: []
 subjects:
-- Historical Fiction
 - Mexican Literature
 - Mexican Revolution
 title: El plan de Ayala

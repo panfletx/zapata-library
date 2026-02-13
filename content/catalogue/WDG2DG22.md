@@ -17,7 +17,6 @@ publishers:
 - Patria
 series: []
 subjects:
-- Historical Fiction
 - Mexican Literature
 - Mexico
 title: 'Historia de mexico: EL HOMBRE EN LA HISTORIA 3'

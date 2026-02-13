@@ -18,7 +18,6 @@ publishers:
 series:
 - Grandi tascabili Bompiani
 subjects:
-- Historical Fiction
 - Italian Literature
 - Novel
 title: L'isola del giorno prima

@@ -17,7 +17,6 @@ publishers:
 - 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Historical Fiction
 - Mexican Literature
 - Mexican Revolution
 title: Ineluctable fin de Venustiano Carranza

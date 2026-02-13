@@ -20,7 +20,6 @@ publishers:
 series: []
 subjects:
 - Diary & Letters
-- Historical Fiction
 - Spanish Literature
 title: El diario de una marquesa
 year: 2004

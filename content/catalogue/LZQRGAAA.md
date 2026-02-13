@@ -20,7 +20,6 @@ publishers:
 series:
 - Cuadernos ínfimos
 subjects:
-- Madness & Mental Illness
 - Psychoanalysis
 - Social Movements
 title: Esquizofrenia y presión social

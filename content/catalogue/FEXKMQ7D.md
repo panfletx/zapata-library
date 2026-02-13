@@ -15,7 +15,6 @@ publishers:
 - Harper & Row
 series: []
 subjects:
-- Historical Fiction
 - Italy
 title: The civilization of the Renaissance in Italy. Volume II
 year: 1958

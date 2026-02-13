@@ -19,7 +19,6 @@ publishers:
 series:
 - Noventa
 subjects:
-- Madness & Mental Illness
 - Philosophy
 - Psychoanalysis
 title: Los locos y los cuerdos

@@ -18,7 +18,6 @@ publishers:
 - 'Instituto Nacional de Antropología e Historia : Editorial Patria'
 series: []
 subjects:
-- Historical Fiction
 - Mexico
 - Modern History
 title: Historia gráfica de México. 6, Siglo diecinueve. II

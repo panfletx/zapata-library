@@ -20,7 +20,6 @@ series:
 - Clásicos para hoy
 subjects:
 - Drama
-- Madness & Mental Illness
 - Russian Literature
 title: El pabellón número seis
 year: 1998

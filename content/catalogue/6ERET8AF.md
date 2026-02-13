@@ -17,7 +17,6 @@ publishers:
 - 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Historical Fiction
 - Italy
 - Science
 title: La gaceta sideral

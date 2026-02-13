@@ -20,7 +20,6 @@ series:
 subjects:
 - Fiction
 - French Literature
-- Historical Fiction
 title: La tentation de Saint Antoine
 year: 1971
 zotero_key: 8NCGZ8K5

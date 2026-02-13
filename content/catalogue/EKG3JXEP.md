@@ -18,7 +18,6 @@ series:
 - Clásicos de siempre
 subjects:
 - Chronicle
-- Historical Fiction
 - Mexico
 title: Máximas espirituales
 year: 1997

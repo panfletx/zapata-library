@@ -18,7 +18,6 @@ publishers:
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
-- Historical Fiction
 - Portugal
 title: Historia del cerco de Lisboa
 year: 1990

@@ -20,7 +20,6 @@ series:
 - Sergio Pitol Traductor
 subjects:
 - Chinese Literature
-- Madness & Mental Illness
 - Short Stories
 title: Diario de un loco
 year: 2011

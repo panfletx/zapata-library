@@ -17,7 +17,6 @@ publishers:
 - 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
 series: []
 subjects:
-- Historical Fiction
 - Middle East
 title: La invasión, 1096-1100
 year: 1994

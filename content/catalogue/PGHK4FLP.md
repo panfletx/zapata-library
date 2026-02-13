@@ -18,7 +18,6 @@ series: []
 source_url: http://catalogue.bnf.fr/ark:/12148/cb34904658d
 subjects:
 - German Literature
-- Historical Fiction
 - Novel
 title: 'Le Judas de Léonard: roman'
 year: 1987

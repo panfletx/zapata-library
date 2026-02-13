@@ -19,7 +19,6 @@ series:
 - Colección Andanzas
 subjects:
 - Japanese Literature
-- Madness & Mental Illness
 - Novel
 title: N.P.
 year: 1994

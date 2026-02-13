@@ -18,7 +18,6 @@ publishers:
 series:
 - La Creación literaria
 subjects:
-- Historical Fiction
 - Latin American Literature
 - Novel
 title: Yo el Supremo

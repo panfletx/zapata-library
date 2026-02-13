@@ -17,7 +17,6 @@ publishers:
 - El Colegio de México
 series: []
 subjects:
-- Historical Fiction
 - Mexican Literature
 - Mexico
 title: Historia mínima de México

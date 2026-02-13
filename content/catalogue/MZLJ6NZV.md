@@ -20,7 +20,6 @@ series:
 - Clásicos de la literatura mexicana
 subjects:
 - Conquest of Mexico
-- Historical Fiction
 - Mexico
 title: Historia verdadera de la conquista de la Nueva España Tomo 2 [...]
 year: 1979

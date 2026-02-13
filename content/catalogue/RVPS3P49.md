@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Conquest of Mexico
-- Historical Fiction
 - Mexico
 title: Historia gráfica de México. 4, Época colonial III
 year: 1988

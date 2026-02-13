@@ -18,7 +18,6 @@ publishers:
 series: []
 subjects:
 - French Literature
-- Historical Fiction
 - Novel
 title: Opus nigrum
 year: 2010

@@ -18,7 +18,6 @@ publishers:
 - SEP/Editorial Nueva Imagen
 series: []
 subjects:
-- Historical Fiction
 - Mexican Literature
 - Mexico
 title: México, historia de un pueblo

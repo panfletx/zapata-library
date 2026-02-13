@@ -18,7 +18,6 @@ publishers:
 series:
 - SepSetentas Diana
 subjects:
-- Historical Fiction
 - Mexico City
 title: Historia de la ciudad de México desde su fundación hasta 1854
 year: 1980

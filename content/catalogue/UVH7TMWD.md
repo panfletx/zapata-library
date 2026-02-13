@@ -17,7 +17,6 @@ publishers:
 - Sexto Piso España
 series: []
 subjects:
-- Madness & Mental Illness
 title: Estrictamente bipolar
 year: 2015
 zotero_key: UVH7TMWD
