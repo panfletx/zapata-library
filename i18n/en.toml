@@ -255,6 +255,9 @@ other = "Chile"
 [subj_Chilean_Literature]
 other = "Chilean Literature"
 
+[subj_Chinese_Literature]
+other = "Chinese Literature"
+
 [subj_China]
 other = "China"
 
@@ -347,9 +350,6 @@ other = "Ethics"
 
 [subj_Existentialism]
 other = "Existentialism"
-
-[subj_Experimental_Literature]
-other = "Experimental Literature"
 
 [subj_Fable_and_Parable]
 other = "Fable & Parable"

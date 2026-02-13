@@ -20,7 +20,6 @@ series:
 - Colección Hogarth. Serie Narrativa
 subjects:
 - American Literature
-- Experimental Literature
 - Novel
 title: Ryder
 year: 2011

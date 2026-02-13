@@ -18,7 +18,6 @@ series:
 - Everyman's library
 subjects:
 - English Literature
-- Experimental Literature
 - Novel
 title: Tristram Shandy
 year: 1912

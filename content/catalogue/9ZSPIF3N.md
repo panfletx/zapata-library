@@ -19,7 +19,7 @@ publishers:
 series:
 - Sergio Pitol Traductor
 subjects:
-- Japanese Literature
+- Chinese Literature
 - Madness & Mental Illness
 - Short Stories
 title: Diario de un loco

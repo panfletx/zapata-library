@@ -232,7 +232,6 @@ rule(r'\btravel writ|\brelato[s]? de viaje|\bviajero|\btraveler', 'Travel Writin
 rule(r'\bjournalis|\bperiodis|\bnews.*article|\bartículo.*periódico|\breportaje', 'Journalism')
 rule(r'\bmanifest[o]?\b', 'Manifesto')
 rule(r'\bepistolar', 'Epistolary')
-rule(r'\bexperimental\b', 'Experimental Literature')
 rule(r'\bscreenplay\b|\bguion|\bscript\b', 'Screenplay')
 
 # ─── LITERARY MOVEMENTS ───

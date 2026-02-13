@@ -15,7 +15,6 @@ publishers:
 - Panfleto y Pantomima
 series: []
 subjects:
-- Experimental Literature
 - Mexican Literature
 - Poetry
 title: Xxyëröddny, donde el gran sueño se enraiza

@@ -13,7 +13,6 @@ oclc: '901754774'
 publishers: []
 series: []
 subjects:
-- Experimental Literature
 - Novel
 - Spanish Literature
 title: Juan sin tierra

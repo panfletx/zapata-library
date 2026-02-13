@@ -19,7 +19,6 @@ series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:
 - Cuban Literature
-- Experimental Literature
 - Novel
 title: Arcadia todas las noches
 year: 1978

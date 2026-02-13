@@ -18,7 +18,6 @@ publishers:
 - J. Corti
 series: []
 subjects:
-- Experimental Literature
 - French Literature
 - Novel
 title: Manuscrit trouvé à Saragosse

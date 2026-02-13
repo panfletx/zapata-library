@@ -17,7 +17,6 @@ publishers:
 - Dutton
 series: []
 subjects:
-- Experimental Literature
 - Film & Cinema
 - United States
 title: Expanded cinema

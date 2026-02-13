@@ -18,7 +18,6 @@ publishers:
 series:
 - Quartheft (Edition Polyphon)
 subjects:
-- Experimental Literature
 - German Literature
 - Poetry
 title: '[Transversalia]: horizontes con versos = Horizonte in verkehrten Versen'

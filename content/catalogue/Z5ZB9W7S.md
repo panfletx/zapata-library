@@ -20,7 +20,6 @@ series:
 - Letras hispánicas
 source_url: http://www.gbv.de/dms/bowker/toc/9788437611549.pdf
 subjects:
-- Experimental Literature
 - Short Stories
 - Uruguayan Literature
 title: Nadie encendía las lámparas

@@ -16,8 +16,9 @@ publishers:
 - Tusquets
 series: []
 subjects:
-- Japanese Literature
-- Novel
+- Argentine Literature
+- Comics & Graphic Novel
+- Satire & Humor
 title: Esto no es todo
 year: 2002
 zotero_key: P9ZVDKS7

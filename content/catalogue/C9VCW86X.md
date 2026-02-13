@@ -20,7 +20,6 @@ series:
 - Colección Esconología
 subjects:
 - Drama
-- Experimental Literature
 title: Tendencias interculturales y practica escenica
 year: 1994
 zotero_key: C9VCW86X
