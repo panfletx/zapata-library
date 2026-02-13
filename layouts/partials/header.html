@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="header-inner">
-    <a href="{{ "/" | relLangURL }}" class="site-title">{{ .Site.Title }}</a>
+    <a href="{{ .Site.Home.RelPermalink }}" class="site-title">{{ .Site.Title }}</a>
 
     <nav class="main-nav">
       {{ range .Site.Menus.main }}
