@@ -19,7 +19,6 @@ series:
 - Bibliothèque de la Pléiade
 subjects:
 - Classical Literature
-- François Rabelais
 - French Literature
 title: Oeuvres completes
 year: 1955

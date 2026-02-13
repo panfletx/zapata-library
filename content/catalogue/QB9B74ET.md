@@ -15,7 +15,6 @@ publishers:
 - Tezontle
 series: []
 subjects:
-- Alfonso Reyes
 - Autobiography & Memoir
 title: 'Parentalia: primer libro de recuerdos'
 year: 1958

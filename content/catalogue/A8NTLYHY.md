@@ -17,7 +17,6 @@ publishers:
 series:
 - Modern literature monographs
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Literary Criticism
 title: Julio Cortázar

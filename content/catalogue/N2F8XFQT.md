@@ -20,7 +20,6 @@ series:
 subjects:
 - Literary Criticism
 - Pedro Almodóvar
-- Severo Sarduy
 title: 'Severo Sarduy y Pedro Almodóvar: del barroco al kitsch en la narrativa y el cine postmodernos'
 year: 1996
 zotero_key: N2F8XFQT

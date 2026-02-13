@@ -21,12 +21,12 @@ import anthropic
 # ── Valid categories (201) ──────────────────────────────────────────────────
 
 VALID_CATEGORIES = [
-    "AIDS & HIV", "Aesthetics", "Alfonso Reyes", "American Literature",
+    "Aesthetics", "American Literature",
     "Ancient History", "Animals", "Anthology", "Aphorism", "Arabic Literature",
     "Architecture", "Argentina", "Argentine Literature", "Autobiography & Memoir",
     "Avant-garde", "Beat Generation", "Berlin", "Bibliography", "Biography",
     "Bisexuality", "Brazil", "Brazilian Literature", "Buddhism", "Canada",
-    "Caribbean", "Carlos Fuentes", "Catholicism", "Chiapas", "Childhood",
+    "Caribbean", "Catholicism", "Chiapas", "Childhood",
     "Children's Literature", "Chile", "Chilean Literature", "China", "Chronicle",
     "Classical Literature", "Colombia", "Colonialism & Postcolonialism",
     "Comics & Graphic Novel", "Conquest of Mexico", "Contemporary History",
@@ -36,19 +36,19 @@ VALID_CATEGORIES = [
     "Encyclopedia", "English Literature", "Epic", "Erotic Literature", "Essay",
     "Ethics", "Existentialism", "Experimental Literature", "Fable & Parable",
     "Family", "Fashion", "Feminism", "Fiction", "Film & Cinema",
-    "Food & Gastronomy", "France", "François Rabelais", "French Literature",
-    "Gabriel García Márquez", "Gay Literature", "Gender Studies",
+    "Food & Gastronomy", "France", "French Literature",
+    "Gay Literature", "Gender Studies",
     "German Literature", "Germany", "Grammar & Linguistics", "Greece",
     "Guatemala", "Guatemalan Literature", "Haiti", "Havana", "Historical Fiction", "Horror & Gothic",
     "Human Rights", "India", "Indigenous Peoples", "Interview",
     "Irish Literature", "Islam", "Italian Literature", "Italy", "Jalisco",
-    "Japan", "Japanese Literature", "Jean Genet", "Jorge Luis Borges",
-    "José Lezama Lima", "Journalism", "Juan Rulfo", "Judaism",
-    "Julio Cortázar", "King Arthur", "Latin America",
+    "Japan", "Japanese Literature",
+    "Journalism", "Judaism",
+    "King Arthur", "Latin America",
     "Latin American Literature", "Latin American Politics", "Law",
     "Lesbian Studies", "Literary Criticism", "Literary History", "Love & Desire",
-    "Luis Buñuel", "Luis Zapata", "Madness & Mental Illness", "Madrid",
-    "Marcel Proust", "Marguerite Duras", "Marxism", "Masculinity",
+    "Luis Buñuel", "Madness & Mental Illness", "Madrid",
+    "Marxism", "Masculinity",
     "Medicine & Health", "Medieval History", "Medieval Literature", "Memory",
     "Mexican Literature", "Mexican Revolution", "Mexico", "Mexico City",
     "Middle East", "Migration & Exile", "Modern History",
@@ -61,9 +61,9 @@ VALID_CATEGORIES = [
     "Puerto Rico", "Queer Studies", "Race & Ethnicity", "Religion", "Rhetoric",
     "Rio de Janeiro", "Rome", "Rural Life", "Russia", "Russian Literature",
     "Saints & Hagiography", "Satire & Humor", "Science", "Science Fiction",
-    "Screenplay", "Sculpture", "Severo Sarduy", "Sexuality & Eroticism",
+    "Screenplay", "Sculpture", "Sexuality & Eroticism",
     "Sherlock Holmes", "Short Stories", "Sigmund Freud", "Slavery",
-    "Social Movements", "Sor Juana Inés de la Cruz", "Spain",
+    "Social Movements", "Spain",
     "Spanish Literature", "Speech & Lecture",
     "Structuralism & Poststructuralism", "Surrealism", "Symbolism",
     "Transgender Studies", "Translation Studies", "Travel Writing",
@@ -90,8 +90,7 @@ RULES:
 4. For translations, assign the ORIGINAL author's national literature, not the translation language. A Spanish translation of Flaubert is "French Literature", not "Spanish Literature".
 5. Geographic categories (Mexico, France, etc.) are for books ABOUT that place, not just published there. A novel published in Barcelona about Mexico City gets "Mexico City", not "Spain".
 6. "United States" and "American Literature" are for books by US authors or genuinely about the US. Latin American works should get "Latin America" or specific country categories instead.
-7. Named subject categories (Jorge Luis Borges, Carlos Fuentes, etc.) are for books BY or specifically ABOUT that person.
-8. For magazines/journals ("Revista, ..."), classify by the journal's primary topic area.
+7. For magazines/journals ("Revista, ..."), classify by the journal's primary topic area.
 9. "Fiction" alone is never sufficient — always add at least one more specific category.
 10. "Literary Criticism" is for works ABOUT literature (analysis, criticism, theory), not for literature itself.
 

@@ -16,7 +16,6 @@ pages: 176
 publishers: []
 series: []
 subjects:
-- Carlos Fuentes
 - Literary Criticism
 - Mexican Literature
 title: 'Simposio Presente y futuro de la literatura mexicana: memoria'

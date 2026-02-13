@@ -18,7 +18,6 @@ publishers:
 series:
 - Alfaguara literaturas
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Novel
 title: Los premios

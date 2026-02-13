@@ -21,7 +21,6 @@ series:
 subjects:
 - Gay Literature
 - Literary Criticism
-- Luis Zapata
 title: El personaje gay en la obra de Luis Zapata
 year: 2006
 zotero_key: ULLZY37W

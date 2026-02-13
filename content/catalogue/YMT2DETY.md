@@ -19,7 +19,6 @@ publishers:
 series:
 - Biblioteca Carlos Fuentes
 subjects:
-- Carlos Fuentes
 - Mexican Literature
 - Novel
 title: Instinto de Inez

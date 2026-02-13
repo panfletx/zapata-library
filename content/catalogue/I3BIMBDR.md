@@ -16,7 +16,6 @@ publishers:
 - Organización Editorial Novaro
 series: []
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: Hasta en las mejores familias

@@ -19,7 +19,6 @@ series:
 subjects:
 - Mexican Literature
 - Poetry
-- Sor Juana Inés de la Cruz
 title: Poemas
 year: 2008
 zotero_key: YCFTLLET

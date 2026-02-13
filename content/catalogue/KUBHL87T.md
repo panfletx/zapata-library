@@ -17,7 +17,6 @@ publishers:
 - Rei méxico
 series: []
 subjects:
-- Alfonso Reyes
 - Essay
 - Mexican Literature
 - Poetry

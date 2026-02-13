@@ -16,7 +16,6 @@ publishers:
 - Crescent Books [distributor] ; Productions Liber
 series: []
 subjects:
-- François Rabelais
 - French Literature
 - Novel
 title: Japanese erotism

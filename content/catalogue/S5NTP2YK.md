@@ -19,7 +19,6 @@ series:
 - Libro amigo
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Speech & Lecture
 title: 'Borges oral: El libro, La immortalidad, Emanuel Swedenborg, El cuento policial, El tiempo'
 year: 1980

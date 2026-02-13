@@ -18,7 +18,6 @@ publishers:
 series:
 - Cuaderno de viaje
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Travel Writing
 title: 'Paisaje con amigos: un viaje al occidente de México'

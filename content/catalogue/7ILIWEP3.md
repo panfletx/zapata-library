@@ -18,7 +18,6 @@ series: []
 subjects:
 - Drama
 - French Literature
-- Jean Genet
 title: Oeuvres completes
 year: 1968
 zotero_key: 7ILIWEP3

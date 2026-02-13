@@ -17,7 +17,6 @@ series:
 - J'ai lu
 source_url: https://archive.org/details/langesauvagecarn0000coll
 subjects:
-- AIDS & HIV
 - Diary & Letters
 - French Literature
 title: 'L''ange sauvage: carnets'

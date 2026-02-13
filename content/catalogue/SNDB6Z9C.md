@@ -20,7 +20,6 @@ source_url: https://bac-lac.on.worldcat.org/oclc/299746562
 subjects:
 - French Literature
 - Interview
-- Marguerite Duras
 title: Les parleuses
 year: 1974
 zotero_key: SNDB6Z9C

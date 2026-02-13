@@ -20,7 +20,6 @@ series:
 - Clun Bruguera
 subjects:
 - Argentine Literature
-- Julio Cortázar
 - Novel
 title: 62/modelo para armar
 year: 1980

@@ -17,7 +17,6 @@ publishers:
 - Fondo de Cultura Económica de España, S. L
 series: []
 subjects:
-- Jorge Luis Borges
 - Poetry
 title: Borges, el Memorioso
 year: 1997

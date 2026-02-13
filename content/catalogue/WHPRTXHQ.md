@@ -16,7 +16,6 @@ publishers:
 - Éditions Gallimard
 series: []
 subjects:
-- AIDS & HIV
 - French Literature
 - Novel
 title: 'À l''ami qui ne m''a pas sauvé la vie: roman'

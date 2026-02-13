@@ -20,7 +20,6 @@ series:
 - Breviarios del Fondo de Cultura Económica
 subjects:
 - German Literature
-- Jorge Luis Borges
 - Literary Criticism
 title: Antiguas literaturas germánicas
 year: 1975

@@ -20,7 +20,6 @@ series:
 subjects:
 - Argentine Literature
 - Bibliography
-- Jorge Luis Borges
 title: 'Borges en Revista multicolor: obras, reseñas y traducciones inéditas de Jorge Luis Borges : Diario Crítica, Revista multicolor de los sábados, 1933-1934'
 year: 1995
 zotero_key: L7CTEXTB

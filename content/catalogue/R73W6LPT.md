@@ -19,7 +19,6 @@ series:
 subjects:
 - Essay
 - French Literature
-- Marguerite Duras
 title: Escribir
 year: 1994
 zotero_key: R73W6LPT

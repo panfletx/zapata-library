@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Poetry
 title: Jorge Luis Borges obras completas 1975-1985
 year: 1989

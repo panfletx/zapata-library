@@ -20,7 +20,6 @@ publishers:
 series:
 - Serie Alterna
 subjects:
-- Jorge Luis Borges
 - Speech & Lecture
 title: En voz de Borges
 year: 1986

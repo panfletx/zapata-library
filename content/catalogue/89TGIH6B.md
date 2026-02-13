@@ -22,7 +22,6 @@ series:
 subjects:
 - Essay
 - French Literature
-- Marcel Proust
 title: Sur la lecture
 year: 1994
 zotero_key: 89TGIH6B

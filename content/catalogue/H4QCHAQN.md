@@ -18,7 +18,6 @@ publishers:
 series:
 - El Libro de bolsillo. Sección literatura
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Short Stories
 title: Los Relatos. 3, pasajes

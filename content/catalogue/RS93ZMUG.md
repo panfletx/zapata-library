@@ -22,7 +22,6 @@ series:
 subjects:
 - Cuban Literature
 - Fiction
-- José Lezama Lima
 title: Paradiso
 year: 1988
 zotero_key: RS93ZMUG

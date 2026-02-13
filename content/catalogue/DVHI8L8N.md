@@ -18,7 +18,6 @@ publishers:
 series:
 - Libro clásico
 subjects:
-- François Rabelais
 - French Literature
 - Novel
 - Satire & Humor

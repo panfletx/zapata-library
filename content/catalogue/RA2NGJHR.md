@@ -19,7 +19,6 @@ series:
 - Fin de siglo
 subjects:
 - French Literature
-- Marguerite Duras
 - Novel
 title: Emily L.
 year: 1990

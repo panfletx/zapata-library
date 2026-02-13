@@ -17,7 +17,6 @@ publishers:
 series:
 - Novelistas contemporáneos (Mexico City, Mexico)
 subjects:
-- Carlos Fuentes
 - Mexican Literature
 - Novel
 title: Terra nostra

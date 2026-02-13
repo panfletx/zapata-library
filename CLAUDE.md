@@ -74,8 +74,10 @@ Language names use `lang_*` prefix keys. Both i18n files contain ~201 subject tr
 
 - **Zotero keys**: uppercase in filenames (`224TXDP8.md`), lowercase in cover paths (`covers/224txdp8.jpg`)
 - **Subjects always in English** in `.md` files — never store translated subjects in content
+- **No writer-name subjects** — do not create subject categories named after writers (e.g., "Jorge Luis Borges", "Julio Cortázar"). Books are already linked to authors via the `authors` taxonomy; duplicating them as subjects is redundant.
 - **Languages stored as full names** (`"Français"`, `"Español"`), not ISO codes
 - **Adding a new subject category** requires updates in three places: both `i18n/*.toml` files and `VALID_CATEGORIES` in `scripts/classify-subjects.py`
+- **Taxonomy sorting uses translated labels** — taxonomy listing templates collect terms into a slice with their translated labels, then sort by label. This ensures alphabetical order works correctly in both languages. Do not use `.Data.Terms.Alphabetical` directly for display when translations are involved.
 - **Collection stats** (`totalItems`, `totalAuthors`, `yearRange`) in `config/_default/params.toml` must be updated manually when the collection changes
 - **`featured: true`** in front matter marks items for homepage display
 - **URL structure**: `/es/` and `/en/` subdirectories (`defaultContentLanguageInSubdir = true`)

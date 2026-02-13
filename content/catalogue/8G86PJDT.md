@@ -17,7 +17,6 @@ publishers:
 series:
 - Libro amigo
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Short Stories
 title: Alguien que anda por ahí y otros relatos

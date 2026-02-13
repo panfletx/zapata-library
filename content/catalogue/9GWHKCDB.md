@@ -20,7 +20,6 @@ series:
 - Colección Andanzas
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Literary Criticism
 title: 'Borges: esplendor y derrota'
 year: 1996

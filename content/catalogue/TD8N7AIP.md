@@ -10,7 +10,6 @@ publishers: []
 series: []
 subjects:
 - Interview
-- Luis Zapata
 - Mexican Literature
 title: Entrevista a Luis Zapata ¿Qué onda con la literatura jóven?
 zotero_key: TD8N7AIP

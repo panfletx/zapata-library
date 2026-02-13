@@ -21,7 +21,6 @@ series:
 subjects:
 - Argentine Literature
 - Essay
-- Jorge Luis Borges
 title: Prosa completa
 year: 1980
 zotero_key: 54XXXCUF

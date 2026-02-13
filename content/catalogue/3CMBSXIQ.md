@@ -18,7 +18,6 @@ series:
 - Bouquins
 subjects:
 - French Literature
-- Marcel Proust
 - Novel
 title: A la recherche du temps perdu
 year: 1987

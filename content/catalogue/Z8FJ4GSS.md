@@ -10,7 +10,6 @@ publishers: []
 series: []
 subjects:
 - Literary Criticism
-- Luis Zapata
 - Mexican Literature
 title: Luis Zapata y la muerte del respeto
 zotero_key: Z8FJ4GSS

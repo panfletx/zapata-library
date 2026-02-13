@@ -19,7 +19,6 @@ publishers:
 - 'Alfaguara : Real Academia Española : Asociación de Academias de la Lengua Española'
 series: []
 subjects:
-- Gabriel García Márquez
 - Latin American Literature
 - Novel
 title: Cien años de soledad

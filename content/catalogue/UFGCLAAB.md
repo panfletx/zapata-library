@@ -12,7 +12,6 @@ publishers:
 series: []
 subjects:
 - Literary Criticism
-- Luis Zapata
 - Mexican Literature
 title: 'Luis Zapata: Ideological Convergences Demythologized in a Contestatory and Contemporary Literature'
 year: 1992

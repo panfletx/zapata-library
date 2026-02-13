@@ -17,7 +17,6 @@ series:
 - Collection Folio
 subjects:
 - French Literature
-- Marguerite Duras
 - Novel
 title: Les petits chevaux de Tarquinia
 year: 1981

@@ -22,7 +22,6 @@ series:
 - Letras de humanidad
 subjects:
 - Essay
-- Jorge Luis Borges
 - Literary Criticism
 title: 'Arte poética: seis conferencias'
 year: 2001

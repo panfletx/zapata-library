@@ -16,7 +16,6 @@ publishers:
 - Editorial Posada
 series: []
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: En jirones

@@ -20,7 +20,6 @@ series: []
 subjects:
 - Drama
 - Gay Literature
-- Luis Zapata
 title: 'El Homosexual, o: la dificultad de expresarse ; Las cuatro gemelas ; Loretta strong ; El refri'
 year: 2004
 zotero_key: FNWPYABW

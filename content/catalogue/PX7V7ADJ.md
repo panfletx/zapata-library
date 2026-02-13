@@ -11,7 +11,6 @@ publishers: []
 series: []
 subjects:
 - Drama
-- Luis Zapata
 title: 'Plastic Surgery: A Play in One Act'
 zotero_key: PX7V7ADJ
 ---

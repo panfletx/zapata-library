@@ -15,7 +15,6 @@ publishers:
 - Fondo de Cultura Economica / Mexico
 series: []
 subjects:
-- Alfonso Reyes
 - Essay
 - Literary Criticism
 title: La experiencia literaria

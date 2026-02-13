@@ -17,7 +17,6 @@ publishers:
 series:
 - Evolution de l'humanité
 subjects:
-- François Rabelais
 - French Literature
 - Literary History
 title: 'Le Problème de l''incroyance au XVIe siècle: la religion de Rabelais'

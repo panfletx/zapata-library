@@ -18,7 +18,6 @@ publishers:
 series:
 - Letras Mexicanas
 subjects:
-- Alfonso Reyes
 - Essay
 - Mexican Literature
 title: Obras completas de Alfonso Reyes. XII, Grata compañía ; Pasado inmediato ; Letras de la Nueva España

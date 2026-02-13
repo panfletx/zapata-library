@@ -17,7 +17,6 @@ publishers:
 - Origen Planeta
 series: []
 subjects:
-- Jorge Luis Borges
 - Latin American Literature
 - Short Stories
 title: Cuentos de H. Bustos Domecq

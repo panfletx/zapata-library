@@ -20,7 +20,6 @@ series:
 - Biblioteca básica Salvat
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Short Stories
 title: Narraciones
 year: 1982

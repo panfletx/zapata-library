@@ -18,7 +18,6 @@ publishers:
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:
-- Carlos Fuentes
 - Mexican Literature
 - Novella
 title: 'Constancia: y otras novelas para vírgenes'

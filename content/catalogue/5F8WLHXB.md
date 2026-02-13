@@ -19,7 +19,6 @@ publishers:
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: Hombres sin mujer

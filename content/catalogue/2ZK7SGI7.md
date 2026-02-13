@@ -19,7 +19,6 @@ publishers:
 - 'Diana : Mondadori'
 series: []
 subjects:
-- Gabriel García Márquez
 - Mexican Literature
 - Novel
 title: Memoria de mis putas tristes

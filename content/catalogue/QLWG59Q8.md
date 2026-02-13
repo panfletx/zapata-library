@@ -10,7 +10,6 @@ publishers: []
 series: []
 subjects:
 - Essay
-- Luis Zapata
 - Mexican Literature
 title: Nuestra única arma
 zotero_key: QLWG59Q8

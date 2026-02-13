@@ -17,7 +17,6 @@ series:
 - Imaginaire
 subjects:
 - French Literature
-- Marguerite Duras
 - Novel
 title: L'après-midi de monsieur Andesmas
 year: 1981

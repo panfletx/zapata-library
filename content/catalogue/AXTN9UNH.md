@@ -17,7 +17,6 @@ publishers:
 - Cal y arena
 series: []
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: Como sombras y sueños

@@ -21,7 +21,6 @@ series:
 - Serie Alterna
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Poetry
 title: En voz de Borges
 year: 1986

@@ -16,7 +16,6 @@ publishers:
 - Mexico, D.F.
 series: []
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Novel
 title: Rayuela

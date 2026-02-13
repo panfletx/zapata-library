@@ -18,7 +18,6 @@ series:
 - Letras mexicanas
 source_url: http://catalogue.bnf.fr/ark:/12148/cb37380015j
 subjects:
-- Alfonso Reyes
 - Essay
 - Mexican Literature
 title: Obras completas ; Los trabajos y los días ; História natural das Laranjeiras. IX, Norte y Sur

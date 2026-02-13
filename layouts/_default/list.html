@@ -17,7 +17,8 @@
   {{ else }}
     {{ if .Data.Terms }}
       <div class="taxonomy-list">
-        {{ range .Data.Terms.Alphabetical }}
+        {{- $items := slice -}}
+        {{- range .Data.Terms.Alphabetical -}}
           {{- $title := .Page.Title -}}
           {{- if eq $.Section "subjects" -}}
             {{- $subjKey := printf "subj_%s" ($title | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
@@ -28,11 +29,14 @@
             {{- $translated := i18n $langKey -}}
             {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
           {{- end -}}
-          <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">
-            <span class="taxonomy-name">{{ $title }}</span>
-            <span class="taxonomy-count">{{ .Count }}</span>
+          {{- $items = $items | append (dict "label" $title "permalink" .Page.RelPermalink "count" .Count) -}}
+        {{- end -}}
+        {{- range sort $items "label" -}}
+          <a href="{{ .permalink }}" class="taxonomy-item">
+            <span class="taxonomy-name">{{ .label }}</span>
+            <span class="taxonomy-count">{{ .count }}</span>
           </a>
-        {{ end }}
+        {{- end -}}
       </div>
     {{ else }}
       {{/* Regular list page — show as grid */}}

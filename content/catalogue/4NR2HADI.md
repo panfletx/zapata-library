@@ -20,7 +20,6 @@ series: []
 subjects:
 - Argentine Literature
 - Biography
-- Jorge Luis Borges
 title: Borges, sus días y su tiempo
 year: 1999
 zotero_key: 4NR2HADI

@@ -18,7 +18,6 @@ publishers:
 series:
 - Letras mexicanas
 subjects:
-- Alfonso Reyes
 - Literary Criticism
 title: Obras completas, de Alfonso Reyes. T. VII, Cuestiones gongorinas. Tres alcances a Góngora. Varia. Entre libros. Páginas adicionales
 year: 1981

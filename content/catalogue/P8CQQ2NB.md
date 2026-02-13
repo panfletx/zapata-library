@@ -17,7 +17,6 @@ publishers:
 series:
 - Club Bruguera
 subjects:
-- Carlos Fuentes
 - Mexican Literature
 - Novel
 title: La muerte de Artemio Cruz

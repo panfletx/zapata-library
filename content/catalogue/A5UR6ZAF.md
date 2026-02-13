@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Biography
-- François Rabelais
 - French Literature
 title: François Rabelais
 year: 1991

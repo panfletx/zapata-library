@@ -15,7 +15,8 @@
     {{/* Taxonomy terms listing page (e.g., /subjects/) */}}
     <h1>{{ .Title }}</h1>
     <div class="taxonomy-list">
-      {{ range .Data.Terms.Alphabetical }}
+      {{- $items := slice -}}
+      {{- range .Data.Terms.Alphabetical -}}
         {{- $termTitle := .Page.Title -}}
         {{- $section := $.Section -}}
         {{- if eq $section "subjects" -}}
@@ -27,11 +28,14 @@
           {{- $translated := i18n $langKey -}}
           {{- if $translated -}}{{- $termTitle = $translated -}}{{- end -}}
         {{- end -}}
-        <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">
-          <span class="taxonomy-name">{{ $termTitle }}</span>
-          <span class="taxonomy-count">{{ .Count }}</span>
+        {{- $items = $items | append (dict "label" $termTitle "permalink" .Page.RelPermalink "count" .Count) -}}
+      {{- end -}}
+      {{- range sort $items "label" -}}
+        <a href="{{ .permalink }}" class="taxonomy-item">
+          <span class="taxonomy-name">{{ .label }}</span>
+          <span class="taxonomy-count">{{ .count }}</span>
         </a>
-      {{ end }}
+      {{- end -}}
     </div>
   {{ else }}
     {{/* Individual taxonomy term page (e.g., /subjects/fiction/) */}}

@@ -18,7 +18,6 @@ publishers:
 series: []
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Literary Criticism
 title: 'Borges en revista multicolor: obras, reseñas y traducciones inéditas de Jorge Luis Borges Diario crítica, Revista multicolor de los Sábados, 1933-1934'
 year: 1997

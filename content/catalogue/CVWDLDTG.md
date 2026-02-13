@@ -20,7 +20,6 @@ source_url: https://bac-lac.on.worldcat.org/oclc/299396033
 subjects:
 - Diary & Letters
 - French Literature
-- Marguerite Duras
 title: La douleur
 year: 1985
 zotero_key: CVWDLDTG

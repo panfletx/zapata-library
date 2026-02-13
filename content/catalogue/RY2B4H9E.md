@@ -19,7 +19,6 @@ publishers:
 series:
 - Punto de lectura
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Short Stories
 title: Bestiario

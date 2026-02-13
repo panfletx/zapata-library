@@ -171,14 +171,8 @@ other = "Chinese"
 
 # ── Subject categories ──
 
-[subj_AIDS_and_HIV]
-other = "AIDS & HIV"
-
 [subj_Aesthetics]
 other = "Aesthetics"
-
-[subj_Alfonso_Reyes]
-other = "Alfonso Reyes"
 
 [subj_American_Literature]
 other = "American Literature"
@@ -242,9 +236,6 @@ other = "Canada"
 
 [subj_Caribbean]
 other = "Caribbean"
-
-[subj_Carlos_Fuentes]
-other = "Carlos Fuentes"
 
 [subj_Catholicism]
 other = "Catholicism"
@@ -384,14 +375,8 @@ other = "Food & Gastronomy"
 [subj_France]
 other = "France"
 
-["subj_François_Rabelais"]
-other = "François Rabelais"
-
 [subj_French_Literature]
 other = "French Literature"
-
-["subj_Gabriel_García_Márquez"]
-other = "Gabriel García Márquez"
 
 [subj_Gay_Literature]
 other = "Gay Literature"
@@ -462,26 +447,11 @@ other = "Japan"
 [subj_Japanese_Literature]
 other = "Japanese Literature"
 
-[subj_Jean_Genet]
-other = "Jean Genet"
-
-[subj_Jorge_Luis_Borges]
-other = "Jorge Luis Borges"
-
-["subj_José_Lezama_Lima"]
-other = "José Lezama Lima"
-
 [subj_Journalism]
 other = "Journalism"
 
-[subj_Juan_Rulfo]
-other = "Juan Rulfo"
-
 [subj_Judaism]
 other = "Judaism"
-
-["subj_Julio_Cortázar"]
-other = "Julio Cortázar"
 
 [subj_King_Arthur]
 other = "King Arthur"
@@ -513,20 +483,11 @@ other = "Love & Desire"
 ["subj_Luis_Buñuel"]
 other = "Luis Buñuel"
 
-[subj_Luis_Zapata]
-other = "Luis Zapata"
-
 [subj_Madness_and_Mental_Illness]
 other = "Madness & Mental Illness"
 
 [subj_Madrid]
 other = "Madrid"
-
-[subj_Marcel_Proust]
-other = "Marcel Proust"
-
-[subj_Marguerite_Duras]
-other = "Marguerite Duras"
 
 [subj_Marxism]
 other = "Marxism"
@@ -699,9 +660,6 @@ other = "Screenplay"
 [subj_Sculpture]
 other = "Sculpture"
 
-[subj_Severo_Sarduy]
-other = "Severo Sarduy"
-
 [subj_Sexuality_and_Eroticism]
 other = "Sexuality & Eroticism"
 
@@ -719,9 +677,6 @@ other = "Slavery"
 
 [subj_Social_Movements]
 other = "Social Movements"
-
-["subj_Sor_Juana_Inés_de_la_Cruz"]
-other = "Sor Juana Inés de la Cruz"
 
 [subj_Spain]
 other = "Spain"

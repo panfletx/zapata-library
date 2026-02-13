@@ -16,7 +16,6 @@ publishers:
 series:
 - Livre de poche
 subjects:
-- François Rabelais
 - French Literature
 - Novel
 title: 'Pantagruel: publie sur le texte definitif. Etabli et annote par pierre michel. Pref. de jacques perret'

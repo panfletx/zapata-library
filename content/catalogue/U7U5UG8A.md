@@ -20,7 +20,6 @@ series:
 - Biblioteca Era
 source_url: http://sfpl.org/uploads/files/2/elgallodeoro-cover.jpg
 subjects:
-- Juan Rulfo
 - Mexican Literature
 - Screenplay
 title: El gallo de oro y otros textos para cine

@@ -18,7 +18,6 @@ publishers:
 series:
 - Collection Tel
 subjects:
-- François Rabelais
 - French Literature
 - Literary Criticism
 title: L'œuvre de François Rabelais et la culture populaire au Moyen Age et sous la Renaissance

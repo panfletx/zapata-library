@@ -19,7 +19,6 @@ series:
 - Letras mexicanas
 source_url: http://catalogue.bnf.fr/ark:/12148/cb37380021g
 subjects:
-- Alfonso Reyes
 - Essay
 - Mexican Literature
 title: Obras completas ; Tentativas y orientaciones ; No hay tal lugar ... XI, Última Tule

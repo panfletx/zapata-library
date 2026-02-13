@@ -14,7 +14,6 @@ publishers:
 series: []
 subjects:
 - Poetry
-- Sor Juana Inés de la Cruz
 - Spanish Literature
 title: Obra poética
 year: 1981

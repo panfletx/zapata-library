@@ -19,7 +19,6 @@ series: []
 subjects:
 - Mexican Literature
 - Poetry
-- Sor Juana Inés de la Cruz
 title: 'El universo de Sor Juana: antología'
 year: 1995
 zotero_key: T3CSC4UP

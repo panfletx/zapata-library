@@ -17,7 +17,6 @@ publishers:
 series:
 - Picador
 subjects:
-- Carlos Fuentes
 - Essay
 - Mexican Literature
 title: 'Myself with others: selected essays'

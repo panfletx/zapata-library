@@ -18,7 +18,6 @@ publishers:
 series:
 - Alfaguara literaturas México
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Short Stories
 title: Historias de cronopois y de famas

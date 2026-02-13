@@ -18,7 +18,6 @@ publishers:
 series:
 - Colección Carlos Fuentes
 subjects:
-- Carlos Fuentes
 - Mexican Literature
 - Novel
 title: Cambio de piel

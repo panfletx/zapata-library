@@ -11,7 +11,6 @@ publishers: []
 series: []
 subjects:
 - Fiction
-- Luis Zapata
 - Mexican Literature
 title: Terribles
 year: 1995

@@ -16,7 +16,6 @@ publishers:
 - Grijalbo
 series: []
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: El vampiro de la Colonia Roma

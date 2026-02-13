@@ -11,7 +11,6 @@ publishers:
 - Excelsior
 series: []
 subjects:
-- Julio Cortázar
 - Latin American Literature
 - Novel
 title: Fantomas contra los vampiros multinacionales

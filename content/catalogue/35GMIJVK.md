@@ -18,7 +18,6 @@ publishers:
 series:
 - Booket / Seix Barral
 subjects:
-- Carlos Fuentes
 - Essay
 - Mexican Literature
 title: En esto creo

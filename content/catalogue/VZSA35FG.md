@@ -13,7 +13,6 @@ publishers:
 - Panfleto y Pantomima
 series: []
 subjects:
-- Luis Zapata
 - Mexican Literature
 - Novel
 title: De amor es mi negra pena

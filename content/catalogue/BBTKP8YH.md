@@ -19,7 +19,6 @@ series:
 subjects:
 - Autobiography & Memoir
 - French Literature
-- Jean Genet
 title: Journal du voleur
 year: 1949
 zotero_key: BBTKP8YH

@@ -19,7 +19,6 @@ series:
 - Biblioteca clásica y contemporánea
 subjects:
 - Argentine Literature
-- Jorge Luis Borges
 - Short Stories
 title: Crónicas de Bustos Domenq
 year: 1997
