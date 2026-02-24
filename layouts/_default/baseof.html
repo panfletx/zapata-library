@@ -3,7 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  {{- $pageTitle := .Title -}}
+  {{- if .Data.Terms -}}
+    {{- $t := i18n .Section -}}
+    {{- if $t -}}{{- $pageTitle = $t -}}{{- end -}}
+  {{- else if eq .Section "subjects" -}}
+    {{- $subjKey := printf "subj_%s" ($pageTitle | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
+    {{- $t := i18n $subjKey -}}
+    {{- if $t -}}{{- $pageTitle = $t -}}{{- end -}}
+  {{- else if eq .Section "languages" -}}
+    {{- $t := i18n (printf "lang_%s" $pageTitle) -}}
+    {{- if $t -}}{{- $pageTitle = $t -}}{{- end -}}
+  {{- end -}}
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $pageTitle }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .IsHome }}{{ if eq .Lang "es" }}{{ .Site.Params.description_es }}{{ else }}{{ .Site.Params.description_en }}{{ end }}{{ else }}{{ .Title }}{{ end }}">
   {{ $css := resources.Get "css/main.css" }}
   {{ if $css }}

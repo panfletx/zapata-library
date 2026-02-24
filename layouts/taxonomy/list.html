@@ -1,7 +1,11 @@
 {{ define "main" }}
 <section class="section">
   {{- $title := .Title -}}
-  {{- if eq .Section "subjects" -}}
+  {{- if .Data.Terms -}}
+    {{/* Taxonomy listing page (e.g., /authors/, /publishers/) — translate section name */}}
+    {{- $t := i18n .Section -}}
+    {{- if $t -}}{{- $title = $t -}}{{- end -}}
+  {{- else if eq .Section "subjects" -}}
     {{- $subjKey := printf "subj_%s" ($title | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
     {{- $translated := i18n $subjKey -}}
     {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
@@ -13,7 +17,7 @@
 
   {{ if .Data.Terms }}
     {{/* Taxonomy terms listing page (e.g., /subjects/) */}}
-    <h1>{{ .Title }}</h1>
+    <h1>{{ $title }}</h1>
     <div class="taxonomy-list">
       {{- $items := slice -}}
       {{- range .Data.Terms.Alphabetical -}}
