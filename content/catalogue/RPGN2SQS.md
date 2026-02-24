@@ -1,6 +1,6 @@
 ---
 authors:
-- Todorov, Tsvetan
+- Todorov, Tzvetan
 cover: covers/rpgn2sqs.jpg
 date: '2024-09-01'
 decade: 1970s

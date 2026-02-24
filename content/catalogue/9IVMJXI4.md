@@ -1,6 +1,6 @@
 ---
 authors:
-- Hardy, Thomas (
+- Hardy, Thomas
 - Climent Terrer, Federico
 cover: covers/9ivmjxi4.jpg
 date: '2024-09-01'

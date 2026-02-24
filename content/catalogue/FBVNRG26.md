@@ -1,6 +1,6 @@
 ---
 authors:
-- Eça de Queiroz, José María
+- Eça de Queirós, José Maria
 - González Blanco, Pedro
 cover: covers/fbvnrg26.jpg
 date: '2024-09-01'

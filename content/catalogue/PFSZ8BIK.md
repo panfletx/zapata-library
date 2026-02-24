@@ -1,6 +1,6 @@
 ---
 authors:
-- Queirós, Eça de
+- Eça de Queirós, José Maria
 - Montemayor, Carlos
 - Riera, Augusto
 cover: covers/pfsz8bik.jpg

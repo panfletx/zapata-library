@@ -1,6 +1,6 @@
 ---
 authors:
-- Zapata, Martín
+- Zapata Quiroz, Martín
 - Adame, Domingo
 - Fediuk, Elka
 - Medina Avalos, Paloma López

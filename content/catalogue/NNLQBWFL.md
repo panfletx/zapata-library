@@ -1,6 +1,6 @@
 ---
 authors:
-- Stevenson, Robert Louis (
+- Stevenson, Robert Louis
 cover: covers/nnlqbwfl.jpg
 date: '2024-09-01'
 decade: 2000s

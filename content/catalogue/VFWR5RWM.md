@@ -1,6 +1,6 @@
 ---
 authors:
-- Rabelais, Francois
+- Rabelais, François
 cover: covers/vfwr5rwm.jpg
 date: '2024-09-01'
 decade: 1960s

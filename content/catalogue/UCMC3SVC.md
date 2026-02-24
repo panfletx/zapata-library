@@ -1,6 +1,6 @@
 ---
 authors:
-- Lovecraft, H. P. (Howard Phillips)
+- Lovecraft, H. P.
 cover: covers/ucmc3svc.jpg
 date: '2024-09-01'
 decade: 2000s

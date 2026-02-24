@@ -1,6 +1,6 @@
 ---
 authors:
-- Salinger, J. D. (Jerome David)
+- Salinger, J. D.
 cover: covers/gbuh6w3v.jpg
 date: '2024-09-01'
 decade: 1970s

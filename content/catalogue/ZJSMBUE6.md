@@ -1,6 +1,6 @@
 ---
 authors:
-- De Mello, Anthony (
+- De Mello, Anthony
 - Martínez de Lapera, Abelardo
 cover: covers/zjsmbue6.jpg
 date: '2024-09-01'

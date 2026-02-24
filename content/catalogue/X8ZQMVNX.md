@@ -1,7 +1,7 @@
 ---
 authors:
-- Dostoevskiï, Fiodor Mijaïlovich (
-- Vidal, Augusto (
+- Dostoevskiï, Fiodor Mijaïlovich
+- Vidal, Augusto
 cover: covers/x8zqmvnx.jpg
 date: '2024-09-01'
 decade: 1980s

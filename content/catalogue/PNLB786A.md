@@ -1,6 +1,6 @@
 ---
 authors:
-- Queirós, Eça de
+- Eça de Queirós, José Maria
 - Morales, Rafael
 cover: covers/pnlb786a.jpg
 date: '2024-09-01'

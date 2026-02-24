@@ -1,6 +1,6 @@
 ---
 authors:
-- Hesse, Hermann (
+- Hesse, Hermann
 - Scholz, Víctor
 cover: covers/nsrdt376.jpg
 date: '2024-09-01'

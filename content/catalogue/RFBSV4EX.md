@@ -1,6 +1,6 @@
 ---
 authors:
-- Queirós, Eça de
+- Eça de Queirós, José Maria
 - Losada, Basilio
 - Morales, Rafael
 cover: covers/rfbsv4ex.jpg

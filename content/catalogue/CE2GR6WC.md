@@ -1,6 +1,6 @@
 ---
 authors:
-- Osho (
+- Osho
 cover: covers/ce2gr6wc.jpg
 date: '2024-09-01'
 decade: 2000s
