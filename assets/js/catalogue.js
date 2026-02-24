@@ -10,19 +10,24 @@
   let sortAsc = true;
   let activeFilters = {};
 
+  const I18N = window.CATALOGUE_I18N || {
+    decade: "Decade", language: "Language", item_type: "Type",
+    place: "Place", publisher: "Publisher", author: "Author", series: "Series"
+  };
+
   // Checkbox filter facets (small cardinality)
   const CHECKBOX_FACETS = [
-    { key: "decade", label: "Decade", field: "decade" },
-    { key: "languages", label: "Language", field: "languages", isArray: true },
-    { key: "item_types", label: "Type", field: "item_types", isArray: true },
+    { key: "decade", label: I18N.decade, field: "decade" },
+    { key: "languages", label: I18N.language, field: "languages", isArray: true },
+    { key: "item_types", label: I18N.item_type, field: "item_types", isArray: true },
   ];
 
   // Searchable dropdown facets (large cardinality)
   const DROPDOWN_FACETS = [
-    { key: "place", label: "Place", field: "place" },
-    { key: "publishers", label: "Publisher", field: "publishers", isArray: true },
-    { key: "authors", label: "Author", field: "authors", isArray: true },
-    { key: "series", label: "Series", field: "series", isArray: true },
+    { key: "place", label: I18N.place, field: "place" },
+    { key: "publishers", label: I18N.publisher, field: "publishers", isArray: true },
+    { key: "authors", label: I18N.author, field: "authors", isArray: true },
+    { key: "series", label: I18N.series, field: "series", isArray: true },
   ];
 
   // --- Init ---

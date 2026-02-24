@@ -50,6 +50,17 @@
 
 {{ $js := resources.Get "js/catalogue.js" }}
 {{ if $js }}
+<script>
+window.CATALOGUE_I18N = {
+  decade:    "{{ i18n "decade" }}",
+  language:  "{{ i18n "language" }}",
+  item_type: "{{ i18n "item_type" }}",
+  place:     "{{ i18n "place" }}",
+  publisher: "{{ i18n "publisher" }}",
+  author:    "{{ i18n "author" }}",
+  series:    "{{ i18n "series" }}"
+};
+</script>
 <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
 {{ end }}
