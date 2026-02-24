@@ -12,7 +12,7 @@ oclc: '1158051020'
 pages: 157
 place: Barcelona
 publishers:
-- '[Planeta'
+- Planeta
 series:
 - Rotativa
 subjects:
