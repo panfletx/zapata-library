@@ -1,7 +1,7 @@
 ---
 authors:
 - Plutarco
-- Alsina Clota, José.
+- Alsina Clota, José
 - Ranz Romanillos, Antonio
 cover: covers/t23f3hah.jpg
 date: '2024-09-01'

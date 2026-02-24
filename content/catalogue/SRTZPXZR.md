@@ -1,6 +1,6 @@
 ---
 authors:
-- Herrera, Oscar Efraín.
+- Herrera, Oscar Efraín
 cover: covers/srtzpxzr.jpg
 date: '2024-09-01'
 decade: 2010s

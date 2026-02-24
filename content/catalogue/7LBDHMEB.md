@@ -1,6 +1,6 @@
 ---
 authors:
-- Moreiro, Julián.
+- Moreiro, Julián
 cover: covers/7lbdhmeb.jpg
 date: '2024-09-01'
 decade: 1990s

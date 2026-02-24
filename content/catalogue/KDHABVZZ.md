@@ -1,7 +1,7 @@
 ---
 authors:
 - Voltaire
-- Pomeau, René.
+- Pomeau, René
 cover: covers/kdhabvzz.jpg
 date: '2024-09-01'
 decade: 1960s

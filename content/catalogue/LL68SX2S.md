@@ -1,6 +1,6 @@
 ---
 authors:
-- García-Pelayo y Gross, Ramón.
+- García-Pelayo y Gross, Ramón
 - García-Pelayo y Gross, Fernando
 - Durand, Micheline
 cover: covers/ll68sx2s.jpg

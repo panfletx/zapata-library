@@ -1,7 +1,7 @@
 ---
 authors:
 - Tolstoy, Leo
-- Fernández Sánchez, José.
+- Fernández Sánchez, José
 cover: covers/6je6r8zi.jpg
 date: '2024-09-01'
 decade: 1980s

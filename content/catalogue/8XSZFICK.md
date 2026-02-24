@@ -1,6 +1,6 @@
 ---
 authors:
-- Malraux, André.
+- Malraux, André
 cover: covers/8xszfick.jpg
 date: '2024-09-01'
 decade: 1940s

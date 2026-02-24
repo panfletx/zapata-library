@@ -13,7 +13,7 @@ oclc: '1340610'
 pages: 164
 place: New York
 publishers:
-- Frederick Ungar Publishing Co.
+- Frederick Ungar Publishing Co
 series:
 - Modern literature monographs
 subjects:

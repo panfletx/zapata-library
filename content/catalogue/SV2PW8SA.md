@@ -13,7 +13,7 @@ pages: 2
 place: Place of publication not identified
 publishers:
 - Spoken Arts
-- Harcourt, Brace and Co.
+- Harcourt, Brace and Co
 series:
 - Many voices (Harcourt, Brace & World)
 subjects:

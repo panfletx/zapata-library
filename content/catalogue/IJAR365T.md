@@ -1,6 +1,6 @@
 ---
 authors:
-- Gide André
+- Gide, André
 cover: covers/ijar365t.jpg
 date: '2024-09-01'
 exlibris: '1977'

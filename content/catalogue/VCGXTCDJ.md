@@ -10,7 +10,7 @@ languages:
 - Español
 place: Madrid
 publishers:
-- H. Kliczkowski-onlybook, s.l.
+- H. Kliczkowski-onlybook, s.l
 series: []
 subjects:
 - Food & Gastronomy

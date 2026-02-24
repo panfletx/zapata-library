@@ -1,7 +1,7 @@
 ---
 authors:
 - Chéreau, Patrice
-- Guibert, Hervé.
+- Guibert, Hervé
 cover: covers/w33wca2y.jpg
 date: '2024-09-01'
 decade: 1980s

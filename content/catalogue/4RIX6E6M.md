@@ -2,7 +2,7 @@
 authors:
 - Satta, Salvatore
 - Steiner, George
-- Jordá, Joaquín.
+- Jordá, Joaquín
 cover: covers/4rix6e6m.jpg
 date: '2024-09-01'
 decade: 2010s

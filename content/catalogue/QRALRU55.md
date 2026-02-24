@@ -1,6 +1,6 @@
 ---
 authors:
-- Huyghe, René.
+- Huyghe, René
 cover: covers/qralru55.jpg
 date: '2024-09-01'
 decade: 1990s

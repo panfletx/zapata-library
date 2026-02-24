@@ -1,7 +1,7 @@
 ---
 authors:
 - Troyes, Chrétien, de
-- Lemarchand, Marie-José.
+- Lemarchand, Marie-José
 - Baranda, Nieves
 - Chrétien
 cover: covers/66nugykk.jpg

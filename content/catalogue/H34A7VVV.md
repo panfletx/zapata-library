@@ -2,7 +2,7 @@
 authors:
 - Mauger, G.
 - Bruézière, Maurice
-- Geffroy, René.
+- Geffroy, René
 cover: covers/h34a7vvv.jpg
 date: '2024-09-01'
 decade: 1970s

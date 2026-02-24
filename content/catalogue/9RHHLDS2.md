@@ -1,7 +1,7 @@
 ---
 authors:
 - Couto Castillo, Bernardo
-- Cervantes, María.
+- Cervantes, María
 - Correa, María Guadalupe
 - Stein, Tadeo P.
 cover: covers/9rhhlds2.jpg

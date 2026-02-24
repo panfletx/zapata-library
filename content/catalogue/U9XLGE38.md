@@ -15,7 +15,7 @@ place: D.F. México
 publishers:
 - Editorial Artemisa
 series:
-- Obras Maestras Contemporáneo.
+- Obras Maestras Contemporáneo
 subjects:
 - Aesthetics
 - Literary Criticism

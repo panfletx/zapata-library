@@ -1,6 +1,6 @@
 ---
 authors:
-- Fernàndez, Lluís.
+- Fernàndez, Lluís
 cover: covers/nx49wqri.jpg
 date: '2024-09-01'
 decade: 1980s

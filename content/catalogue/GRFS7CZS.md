@@ -1,6 +1,6 @@
 ---
 authors:
-- Martín-Artajo, José.
+- Martín-Artajo, José
 cover: covers/grfs7czs.jpg
 date: '2024-09-01'
 decade: 1970s

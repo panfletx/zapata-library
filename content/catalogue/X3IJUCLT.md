@@ -15,7 +15,7 @@ oclc: '1256005492'
 pages: 3
 place: Madrid
 publishers:
-- Ediciones Guadarrama.
+- Ediciones Guadarrama
 series:
 - Colección universitaria de bolsillo
 subjects:

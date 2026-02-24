@@ -1,6 +1,6 @@
 ---
 authors:
-- García-Pelayo y Gross, Ramón.
+- García-Pelayo y Gross, Ramón
 - Cazalaà, Béatrice
 - Testas, Jean
 - Durand, Micheline

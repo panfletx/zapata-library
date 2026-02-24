@@ -1,7 +1,7 @@
 ---
 authors:
 - Lucrecio Caro, Tito
-- Acuña, René.
+- Acuña, René
 cover: covers/zxv7jas6.jpg
 date: '2024-09-01'
 decade: 1980s

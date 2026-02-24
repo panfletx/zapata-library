@@ -13,7 +13,7 @@ oclc: '1255993224'
 pages: 255
 place: Buenos Aires
 publishers:
-- Editorial Alfaguara.
+- Editorial Alfaguara
 series: []
 subjects:
 - American Literature

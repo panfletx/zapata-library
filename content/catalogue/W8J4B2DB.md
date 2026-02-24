@@ -1,6 +1,6 @@
 ---
 authors:
-- Ricciardi, Ramón.
+- Ricciardi, Ramón
 cover: covers/w8j4b2db.jpg
 date: '2024-09-01'
 decade: 1970s

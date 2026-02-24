@@ -1,6 +1,6 @@
 ---
 authors:
-- Agustín, José.
+- Agustín, José
 cover: covers/g5vyv5xi.jpg
 date: '2024-09-01'
 decade: 1990s

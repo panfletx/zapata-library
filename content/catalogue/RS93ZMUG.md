@@ -1,6 +1,6 @@
 ---
 authors:
-- Lezama Lima, José.
+- Lezama Lima, José
 - Vitier, Cintio
 cover: covers/rs93zmug.jpg
 date: '2024-09-01'

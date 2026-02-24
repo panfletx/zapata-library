@@ -1,7 +1,7 @@
 ---
 authors:
 - Quevedo, Francisco de
-- Golacheca, José.
+- Golacheca, José
 cover: covers/7bazinej.jpg
 date: '2024-09-01'
 decade: 1990s

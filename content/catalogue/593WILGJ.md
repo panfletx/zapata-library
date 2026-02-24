@@ -1,7 +1,7 @@
 ---
 authors:
 - Eco, Umberto
-- Schifano, Jean-Noël.
+- Schifano, Jean-Noël
 cover: covers/593wilgj.jpg
 date: '2024-09-01'
 decade: 1980s

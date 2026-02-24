@@ -18,7 +18,7 @@ oclc: '651214293'
 pages: 95
 place: Toluca, Estado de México, México
 publishers:
-- Bonobos Edits.
+- Bonobos Edits
 - Consejo Nacional para la Cultura y las Artes
 - FONCA, Programa de Fomento a Proyectos y Coinversiones Culturales
 series:

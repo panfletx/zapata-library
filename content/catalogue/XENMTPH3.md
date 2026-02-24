@@ -1,6 +1,6 @@
 ---
 authors:
-- Arreola, Juan José.
+- Arreola, Juan José
 cover: covers/xenmtph3.jpg
 date: '2024-09-01'
 decade: 1970s

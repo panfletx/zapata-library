@@ -1,6 +1,6 @@
 ---
 authors:
-- Omar Khayyám.
+- Omar Khayyám
 - Fitzgerald, F. Scott
 - Ramírez Cueto, Pedro
 cover: covers/ymz3c3ge.jpg

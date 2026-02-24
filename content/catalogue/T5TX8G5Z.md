@@ -1,6 +1,6 @@
 ---
 authors:
-- Agustín, José.
+- Agustín, José
 cover: covers/t5tx8g5z.jpg
 date: '2024-09-01'
 decade: 1980s

@@ -2,7 +2,7 @@
 authors:
 - Cadena, Agustín
 - Jiménez Aguirre, Gustavo
-- Agustín, José.
+- Agustín, José
 cover: covers/rraage3u.jpg
 date: '2024-09-01'
 decade: 2000s

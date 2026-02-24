@@ -15,7 +15,7 @@ oclc: '214313268'
 pages: 215
 place: München
 publishers:
-- Dt. Taschenbuch-Verl.
+- Dt. Taschenbuch-Verl
 series:
 - Dtv
 subjects:

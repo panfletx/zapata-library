@@ -1,6 +1,6 @@
 ---
 authors:
-- Guibert, Hervé.
+- Guibert, Hervé
 cover: covers/3hfcpm9b.jpg
 date: '2024-09-01'
 decade: 1990s

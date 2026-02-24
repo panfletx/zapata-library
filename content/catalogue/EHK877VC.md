@@ -15,7 +15,7 @@ oclc: '634712475'
 pages: 141
 place: Reinbek bei Hamburg
 publishers:
-- Rowohlt-Taschenbuch-Verl.
+- Rowohlt-Taschenbuch-Verl
 series:
 - Rororo
 subjects:

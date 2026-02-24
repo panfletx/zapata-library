@@ -15,7 +15,7 @@ oclc: '1318482804'
 pages: 100
 place: Santiago de Chile
 publishers:
-- Cuatro Vientos Edit.
+- Cuatro Vientos Edit
 series: []
 subjects:
 - Dictionary

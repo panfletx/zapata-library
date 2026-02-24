@@ -1,7 +1,7 @@
 ---
 authors:
 - Potocki, Jan
-- Radrizzani, René.
+- Radrizzani, René
 cover: covers/tp4ybcs4.jpg
 date: '2024-09-01'
 decade: 1990s

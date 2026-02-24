@@ -1,7 +1,7 @@
 ---
 authors:
 - Mendoza, María Luisa
-- Avilés Fabila, René.
+- Avilés Fabila, René
 cover: covers/bj3x7jhl.jpg
 date: '2024-09-01'
 decade: 2000s

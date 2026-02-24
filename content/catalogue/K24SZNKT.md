@@ -1,6 +1,6 @@
 ---
 authors:
-- Wellek, René.
+- Wellek, René
 - Warren, Austin
 cover: covers/k24sznkt.jpg
 cover_note: '1975'

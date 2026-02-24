@@ -1,6 +1,6 @@
 ---
 authors:
-- Bunin, Ivan Alekseevič.
+- Bunin, Ivan Alekseevič
 cover: covers/ssct3yqm.jpg
 date: '2024-09-01'
 decade: 1960s

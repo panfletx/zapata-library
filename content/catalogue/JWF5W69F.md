@@ -1,7 +1,7 @@
 ---
 authors:
-- Arnaud Noël
-- Vian Boris
+- Noël, Arnaud
+- Vian, Boris
 cover: covers/jwf5w69f.jpg
 date: '2024-09-01'
 decade: 1990s

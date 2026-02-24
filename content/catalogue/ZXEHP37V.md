@@ -1,7 +1,7 @@
 ---
 authors:
 - Philips, Adam
-- Pérez Villanueva, Luis Estebán.
+- Pérez Villanueva, Luis Estebán
 cover: covers/zxehp37v.jpg
 date: '2024-09-01'
 decade: 2000s

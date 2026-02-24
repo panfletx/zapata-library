@@ -16,7 +16,7 @@ oclc: '1264681577'
 pages: 31
 place: New York, NY
 publishers:
-- Scholastic Inc.
+- Scholastic Inc
 series: []
 subjects:
 - Diary & Letters

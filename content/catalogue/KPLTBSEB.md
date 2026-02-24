@@ -1,7 +1,7 @@
 ---
 authors:
 - Poe, Edgar Allan
-- Hervás, Ramón.
+- Hervás, Ramón
 cover: covers/kpltbseb.jpg
 date: '2024-09-01'
 decade: 1990s

@@ -1,6 +1,6 @@
 ---
 authors:
-- Villiers, André.
+- Villiers, André
 cover: covers/n9xixhlb.jpg
 date: '2024-09-01'
 decade: 1970s

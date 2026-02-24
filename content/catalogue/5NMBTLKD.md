@@ -16,7 +16,7 @@ place: Mexico
 publishers:
 - Fontamara
 series:
-- Fontamara Col.
+- Fontamara Col
 subjects:
 - German Literature
 - Novel

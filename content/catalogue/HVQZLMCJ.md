@@ -1,6 +1,6 @@
 ---
 authors:
-- Arredondo, Inés.
+- Arredondo, Inés
 cover: covers/hvqzlmcj.jpg
 date: '2024-09-01'
 decade: 1970s

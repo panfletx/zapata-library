@@ -1,7 +1,7 @@
 ---
 authors:
 - Ariès, Philippe
-- Béjin, André.
+- Béjin, André
 - Foucault, Michel
 cover: covers/r7hekw29.jpg
 date: '2024-09-01'

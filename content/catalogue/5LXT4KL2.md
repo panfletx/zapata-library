@@ -1,6 +1,6 @@
 ---
 authors:
-- Césaire, Aimé.
+- Césaire, Aimé
 - Bartra, Agustí
 cover: covers/5lxt4kl2.jpg
 date: '2024-09-01'

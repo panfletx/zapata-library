@@ -1,6 +1,6 @@
 ---
 authors:
-- Parramón, José María.
+- Parramón, José María
 cover: covers/dnf4rtjl.jpg
 date: '2024-09-01'
 decade: 1980s

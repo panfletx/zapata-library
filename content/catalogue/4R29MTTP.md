@@ -2,7 +2,7 @@
 authors:
 - Carrió de la Vandera, Alonso
 - Bustamante Carlos, Calixto
-- Lira C., Sergio René.
+- Lira C., Sergio René
 cover: covers/4r29mttp.jpg
 date: '2024-09-01'
 decade: 1980s

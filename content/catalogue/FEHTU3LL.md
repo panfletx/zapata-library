@@ -1,6 +1,6 @@
 ---
 authors:
-- García-Pelayo y Gross, Ramón.
+- García-Pelayo y Gross, Ramón
 cover: covers/fehtu3ll.jpg
 date: '2024-09-01'
 decade: 1980s

@@ -1,6 +1,6 @@
 ---
 authors:
-- Ibarra, Jesús.
+- Ibarra, Jesús
 cover: covers/ebv5heuc.jpg
 cover_note: dedicatoria del autor
 date: '2024-09-01'

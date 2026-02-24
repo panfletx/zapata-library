@@ -1,6 +1,6 @@
 ---
 authors:
-- Rey, Jean Noël.
+- Rey, Jean Noël
 - Santoni, Georges V.
 cover: covers/cmv63tix.jpg
 date: '2024-09-01'

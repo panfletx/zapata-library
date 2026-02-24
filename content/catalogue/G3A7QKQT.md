@@ -1,6 +1,6 @@
 ---
 authors:
-- Agustín, José.
+- Agustín, José
 cover: covers/g3a7qkqt.jpg
 date: '2024-09-01'
 decade: 2000s

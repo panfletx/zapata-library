@@ -1,6 +1,6 @@
 ---
 authors:
-- Major, Jean-René.
+- Major, Jean-René
 cover: covers/ybh2usf4.jpg
 date: '2024-09-01'
 decade: 1960s

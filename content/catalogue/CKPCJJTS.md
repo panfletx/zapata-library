@@ -1,6 +1,6 @@
 ---
 authors:
-- Saramago, José.
+- Saramago, José
 cover: covers/ckpcjjts.jpg
 date: '2024-09-01'
 decade: 1990s

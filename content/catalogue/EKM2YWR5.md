@@ -1,6 +1,6 @@
 ---
 authors:
-- Dahl Roald
+- Dahl, Roald
 cover: covers/ekm2ywr5.jpg
 date: '2024-09-01'
 decade: 1960s

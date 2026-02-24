@@ -1,6 +1,6 @@
 ---
 authors:
-- García-Bárcena, Joaquín.
+- García-Bárcena, Joaquín
 cover: covers/2e9q9uhj.jpg
 date: '2024-09-01'
 decade: 1980s

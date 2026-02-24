@@ -1,7 +1,7 @@
 ---
 authors:
 - Lee, Bruce
-- Fraguas, José María.
+- Fraguas, José María
 cover: covers/rjhtwmsc.jpg
 date: '2024-09-01'
 decade: 1990s

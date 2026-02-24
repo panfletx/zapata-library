@@ -13,7 +13,7 @@ oclc: '37925292'
 pages: 192
 place: New York, N.Y.
 publishers:
-- Dell Pub. Co.
+- Dell Pub. Co
 series: []
 subjects:
 - American Literature

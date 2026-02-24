@@ -11,7 +11,7 @@ oclc: '2312308'
 pages: 253
 place: Greenwich, Ct.
 publishers:
-- Fawcett Pub.
+- Fawcett Pub
 series:
 - Crest reprint
 subjects:

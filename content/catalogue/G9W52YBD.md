@@ -1,6 +1,6 @@
 ---
 authors:
-- Sagredo José
+- Sagredo, José
 cover: covers/g9w52ybd.jpg
 date: '2024-09-01'
 decade: 1970s

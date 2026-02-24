@@ -1,7 +1,7 @@
 ---
 authors:
 - Mello, Anthony de
-- García-Abril, Jesús.
+- García-Abril, Jesús
 cover: covers/a5gihkhk.jpg
 date: '2024-09-01'
 decade: 1990s

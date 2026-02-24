@@ -1,6 +1,6 @@
 ---
 authors:
-- Ulloa, Luis Martín.
+- Ulloa, Luis Martín
 cover: covers/q2kdzjpw.jpg
 date: '2024-09-01'
 decade: 1990s

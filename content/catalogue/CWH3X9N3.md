@@ -1,7 +1,7 @@
 ---
 authors:
-- Omar Khayyam
-- Gibert, José.
+- Omar Khayyám
+- Gibert, José
 - Navarro, Diego
 cover: covers/cwh3x9n3.jpg
 date: '2024-09-01'

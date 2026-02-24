@@ -1,6 +1,6 @@
 ---
 authors:
-- Mateos Muñoz, Agustín.
+- Mateos Muñoz, Agustín
 cover: covers/7dxrn78a.jpg
 date: '2024-09-01'
 decade: 1950s

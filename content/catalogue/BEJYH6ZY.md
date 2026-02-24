@@ -1,6 +1,6 @@
 ---
 authors:
-- Georgin, René.
+- Georgin, René
 cover: covers/bejyh6zy.jpg
 date: '2024-09-01'
 decade: 1960s

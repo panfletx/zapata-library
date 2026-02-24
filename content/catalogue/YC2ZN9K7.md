@@ -1,7 +1,7 @@
 ---
 authors:
 - Humboldt, Alexander de
-- Silva-Herzog, Jesús.
+- Silva-Herzog, Jesús
 - Wolfgang, Paul
 - Wionczek, Miguel S.
 - Labastida, Jaime

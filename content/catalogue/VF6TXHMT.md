@@ -1,6 +1,6 @@
 ---
 authors:
-- Revueltas, José.
+- Revueltas, José
 cover: covers/vf6txhmt.jpg
 date: '2024-09-01'
 decade: 1970s

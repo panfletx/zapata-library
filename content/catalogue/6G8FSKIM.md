@@ -1,6 +1,6 @@
 ---
 authors:
-- García-Pelayo y Gross, Ramón.
+- García-Pelayo y Gross, Ramón
 - Durand, Micheline
 cover: covers/6g8fskim.jpg
 date: '2024-09-01'
