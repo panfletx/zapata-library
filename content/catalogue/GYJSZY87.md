@@ -1,6 +1,6 @@
 ---
 authors:
-- Zorrilla, Oscar
+- Zorrilla, Óscar
 cover: covers/gyjszy87.jpg
 cover_note: dedicatoria del autor 1977
 date: '2024-09-01'

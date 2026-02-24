@@ -1,7 +1,7 @@
 ---
 authors:
 - Millar, Margaret
-- Guastavino, Marta I.
+- Guastavino, Marta
 cover: covers/6kghzleu.jpg
 date: '2024-09-01'
 decade: 1980s

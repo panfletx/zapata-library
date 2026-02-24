@@ -1,6 +1,6 @@
 ---
 authors:
-- Calderón de la Barca
+- Calderón de la Barca, Pedro
 cover: covers/m94sx4dq.jpg
 date: '2024-09-01'
 decade: 1970s

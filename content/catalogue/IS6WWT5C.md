@@ -1,6 +1,6 @@
 ---
 authors:
-- Bowles, Paul Frederich
+- Bowles, Paul
 - Mansour, Mónica
 cover: covers/is6wwt5c.jpg
 date: '2024-09-01'

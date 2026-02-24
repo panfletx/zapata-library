@@ -1,6 +1,6 @@
 ---
 authors:
-- Bowles, Paul Frederich
+- Bowles, Paul
 - Mansour, Mónica
 cover: covers/jfr757ux.jpg
 date: '2024-09-01'

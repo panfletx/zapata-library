@@ -1,6 +1,6 @@
 ---
 authors:
-- Calderón de la Barca
+- Calderón de la Barca, Pedro
 - Teixidor, Felipe
 cover: covers/mrmiaaww.jpg
 date: '2024-09-01'

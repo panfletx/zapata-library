@@ -1,7 +1,7 @@
 ---
 authors:
 - Melville, Herman
-- Valverde, Jose Maria
+- Valverde, José María
 cover: covers/egy2qcsl.jpg
 date: '2024-09-01'
 decade: 2000s

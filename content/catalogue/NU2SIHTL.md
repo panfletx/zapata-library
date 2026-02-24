@@ -1,6 +1,6 @@
 ---
 authors:
-- Febvre, Lucien Paul Victor
+- Febvre, Lucien
 cover: covers/nu2sihtl.jpg
 date: '2024-09-01'
 decade: 1980s

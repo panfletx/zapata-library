@@ -1,6 +1,6 @@
 ---
 authors:
-- Salinger, Jerome David
+- Salinger, J. D.
 cover: covers/bdeswu94.jpg
 date: '2024-09-01'
 decade: 1950s

@@ -1,6 +1,6 @@
 ---
 authors:
-- Mutis, Alvaro
+- Mutis, Álvaro
 cover: covers/95bjj3ty.jpg
 date: '2024-09-01'
 decade: 2000s

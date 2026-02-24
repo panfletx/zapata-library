@@ -1,6 +1,6 @@
 ---
 authors:
-- Watts, Alan Watson
+- Watts, Alan
 cover: covers/ewffwji2.jpg
 date: '2024-09-01'
 decade: 1980s

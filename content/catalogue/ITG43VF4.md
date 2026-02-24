@@ -1,6 +1,6 @@
 ---
 authors:
-- Humboldt, Alejandro De
+- Humboldt, Alexander von
 - Labastida, Jaime
 cover: covers/itg43vf4.jpg
 date: '2024-09-01'

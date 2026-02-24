@@ -1,6 +1,6 @@
 ---
 authors:
-- Dostoievski, Fedor Mikhailovich
+- Dostoievski, Fiodor
 cover: covers/qddyfums.jpg
 date: '2024-09-01'
 decade: 1990s

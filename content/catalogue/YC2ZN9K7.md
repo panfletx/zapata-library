@@ -1,6 +1,6 @@
 ---
 authors:
-- Humboldt, Alexander de
+- Humboldt, Alexander von
 - Silva-Herzog, Jesús
 - Wolfgang, Paul
 - Wionczek, Miguel S.

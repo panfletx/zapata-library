@@ -1,6 +1,6 @@
 ---
 authors:
-- Mauger, G.
+- Mauger, Gaston
 - Bruézière, Maurice
 - Geffroy, René
 cover: covers/h34a7vvv.jpg

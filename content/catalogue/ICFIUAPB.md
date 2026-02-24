@@ -1,6 +1,6 @@
 ---
 authors:
-- Krishnamurti, J.
+- Krishnamurti, Jiddu
 cover: covers/icfiuapb.jpg
 date: '2024-09-01'
 decade: 1990s

@@ -3,7 +3,7 @@ authors:
 - Blanco, José Joaquín
 - Burr, Claudia
 - Morales Moreno, Luis Gerardo
-- Calderón de la Barca
+- Calderón de la Barca, Pedro
 cover: covers/ptd3zaxd.jpg
 date: '2024-09-01'
 decade: 2000s

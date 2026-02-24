@@ -1,6 +1,6 @@
 ---
 authors:
-- Alas y Ureña, Leopoldo
+- Alas, Leopoldo
 cover: covers/gtix7xgn.jpg
 date: '2024-09-01'
 decade: 1980s

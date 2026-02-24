@@ -1,6 +1,6 @@
 ---
 authors:
-- Machado de Assis, Joaquin
+- Machado de Assis
 cover: covers/24axunvs.jpg
 cover_note: dedicatoria de José
 date: '2024-09-01'

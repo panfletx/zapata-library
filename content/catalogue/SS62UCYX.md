@@ -1,6 +1,6 @@
 ---
 authors:
-- Sade, Donatien Alphonse François
+- Sade
 - Brouard, Isabel
 cover: covers/ss62ucyx.jpg
 date: '2024-09-01'

@@ -1,6 +1,6 @@
 ---
 authors:
-- Balzac, H. de
+- Balzac, Honoré de
 - Adam, Antoine
 cover: covers/uhrlba6d.jpg
 date: '2024-09-01'

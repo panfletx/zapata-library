@@ -1,6 +1,6 @@
 ---
 authors:
-- Genet
+- Genet, Jean
 cover: covers/bbtkp8yh.jpg
 date: '2024-09-01'
 decade: 1940s
