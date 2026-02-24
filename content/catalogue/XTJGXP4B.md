@@ -14,7 +14,7 @@ oclc: '318214404'
 pages: 175
 place: Madrid
 publishers:
-- Salvat Editores
+- Salvat
 series:
 - Biblioteca Básica Salvat
 subjects:

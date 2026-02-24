@@ -12,7 +12,8 @@ oclc: '1059926'
 pages: 176
 place: Paris
 publishers:
-- Hachette, Larousse
+- Hachette
+- Larousse
 series:
 - Collection Le Français dans le monde
 source_url: http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=3354968

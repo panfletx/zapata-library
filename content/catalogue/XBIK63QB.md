@@ -13,7 +13,7 @@ oclc: '1097691102'
 pages: 216
 place: México
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series:
 - Psicología y etología
 subjects:

@@ -14,7 +14,7 @@ oclc: '39729733'
 pages: 69
 place: México
 publishers:
-- Fondo de Cultura Economica
+- Fondo de Cultura Económica
 series: []
 subjects:
 - Mexican Literature

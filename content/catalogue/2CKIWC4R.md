@@ -11,7 +11,7 @@ oclc: '2943569'
 pages: 68
 place: Paris
 publishers:
-- H. Champion
+- Honoré Champion
 series: []
 subjects:
 - Fable & Parable

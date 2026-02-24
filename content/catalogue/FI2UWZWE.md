@@ -13,7 +13,7 @@ oclc: '883824898'
 pages: 343
 place: London
 publishers:
-- Penguin
+- Penguin Books
 series:
 - Penguin essentials
 subjects:

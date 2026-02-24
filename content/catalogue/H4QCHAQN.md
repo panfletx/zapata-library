@@ -14,7 +14,7 @@ oclc: '491658748'
 pages: 223
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - El Libro de bolsillo. Sección literatura
 subjects:

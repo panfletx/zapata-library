@@ -16,7 +16,7 @@ oclc: '36541642'
 pages: 343
 place: Paris
 publishers:
-- Seuil
+- Éditions du Seuil
 series:
 - Points. Série Point-virgule
 source_url: http://catalogue.bnf.fr/ark:/12148/cb35852263d

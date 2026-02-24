@@ -14,7 +14,7 @@ oclc: '19700299'
 pages: 251
 place: Esplugues de Llobregat (Barcelona)
 publishers:
-- Plaza & Janes
+- Plaza & Janés
 series: []
 subjects:
 - English Literature

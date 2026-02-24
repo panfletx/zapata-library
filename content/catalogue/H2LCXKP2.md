@@ -13,7 +13,8 @@ oclc: '17698009'
 pages: 169
 place: México, D.F.
 publishers:
-- 'Siglo XXI Editores : SEP'
+- Siglo XXI Editores
+- Secretaría de Educación Pública
 series:
 - Lecturas mexicanas
 subjects:

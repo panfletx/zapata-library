@@ -12,7 +12,8 @@ oclc: '865155208'
 pages: 356
 place: México
 publishers:
-- 'Origen : Seix Barral'
+- Origen
+- Seix Barral
 series:
 - Obras maestras del siglo XX
 subjects:

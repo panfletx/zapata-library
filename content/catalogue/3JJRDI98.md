@@ -15,7 +15,7 @@ oclc: '122937908'
 pages: 198
 place: México, D.F.
 publishers:
-- CONACULTA
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Lecturas mexicanas
 subjects:

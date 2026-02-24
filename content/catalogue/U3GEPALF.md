@@ -16,7 +16,9 @@ oclc: '1252414007'
 pages: 609
 place: Madrid
 publishers:
-- 'Alfaguara : Real Academia Española : Asociación de Academias de la Lengua Española'
+- Alfaguara
+- Real Academia Española
+- Asociación de Academias de la Lengua Española
 series: []
 subjects:
 - Latin American Literature

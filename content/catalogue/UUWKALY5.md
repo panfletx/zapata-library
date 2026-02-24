@@ -13,7 +13,7 @@ oclc: '1120129'
 pages: 304
 place: Paris
 publishers:
-- Le Livre de poche
+- Le Livre de Poche
 series:
 - Classiques de poche
 subjects:

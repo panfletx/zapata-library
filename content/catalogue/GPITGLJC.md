@@ -12,7 +12,7 @@ oclc: '3371436'
 pages: 170
 place: Madrid
 publishers:
-- Salvat Editores
+- Salvat
 series:
 - Biblioteca básica Salvat
 subjects:

@@ -14,7 +14,7 @@ oclc: '937667934'
 pages: 126
 place: Paris
 publishers:
-- Le Livre de poche
+- Le Livre de Poche
 series:
 - Livre de poche
 subjects:

@@ -14,7 +14,8 @@ oclc: '609302900'
 pages: 158
 place: Chilpancingo de los Bravos, Mexico
 publishers:
-- 'Guerrero Secretaría de la Mujer : Editorial Garrobo, Diseño Gráfico y Edición'
+- Guerrero Secretaría de la Mujer
+- Editorial Garrobo, Diseño Gráfico y Edición
 series: []
 subjects:
 - Mexican Literature

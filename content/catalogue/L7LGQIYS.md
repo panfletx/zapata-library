@@ -9,7 +9,7 @@ languages:
 - Français
 oclc: '921328273'
 publishers:
-- Garnier frères (Paris)
+- Garnier-Flammarion
 series: []
 source_url: http://gallica.bnf.fr/ark:/12148/bpt6k6540890p
 subjects:

@@ -14,7 +14,7 @@ oclc: '5800393'
 pages: 187
 place: México
 publishers:
-- Editorial Joaquín Mortiz, S.A.
+- Joaquín Mortiz
 series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:

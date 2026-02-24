@@ -16,7 +16,7 @@ oclc: '502259972'
 pages: 454
 place: Xalapa, Veracruz, México
 publishers:
-- ': Universidad Veracruzana'
+- Universidad Veracruzana
 series:
 - Biblioteca del universitario
 subjects:

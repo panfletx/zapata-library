@@ -14,7 +14,8 @@ oclc: '50879912'
 pages: 63
 place: México
 publishers:
-- 'CONACULTA : Alianza Cien'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series:
 - Textos completos
 subjects:

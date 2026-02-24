@@ -14,7 +14,8 @@ oclc: '32468762'
 pages: 95
 place: México, D.F., [Guadalajara]
 publishers:
-- Fondo de Cultura Económica ; Universidad de Guadalajara
+- Fondo de Cultura Económica
+- Universidad de Guadalajara
 series:
 - Tezontle
 subjects:

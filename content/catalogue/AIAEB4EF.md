@@ -14,7 +14,7 @@ oclc: '913002244'
 pages: 3
 place: Madrid
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series:
 - Creación literaria
 subjects:

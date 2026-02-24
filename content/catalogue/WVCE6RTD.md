@@ -14,7 +14,8 @@ oclc: '63190345'
 pages: 206
 place: Ciudad Autónoma de Buenos Aires, Argentina, México, DF
 publishers:
-- Editorial Atuel ; Conaculta, Centro Cultural Helénico
+- Editorial Atuel
+- Conaculta, Centro Cultural Helénico
 series:
 - Atuel teatro
 subjects:

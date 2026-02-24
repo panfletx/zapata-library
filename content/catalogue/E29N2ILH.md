@@ -14,7 +14,7 @@ oclc: '86113447'
 pages: 144
 place: Paris
 publishers:
-- Seuil
+- Éditions du Seuil
 series:
 - Couleur des idées
 subjects:

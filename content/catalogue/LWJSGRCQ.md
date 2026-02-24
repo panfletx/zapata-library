@@ -14,7 +14,7 @@ oclc: '906925441'
 pages: 399
 place: México
 publishers:
-- Planeta DeAgostini
+- Planeta
 series:
 - Colección Carlos Fuentes
 subjects:

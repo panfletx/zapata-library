@@ -14,7 +14,8 @@ oclc: '72901123'
 pages: 95
 place: Mexico, D.F.
 publishers:
-- 'Planeta : Joaquín Mortiz'
+- Planeta
+- Joaquín Mortiz
 series:
 - Ronda de clásicos mexicanos
 subjects:

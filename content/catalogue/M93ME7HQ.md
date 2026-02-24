@@ -14,7 +14,8 @@ oclc: '15354616'
 pages: 232
 place: México
 publishers:
-- 'SEP Cultura : Consejo Nacional de Fomento Educativo'
+- Secretaría de Educación Pública
+- Consejo Nacional de Fomento Educativo
 series:
 - Lecturas mexicanas
 subjects:

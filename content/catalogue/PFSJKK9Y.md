@@ -13,7 +13,7 @@ oclc: '651521788'
 pages: 93
 place: México
 publishers:
-- 'Alianza Edit. Mexicana : Patria [distribuidor]'
+- Alianza Editorial
 series: []
 subjects:
 - Autobiography & Memoir

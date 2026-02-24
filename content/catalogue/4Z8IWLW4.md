@@ -14,7 +14,8 @@ oclc: '651468790'
 pages: 10
 place: México
 publishers:
-- 'Patria : INAH'
+- Patria
+- INAH
 series: []
 subjects:
 - Mexico

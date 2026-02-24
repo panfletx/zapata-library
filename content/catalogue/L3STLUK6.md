@@ -16,7 +16,7 @@ oclc: '803038417'
 pages: 353
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Libro de bolsillo (Alianza)
 subjects:

@@ -15,7 +15,8 @@ oclc: '44590867'
 pages: 154
 place: Buenos Aires, México, D.F.
 publishers:
-- Editorial Losada ; Producida y distribuida por Editorial Oceano de México
+- Editorial Losada
+- Producida y distribuida por Editorial Oceano de México
 series:
 - Biblioteca clásica y contemporánea
 subjects:

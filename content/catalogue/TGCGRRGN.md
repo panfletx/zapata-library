@@ -16,7 +16,8 @@ oclc: '50427274'
 pages: 71
 place: Morelos, México?
 publishers:
-- 'Instituto de Cultura de Morelos : Universidad Autónoma del Estado de Morelos'
+- Instituto de Cultura de Morelos
+- Universidad Autónoma del Estado de Morelos
 series: []
 subjects:
 - Autobiography & Memoir

@@ -13,7 +13,7 @@ oclc: '300776709'
 pages: 2
 place: Paris
 publishers:
-- GF Flammarion
+- Garnier-Flammarion
 series:
 - Garnier Flammarion
 subjects:

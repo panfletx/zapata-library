@@ -15,7 +15,8 @@ oclc: '503291548'
 pages: 99
 place: México, DF
 publishers:
-- 'Instituto Politécnico Nacional : Fundación René Avilés Fabila'
+- Instituto Politécnico Nacional
+- Fundación René Avilés Fabila
 series:
 - Poliedro de El Búho
 subjects:

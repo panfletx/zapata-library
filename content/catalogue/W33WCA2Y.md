@@ -14,7 +14,7 @@ oclc: '10725381'
 pages: 199
 place: Paris
 publishers:
-- Editions de Minuit
+- Éditions de Minuit
 series: []
 subjects:
 - Film & Cinema

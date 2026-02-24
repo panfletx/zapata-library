@@ -12,7 +12,7 @@ oclc: '1548293'
 pages: 45
 place: Frankfurt
 publishers:
-- '[a.M.] S. Fischer'
+- S. Fischer
 series: []
 subjects:
 - German Literature

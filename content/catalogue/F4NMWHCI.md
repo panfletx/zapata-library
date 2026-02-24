@@ -16,7 +16,7 @@ oclc: '249145901'
 pages: 282
 place: México, D.F
 publishers:
-- Siglo Veintiuno Ed
+- Siglo XXI Editores
 series:
 - La creación literaria
 subjects:

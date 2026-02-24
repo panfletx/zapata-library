@@ -14,7 +14,8 @@ oclc: '1367328848'
 pages: 159
 place: México D.F.
 publishers:
-- 'Instituto Nacional de Antropología e Historia : Editorial Patria'
+- Instituto Nacional de Antropología e Historia
+- Editorial Patria
 series: []
 subjects:
 - Chronicle

@@ -14,7 +14,8 @@ oclc: '22689986'
 pages: 205
 place: México, D.F.
 publishers:
-- Origen/Planeta
+- Origen
+- Planeta
 series:
 - Obras maestras de la literatura contemporánea Seix Barral
 subjects:

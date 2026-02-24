@@ -13,7 +13,7 @@ oclc: '651521618'
 pages: 94
 place: México
 publishers:
-- 'Alianza Edit. Mexicana : Patria [distribuidor]'
+- Alianza Editorial
 series: []
 subjects:
 - Drama

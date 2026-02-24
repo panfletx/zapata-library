@@ -14,7 +14,8 @@ oclc: '610963214'
 pages: 91
 place: México
 publishers:
-- 'Difusión cultural, Departamento de Teatro : UNAM'
+- Difusión cultural, Departamento de Teatro
+- Universidad Nacional Autónoma de México
 series:
 - Textos de teatro
 subjects:

@@ -14,7 +14,8 @@ oclc: '34270670'
 pages: 288
 place: México, D.F.
 publishers:
-- 'Edivisión : Diana'
+- Edivisión
+- Diana
 series:
 - Best seller Edivisión
 subjects:

@@ -12,7 +12,7 @@ languages:
 oclc: '976590132'
 place: Paris
 publishers:
-- Livre de Poche
+- Le Livre de Poche
 series:
 - Le Livre de poche classique
 subjects:

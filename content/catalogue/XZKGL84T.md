@@ -14,7 +14,7 @@ oclc: '929706445'
 pages: 119
 place: México
 publishers:
-- Joaquin Mortiz
+- Joaquín Mortiz
 series:
 - Serie del volador
 subjects:

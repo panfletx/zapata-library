@@ -15,7 +15,7 @@ oclc: '22418654'
 pages: 135
 place: Buenos Aires
 publishers:
-- Salvat Editores
+- Salvat
 series:
 - Biblioteca básica Salvat
 subjects:

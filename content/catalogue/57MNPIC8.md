@@ -14,7 +14,8 @@ oclc: '15637356'
 pages: 181
 place: México, D.F.
 publishers:
-- 'J. Mortiz : SEP Cultura'
+- Joaquín Mortiz
+- Secretaría de Educación Pública
 series:
 - Lecturas mexicanas
 subjects:

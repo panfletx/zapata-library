@@ -13,7 +13,8 @@ oclc: '19500061'
 pages: 231
 place: México
 publishers:
-- 'Editorial Origen : Editorial Omgsa'
+- Editorial Origen
+- Editorial Omgsa
 series:
 - Historia universal de la literatura
 subjects:

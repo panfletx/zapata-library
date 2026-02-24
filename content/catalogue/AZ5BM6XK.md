@@ -12,7 +12,8 @@ oclc: '417665123'
 pages: 219
 place: México, Puebla
 publishers:
-- Universidad Nacional Autónoma de México ; Benemérita Universidad Autónoma de Puebla, Instituto de Ciencias Sociales y Humanidades "Alfonso Vélez Pliego"
+- Universidad Nacional Autónoma de México
+- Benemérita Universidad Autónoma de Puebla, Instituto de Ciencias Sociales y Humanidades "Alfonso Vélez Pliego"
 series:
 - Memorias (Seminario Nacional de Música en la Nueva España y el México Independiente)
 subjects:

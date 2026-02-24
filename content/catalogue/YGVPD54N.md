@@ -16,7 +16,7 @@ oclc: '64578351'
 pages: 134
 place: México, D.F.
 publishers:
-- Conaculta
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Clásicos para hoy
 subjects:

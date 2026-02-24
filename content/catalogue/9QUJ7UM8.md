@@ -15,7 +15,8 @@ oclc: '49773903'
 pages: 69
 place: Col. Doctores, Del. Cuauhtémoc, México, D.F., Villahermosa, Tabasco [Mexico]
 publishers:
-- Editorial Praxis ; Instituto de Cultura de Tabasco
+- Editorial Praxis
+- Instituto de Cultura de Tabasco
 series:
 - Colección Dánae
 subjects:

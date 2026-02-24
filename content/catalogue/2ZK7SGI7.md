@@ -16,7 +16,8 @@ oclc: '922641678'
 pages: 109
 place: México
 publishers:
-- 'Diana : Mondadori'
+- Diana
+- Mondadori
 series: []
 subjects:
 - Mexican Literature

@@ -12,7 +12,7 @@ languages:
 oclc: '748295548'
 pages: 478
 publishers:
-- Editoial Grijalbo
+- Grijalbo
 series: []
 subjects:
 - Mexican Literature

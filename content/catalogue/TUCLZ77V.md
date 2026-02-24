@@ -13,7 +13,8 @@ oclc: '651494702'
 pages: 47
 place: Zapopan, Jalisco
 publishers:
-- 'Universidad de Guadalajara : Patronato de la Muestra de Cine Mexicano en Guadalajara'
+- Universidad de Guadalajara
+- Patronato de la Muestra de Cine Mexicano en Guadalajara
 series: []
 subjects:
 - Film & Cinema

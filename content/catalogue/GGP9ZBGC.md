@@ -15,7 +15,8 @@ oclc: '10193089'
 pages: 494
 place: México, Paris
 publishers:
-- Siglo Veintiuno ; UNESCO
+- Siglo XXI Editores
+- UNESCO
 series:
 - Serie "América Latina en su cultura."
 subjects:

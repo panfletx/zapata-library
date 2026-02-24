@@ -15,7 +15,7 @@ oclc: '20365327'
 pages: 200
 place: Mexico
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Obras de Jorge Ibargüengoitia. Obra periodística
 subjects:

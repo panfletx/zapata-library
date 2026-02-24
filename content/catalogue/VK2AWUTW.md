@@ -14,7 +14,8 @@ oclc: '689525041'
 pages: 421
 place: Barcelona
 publishers:
-- Origen/Planeta
+- Origen
+- Planeta
 series: []
 subjects:
 - National Identity

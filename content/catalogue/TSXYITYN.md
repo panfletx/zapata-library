@@ -15,7 +15,7 @@ oclc: '56947013'
 pages: 191
 place: México, D.F.
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series:
 - Lingüística y teoría literaria
 subjects:

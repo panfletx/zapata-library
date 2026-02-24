@@ -14,7 +14,7 @@ oclc: '6765678'
 pages: 358
 place: Milano
 publishers:
-- A. Mondadori
+- Mondadori
 series:
 - Biblioteca moderna Mondadori
 subjects:

@@ -15,7 +15,8 @@ oclc: '808105657'
 pages: 339
 place: México, D.F.
 publishers:
-- 'Literatura UNAM : Ediciones Era'
+- Literatura UNAM
+- Ediciones Era
 series:
 - Biblioteca Era
 subjects:

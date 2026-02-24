@@ -14,7 +14,7 @@ oclc: '689505414'
 pages: 63
 place: México
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Alianza Cien
 subjects:

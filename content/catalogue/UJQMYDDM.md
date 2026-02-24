@@ -13,7 +13,7 @@ oclc: '1097758702'
 pages: 657
 place: México
 publishers:
-- CONACULTA
+- Consejo Nacional para la Cultura y las Artes
 series: []
 subjects:
 - Drama

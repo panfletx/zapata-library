@@ -12,7 +12,8 @@ oclc: '489920920'
 pages: 302
 place: Boston
 publishers:
-- 'Little : Brown and Co'
+- Little
+- Brown and Co
 series: []
 subjects:
 - American Literature

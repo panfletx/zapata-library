@@ -15,7 +15,7 @@ oclc: '431625705'
 pages: 132
 place: Madrid
 publishers:
-- F.C.E. de España
+- Fondo de Cultura Económica
 series:
 - Sección de psicología y psicoanálisis
 subjects:

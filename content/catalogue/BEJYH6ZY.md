@@ -14,7 +14,7 @@ oclc: '1628204'
 pages: 442
 place: Paris
 publishers:
-- le Livre de poche
+- Le Livre de Poche
 series:
 - Le Livre de poche pratique
 subjects:

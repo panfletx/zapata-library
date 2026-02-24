@@ -14,7 +14,7 @@ oclc: '1118047'
 pages: 336
 place: Madrid
 publishers:
-- Siglo XXI de España Editores
+- Siglo XXI Editores
 series:
 - Historia universal siglo XXI
 subjects:

@@ -13,7 +13,8 @@ oclc: '13352327'
 pages: 193
 place: México, D.F.
 publishers:
-- 'Cultura SEP : Fondo de Cultura Económica'
+- Secretaría de Educación Pública
+- Fondo de Cultura Económica
 series:
 - Lecturas mexicanas
 source_url: http://www.gbv.de/dms/spk/iai/toc/043566278.pdf

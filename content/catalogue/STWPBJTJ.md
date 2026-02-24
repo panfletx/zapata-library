@@ -16,7 +16,7 @@ oclc: '773496533'
 pages: 669
 place: México
 publishers:
-- Universidad Autónoma de México
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Mexican Literature

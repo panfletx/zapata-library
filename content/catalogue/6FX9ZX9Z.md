@@ -15,7 +15,7 @@ oclc: '32129014'
 pages: 150
 place: Barcelona
 publishers:
-- Tusquets
+- Tusquets Editores
 series:
 - Colección Andanzas
 subjects:

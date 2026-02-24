@@ -12,7 +12,8 @@ oclc: '799107871'
 pages: 174
 place: Madrid, Buenos Aires
 publishers:
-- Alianza ; Emece
+- Alianza Editorial
+- Emecé
 series:
 - Libro de bolsillo
 subjects:

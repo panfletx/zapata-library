@@ -14,7 +14,7 @@ oclc: '29606634'
 pages: 311
 place: Paris
 publishers:
-- GF Flammarion
+- Garnier-Flammarion
 series:
 - GF-Flammarion
 subjects:

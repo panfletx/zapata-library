@@ -13,7 +13,7 @@ oclc: '5010271'
 pages: 540
 place: Buenos Aires
 publishers:
-- Plaza & Jones
+- Plaza & Janés
 series:
 - Coleccion otros mundos
 subjects:

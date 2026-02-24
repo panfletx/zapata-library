@@ -14,7 +14,7 @@ oclc: '468240278'
 pages: 415
 place: México
 publishers:
-- Fondo de cultura económica
+- Fondo de Cultura Económica
 series:
 - Letras mexicanas
 source_url: http://catalogue.bnf.fr/ark:/12148/cb37380021g

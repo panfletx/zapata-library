@@ -16,7 +16,9 @@ oclc: '875560859'
 pages: 148
 place: Mexico, D.F., [Mérida]
 publishers:
-- 'Ficticia ; Instituto de Cultura de Yucatán : Ayuntamiento de Mérida'
+- Ficticia
+- Instituto de Cultura de Yucatán
+- Ayuntamiento de Mérida
 series:
 - Biblioteca de cuento contemporáneo
 subjects:

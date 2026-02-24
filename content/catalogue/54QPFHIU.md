@@ -13,7 +13,8 @@ oclc: '651521468'
 pages: 63
 place: México
 publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series: []
 subjects:
 - English Literature

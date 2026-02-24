@@ -15,7 +15,7 @@ oclc: '10483835'
 pages: 251
 place: Esplugues de Llobregat (Barcelona)
 publishers:
-- Plaza & Janes
+- Plaza & Janés
 series:
 - Vida es río
 subjects:

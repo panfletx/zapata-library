@@ -13,7 +13,8 @@ oclc: '43907004'
 pages: 338
 place: Buenos Aires
 publishers:
-- 'Mila : Editor'
+- Mila
+- Editor
 series: []
 subjects:
 - Autobiography & Memoir

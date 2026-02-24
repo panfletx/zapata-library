@@ -14,7 +14,8 @@ oclc: '907087307'
 pages: 102
 place: México
 publishers:
-- 'Ayuntamiento de Mérida : Ficticia'
+- Ayuntamiento de Mérida
+- Ficticia
 series:
 - Biblioteca de cuento contemporáneo
 subjects:

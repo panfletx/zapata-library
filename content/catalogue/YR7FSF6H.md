@@ -14,7 +14,8 @@ oclc: '809535401'
 pages: 206
 place: Cuernavaca, Morelos, México, D.F.
 publishers:
-- Universidad Autónoma del Estado de Morelos ; Juan Pablos Editor
+- Universidad Autónoma del Estado de Morelos
+- Juan Pablos Editor
 series: []
 subjects:
 - Literary Criticism

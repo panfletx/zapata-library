@@ -13,7 +13,7 @@ oclc: '1410201'
 pages: 132
 place: Paris
 publishers:
-- H. Champion
+- Honoré Champion
 series:
 - Classiques français du Moyen Age
 subjects:

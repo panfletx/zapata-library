@@ -14,7 +14,8 @@ oclc: '247285667'
 pages: 275
 place: México, D.F., Cuernavaca
 publishers:
-- Casa Juan Pablos ; Universidad Autónoma del Estado de Morelos
+- Casa Juan Pablos
+- Universidad Autónoma del Estado de Morelos
 series: []
 subjects:
 - Literary Criticism

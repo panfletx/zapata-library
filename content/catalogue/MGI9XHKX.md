@@ -9,7 +9,7 @@ item_types:
 languages:
 - Español
 publishers:
-- Fondo de Cultura Economica
+- Fondo de Cultura Económica
 series: []
 subjects:
 - Autobiography & Memoir

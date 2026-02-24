@@ -14,7 +14,7 @@ oclc: '46947163'
 pages: 263
 place: Barcelona
 publishers:
-- Ediciones Paidós
+- Paidós
 series:
 - Memoria del cine
 subjects:

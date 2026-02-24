@@ -1,0 +1,308 @@
+# publisher_map.yaml
+#
+# Maps variant publisher strings → canonical form(s).
+# Values are always lists. An empty list [] means "drop this entry" (e.g., distributors).
+# Multiple items in the list split the entry into separate publishers.
+#
+# Used by scripts/normalize-publishers.py which:
+#   1. Checks the map for exact matches (handles "/" compounds and comma combos)
+#   2. Auto-splits on " : " and " ; ", checking each part against this map
+
+# ---- Alianza Editorial ----
+Alianza:
+  - Alianza Editorial
+"Alianza Ed":
+  - Alianza Editorial
+"Alianza editorial":
+  - Alianza Editorial
+"Alianza Edit. Mexicana":
+  - Alianza Editorial
+"Alianza Editorial Mexicana":
+  - Alianza Editorial
+"Alianza Cien":
+  - Alianza Editorial
+
+# ---- Bruguera ----
+"Editorial Bruguera":
+  - Bruguera
+"Editorial Brugera":
+  - Bruguera
+
+# ---- Consejo Nacional para la Cultura y las Artes ----
+CONACULTA:
+  - Consejo Nacional para la Cultura y las Artes
+Conaculta:
+  - Consejo Nacional para la Cultura y las Artes
+CNCA:
+  - Consejo Nacional para la Cultura y las Artes
+# Comma-separated compound (not auto-split):
+"Conaculta, Alianza":
+  - Consejo Nacional para la Cultura y las Artes
+  - Alianza Editorial
+
+# ---- Costa-Amic Editores ----
+"Costa-Amic Ed":
+  - Costa-Amic Editores
+"Costa-Amic Editores S.A.":
+  - Costa-Amic Editores
+"Costa-Amic":
+  - Costa-Amic Editores
+
+# ---- Debolsillo ----
+DeBolsillo:
+  - Debolsillo
+
+# ---- Éditions de Minuit ----
+"Editions de Minuit":
+  - Éditions de Minuit
+"Les Éditions de Minuit":
+  - Éditions de Minuit
+Minuit:
+  - Éditions de Minuit
+
+# ---- Éditions du Seuil ----
+Seuil:
+  - Éditions du Seuil
+"Ed. du Seuil":
+  - Éditions du Seuil
+"Du Seuil":
+  - Éditions du Seuil
+
+# ---- Editorial Losada ----
+Losada:
+  - Editorial Losada
+
+# ---- Editorial Porrúa ----
+Porrua:
+  - Editorial Porrúa
+
+# ---- Editorial Sudamericana ----
+Sudamericana:
+  - Editorial Sudamericana
+
+# ---- Emecé ----
+Emece:
+  - Emecé
+
+# ---- Fondo de Cultura Económica ----
+"Fondo de Cultura Economica":
+  - Fondo de Cultura Económica
+"Fondo de cultura económica":
+  - Fondo de Cultura Económica
+"Fondo de Cultura Económico":
+  - Fondo de Cultura Económica
+"F.C.E. de España":
+  - Fondo de Cultura Económica
+"Fondo de Cultura Económica de España, S. L":
+  - Fondo de Cultura Económica
+
+# ---- Garnier-Flammarion ----
+"GF Flammarion":
+  - Garnier-Flammarion
+Garnier:
+  - Garnier-Flammarion
+"Garnier frères":
+  - Garnier-Flammarion
+"Garnier Fréres":
+  - Garnier-Flammarion
+"Garnier frères (Paris)":
+  - Garnier-Flammarion
+"Garnier, Flammarion":
+  - Garnier-Flammarion
+"Garnier, 1961 (réimpr)":
+  - Garnier-Flammarion
+
+# ---- Grijalbo ----
+"Editoial Grijalbo":
+  - Grijalbo
+
+# ---- Honoré Champion ----
+"H. Champion":
+  - Honoré Champion
+
+# ---- Instituto Nacional de Bellas Artes ----
+"Instituto Nacional de Bellas Artes":
+  - Instituto Nacional de Bellas Artes
+
+# ---- Joaquín Mortiz ----
+"J. Mortiz":
+  - Joaquín Mortiz
+"J. Mortíz":
+  - Joaquín Mortiz
+"J. M[ortiz]":
+  - Joaquín Mortiz
+"Editorial J. Mortiz":
+  - Joaquín Mortiz
+"Editorial Joaquín Mortiz, S.A.":
+  - Joaquín Mortiz
+"Joaquin Mortiz":
+  - Joaquín Mortiz
+# "/" compound (auto-split won't catch this):
+"J. Mortiz/Planeta":
+  - Joaquín Mortiz
+  - Planeta
+
+# ---- Larousse ----
+"Ediciones Larousse":
+  - Larousse
+"Ediciones Larousse México":
+  - Larousse
+LAROUSSE:
+  - Larousse
+"Larousse-Bordas":
+  - Larousse
+# Comma-separated compound:
+"Hachette, Larousse":
+  - Hachette
+  - Larousse
+"Hachette et Larousse":
+  - Hachette
+  - Larousse
+
+# ---- Le Livre de Poche ----
+"Le Livre de poche":
+  - Le Livre de Poche
+"Livre de poche":
+  - Le Livre de Poche
+"Livre de Poche":
+  - Le Livre de Poche
+"le Livre de poche":
+  - Le Livre de Poche
+"LGF/Le Livre de Poche":
+  - Le Livre de Poche
+"Le Livre-de poche":
+  - Le Livre de Poche
+"Librairie générale française":
+  - Le Livre de Poche
+
+# ---- Mondadori ----
+"A. Mondadori":
+  - Mondadori
+
+# ---- Origen (Planeta imprint) ----
+"Origen/Planeta":
+  - Origen
+  - Planeta
+"Origen Planeta":
+  - Origen
+  - Planeta
+
+# ---- Paidós ----
+Paidos:
+  - Paidós
+"Ediciones Paidós":
+  - Paidós
+"Paidós, Paidós, Paidós":
+  - Paidós
+
+# ---- Patria (distributor — drop) ----
+"Patria [distribuidor]":
+  []
+
+# ---- Penguin Books ----
+Penguin:
+  - Penguin Books
+"Penguin Group":
+  - Penguin Books
+"Plume, published by the Penguin Group":
+  - Plume
+
+# ---- Planeta ----
+"Grupo Editorial Planeta":
+  - Planeta
+"Planeta Mexicana":
+  - Planeta
+"Editorial Planeta Mexicana":
+  - Planeta
+"Planeta-De Agostini":
+  - Planeta
+"Planeta DeAgostini":
+  - Planeta
+"Planeta Agostini":
+  - Planeta
+
+# ---- Plaza & Janés ----
+"Plaza & Janes":
+  - Plaza & Janés
+"Plaza y Janés":
+  - Plaza & Janés
+"Plaza & Jones":
+  - Plaza & Janés
+
+# ---- Salvat ----
+"Salvat Editores":
+  - Salvat
+"Salvat Editores.":
+  - Salvat
+# "y"-conjunction compound:
+"Salvat Editores y Alianza Editorial":
+  - Salvat
+  - Alianza Editorial
+"Salvat ; Alianza":
+  - Salvat
+  - Alianza Editorial
+
+# ---- Secretaría de Educación Pública ----
+"Secretaria de Educación Pública":
+  - Secretaría de Educación Pública
+"Secretaría de Educación Publica":
+  - Secretaría de Educación Pública
+SEP:
+  - Secretaría de Educación Pública
+# "/" compounds (auto-split won't catch these):
+"SEP/Trillas":
+  - Secretaría de Educación Pública
+  - Trillas
+"Sep/Promexa":
+  - Secretaría de Educación Pública
+  - PROMEXA
+"SEP/PROMEXA":
+  - Secretaría de Educación Pública
+  - PROMEXA
+"SEP/Editorial Nueva Imagen":
+  - Secretaría de Educación Pública
+  - Nueva Imagen
+# Abbreviation-only forms:
+"SEP Cultura":
+  - Secretaría de Educación Pública
+"Cultura SEP":
+  - Secretaría de Educación Pública
+"Secretaria de Educación Publica, Cultura SEP":
+  - Secretaría de Educación Pública
+"Secretaria de Educación Pública, Cultura SEP":
+  - Secretaría de Educación Pública
+# "/" compound resolving to FCE + SEP:
+"Cultura SEP : Fondo de Cultura Económica":
+  - Secretaría de Educación Pública
+  - Fondo de Cultura Económica
+"Secretaria de Educación Pública, Cultura SEP : Fondo de Cultura Económica":
+  - Secretaría de Educación Pública
+  - Fondo de Cultura Económica
+
+# ---- Siglo XXI Editores ----
+"Siglo XXI":
+  - Siglo XXI Editores
+"Siglo Veintiuno Editores":
+  - Siglo XXI Editores
+"Siglo Veintiuno":
+  - Siglo XXI Editores
+"Siglo Veintiuno Ed":
+  - Siglo XXI Editores
+"Siglo XXI de España Editores":
+  - Siglo XXI Editores
+
+# ---- Tusquets Editores ----
+Tusquets:
+  - Tusquets Editores
+"Maxi/Tusquets Editores":
+  - Tusquets Editores
+# Comma-separated compound:
+"Tusquets Editores, Consejo Nacional para la Cultura y las Artes":
+  - Tusquets Editores
+  - Consejo Nacional para la Cultura y las Artes
+
+# ---- Universidad Nacional Autónoma de México ----
+UNAM:
+  - Universidad Nacional Autónoma de México
+"Universidad Autónoma de México":
+  - Universidad Nacional Autónoma de México

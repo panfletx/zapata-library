@@ -14,7 +14,8 @@ oclc: '45114721'
 pages: 99
 place: Tlaquepaque, Jal.
 publishers:
-- 'Literalia Editores : Mantis Editores'
+- Literalia Editores
+- Mantis Editores
 series: []
 subjects:
 - Fiction

@@ -13,7 +13,7 @@ oclc: '3509174'
 pages: 954
 place: México, D.F.
 publishers:
-- Ediciones Larousse México
+- Larousse
 series: []
 subjects:
 - Dictionary

@@ -11,7 +11,7 @@ languages:
 pages: 183
 place: Estella (Navarra)
 publishers:
-- Salvat Editores
+- Salvat
 series:
 - Biblioteca básica Salvat
 subjects:

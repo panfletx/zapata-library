@@ -16,7 +16,8 @@ oclc: '16683749'
 pages: 142
 place: México, D.F.
 publishers:
-- 'Consejo Nacional de Recursos para la Atención de la Juventud : Editorial Terra Nova'
+- Consejo Nacional de Recursos para la Atención de la Juventud
+- Editorial Terra Nova
 series:
 - Grandes maestros mexicanos
 subjects:

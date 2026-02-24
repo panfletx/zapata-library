@@ -15,7 +15,7 @@ oclc: '907449266'
 pages: 378
 place: Barcelona, España
 publishers:
-- Editorial Brugera
+- Bruguera
 series:
 - Club Bruguera
 subjects:

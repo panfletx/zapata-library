@@ -14,7 +14,7 @@ oclc: '1132030'
 pages: 266
 place: México
 publishers:
-- J. Mortíz
+- Joaquín Mortiz
 series:
 - Novelistas contemporáneos (Mexico City, Mexico)
 subjects:

@@ -15,7 +15,9 @@ oclc: '642214848'
 pages: 82
 place: México, D.F.
 publishers:
-- 'DGE Equilibrista : Universidad Nacional Autónoma de México : Consejo Nacional para la Cultura y las Artes, Dirección General de Publicaciones'
+- DGE Equilibrista
+- Universidad Nacional Autónoma de México
+- Consejo Nacional para la Cultura y las Artes, Dirección General de Publicaciones
 series:
 - Pértiga
 subjects:

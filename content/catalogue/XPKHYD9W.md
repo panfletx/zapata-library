@@ -14,7 +14,7 @@ oclc: '12645167'
 pages: 131
 place: México, D.F.
 publishers:
-- Secretaria de Educación Publica, Cultura SEP
+- Secretaría de Educación Pública
 series:
 - Lecturas mexicanas
 subjects:

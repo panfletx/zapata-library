@@ -14,7 +14,7 @@ oclc: '6285510'
 pages: 209
 place: Paris
 publishers:
-- H. Champion
+- Honoré Champion
 series:
 - Collection Essais sur le Moyen Age
 subjects:

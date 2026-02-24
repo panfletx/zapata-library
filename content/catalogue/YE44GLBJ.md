@@ -15,7 +15,7 @@ oclc: '906631281'
 pages: 263
 place: México
 publishers:
-- SEP
+- Secretaría de Educación Pública
 series:
 - Colección cien del mundo
 subjects:

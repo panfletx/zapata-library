@@ -13,7 +13,7 @@ oclc: '732330610'
 pages: 156
 place: México, D.F.
 publishers:
-- Conaculta
+- Consejo Nacional para la Cultura y las Artes
 series: []
 source_url: http://i1382.photobucket.com/albums/ah249/CMA2016/eplstockimage_worldlanguagebook_zpsunvaw0go.jpg
 subjects:

@@ -12,7 +12,8 @@ oclc: '11068082'
 pages: 256
 place: Lisboa
 publishers:
-- 'O Jornal : Distribuição de Dijornal'
+- O Jornal
+- Distribuição de Dijornal
 series: []
 subjects:
 - Detective & Mystery

@@ -13,7 +13,7 @@ oclc: '30856983'
 pages: 61
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Alianza cien
 subjects:

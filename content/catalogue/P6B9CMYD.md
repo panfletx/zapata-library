@@ -18,7 +18,7 @@ oclc: '1141003909'
 pages: 722
 place: Paris
 publishers:
-- Larousse-Bordas
+- Larousse
 series: []
 subjects:
 - Dictionary

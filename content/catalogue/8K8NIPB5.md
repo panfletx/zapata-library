@@ -14,7 +14,8 @@ oclc: '31079391'
 pages: 164
 place: México
 publishers:
-- 'Instituto Panamericano de Geografía y Historia : Fondo de Cultura Económica'
+- Instituto Panamericano de Geografía y Historia
+- Fondo de Cultura Económica
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:

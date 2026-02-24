@@ -14,7 +14,7 @@ oclc: '803273787'
 pages: 6
 place: México, D.F.
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series: []
 subjects:
 - Italian Literature

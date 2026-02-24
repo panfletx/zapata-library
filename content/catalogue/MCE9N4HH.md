@@ -13,7 +13,8 @@ oclc: '689350545'
 pages: 93
 place: México
 publishers:
-- 'Consejo Nacional para la Cultura y las Artes : Alianza'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series:
 - Alianza Cien
 subjects:

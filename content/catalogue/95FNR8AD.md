@@ -13,7 +13,8 @@ oclc: '720120181'
 pages: 144
 place: Buenos Aires
 publishers:
-- Salvat Editores y Alianza Editorial
+- Salvat
+- Alianza Editorial
 series:
 - Biblioteca Basica Salvat. Libro RTV
 subjects:

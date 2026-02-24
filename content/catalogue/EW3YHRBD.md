@@ -13,7 +13,8 @@ oclc: '862352360'
 pages: 188
 place: London,
 publishers:
-- Fontana ; Collins
+- Fontana
+- Collins
 series: []
 subjects:
 - Detective & Mystery

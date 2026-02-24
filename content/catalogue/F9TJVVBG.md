@@ -12,7 +12,8 @@ oclc: '458433012'
 pages: 1
 place: Bruges, Paris
 publishers:
-- Beyaert ; Casterman
+- Beyaert
+- Casterman
 series:
 - Collection Tous les jours
 source_url: http://catalogue.bnf.fr/ark:/12148/cb31715395g

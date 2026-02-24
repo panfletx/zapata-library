@@ -14,7 +14,7 @@ oclc: '1071227750'
 pages: 8
 place: Paris
 publishers:
-- Le Livre de poche
+- Le Livre de Poche
 series:
 - Le Livre de poche classique
 subjects:

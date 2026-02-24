@@ -13,7 +13,7 @@ oclc: '647374'
 pages: 268
 place: Paris
 publishers:
-- Livre de Poche
+- Le Livre de Poche
 series: []
 subjects:
 - Correspondence

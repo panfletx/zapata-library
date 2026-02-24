@@ -17,7 +17,7 @@ oclc: '62927948'
 pages: 241
 place: México
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series: []
 subjects:
 - Film & Cinema

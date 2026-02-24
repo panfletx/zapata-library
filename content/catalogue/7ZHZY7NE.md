@@ -14,7 +14,7 @@ oclc: '963554509'
 pages: 213
 place: Barcelona
 publishers:
-- DeBolsillo
+- Debolsillo
 series: []
 subjects:
 - Essay

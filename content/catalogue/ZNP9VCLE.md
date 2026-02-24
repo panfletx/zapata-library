@@ -15,7 +15,8 @@ oclc: '48412401'
 pages: 148
 place: México, D.F., Miami, Fla.
 publishers:
-- Lectorum ; L.D. Books
+- Lectorum
+- L.D. Books
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
 subjects:

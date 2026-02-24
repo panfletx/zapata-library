@@ -16,7 +16,7 @@ oclc: '50577802'
 pages: 1439
 place: Paris
 publishers:
-- Librairie générale française
+- Le Livre de Poche
 series:
 - Pochothèque
 subjects:

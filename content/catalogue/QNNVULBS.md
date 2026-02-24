@@ -13,7 +13,7 @@ oclc: '20919696'
 pages: 463
 place: Barcelona
 publishers:
-- Planeta-De Agostini
+- Planeta
 series: []
 subjects:
 - Brazilian Literature

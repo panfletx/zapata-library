@@ -13,7 +13,7 @@ oclc: '1446977'
 pages: 142
 place: México
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Serie del volador
 subjects:

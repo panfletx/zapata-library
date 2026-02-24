@@ -13,7 +13,8 @@ oclc: '34204132'
 pages: 64
 place: México, D.F.
 publishers:
-- 'Consejo Nacional para la Cultura y las Artes : Alianza Editorial'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series:
 - Alianza cien
 subjects:

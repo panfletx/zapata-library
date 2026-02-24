@@ -13,7 +13,8 @@ oclc: '906795152'
 pages: 310
 place: México
 publishers:
-- Origen/Planeta
+- Origen
+- Planeta
 series:
 - Literatura contemporánea
 subjects:

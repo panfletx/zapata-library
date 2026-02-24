@@ -14,7 +14,8 @@ oclc: '24925252'
 pages: 133
 place: México, D.F.
 publishers:
-- Tusquets Editores, Consejo Nacional para la Cultura y las Artes
+- Tusquets Editores
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fin de siglo
 subjects:

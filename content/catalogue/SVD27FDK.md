@@ -15,7 +15,8 @@ oclc: '1121427938'
 pages: 227
 place: Ciudad de México
 publishers:
-- 'Sociedad de Amigos CNT, Compañía Nacional de Teatro : Secretaría de Cultura, Dirección General de Publicaciones'
+- Sociedad de Amigos CNT, Compañía Nacional de Teatro
+- Secretaría de Cultura, Dirección General de Publicaciones
 series:
 - Cuadernos de repertorio
 subjects:

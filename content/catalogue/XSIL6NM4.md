@@ -15,7 +15,8 @@ oclc: '663105358'
 pages: 195
 place: México, D.F.
 publishers:
-- 'Ediciones El Milagro : Universidad de Sonora'
+- Ediciones El Milagro
+- Universidad de Sonora
 series: []
 subjects:
 - Fiction

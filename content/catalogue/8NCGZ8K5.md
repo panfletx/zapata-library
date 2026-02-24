@@ -14,7 +14,7 @@ oclc: '24197890'
 pages: 380
 place: Paris
 publishers:
-- Le Livre-de poche
+- Le Livre de Poche
 series:
 - Le Livre de poche
 subjects:

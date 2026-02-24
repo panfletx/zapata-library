@@ -15,7 +15,7 @@ oclc: '16467659'
 pages: 213
 place: México, D.F.
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Contrapuntos
 subjects:

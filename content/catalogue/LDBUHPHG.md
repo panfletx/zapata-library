@@ -13,7 +13,7 @@ oclc: '615568806'
 pages: 205
 place: Esplugas de Llobregat, Barcelona
 publishers:
-- Plaza & Janes
+- Plaza & Janés
 series:
 - Rotativa
 subjects:

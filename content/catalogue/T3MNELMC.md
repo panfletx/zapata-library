@@ -14,7 +14,8 @@ languages:
 oclc: '712655848'
 place: México
 publishers:
-- 'UNAM : Siglo XXI'
+- Universidad Nacional Autónoma de México
+- Siglo XXI Editores
 series: []
 subjects:
 - Education

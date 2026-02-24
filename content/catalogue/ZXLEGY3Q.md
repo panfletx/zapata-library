@@ -13,7 +13,7 @@ oclc: '719593'
 pages: 151
 place: México
 publishers:
-- Editorial Joaquín Mortiz, S.A.
+- Joaquín Mortiz
 series:
 - Nueva narrativa hispánica (Joaquín Mortiz (Firm))
 subjects:

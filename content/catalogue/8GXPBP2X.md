@@ -14,7 +14,8 @@ oclc: '693363033'
 pages: 541
 place: Méxcio, D.F.
 publishers:
-- 'Universidad Autónoma Metropolitana : UC-Mexicanistas'
+- Universidad Autónoma Metropolitana
+- UC-Mexicanistas
 series: []
 subjects:
 - Anthology

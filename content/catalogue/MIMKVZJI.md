@@ -14,7 +14,9 @@ oclc: '465305330'
 pages: 270
 place: México, D.F.
 publishers:
-- 'Escuela Nacional de Artes Plásticas, Posgrado en Artes Visuales : UNAM : Grupo Fogra'
+- Escuela Nacional de Artes Plásticas, Posgrado en Artes Visuales
+- Universidad Nacional Autónoma de México
+- Grupo Fogra
 series: []
 subjects:
 - Mexico City

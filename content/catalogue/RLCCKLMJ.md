@@ -15,7 +15,8 @@ oclc: '42253109'
 pages: 472
 place: México
 publishers:
-- 'Universidad Nacional Autónoma de México : Fondo de Cultura Económica'
+- Universidad Nacional Autónoma de México
+- Fondo de Cultura Económica
 series:
 - Sección de lengua y estudios literarios
 subjects:

@@ -14,7 +14,7 @@ oclc: '471591698'
 pages: 540
 place: Harmondsworth, Middlesex
 publishers:
-- Penguin
+- Penguin Books
 series:
 - Penguin books
 subjects:

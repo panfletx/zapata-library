@@ -16,7 +16,8 @@ oclc: '691718643'
 pages: 3
 place: Paris, Paris
 publishers:
-- Bordas ; Distrib. Bordas
+- Bordas
+- Distrib. Bordas
 series: []
 source_url: http://catalogue.bnf.fr/ark:/12148/cb382817448
 subjects:

@@ -13,7 +13,8 @@ oclc: '34518016'
 pages: 224
 place: México, D.F.
 publishers:
-- 'Asociación Mexicana de Estudios Fonográficos : Dirección General de Culturas Populares'
+- Asociación Mexicana de Estudios Fonográficos
+- Dirección General de Culturas Populares
 series:
 - Archivo histórico testimonial
 subjects:

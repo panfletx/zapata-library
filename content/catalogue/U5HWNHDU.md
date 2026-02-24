@@ -12,7 +12,7 @@ languages:
 pages: 377
 place: France
 publishers:
-- LGF/Le Livre de Poche
+- Le Livre de Poche
 series: []
 subjects:
 - Autobiography & Memoir

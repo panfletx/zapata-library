@@ -12,7 +12,7 @@ oclc: '689774'
 pages: 286
 place: México]
 publishers:
-- Universidad Nacional Autónoma de México [Dirección General de Publicaciones]
+- Universidad Nacional Autónoma de México
 series:
 - Lecturas universitarias
 subjects:

@@ -15,7 +15,8 @@ oclc: '630501183'
 pages: 298
 place: México, D.F., Miami
 publishers:
-- Lectorum ; L.D. Books
+- Lectorum
+- L.D. Books
 series:
 - Biblioteca juvenil (Mexico City, Mexico)
 subjects:

@@ -16,7 +16,7 @@ oclc: '1055062404'
 pages: 1
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - El Libro de Bolsillo (Alianza)
 subjects:

@@ -16,7 +16,7 @@ oclc: '1344136220'
 pages: 121
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Alianza tres
 subjects:

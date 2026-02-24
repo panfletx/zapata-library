@@ -15,7 +15,8 @@ oclc: '37037626'
 pages: 255
 place: Barcelona, Heidelberg
 publishers:
-- Herder ; Julio Groos
+- Herder
+- Julio Groos
 series:
 - Gramática Sucinta
 subjects:

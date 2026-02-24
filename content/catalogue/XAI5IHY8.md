@@ -15,7 +15,7 @@ oclc: '74885113'
 pages: 310
 place: México, D.F.
 publishers:
-- Editorial Planeta Mexicana
+- Planeta
 series:
 - Autores españoles e iberoamericanos
 subjects:

@@ -14,7 +14,7 @@ oclc: '10285395'
 pages: 554
 place: México
 publishers:
-- Fondo de Cultura Económico
+- Fondo de Cultura Económica
 series:
 - Colección Tierra firme (Fondo de Cultura Económica (Mexico))
 subjects:

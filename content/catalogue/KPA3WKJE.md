@@ -13,7 +13,7 @@ oclc: '75183531'
 pages: 254
 place: México
 publishers:
-- CONACULTA
+- Consejo Nacional para la Cultura y las Artes
 series: []
 subjects:
 - Fiction

@@ -15,7 +15,7 @@ oclc: '15236402'
 pages: 314
 place: México
 publishers:
-- Plaza y Janés
+- Plaza & Janés
 series: []
 subjects:
 - Journalism

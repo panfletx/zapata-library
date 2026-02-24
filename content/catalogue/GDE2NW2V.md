@@ -14,7 +14,7 @@ oclc: '2937996'
 pages: 187
 place: Paris
 publishers:
-- H. Champion
+- Honoré Champion
 series:
 - Classiques français du Moyen Age
 subjects:

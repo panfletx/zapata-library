@@ -15,7 +15,7 @@ oclc: '15702330'
 pages: 126
 place: México, D.F.
 publishers:
-- Ediciones Larousse
+- Larousse
 series: []
 subjects:
 - Dictionary

@@ -13,7 +13,8 @@ oclc: '13539814'
 pages: 439
 place: Barcelona, Spain
 publishers:
-- 'Origen : Seix Barral'
+- Origen
+- Seix Barral
 series:
 - Obras maestras del siglo XX
 subjects:

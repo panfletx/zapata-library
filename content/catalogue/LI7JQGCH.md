@@ -15,7 +15,7 @@ oclc: '49053878'
 pages: 521
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Libro de bolsillo
 subjects:

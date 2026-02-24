@@ -13,7 +13,8 @@ oclc: '248344'
 pages: 21
 place: Paris
 publishers:
-- Hachette, Larousse
+- Hachette
+- Larousse
 series:
 - Collection Le Français dans le monde
 subjects:

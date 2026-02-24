@@ -14,7 +14,8 @@ oclc: '34529219'
 pages: 133
 place: San Rafael, México, D.F.
 publishers:
-- 'Plaza y Valdés : Consejo Nacional para la Cultura y las Artes'
+- Plaza y Valdés
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Colección Guiones de cine
 subjects:

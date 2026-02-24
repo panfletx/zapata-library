@@ -12,7 +12,7 @@ oclc: '457550705'
 pages: 180
 place: Paris
 publishers:
-- Seuil
+- Éditions du Seuil
 series:
 - Collections Microcosme
 subjects:

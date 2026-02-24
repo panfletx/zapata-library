@@ -14,7 +14,7 @@ oclc: '2843207'
 pages: 491
 place: Barcelona
 publishers:
-- Editorial Bruguera
+- Bruguera
 series:
 - Joyas literarias
 subjects:

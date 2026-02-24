@@ -14,7 +14,8 @@ oclc: '30808044'
 pages: 156
 place: México, D.F.
 publishers:
-- 'Cien del Mundo : Consejo Nacional para la Cultura y las Artes'
+- Cien del Mundo
+- Consejo Nacional para la Cultura y las Artes
 series: []
 subjects:
 - Medieval Literature

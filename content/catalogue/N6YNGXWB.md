@@ -12,7 +12,7 @@ oclc: '1046455'
 pages: 504
 place: Paris
 publishers:
-- Garnier, Flammarion
+- Garnier-Flammarion
 series:
 - Garnier Flammarion (Series)
 subjects:

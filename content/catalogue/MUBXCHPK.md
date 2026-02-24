@@ -13,7 +13,8 @@ oclc: '970501252'
 pages: 157
 place: México
 publishers:
-- 'Seix Barral : Ollero & Ramos'
+- Seix Barral
+- Ollero & Ramos
 series:
 - Fuera de Colección
 subjects:

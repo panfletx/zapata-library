@@ -13,7 +13,7 @@ oclc: '301627695'
 pages: 345
 place: Mexico
 publishers:
-- Siglo Veintiuno Editores
+- Siglo XXI Editores
 series:
 - Artes
 subjects:

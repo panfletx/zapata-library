@@ -13,7 +13,8 @@ oclc: '12593407'
 pages: 135
 place: México
 publishers:
-- SEP/PROMEXA
+- Secretaría de Educación Pública
+- PROMEXA
 series: []
 subjects:
 - Mexican Literature

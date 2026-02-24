@@ -14,7 +14,7 @@ languages:
 oclc: '420017127'
 place: Lieu de publication non identifié
 publishers:
-- LAROUSSE
+- Larousse
 series:
 - DICTIONNAIRE DU LANGAGE
 subjects:

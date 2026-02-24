@@ -16,7 +16,7 @@ oclc: '878465606'
 pages: 543
 place: México, D.F.
 publishers:
-- Maxi/Tusquets Editores
+- Tusquets Editores
 series:
 - Colección Maxi
 subjects:

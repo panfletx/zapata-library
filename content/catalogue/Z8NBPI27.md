@@ -15,7 +15,7 @@ oclc: '875468592'
 pages: 236
 place: México, D.F., Buenos Aires, Barcelona.
 publishers:
-- Paidós, Paidós, Paidós
+- Paidós
 series:
 - Paiós contextos
 subjects:

@@ -12,7 +12,8 @@ oclc: '123345378'
 pages: 848
 place: Madrid
 publishers:
-- 'Real Academia Española : Asociación de Academias de Lengua Española'
+- Real Academia Española
+- Asociación de Academias de Lengua Española
 series: []
 subjects:
 - Grammar & Linguistics

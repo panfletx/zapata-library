@@ -36,7 +36,8 @@ oclc: '313657957'
 pages: 202
 place: Boston
 publishers:
-- 'Mariner Books : Houghton Mifflin Harcourt'
+- Mariner Books
+- Houghton Mifflin Harcourt
 series:
 - Best American series
 source_url: http://books.google.com/books?isbn=9780618982721

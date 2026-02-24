@@ -12,7 +12,7 @@ languages:
 oclc: '1132663496'
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - El libro de bolsillo (Alianza Editorial)
 subjects:

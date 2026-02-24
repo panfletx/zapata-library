@@ -12,7 +12,10 @@ oclc: '722913707'
 pages: 91
 place: Tijuana, México, D.F.
 publishers:
-- 'Instituto Municipal de Arte y Cultura : Facultad de Humanidades, UABC : Unión de Libreros de Tijuana ; Desliz Ediciones'
+- Instituto Municipal de Arte y Cultura
+- Facultad de Humanidades, UABC
+- Unión de Libreros de Tijuana
+- Desliz Ediciones
 series: []
 subjects:
 - Contemporary History

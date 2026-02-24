@@ -13,7 +13,7 @@ oclc: '671277'
 pages: 538
 place: Paris
 publishers:
-- Garnier frères
+- Garnier-Flammarion
 series:
 - Classiques Garnier
 subjects:

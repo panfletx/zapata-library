@@ -14,7 +14,7 @@ oclc: '803044965'
 pages: 146
 place: Barcelona
 publishers:
-- Tusquets
+- Tusquets Editores
 series:
 - Andanzas (Tusquets)
 subjects:

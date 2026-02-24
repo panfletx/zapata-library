@@ -13,7 +13,7 @@ oclc: '610409331'
 pages: 202
 place: Mexico
 publishers:
-- Fondo de Cultura Economica
+- Fondo de Cultura Económica
 series:
 - Breviarios
 subjects:

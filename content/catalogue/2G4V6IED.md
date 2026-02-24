@@ -13,7 +13,8 @@ oclc: '651521429'
 pages: 94
 place: México
 publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series: []
 subjects:
 - Argentine Literature

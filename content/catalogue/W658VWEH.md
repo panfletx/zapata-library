@@ -14,7 +14,9 @@ oclc: '651189523'
 pages: 200
 place: México
 publishers:
-- 'Origen : Planeta : Artemisa'
+- Origen
+- Planeta
+- Artemisa
 series:
 - Colec. obras maestras de la literatura contemporánea
 subjects:

@@ -14,7 +14,7 @@ oclc: '1338295'
 pages: 915
 place: Barcelona
 publishers:
-- Editorial Bruguera
+- Bruguera
 series: []
 subjects:
 - English Literature

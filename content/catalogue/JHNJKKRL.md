@@ -18,7 +18,9 @@ oclc: '651214293'
 pages: 95
 place: Toluca, Estado de México, México
 publishers:
-- 'Bonobos Edits. ; CONACULTA : FONCA, Programa de Fomento a Proyectos y Coinversiones Culturales'
+- Bonobos Edits.
+- Consejo Nacional para la Cultura y las Artes
+- FONCA, Programa de Fomento a Proyectos y Coinversiones Culturales
 series:
 - Colección reino de nadie
 subjects:

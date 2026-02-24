@@ -14,7 +14,7 @@ oclc: '28768069'
 pages: 287
 place: México, D.F.
 publishers:
-- Secretaría de Educación Publica
+- Secretaría de Educación Pública
 series:
 - Lecturas mexicanas
 subjects:

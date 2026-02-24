@@ -15,7 +15,8 @@ oclc: '1055608240'
 pages: 703
 place: México
 publishers:
-- 'Cal y Arena : Nexos Sociedad Ciencia y Literatura'
+- Cal y Arena
+- Nexos Sociedad Ciencia y Literatura
 series:
 - Colección Los imprescindibles
 subjects:

@@ -12,7 +12,7 @@ oclc: '23156325'
 pages: 332
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - El libro de bolsillo
 subjects:

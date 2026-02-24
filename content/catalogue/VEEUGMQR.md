@@ -14,7 +14,8 @@ oclc: '651521499'
 pages: 94
 place: México
 publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series: []
 subjects:
 - Middle East

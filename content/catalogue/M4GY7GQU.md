@@ -14,7 +14,7 @@ oclc: '20072712'
 pages: 313
 place: Mexico, D.F.
 publishers:
-- Siglo Veintiuno Editores
+- Siglo XXI Editores
 series:
 - Psicologia y etologia
 subjects:

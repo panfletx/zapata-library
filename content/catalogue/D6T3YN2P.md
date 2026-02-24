@@ -13,7 +13,7 @@ oclc: '906931111'
 pages: 192
 place: México
 publishers:
-- Ediciones Larousse
+- Larousse
 series: []
 subjects:
 - Grammar & Linguistics

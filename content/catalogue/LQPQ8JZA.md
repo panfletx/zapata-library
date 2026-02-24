@@ -16,7 +16,8 @@ oclc: '906714062'
 pages: 64
 place: Mexico, D.F.
 publishers:
-- Conaculta, Alianza
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series:
 - Alianza Cien
 subjects:

@@ -18,7 +18,8 @@ oclc: '759878731'
 pages: 216
 place: Mexico
 publishers:
-- J. Mortiz/Planeta
+- Joaquín Mortiz
+- Planeta
 series:
 - Genio y figura (Mexico City, Mexico)
 subjects:

@@ -14,7 +14,7 @@ oclc: '6132685'
 pages: 157
 place: México, D.F.
 publishers:
-- Editorial J. Mortiz
+- Joaquín Mortiz
 series:
 - Nueva narrativa hispánica
 subjects:

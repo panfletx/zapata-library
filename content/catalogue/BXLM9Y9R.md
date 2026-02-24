@@ -13,7 +13,8 @@ oclc: '13895164'
 pages: 239
 place: México, D.F., Barcelona
 publishers:
-- Origen ; Seix Barral
+- Origen
+- Seix Barral
 series:
 - Obras maestras del Siglo XX
 subjects:

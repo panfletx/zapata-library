@@ -14,7 +14,8 @@ oclc: '34924912'
 pages: 234
 place: México, D.F.
 publishers:
-- 'Pax-México : Librería Carlos Césarman'
+- Pax-México
+- Librería Carlos Césarman
 series: []
 subjects:
 - Medicine & Health

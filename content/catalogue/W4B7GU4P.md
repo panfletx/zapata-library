@@ -14,7 +14,7 @@ oclc: '39693075'
 pages: 1632
 place: New York, N.Y.
 publishers:
-- Penguin Group
+- Penguin Books
 series: []
 subjects:
 - Dictionary

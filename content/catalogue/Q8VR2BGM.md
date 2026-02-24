@@ -14,7 +14,8 @@ oclc: '13548877'
 pages: 133
 place: México, D.F.
 publishers:
-- 'Secretaria de Educación Pública, Cultura SEP : Fondo de Cultura Económica'
+- Secretaría de Educación Pública
+- Fondo de Cultura Económica
 series:
 - Lecturas mexicanas
 subjects:

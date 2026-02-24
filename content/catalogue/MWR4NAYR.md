@@ -11,7 +11,7 @@ oclc: '299969093'
 pages: 3
 place: Paris
 publishers:
-- Librairie générale française
+- Le Livre de Poche
 series:
 - Livre de poche
 subjects:

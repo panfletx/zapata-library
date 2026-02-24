@@ -12,7 +12,7 @@ oclc: '1331525314'
 pages: 201
 place: México
 publishers:
-- Secretaria de Educación Pública
+- Secretaría de Educación Pública
 series:
 - SepSetentas
 subjects:

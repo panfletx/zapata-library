@@ -18,7 +18,7 @@ oclc: '708275995'
 pages: 669
 place: Madrid
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Libro de bolsillo. Sección Clásicos
 subjects:

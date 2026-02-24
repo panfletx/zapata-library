@@ -14,7 +14,7 @@ oclc: '33004498'
 pages: 233
 place: México
 publishers:
-- Grupo Editorial Planeta
+- Planeta
 series:
 - Grandes narradores (Mexico City, Mexico)
 subjects:

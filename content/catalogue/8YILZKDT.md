@@ -14,7 +14,7 @@ oclc: '1082023657'
 pages: 1
 place: México
 publishers:
-- Fondo de Cultura Económica de España, S. L
+- Fondo de Cultura Económica
 series: []
 subjects:
 - Poetry

@@ -15,7 +15,7 @@ oclc: '40458551'
 pages: 306
 place: México, D.F.
 publishers:
-- Paidos
+- Paidós
 series:
 - Paidos studio
 subjects:

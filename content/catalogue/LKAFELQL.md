@@ -13,7 +13,7 @@ oclc: '44113461'
 pages: 168
 place: México
 publishers:
-- UNAM
+- Universidad Nacional Autónoma de México
 series:
 - Bitacora de po'etica
 subjects:

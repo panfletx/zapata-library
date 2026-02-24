@@ -14,7 +14,8 @@ oclc: '32901629'
 pages: 33
 place: México
 publishers:
-- 'Praxis/Dos Filos : Universidad Autónoma de Zacatecas'
+- Praxis/Dos Filos
+- Universidad Autónoma de Zacatecas
 series:
 - Cuadernos de Praxis/Dos filos
 subjects:

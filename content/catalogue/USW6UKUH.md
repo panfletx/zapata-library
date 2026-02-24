@@ -15,7 +15,8 @@ oclc: '23451663'
 pages: 1
 place: México, D.F., [London?]
 publishers:
-- Grijalbo ; Collins
+- Grijalbo
+- Collins
 series: []
 subjects:
 - Dictionary

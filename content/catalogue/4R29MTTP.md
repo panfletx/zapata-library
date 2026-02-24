@@ -15,7 +15,8 @@ oclc: '651358793'
 pages: 290
 place: México
 publishers:
-- 'SEP : UNAM'
+- Secretaría de Educación Pública
+- Universidad Nacional Autónoma de México
 series:
 - Clásicos americanos
 subjects:

@@ -15,7 +15,8 @@ oclc: '77662408'
 pages: 20
 place: México, D.F.
 publishers:
-- SEP/Editorial Nueva Imagen
+- Secretaría de Educación Pública
+- Nueva Imagen
 series: []
 subjects:
 - Mexican Literature

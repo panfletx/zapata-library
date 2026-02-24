@@ -12,7 +12,7 @@ oclc: '3682553'
 pages: 163
 place: Paris
 publishers:
-- Les Éditions de Minuit
+- Éditions de Minuit
 series: []
 source_url: https://bac-lac.on.worldcat.org/oclc/396737386
 subjects:

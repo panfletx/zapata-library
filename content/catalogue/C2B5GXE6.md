@@ -15,7 +15,7 @@ oclc: '339524700'
 pages: 94
 place: London
 publishers:
-- Penguin
+- Penguin Books
 series: []
 subjects:
 - American Literature

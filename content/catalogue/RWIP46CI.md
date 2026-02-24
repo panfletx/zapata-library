@@ -13,7 +13,7 @@ oclc: '1255984449'
 pages: 191
 place: Navarra
 publishers:
-- Salvat Editores.
+- Salvat
 series: []
 subjects:
 - Drama

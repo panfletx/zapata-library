@@ -15,7 +15,8 @@ oclc: '43365299'
 pages: 366
 place: Barcelona
 publishers:
-- 'J. Vergara Editor : Grupo Zeta'
+- J. Vergara Editor
+- Grupo Zeta
 series: []
 subjects:
 - Argentine Literature

@@ -13,7 +13,8 @@ oclc: '3828606'
 pages: 478
 place: London, New York
 publishers:
-- Dent ; Dutton
+- Dent
+- Dutton
 series:
 - Everyman's library
 subjects:

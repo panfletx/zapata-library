@@ -14,7 +14,8 @@ oclc: '16223253'
 pages: 312
 place: '[México], Barcelona'
 publishers:
-- Joaquín Mortiz ; Seix Barral
+- Joaquín Mortiz
+- Seix Barral
 series: []
 subjects:
 - Brazilian Literature

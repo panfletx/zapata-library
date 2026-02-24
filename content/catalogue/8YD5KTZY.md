@@ -14,7 +14,8 @@ oclc: '154677642'
 pages: 185
 place: New York, NY
 publishers:
-- 'Bloomsbury USA : Distributed to the trade by Holtzbrinck Publishers'
+- Bloomsbury USA
+- Distributed to the trade by Holtzbrinck Publishers
 series: []
 source_url: http://catdir.loc.gov/catdir/toc/ecip0722/2007027178.html
 subjects:

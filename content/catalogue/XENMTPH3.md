@@ -13,7 +13,7 @@ oclc: '2212192'
 pages: 152
 place: México
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Obras de Juan José Arreola
 subjects:

@@ -12,7 +12,7 @@ oclc: '31232244'
 pages: 347
 place: New York, N.Y.
 publishers:
-- Plume, published by the Penguin Group
+- Plume
 series: []
 subjects:
 - American Literature

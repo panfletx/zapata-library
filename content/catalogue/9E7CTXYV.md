@@ -15,7 +15,8 @@ oclc: '17531241'
 pages: 129
 place: México
 publishers:
-- SEP/Trillas
+- Secretaría de Educación Pública
+- Trillas
 series:
 - Biblioteca Humanitas de material didáctico
 subjects:

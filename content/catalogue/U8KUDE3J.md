@@ -12,7 +12,8 @@ oclc: '3475693'
 pages: 141
 place: Paris
 publishers:
-- Hachette et Larousse
+- Hachette
+- Larousse
 series:
 - Collection Le Français dans le monde
 subjects:

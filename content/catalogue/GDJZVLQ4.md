@@ -16,7 +16,7 @@ oclc: '906991360'
 pages: 189
 place: México, D.F.
 publishers:
-- Siglo Veintiuno
+- Siglo XXI Editores
 series:
 - Escuchar con los ojos
 subjects:

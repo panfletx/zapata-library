@@ -13,7 +13,7 @@ oclc: '1219885'
 pages: 253
 place: Mexico
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Serie del volador
 subjects:

@@ -11,7 +11,7 @@ languages:
 pages: 314
 place: Paris
 publishers:
-- Livre de poche
+- Le Livre de Poche
 series: []
 subjects:
 - Fiction

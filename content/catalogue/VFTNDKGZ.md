@@ -13,7 +13,8 @@ oclc: '9397497'
 pages: 91
 place: New York, Fribourg
 publishers:
-- Crescent Books [distributor] ; Productions Liber
+- Crescent Books
+- Productions Liber
 series: []
 subjects:
 - French Literature

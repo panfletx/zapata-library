@@ -15,7 +15,8 @@ oclc: '25331021'
 pages: 170
 place: México, D.F.
 publishers:
-- 'Grijalbo : Consejo Nacional para la Cultura y las Artes'
+- Grijalbo
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Noventa
 subjects:

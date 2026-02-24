@@ -14,7 +14,7 @@ oclc: '342296'
 pages: 190
 place: Paris
 publishers:
-- Garnier
+- Garnier-Flammarion
 series:
 - Garnier Flammarion (Series)
 subjects:

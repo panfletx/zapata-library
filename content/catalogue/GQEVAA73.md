@@ -12,7 +12,7 @@ oclc: '906801093'
 pages: 48
 place: Barcelona
 publishers:
-- Planeta Agostini
+- Planeta
 series: []
 subjects:
 - China

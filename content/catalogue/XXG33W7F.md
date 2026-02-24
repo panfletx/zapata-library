@@ -12,7 +12,8 @@ oclc: '1814239'
 pages: 377
 place: London, New York
 publishers:
-- J.M. Dent and Sons ; E.P. Dutton
+- J.M. Dent and Sons
+- E.P. Dutton
 series:
 - Everyman's library
 subjects:

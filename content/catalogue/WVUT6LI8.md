@@ -14,7 +14,8 @@ oclc: '46685785'
 pages: 82
 place: Morelos
 publishers:
-- 'Publicaciones del Instituto de Cultura de Morelos : Fondo Estatal para la Cultura y las Artes de Morelos'
+- Publicaciones del Instituto de Cultura de Morelos
+- Fondo Estatal para la Cultura y las Artes de Morelos
 series:
 - Amate. Poesía
 subjects:

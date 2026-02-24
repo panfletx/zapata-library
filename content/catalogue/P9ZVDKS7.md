@@ -13,7 +13,7 @@ oclc: '906727818'
 pages: 526
 place: México
 publishers:
-- Tusquets
+- Tusquets Editores
 series: []
 subjects:
 - Argentine Literature

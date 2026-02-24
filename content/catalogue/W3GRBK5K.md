@@ -13,7 +13,7 @@ oclc: '589331284'
 pages: 93
 place: Madrid, México
 publishers:
-- Alianza ; Patria [distribuidor]
+- Alianza Editorial
 series:
 - Alianza Cien
 subjects:

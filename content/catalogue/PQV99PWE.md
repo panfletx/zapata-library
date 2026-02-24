@@ -13,7 +13,8 @@ oclc: '12210213'
 pages: 107
 place: México
 publishers:
-- Sep/Promexa
+- Secretaría de Educación Pública
+- PROMEXA
 series:
 - Bilbioteca de clasicos mexicanos
 subjects:

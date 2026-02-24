@@ -13,7 +13,8 @@ oclc: '651521464'
 pages: 61
 place: México
 publishers:
-- 'CNCA : Alianza Edit. Mexicana : Patria [distribuidor]'
+- Consejo Nacional para la Cultura y las Artes
+- Alianza Editorial
 series: []
 subjects:
 - Social Movements

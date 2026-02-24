@@ -13,7 +13,10 @@ oclc: '472180115'
 pages: 1423
 place: Madrid, Salamanca, Estella (Navarra)
 publishers:
-- 'La Casa de la Biblia : PPC ; Sígueme ; Verbo Divino'
+- La Casa de la Biblia
+- PPC
+- Sígueme
+- Verbo Divino
 series: []
 subjects:
 - Religion

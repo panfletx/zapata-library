@@ -12,7 +12,7 @@ oclc: '954243614'
 pages: 225
 place: Paris
 publishers:
-- Minuit
+- Éditions de Minuit
 series: []
 subjects:
 - Erotic Literature

@@ -13,7 +13,8 @@ oclc: '216963357'
 pages: 449
 place: México, D.F.
 publishers:
-- 'Fundación Cultural Televisa : Centro Cultural/Arte Contemporáneo'
+- Fundación Cultural Televisa
+- Centro Cultural/Arte Contemporáneo
 series: []
 subjects:
 - Mexico City

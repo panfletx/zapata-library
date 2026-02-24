@@ -14,7 +14,8 @@ oclc: '24318956'
 pages: 207
 place: México
 publishers:
-- 'Joan Boldó i Climent, Editores : Enjambre'
+- Joan Boldó i Climent, Editores
+- Enjambre
 series: []
 subjects:
 - Chronicle

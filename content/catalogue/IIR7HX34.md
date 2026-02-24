@@ -13,7 +13,8 @@ oclc: '743492306'
 pages: 342
 place: México, D.F.
 publishers:
-- 'Colegio de México : Fondo de Cultura Económica'
+- Colegio de México
+- Fondo de Cultura Económica
 series:
 - Tezontle
 source_url: http://books.google.com/books?id=m2NBAQAAIAAJ

@@ -14,7 +14,8 @@ oclc: '647766836'
 pages: 125
 place: Barcelona, México
 publishers:
-- 'Editorial Anagrama : Colofón'
+- Editorial Anagrama
+- Colofón
 series:
 - Anagrama panorama narrativas
 subjects:

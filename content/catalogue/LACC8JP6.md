@@ -13,7 +13,7 @@ oclc: '12306983'
 pages: 156
 place: Harmondsworth
 publishers:
-- Penguin
+- Penguin Books
 series: []
 subjects:
 - English Literature

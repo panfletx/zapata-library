@@ -13,7 +13,8 @@ oclc: '1089489016'
 pages: 356
 place: México, Barcelona
 publishers:
-- 'Editorial Origen : Editorial Seix Barral'
+- Editorial Origen
+- Editorial Seix Barral
 series:
 - Obras maestras del siglo XX
 subjects:

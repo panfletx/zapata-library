@@ -7,7 +7,7 @@ item_types:
 - book
 languages: []
 publishers:
-- Costa-Amic Ed
+- Costa-Amic Editores
 series: []
 subjects:
 - Anthology

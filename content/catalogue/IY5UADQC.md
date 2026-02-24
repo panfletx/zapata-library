@@ -12,7 +12,8 @@ languages:
 - Español
 place: Mexico
 publishers:
-- 'Editorial Diana : Edivisión Compañía Editorial, México'
+- Editorial Diana
+- Edivisión Compañía Editorial, México
 series: []
 subjects:
 - American Literature

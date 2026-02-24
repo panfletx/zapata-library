@@ -11,7 +11,8 @@ oclc: '44457813'
 pages: 90
 place: Chilpancingo, Gro. [Mexico]
 publishers:
-- 'Gobierno del Estado de Guerrero, Secretaría de Desarrollo Social, Centro de Investigación y Cultura : Sanley Editores'
+- Gobierno del Estado de Guerrero, Secretaría de Desarrollo Social, Centro de Investigación y Cultura
+- Sanley Editores
 series: []
 subjects:
 - Chronicle

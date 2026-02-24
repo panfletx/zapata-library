@@ -14,7 +14,7 @@ oclc: '760598184'
 pages: 421
 place: Buenos Aires
 publishers:
-- Siglo Veintiuno
+- Siglo XXI Editores
 series:
 - Lingüística
 subjects:

@@ -13,7 +13,8 @@ languages:
 oclc: '1079966611'
 pages: 147
 publishers:
-- 'Espasa-Calpe Argentina Galiciana: Biblioteca Digital de Galicia'
+- Espasa-Calpe Argentina Galiciana
+- Biblioteca Digital de Galicia
 series: []
 source_url: http://biblioteca.galiciana.gal/es/consulta/registro.do?id=355111
 subjects:

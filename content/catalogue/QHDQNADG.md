@@ -13,7 +13,7 @@ oclc: '14878091'
 pages: 156
 place: Mexico
 publishers:
-- Cultura SEP
+- Secretaría de Educación Pública
 series:
 - De la gran literatura
 subjects:

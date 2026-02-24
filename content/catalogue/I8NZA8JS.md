@@ -15,7 +15,8 @@ oclc: '46834274'
 pages: 94
 place: Barcelona
 publishers:
-- 'El mundo y la revista : Unidad Editorial'
+- El mundo y la revista
+- Unidad Editorial
 series:
 - Las novelas del verano
 subjects:

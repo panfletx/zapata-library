@@ -15,7 +15,8 @@ oclc: '1089409936'
 pages: 63
 place: Ciudad de México, Veracruz, Veracruz
 publishers:
-- Ediciones El Milagro ; Instituto Veracruzano de la Cultura
+- Ediciones El Milagro
+- Instituto Veracruzano de la Cultura
 series:
 - Otra centena
 subjects:

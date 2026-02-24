@@ -14,7 +14,7 @@ oclc: '23152825'
 pages: 196
 place: Mexico, D.F.
 publishers:
-- Alianza Editorial Mexicana
+- Alianza Editorial
 series:
 - Alianza literatura (Mexico City, Mexico)
 source_url: http://www.gbv.de/dms/spk/iai/toc/214630293.pdf

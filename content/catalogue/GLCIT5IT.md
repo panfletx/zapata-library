@@ -13,7 +13,8 @@ oclc: '15567257'
 pages: 129
 place: México
 publishers:
-- 'SEP : Trillas'
+- Secretaría de Educación Pública
+- Trillas
 series:
 - Clásicos de la literatura (Mexico City, Mexico)
 subjects:

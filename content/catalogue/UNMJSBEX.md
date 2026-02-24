@@ -13,7 +13,7 @@ oclc: '1035141054'
 pages: 1335
 place: Barcelona
 publishers:
-- Editorial Bruguera
+- Bruguera
 series:
 - Joyas literarias
 subjects:

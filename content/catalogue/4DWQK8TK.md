@@ -13,7 +13,7 @@ oclc: '1187062057'
 pages: 59
 place: México, D.F.
 publishers:
-- Alianza
+- Alianza Editorial
 series:
 - Alianza cien
 subjects:

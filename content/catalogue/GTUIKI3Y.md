@@ -14,7 +14,7 @@ oclc: '863459713'
 pages: 250
 place: Paris
 publishers:
-- Livre de poche
+- Le Livre de Poche
 series:
 - Classiques d'aujourd'hui (Livre de poche (Firm))
 subjects:

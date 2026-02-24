@@ -14,7 +14,7 @@ oclc: '462151527'
 pages: 285
 place: Paris
 publishers:
-- Librairie générale française
+- Le Livre de Poche
 series:
 - Les langues modernes-bilingue, Série italienne
 source_url: http://catalogue.bnf.fr/ark:/12148/cb350849694

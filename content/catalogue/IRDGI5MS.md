@@ -13,7 +13,8 @@ oclc: '44262047'
 pages: 126
 place: Miguel Hidalgo, México, D.F., Crans-pres-Celigny, Suiza
 publishers:
-- Grijalbo ; RotoVision
+- Grijalbo
+- RotoVision
 series: []
 subjects:
 - Photography

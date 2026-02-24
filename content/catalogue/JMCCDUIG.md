@@ -14,7 +14,7 @@ oclc: '489785525'
 pages: 82
 place: Barcelona
 publishers:
-- Tusquets
+- Tusquets Editores
 series:
 - Cuadernos marginales
 subjects:

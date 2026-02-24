@@ -13,7 +13,7 @@ oclc: '1152677474'
 pages: 236
 place: Harmondsworth
 publishers:
-- Penguin
+- Penguin Books
 series: []
 subjects:
 - American Literature

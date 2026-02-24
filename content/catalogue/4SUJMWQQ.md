@@ -12,7 +12,8 @@ oclc: '1304119707'
 pages: 30
 place: Place of publication not identified
 publishers:
-- 'NY : Gramercy Books'
+- NY
+- Gramercy Books
 series:
 - Gramercy great masters
 subjects:

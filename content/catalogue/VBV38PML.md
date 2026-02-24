@@ -13,7 +13,7 @@ oclc: '230936008'
 pages: 188
 place: Paris
 publishers:
-- Ed. du Seuil
+- Éditions du Seuil
 series:
 - Collection points / Roman
 subjects:

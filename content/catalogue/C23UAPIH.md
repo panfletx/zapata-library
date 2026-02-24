@@ -13,7 +13,7 @@ oclc: '33338466'
 pages: 144
 place: Barcelona
 publishers:
-- Plaza & Janes
+- Plaza & Janés
 series:
 - Saber más
 subjects:

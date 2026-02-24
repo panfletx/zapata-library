@@ -14,7 +14,7 @@ oclc: '44575779'
 pages: 154
 place: México, D.F.
 publishers:
-- '[Asociación Nacional del Libro] : Libro osequiado por Librería Madero'
+- Libro osequiado por Librería Madero
 series:
 - Día Nacional del Libro (Series)
 subjects:

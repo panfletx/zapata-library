@@ -15,7 +15,7 @@ oclc: '22361588'
 pages: 287
 place: Madrid
 publishers:
-- Siglo Veintiuno
+- Siglo XXI Editores
 series:
 - Historia (Siglo Veintiuno de España Editores)
 subjects:

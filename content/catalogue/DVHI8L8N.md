@@ -14,7 +14,7 @@ oclc: '8172563'
 pages: 893
 place: Barcelona
 publishers:
-- Editorial Bruguera
+- Bruguera
 series:
 - Libro clásico
 subjects:

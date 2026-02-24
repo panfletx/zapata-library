@@ -14,7 +14,8 @@ oclc: '651436647'
 pages: 87
 place: México
 publishers:
-- 'Editores del Hotel Ambosmundos : Fideicomiso para la Cultura México/USA'
+- Editores del Hotel Ambosmundos
+- Fideicomiso para la Cultura México/USA
 series: []
 subjects:
 - American Literature

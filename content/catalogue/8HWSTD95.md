@@ -14,7 +14,7 @@ oclc: '2003929'
 pages: 211
 place: México
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Nueva narrativa hispánica
 subjects:

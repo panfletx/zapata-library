@@ -13,7 +13,7 @@ oclc: '637268601'
 pages: 126
 place: (Paris)
 publishers:
-- Du Seuil
+- Éditions du Seuil
 series: []
 subjects:
 - Essay

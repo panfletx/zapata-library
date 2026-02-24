@@ -11,7 +11,7 @@ languages:
 oclc: '216302797'
 place: Paris
 publishers:
-- Garnier
+- Garnier-Flammarion
 series:
 - Selecta
 subjects:

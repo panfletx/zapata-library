@@ -14,7 +14,8 @@ oclc: '26462435'
 pages: 239
 place: Buenos Aires, México
 publishers:
-- Sudamericana ; Hermes
+- Editorial Sudamericana
+- Hermes
 series: []
 subjects:
 - French Literature

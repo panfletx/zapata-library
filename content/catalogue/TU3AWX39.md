@@ -15,7 +15,7 @@ oclc: '431867355'
 pages: 94
 place: Barcelona
 publishers:
-- Tusquets
+- Tusquets Editores
 series:
 - Fábula (Tusquets Editores)
 subjects:

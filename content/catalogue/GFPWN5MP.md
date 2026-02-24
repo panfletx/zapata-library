@@ -14,7 +14,8 @@ oclc: '648993587'
 pages: 402
 place: México
 publishers:
-- 'Fondo de Cultura Económica : Ediciones Siruela'
+- Fondo de Cultura Económica
+- Ediciones Siruela
 series:
 - Tezontle
 subjects:

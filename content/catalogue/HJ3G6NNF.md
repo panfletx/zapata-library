@@ -14,7 +14,9 @@ oclc: '31505709'
 pages: 218
 place: México, D.F.
 publishers:
-- 'Origen : OMGSA : R.B.A.'
+- Origen
+- OMGSA
+- R.B.A.
 series:
 - Historia Universal de la literatura
 subjects:

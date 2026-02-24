@@ -16,7 +16,7 @@ oclc: '432413997'
 pages: 80
 place: Barcelona
 publishers:
-- Tusquets
+- Tusquets Editores
 series:
 - Cuadernos ínfimos
 subjects:

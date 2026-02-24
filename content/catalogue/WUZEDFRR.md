@@ -17,7 +17,7 @@ oclc: '1085831243'
 pages: 290
 place: Méjico
 publishers:
-- Siglo XXI
+- Siglo XXI Editores
 series: []
 subjects:
 - Drama

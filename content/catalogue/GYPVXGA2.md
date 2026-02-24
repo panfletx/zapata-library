@@ -15,7 +15,9 @@ oclc: '29522616'
 pages: 478
 place: Chile, Buenos Aires, Argentina, México
 publishers:
-- Editorial A. Bello ; Ediciones B, Grupo Zeta ; Universidad de Guadalajara
+- Editorial A. Bello
+- Ediciones B, Grupo Zeta
+- Universidad de Guadalajara
 series:
 - Serie Reporter (Buenos Aires, Argentina)
 subjects:

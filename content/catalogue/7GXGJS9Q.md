@@ -14,7 +14,8 @@ oclc: '651210200'
 pages: 291
 place: México
 publishers:
-- Origen Planeta
+- Origen
+- Planeta
 series: []
 subjects:
 - Latin American Literature

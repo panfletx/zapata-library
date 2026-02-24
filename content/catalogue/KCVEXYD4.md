@@ -13,7 +13,7 @@ oclc: '19540667'
 pages: 282
 place: Paris
 publishers:
-- Garnier
+- Garnier-Flammarion
 series:
 - Les grands classiques du monde
 subjects:

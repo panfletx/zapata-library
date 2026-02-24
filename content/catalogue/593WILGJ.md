@@ -14,7 +14,8 @@ oclc: '715799491'
 pages: 633
 place: Paris
 publishers:
-- 'Grasset : Livre de poche'
+- Grasset
+- Le Livre de Poche
 series:
 - Livre de poche
 source_url: http://catalogue.bnf.fr/ark:/12148/cb347575994

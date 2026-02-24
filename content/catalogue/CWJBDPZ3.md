@@ -14,7 +14,7 @@ oclc: '897508513'
 pages: 203
 place: México, D.F.
 publishers:
-- Planeta Mexicana
+- Planeta
 series: []
 subjects:
 - Mexican Literature

@@ -15,7 +15,7 @@ oclc: '880322735'
 pages: 87
 place: México
 publishers:
-- CNCA
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Clásicos para hoy
 subjects:

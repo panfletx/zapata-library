@@ -14,7 +14,7 @@ oclc: '18508581'
 pages: 467
 place: México
 publishers:
-- Siglo Veintiuno Editores
+- Siglo XXI Editores
 series:
 - La Creación literaria
 subjects:

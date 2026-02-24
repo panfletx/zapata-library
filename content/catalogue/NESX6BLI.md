@@ -14,7 +14,7 @@ oclc: '1693076'
 pages: 422
 place: Mexico
 publishers:
-- J. Mortiz
+- Joaquín Mortiz
 series:
 - Novelistas contemporáneos
 subjects:
