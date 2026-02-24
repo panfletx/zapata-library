@@ -12,7 +12,7 @@ oclc: '3419493'
 pages: 252
 place: New York, N.Y.
 publishers:
-- Avon Publications
+- Avon
 series:
 - Avon
 subjects:

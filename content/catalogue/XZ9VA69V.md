@@ -14,7 +14,7 @@ oclc: '5789663'
 pages: 157
 place: New York
 publishers:
-- Avon Books
+- Avon
 series:
 - Bard book
 subjects:

@@ -15,7 +15,7 @@ oclc: '966032595'
 pages: 259
 place: New York
 publishers:
-- Bantam
+- Bantam Books
 series:
 - A Bantam Classic
 subjects:

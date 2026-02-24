@@ -13,7 +13,7 @@ oclc: '829393448'
 pages: 64
 place: '[Coahuila] Mexico'
 publishers:
-- Bonobos / poesía
+- Bonobos
 series:
 - Colección Reino de nadie
 subjects:

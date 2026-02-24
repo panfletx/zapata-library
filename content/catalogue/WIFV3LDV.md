@@ -13,7 +13,7 @@ oclc: '3243881'
 pages: 173
 place: New York
 publishers:
-- Bantam
+- Bantam Books
 series: []
 subjects:
 - Essay

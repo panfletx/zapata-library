@@ -13,7 +13,7 @@ oclc: '20227967'
 pages: 282
 place: Madrid
 publishers:
-- Alanza Editorial
+- Alianza Editorial
 series:
 - El libro de bolsillo
 subjects:

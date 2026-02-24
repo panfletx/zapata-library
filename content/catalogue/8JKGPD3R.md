@@ -13,7 +13,7 @@ oclc: '247817088'
 pages: 216
 place: New York
 publishers:
-- Bantam Book
+- Bantam Books
 series: []
 subjects:
 - American Literature

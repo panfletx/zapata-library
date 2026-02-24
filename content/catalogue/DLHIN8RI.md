@@ -13,7 +13,7 @@ oclc: '225886353'
 pages: 106
 place: Toronto
 publishers:
-- Bantam Pathfinder Editions
+- Bantam Books
 series: []
 subjects:
 - English Literature

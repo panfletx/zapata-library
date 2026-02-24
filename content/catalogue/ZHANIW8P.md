@@ -14,7 +14,7 @@ oclc: '907002325'
 pages: 284
 place: Buenos Aires
 publishers:
-- Caja Negra Editora
+- Caja Negra
 series:
 - Synesthesia
 subjects:

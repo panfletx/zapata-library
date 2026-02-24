@@ -16,7 +16,7 @@ place: Buenos Aires
 publishers:
 - Caja Negra
 series:
-- Synesthesia (Caja Negra)
+- Synesthesia
 subjects:
 - Autobiography & Memoir
 - Travel Writing

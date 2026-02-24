@@ -13,7 +13,7 @@ oclc: '489828415'
 pages: 1016
 place: Paris
 publishers:
-- A. Fayard
+- Fayard
 series:
 - Le Livre de poche
 subjects:

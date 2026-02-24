@@ -8,6 +8,12 @@
 #   1. Checks the map for exact matches (handles "/" compounds and comma combos)
 #   2. Auto-splits on " : " and " ; ", checking each part against this map
 
+# ---- Avon ----
+"Avon Books":
+  - Avon
+"Avon Publications":
+  - Avon
+
 # ---- Aguilar ----
 "Aguilar, Altea, Taurus, Alfaguara":
   - Aguilar
@@ -35,6 +41,14 @@ Alianza:
   - Alianza Editorial
 "Alianza Cien":
   - Alianza Editorial
+"Alanza Editorial":
+  - Alianza Editorial
+
+# ---- Bonobos ----
+"Bonobos Edits":
+  - Bonobos
+"Bonobos / poesía":
+  - Bonobos
 
 # ---- Bruguera ----
 "Editorial Bruguera":
@@ -402,6 +416,26 @@ UNAM:
 # ---- Gobierno del Estado de Guerrero ----
 "Gobierno del Estado de Guerrero, Secretaría de Desarrollo Social, Centro de Investigación y Cultura":
   - Gobierno del Estado de Guerrero
+
+# ---- Fayard ----
+"A. Fayard":
+  - Fayard
+"A. Fayard & Cie":
+  - Fayard
+
+# ---- Bantam Books ----
+Bantam:
+  - Bantam Books
+"Bantam Book":
+  - Bantam Books
+"Bantam Classic":
+  - Bantam Books
+"Bantam Pathfinder Editions":
+  - Bantam Books
+"A Bantam Classic":
+  - Bantam Books
+"A Bantam dual-language book":
+  - Bantam Books
 
 # ---- Miscellaneous legal-suffix stripping ----
 "Artemisa, S.A. de C.V.":
