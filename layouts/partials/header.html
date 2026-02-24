@@ -9,7 +9,7 @@
     </nav>
 
     <div class="lang-toggle">
-      {{ range .Site.Home.AllTranslations }}
+      {{ range .AllTranslations }}
         <a href="{{ .RelPermalink }}" class="lang-link{{ if eq $.Lang .Lang }} active{{ end }}">{{ .Language.LanguageName }}</a>
       {{ end }}
     </div>
