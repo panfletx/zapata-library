@@ -13,7 +13,7 @@ oclc: '906781391'
 pages: 206
 place: Mexico
 publishers:
-- Artemisa, S.A. de C.V.
+- Artemisa
 series: []
 subjects:
 - Essay

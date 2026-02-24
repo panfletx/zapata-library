@@ -14,8 +14,9 @@ oclc: '31230017'
 pages: 564
 place: México
 publishers:
-- Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección de Literatura
-- Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes
+- Universidad Nacional Autónoma de México
+- Consejo Nacional para la Cultura y las Artes
+- Instituto Nacional de Bellas Artes
 series:
 - Textos de difusión cultural
 subjects:

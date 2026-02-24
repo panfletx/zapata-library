@@ -12,7 +12,7 @@ languages:
 oclc: '4600459'
 place: México
 publishers:
-- Universidad Nacional Autónoma de México, Dirección General de Publicaciones
+- Universidad Nacional Autónoma de México
 series:
 - Nuestros clásicos
 subjects:

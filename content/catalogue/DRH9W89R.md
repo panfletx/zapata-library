@@ -11,7 +11,7 @@ oclc: '1275367215'
 pages: 1
 place: s.l
 publishers:
-- Universidad Autónoma Metropolitana, Unidad Xochimilco, DCSH/UAM-X
+- Universidad Autónoma Metropolitana
 series: []
 source_url: http://biblioteca.clacso.edu.ar/gsdl/collect/mx/mx-024/index/assoc/D15826.dir/McLuhan.pdf
 subjects:

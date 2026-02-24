@@ -15,7 +15,7 @@ oclc: '48474190'
 pages: 32
 place: México, D.F.
 publishers:
-- Consejo Nacional para la Cultura y las Artes, Diréccion General de Publicaciones
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Círculo de arte
 subjects:

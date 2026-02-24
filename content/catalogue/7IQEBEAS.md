@@ -14,7 +14,7 @@ oclc: '33470728'
 pages: 470
 place: México, D.F.
 publishers:
-- Aguilar, Altea, Taurus, Alfaguara
+- Aguilar
 series:
 - Alfaguara literaturas
 subjects:

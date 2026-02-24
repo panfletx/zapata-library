@@ -8,6 +8,20 @@
 #   1. Checks the map for exact matches (handles "/" compounds and comma combos)
 #   2. Auto-splits on " : " and " ; ", checking each part against this map
 
+# ---- Aguilar ----
+"Aguilar, Altea, Taurus, Alfaguara":
+  - Aguilar
+"Aguilar, Altea, Taurus, Alfaguara S.A.":
+  - Aguilar
+"Aguilar, León y Cal Editores":
+  - Aguilar
+"M. Aguilar Editor":
+  - Aguilar
+# "/" compound:
+"El País/Aguilar":
+  - El País
+  - Aguilar
+
 # ---- Alianza Editorial ----
 Alianza:
   - Alianza Editorial
@@ -39,6 +53,28 @@ CNCA:
 "Conaculta, Alianza":
   - Consejo Nacional para la Cultura y las Artes
   - Alianza Editorial
+# Parent + department (collapse to parent):
+"Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes":
+  - Consejo Nacional para la Cultura y las Artes
+  - Instituto Nacional de Bellas Artes
+"Consejo Nacional para la Cultura y las Artes, Dirección General de Publicaciones":
+  - Consejo Nacional para la Cultura y las Artes
+"Consejo Nacional para la Cultura y las Artes, Diréccion General de Publicaciones":
+  - Consejo Nacional para la Cultura y las Artes
+"Consejo Nacional para la Cultura y las Artes, Centro Cultural Tijuana":
+  - Consejo Nacional para la Cultura y las Artes
+"Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de Comunicación Social":
+  - Consejo Nacional para la Cultura y las Artes
+# Co-publisher splits:
+"Grijalbo, Consejo Nacional para la Cultura y las Artes":
+  - Grijalbo
+  - Consejo Nacional para la Cultura y las Artes
+"Alfaguara, Consejo Nacional para la Cultura y las Artes":
+  - Alfaguara
+  - Consejo Nacional para la Cultura y las Artes
+"Mondadori, Consejo Nacional para la Cultura y las Artes":
+  - Mondadori
+  - Consejo Nacional para la Cultura y las Artes
 
 # ---- Costa-Amic Editores ----
 "Costa-Amic Ed":
@@ -111,6 +147,24 @@ Garnier:
   - Garnier-Flammarion
 "Garnier, 1961 (réimpr)":
   - Garnier-Flammarion
+
+# ---- Ediciones B ----
+"Ediciones B, Grupo Zeta":
+  - Ediciones B
+
+# ---- Garnier-Flammarion (garbled entries) ----
+"G. Einaudi, c1971, 1974 printing":
+  - G. Einaudi
+"C. Bourgois,":
+  - Christian Bourgois
+"Librio, texte intégral":
+  - Librio
+"W.M. Jackson, Inc":
+  - W.M. Jackson
+"Editorial Garrobo, Diseño Gráfico y Edición":
+  - Editorial Garrobo
+"Little, Brown, and Company":
+  - Little, Brown
 
 # ---- Grijalbo ----
 "Editoial Grijalbo":
@@ -232,6 +286,8 @@ Penguin:
 # ---- Salvat ----
 "Salvat Editores":
   - Salvat
+"Salvat Editores, S.A.":
+  - Salvat
 "Salvat Editores.":
   - Salvat
 # "y"-conjunction compound:
@@ -262,6 +318,9 @@ SEP:
 "SEP/Editorial Nueva Imagen":
   - Secretaría de Educación Pública
   - Nueva Imagen
+# Department compound:
+"Secretaría de Educación Pública, Sep, Cultura":
+  - Secretaría de Educación Pública
 # Abbreviation-only forms:
 "SEP Cultura":
   - Secretaría de Educación Pública
@@ -306,3 +365,50 @@ UNAM:
   - Universidad Nacional Autónoma de México
 "Universidad Autónoma de México":
   - Universidad Nacional Autónoma de México
+# Parent + department (collapse to parent):
+"Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección de Literatura":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma de México, Dirección General de Publicaciones":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma de México, Instituto de Investigaciones Filológicas":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma de México, Difusión Cultural":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma de México, Programa Universitatio de Estudios de Género":
+  - Universidad Nacional Autónoma de México
+"Universidad Nacional Autónoma, Dirección General de Difusión Cultural, Departamento de Humanidades":
+  - Universidad Nacional Autónoma de México
+
+# ---- Universidad Veracruzana ----
+"Universidad Veracruzana, Facultad de Teatro":
+  - Universidad Veracruzana
+"Universidad Veracruzana, Dirección Editorial":
+  - Universidad Veracruzana
+"Universidad Veracruzana, Rutgers University-Camden":
+  - Universidad Veracruzana
+
+# ---- Universidad Autónoma Metropolitana ----
+"Universidad Autónoma Metropolitana, Unidad Xochimilco, DCSH/UAM-X":
+  - Universidad Autónoma Metropolitana
+"Universidad Autónoma Metropolitana, Azcapotzalco":
+  - Universidad Autónoma Metropolitana
+
+# ---- Colegio de México ----
+"Colegio de México, Centro de Estudios de Asia y Africa":
+  - Colegio de México
+
+# ---- Gobierno del Estado de Guerrero ----
+"Gobierno del Estado de Guerrero, Secretaría de Desarrollo Social, Centro de Investigación y Cultura":
+  - Gobierno del Estado de Guerrero
+
+# ---- Miscellaneous legal-suffix stripping ----
+"Artemisa, S.A. de C.V.":
+  - Artemisa
+"Grupo Editorial Tomo, S.A. de C.V.":
+  - Grupo Editorial Tomo
+"RBA Coleccionables, S.A.U.":
+  - RBA Coleccionables
+"Librería y ediciones Murguía S.A.":
+  - Librería y ediciones Murguía

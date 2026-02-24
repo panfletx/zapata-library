@@ -13,7 +13,7 @@ oclc: '36167598'
 pages: 33
 place: México
 publishers:
-- Universidad Nacional Autónoma, Dirección General de Difusión Cultural, Departamento de Humanidades
+- Universidad Nacional Autónoma de México
 series:
 - Material de lectura
 subjects:

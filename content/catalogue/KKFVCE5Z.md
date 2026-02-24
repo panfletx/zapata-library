@@ -15,7 +15,8 @@ oclc: '24880938'
 pages: 242
 place: México, D.F.
 publishers:
-- Grijalbo, Consejo Nacional para la Cultura y las Artes
+- Grijalbo
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fin de siglo
 subjects:

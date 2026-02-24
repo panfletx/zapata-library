@@ -13,7 +13,7 @@ oclc: '558694231'
 pages: 242
 place: México, D.F.
 publishers:
-- Universidad Nacional Autónoma de México, Programa Universitatio de Estudios de Género
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Feminism

@@ -18,7 +18,7 @@ oclc: '1256665522'
 pages: 72
 place: Xalapa, Ver.
 publishers:
-- Universidad Veracruzana, Facultad de Teatro
+- Universidad Veracruzana
 series:
 - Serie Creación (Universidad Veracruzana)
 subjects:

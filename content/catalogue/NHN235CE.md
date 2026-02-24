@@ -7,7 +7,7 @@ item_types:
 - book
 languages: []
 publishers:
-- Universidad Veracruzana, Rutgers University-Camden
+- Universidad Veracruzana
 series: []
 subjects:
 - Drama

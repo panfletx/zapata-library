@@ -14,7 +14,8 @@ oclc: '28333600'
 pages: 100
 place: México
 publishers:
-- Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes
+- Consejo Nacional para la Cultura y las Artes
+- Instituto Nacional de Bellas Artes
 - Joaquín Mortiz
 series:
 - Premios bellas artes de literatura

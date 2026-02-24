@@ -13,7 +13,7 @@ oclc: '1117401759'
 pages: 209
 place: Barcelona
 publishers:
-- RBA Coleccionables, S.A.U.
+- RBA Coleccionables
 series:
 - '[Grandes mujeres]'
 subjects:

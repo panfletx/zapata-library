@@ -14,7 +14,7 @@ oclc: '34350829'
 pages: 236
 place: San Angel, D.F. [México]
 publishers:
-- Consejo Nacional para la Cultura y las Artes, Dirección General de la Unidad de Comunicación Social
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Periodismo cultural
 subjects:

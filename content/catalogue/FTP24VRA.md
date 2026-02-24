@@ -14,7 +14,8 @@ oclc: '645268813'
 pages: 259
 place: Madrid
 publishers:
-- El País/Aguilar
+- El País
+- Aguilar
 series:
 - Libros del viajero
 subjects:

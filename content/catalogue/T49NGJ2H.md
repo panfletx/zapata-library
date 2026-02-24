@@ -12,7 +12,7 @@ oclc: '6759466'
 pages: 166
 place: Madrid
 publishers:
-- Salvat Editores, S.A.
+- Salvat
 series:
 - Biblioteca basica Salvat
 subjects:

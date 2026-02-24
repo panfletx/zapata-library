@@ -15,7 +15,7 @@ oclc: '982086248'
 pages: 144
 place: Xalapa, Ver., México
 publishers:
-- Universidad Veracruzana, Dirección Editorial
+- Universidad Veracruzana
 series:
 - Colección biblioteca (Universidad Veracruzana)
 subjects:

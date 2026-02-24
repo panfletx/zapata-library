@@ -14,7 +14,8 @@ oclc: '24925224'
 pages: 412
 place: México, D.F.
 publishers:
-- Alfaguara, Consejo Nacional para la Cultura y las Artes
+- Alfaguara
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Fin de siglo
 subjects:

@@ -13,7 +13,7 @@ oclc: '731468086'
 pages: 55
 place: Mexico
 publishers:
-- W.M. Jackson, Inc
+- W.M. Jackson
 series:
 - Los Clasicos
 subjects:

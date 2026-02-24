@@ -12,7 +12,7 @@ oclc: '1024168808'
 pages: 380
 place: México, D.F.
 publishers:
-- Aguilar, León y Cal Editores
+- Aguilar
 series:
 - Cal y arena
 source_url: https://archive.org/details/agosto00fons

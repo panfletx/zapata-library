@@ -17,7 +17,7 @@ place: México, D.F.
 publishers:
 - DGE Equilibrista
 - Universidad Nacional Autónoma de México
-- Consejo Nacional para la Cultura y las Artes, Dirección General de Publicaciones
+- Consejo Nacional para la Cultura y las Artes
 series:
 - Pértiga
 subjects:

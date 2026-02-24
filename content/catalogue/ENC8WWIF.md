@@ -15,7 +15,7 @@ oclc: '34841884'
 pages: 396
 place: México, D.F.
 publishers:
-- Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural, Dirección de Literatura
+- Universidad Nacional Autónoma de México
 series:
 - Textos de difusión cultural
 subjects:

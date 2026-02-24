@@ -14,7 +14,7 @@ oclc: '29678270'
 pages: 205
 place: Buenos Aires
 publishers:
-- Aguilar, Altea, Taurus, Alfaguara S.A.
+- Aguilar
 series:
 - Alfaguara literaturas
 subjects:

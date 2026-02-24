@@ -16,7 +16,7 @@ oclc: '46319480'
 pages: 193
 place: México, D.F.
 publishers:
-- Colegio de México, Centro de Estudios de Asia y Africa
+- Colegio de México
 series: []
 subjects:
 - Anthology

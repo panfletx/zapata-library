@@ -15,7 +15,7 @@ oclc: '931888036'
 pages: 116
 place: México, D.F
 publishers:
-- Universidad Nacional Autónoma de México, Instituto de Investigaciones Filológicas
+- Universidad Nacional Autónoma de México
 series:
 - Cuadernos del Seminario de Poesía
 subjects:

@@ -15,7 +15,7 @@ oclc: '14281350'
 pages: 76
 place: México, D.F.
 publishers:
-- Secretaría de Educación Pública, Sep, Cultura
+- Secretaría de Educación Pública
 - CREA
 series:
 - Letras nuevas

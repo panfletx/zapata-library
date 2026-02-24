@@ -12,7 +12,7 @@ oclc: '42361954'
 pages: 254
 place: México
 publishers:
-- Universidad Nacional Autónoma de México, Coordinación de Difusión Cultural
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Chronicle

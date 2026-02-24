@@ -14,7 +14,7 @@ oclc: '40513641'
 pages: 133
 place: México, D.F.
 publishers:
-- Aguilar, Altea, Taurus, Alfaguara
+- Aguilar
 series:
 - Extra Alfaguara
 subjects:

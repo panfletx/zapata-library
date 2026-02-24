@@ -13,7 +13,7 @@ oclc: '1288503'
 pages: 139
 place: Boston
 publishers:
-- Little, Brown, and Company
+- Little, Brown
 series:
 - Drawings of the masters (Boston, Mass.)
 subjects:

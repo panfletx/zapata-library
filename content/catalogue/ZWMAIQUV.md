@@ -13,7 +13,7 @@ oclc: '1102538607'
 pages: 376
 place: Ciudad de México
 publishers:
-- Universidad Nacional Autónoma de México, Difusión Cultural
+- Universidad Nacional Autónoma de México
 series:
 - Literatura. Año X
 subjects:

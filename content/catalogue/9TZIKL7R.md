@@ -8,7 +8,7 @@ item_types:
 languages:
 - Español
 publishers:
-- Librería y ediciones Murguía S.A.
+- Librería y ediciones Murguía
 series: []
 subjects:
 - Children's Literature

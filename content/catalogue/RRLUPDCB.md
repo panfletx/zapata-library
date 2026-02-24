@@ -12,7 +12,7 @@ oclc: '1245296842'
 pages: 95
 place: Paris
 publishers:
-- Librio, texte intégral
+- Librio
 series:
 - Librio
 source_url: https://archive.org/details/lediableaucorps0000radi_m5f2
