@@ -6,7 +6,7 @@ decade: 2000s
 edition: 6a ed.
 isbn: '8488327222'
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

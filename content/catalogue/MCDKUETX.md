@@ -7,7 +7,7 @@ decade: 1990s
 edition: 13. ed
 isbn: 978-968-36-2280-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '29433160'

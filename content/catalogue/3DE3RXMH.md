@@ -7,7 +7,7 @@ decade: 1990s
 edition: 2. reimprésion
 isbn: 978-968-6026-32-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1070609296'

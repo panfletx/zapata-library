@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición en "Compactos."
 isbn: 978-84-339-7770-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '922883881'

@@ -9,7 +9,7 @@ decade: 1960s
 edition: 3. ed
 exlibris: '1970'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '253702486'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1. ed. en Lecturas mexicanas
 isbn: 978-968-29-3553-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '29175719'

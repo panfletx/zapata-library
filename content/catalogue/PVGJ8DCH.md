@@ -5,7 +5,7 @@ cover: covers/pvgj8dch.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '3419493'

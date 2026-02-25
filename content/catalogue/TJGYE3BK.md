@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-84-315-5056-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '715505637'

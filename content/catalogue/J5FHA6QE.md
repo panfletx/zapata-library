@@ -8,7 +8,7 @@ edition: 1st Library of America college ed
 exlibris: '2011'
 isbn: 978-1-883011-35-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '33948474'

@@ -9,7 +9,7 @@ edition: 2a ed
 exlibris: '2000'
 isbn: 978-84-7669-285-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44970019'

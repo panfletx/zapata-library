@@ -6,7 +6,7 @@ decade: 1990s
 edition: 10a ed
 isbn: 978-84-7175-318-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '689520086'

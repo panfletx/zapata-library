@@ -5,7 +5,7 @@ cover: covers/ng5tbhy3.jpg
 date: '2024-09-01'
 exlibris: regalo de Alberto Paredes 2003
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '50256154'

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-968-39-1105-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '50678336'

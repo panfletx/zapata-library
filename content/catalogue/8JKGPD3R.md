@@ -6,7 +6,7 @@ cover_note: dedicatoria Carol
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '247817088'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 3a ed
 isbn: 978-968-433-052-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '83041759'

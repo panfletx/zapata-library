@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: dedicatoria de Ramírez Bravo 2005
 isbn: 978-970-682-235-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '63673096'

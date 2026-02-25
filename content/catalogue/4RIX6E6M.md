@@ -10,7 +10,7 @@ edition: 1a. ed. en " Otra vuelta de tuerca."
 exlibris: '2011'
 isbn: 978-84-339-7593-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '758080845'

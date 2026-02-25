@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '1991'
 isbn: 978-968-419-630-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '17200609'

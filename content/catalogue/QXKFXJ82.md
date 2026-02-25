@@ -7,7 +7,7 @@ decade: 1950s
 edition: 1st American ed.
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '226073868'

@@ -7,7 +7,7 @@ decade: 1970s
 edition: '[1. ed'
 exlibris: '1979'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '313030'

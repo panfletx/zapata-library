@@ -7,7 +7,7 @@ decade: 1970s
 edition: 4a ed
 isbn: 978-84-323-0004-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1118047'

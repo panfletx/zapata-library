@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-9972-37-114-1
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '1395407182'

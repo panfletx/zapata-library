@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1. ed. en español
 isbn: 978-607-9016-56-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '826786639'

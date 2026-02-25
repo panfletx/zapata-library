@@ -9,7 +9,7 @@ decade: 1980s
 exlibris: '1988'
 isbn: 978-968-6005-38-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '81707208'

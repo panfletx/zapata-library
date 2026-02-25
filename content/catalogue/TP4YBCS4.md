@@ -8,7 +8,7 @@ decade: 1990s
 edition: Nouvelleéd. intégrale
 isbn: 978-2-7143-0364-6
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '21547520'

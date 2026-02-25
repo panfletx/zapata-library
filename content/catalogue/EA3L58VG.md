@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2011'
 isbn: 978-84-487-0523-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433605362'

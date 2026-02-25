@@ -4,7 +4,7 @@ cover: covers/t69j7fbm.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44457813'

@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1982'
 isbn: 978-84-322-1380-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '5430929'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 27 ed
 isbn: 978-84-239-0099-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '30343417'

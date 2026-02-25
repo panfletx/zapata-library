@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-968-9364-84-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '906937915'

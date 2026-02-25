@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1991'
 isbn: 978-968-432-947-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097705248'

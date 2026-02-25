@@ -9,7 +9,7 @@ edition: 6a ed
 exlibris: '2006'
 isbn: 978-84-264-0100-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '70211769'

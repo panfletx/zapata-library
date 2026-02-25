@@ -9,7 +9,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-00-6175-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '856655165'

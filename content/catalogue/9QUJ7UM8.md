@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-682-086-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '49773903'

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1950s
 exlibris: dedicaotrias de Melo 1993
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '16919603'

@@ -11,7 +11,7 @@ decade: 1990s
 edition: Nouv. éd.
 isbn: 978-2-03-451440-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1141003909'

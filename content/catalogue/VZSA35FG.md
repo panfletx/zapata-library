@@ -4,7 +4,7 @@ authors:
 cover: covers/vzsa35fg.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '19097328'

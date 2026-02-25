@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-84-315-4099-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '733736755'

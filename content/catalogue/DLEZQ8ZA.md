@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-84-339-2090-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34236522'

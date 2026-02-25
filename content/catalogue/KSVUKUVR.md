@@ -4,7 +4,7 @@ authors:
 cover: covers/ksvukuvr.jpg
 date: '2024-09-01'
 item_types:
-- magazineArticle
+- Magazine
 languages: []
 publishers: []
 series: []

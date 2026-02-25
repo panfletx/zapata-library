@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-3-8290-0402-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '51523257'

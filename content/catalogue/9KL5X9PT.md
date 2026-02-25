@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '2011'
 isbn: 978-84-7600-073-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '49652086'

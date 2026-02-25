@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: '[Rev.]'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '974894593'

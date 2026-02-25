@@ -8,7 +8,7 @@ decade: 1990s
 edition: 3a ed
 isbn: 978-968-36-2019-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '31119791'

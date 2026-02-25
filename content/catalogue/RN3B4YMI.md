@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-95017-8-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '404325145'

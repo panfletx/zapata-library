@@ -7,7 +7,7 @@ decade: 1970s
 edition: 15 ed
 isbn: 978-84-283-0578-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2468968'

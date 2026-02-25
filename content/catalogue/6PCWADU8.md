@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1a ed
 isbn: 978-84-01-57064-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44789176'

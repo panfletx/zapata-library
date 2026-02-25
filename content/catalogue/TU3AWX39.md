@@ -8,7 +8,7 @@ edition: 1a. ed. en Fábula
 exlibris: '1998'
 isbn: 978-84-8310-554-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '431867355'

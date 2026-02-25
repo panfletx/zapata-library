@@ -8,7 +8,7 @@ edition: 2. ed
 exlibris: '1995'
 isbn: 978-968-36-2331-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34841884'

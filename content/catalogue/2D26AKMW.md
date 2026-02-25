@@ -7,7 +7,7 @@ decade: 1970s
 edition: Primera edición
 isbn: 978-968-27-0042-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '5800393'

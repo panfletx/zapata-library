@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1a. ed., 2a. reimp
 isbn: 978-84-03-00094-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '630235297'

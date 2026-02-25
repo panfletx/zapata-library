@@ -7,7 +7,7 @@ decade: 1960s
 edition: 1st Perennial Classics edition
 isbn: 978-0-06-093546-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1003073885'

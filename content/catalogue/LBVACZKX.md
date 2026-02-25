@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1. ed
 isbn: 978-607-457-070-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '649802185'

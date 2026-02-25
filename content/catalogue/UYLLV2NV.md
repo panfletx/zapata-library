@@ -6,7 +6,7 @@ decade: 1960s
 edition: Viking Compass ed
 exlibris: Joaquín Blanco 1976
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1075719'

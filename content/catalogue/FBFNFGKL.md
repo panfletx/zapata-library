@@ -7,7 +7,7 @@ decade: 2010s
 exlibris: '2013'
 isbn: 978-1-84870-565-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '878071652'

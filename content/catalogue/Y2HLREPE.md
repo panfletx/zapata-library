@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-1-4095-6631-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '862657664'

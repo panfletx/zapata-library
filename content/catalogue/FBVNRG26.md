@@ -6,7 +6,7 @@ cover: covers/fbvnrg26.jpg
 date: '2024-09-01'
 decade: 1940s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651278360'

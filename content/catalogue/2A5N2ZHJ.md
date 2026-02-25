@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2004'
 isbn: 978-84-89693-65-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '51207690'

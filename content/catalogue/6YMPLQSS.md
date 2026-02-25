@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed
 isbn: 978-84-322-2220-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '20101000'

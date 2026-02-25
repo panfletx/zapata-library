@@ -9,7 +9,7 @@ edition: 11a. edición
 exlibris: '2002'
 isbn: 978-970-07-0980-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097718327'

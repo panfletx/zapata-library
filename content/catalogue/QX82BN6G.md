@@ -8,7 +8,7 @@ decade: 2000s
 edition: 'Primera edición: Cal y arena, 2004'
 isbn: 978-968-7711-02-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1055608240'

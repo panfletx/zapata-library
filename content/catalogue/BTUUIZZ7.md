@@ -6,7 +6,7 @@ cover: covers/btuuizz7.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '720627402'

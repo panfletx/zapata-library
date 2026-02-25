@@ -10,7 +10,7 @@ decade: 1990s
 exlibris: '2011'
 isbn: 978-84-206-3635-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48151953'

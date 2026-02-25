@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '1993'
 isbn: 978-968-19-0132-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '30575919'

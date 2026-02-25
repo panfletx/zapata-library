@@ -5,7 +5,7 @@ cover: covers/sv2pw8sa.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '50812252'

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: 7a. ed
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '12070464'

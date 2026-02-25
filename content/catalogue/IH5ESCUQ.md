@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1st ed
 isbn: 978-968-461-035-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '25179731'

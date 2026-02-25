@@ -8,7 +8,7 @@ edition: 1st ed
 exlibris: '2014'
 isbn: 978-84-9908-816-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '775673774'

@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-970-32-2208-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '61168512'

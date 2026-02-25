@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a. ed
 isbn: 978-970-37-0571-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '74885113'

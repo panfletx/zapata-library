@@ -6,7 +6,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-970-22-0120-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '52899364'

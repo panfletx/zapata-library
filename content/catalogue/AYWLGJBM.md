@@ -8,7 +8,7 @@ edition: 1a ed. en Lecturas mexicanas
 exlibris: '2004'
 isbn: 978-970-18-3284-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '43486818'

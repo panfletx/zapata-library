@@ -9,7 +9,7 @@ decade: 1970s
 exlibris: '1997'
 isbn: 978-2-07-032175-9
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '760586694'

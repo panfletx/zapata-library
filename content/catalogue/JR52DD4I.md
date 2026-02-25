@@ -5,7 +5,7 @@ cover: covers/jr52dd4i.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - English
 pages: 314

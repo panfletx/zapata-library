@@ -8,7 +8,7 @@ edition: Primera edición
 exlibris: '2014'
 isbn: 978-968-15-1294-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '903403361'

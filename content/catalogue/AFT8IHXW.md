@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-8619-25-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1137376976'

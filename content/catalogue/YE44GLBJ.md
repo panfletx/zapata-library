@@ -8,7 +8,7 @@ decade: 1980s
 edition: 19 ed
 isbn: 978-968-29-0161-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '906631281'

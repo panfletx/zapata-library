@@ -5,7 +5,7 @@ cover: covers/2tt8ritw.jpg
 cover_note: dedicatoria del autor
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

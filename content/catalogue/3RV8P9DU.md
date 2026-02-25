@@ -6,7 +6,7 @@ cover: covers/3rv8p9du.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1023823987'

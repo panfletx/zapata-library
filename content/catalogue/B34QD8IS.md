@@ -5,7 +5,7 @@ cover: covers/b34qd8is.jpg
 date: '2024-09-01'
 decade: 1900s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1151059861'

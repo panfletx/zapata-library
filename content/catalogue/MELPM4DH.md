@@ -9,7 +9,7 @@ edition: 1a. ed
 exlibris: '1995'
 isbn: 978-84-322-0549-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '16892578'

@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1979'
 isbn: 978-0-380-37689-6
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '5789663'

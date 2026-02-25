@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-0-09-946594-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '60511437'

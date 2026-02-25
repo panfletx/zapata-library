@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2011'
 isbn: 978-0-89922-731-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '82203817'

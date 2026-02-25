@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '1999'
 isbn: 978-968-29-4905-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '741626947'

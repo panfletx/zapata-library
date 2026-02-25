@@ -4,7 +4,7 @@ cover: covers/l7lgqiys.jpg
 date: '2024-09-01'
 decade: 1870s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '921328273'

@@ -6,7 +6,7 @@ decade: 2010s
 edition: Edición corregida y aumentada
 isbn: 978-607-31-6131-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1155148315'

@@ -11,7 +11,7 @@ edition: 2ª edición
 exlibris: '1995'
 isbn: 978-84-7702-004-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1090846582'

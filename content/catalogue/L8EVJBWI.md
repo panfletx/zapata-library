@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 exlibris: Luis Zapata
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '8511593'

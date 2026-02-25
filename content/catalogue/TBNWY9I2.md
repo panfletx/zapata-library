@@ -5,7 +5,7 @@ cover: covers/tbnwy9i2.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '17796698'

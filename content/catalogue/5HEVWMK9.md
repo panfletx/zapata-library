@@ -4,7 +4,7 @@ authors:
 cover: covers/5hevwmk9.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Populibros

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1 ̇ed., 1 ̇reimp
 isbn: 978-968-16-1445-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '642197862'

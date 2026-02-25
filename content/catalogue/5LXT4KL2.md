@@ -8,7 +8,7 @@ decade: 1960s
 edition: 1. ed
 exlibris: '1975'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '3971844'

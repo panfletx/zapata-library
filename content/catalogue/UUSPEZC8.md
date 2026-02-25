@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a ed. en México
 isbn: 978-968-429-322-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15277693'

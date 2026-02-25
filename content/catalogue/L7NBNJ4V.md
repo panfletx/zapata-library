@@ -8,7 +8,7 @@ decade: 1990s
 edition: '[Nouv. tirage]'
 isbn: 978-2-267-00724-4
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '489988691'

@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2003'
 isbn: 978-968-27-0844-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '72901123'

@@ -6,7 +6,7 @@ decade: 1990s
 edition: 5. ed
 isbn: 978-84-288-1334-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '472180115'

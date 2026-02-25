@@ -9,7 +9,7 @@ edition: Primera edición
 exlibris: '2014'
 isbn: 978-607-486-252-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '879376977'

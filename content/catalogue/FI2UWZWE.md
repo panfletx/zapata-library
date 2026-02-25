@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-0-241-95683-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '883824898'

@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-968-423-489-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '277006698'

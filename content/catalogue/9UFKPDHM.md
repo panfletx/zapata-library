@@ -7,7 +7,7 @@ date: '2024-09-01'
 exlibris: '1992'
 isbn: 978-968-899-006-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651485703'

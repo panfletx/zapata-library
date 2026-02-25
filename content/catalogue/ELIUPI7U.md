@@ -8,7 +8,7 @@ edition: 1a. ed
 exlibris: '1995'
 isbn: 978-84-7223-420-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '299549871'

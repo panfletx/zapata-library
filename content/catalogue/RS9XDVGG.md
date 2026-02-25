@@ -7,7 +7,7 @@ decade: 1970s
 edition: Reprint
 exlibris: Luiz Zapata
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '471591698'

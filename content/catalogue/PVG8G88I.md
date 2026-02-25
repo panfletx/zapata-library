@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 2020s
 isbn: 978-607-28-2099-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1287134112'

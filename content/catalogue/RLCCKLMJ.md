@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '2011'
 isbn: 978-968-16-5571-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '42253109'

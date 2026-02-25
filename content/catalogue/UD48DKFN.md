@@ -4,7 +4,7 @@ cover: covers/ud48dkfn.jpg
 cover_note: dedicatoria de autor
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

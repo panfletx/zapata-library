@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1st ed
 isbn: 978-0-8021-4159-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '4138895'

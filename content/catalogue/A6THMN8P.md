@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: 1. ed. en Clásicos de la literatura mexicana
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6055039'

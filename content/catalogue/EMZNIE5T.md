@@ -6,7 +6,7 @@ cover_note: dedicatoria
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

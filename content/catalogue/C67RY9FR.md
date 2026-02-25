@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1a. ed
 isbn: 978-968-29-1299-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '21920200'

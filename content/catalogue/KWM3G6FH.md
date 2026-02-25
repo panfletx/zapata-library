@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2008'
 isbn: 978-987-550-690-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '566125949'

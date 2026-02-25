@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-84-7979-257-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434383176'

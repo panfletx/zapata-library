@@ -8,7 +8,7 @@ edition: 1a. ed
 exlibris: '2009'
 isbn: 978-607-457-013-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '426794948'

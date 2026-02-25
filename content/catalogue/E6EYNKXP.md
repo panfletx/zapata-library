@@ -8,7 +8,7 @@ decade: 1970s
 edition: 3. ed., corr. y ampliada
 isbn: 978-84-7153-111-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2578897'

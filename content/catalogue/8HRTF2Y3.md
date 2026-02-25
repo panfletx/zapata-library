@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-32-3982-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '931888036'

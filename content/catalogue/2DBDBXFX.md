@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-2-07-071564-0
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '319785517'

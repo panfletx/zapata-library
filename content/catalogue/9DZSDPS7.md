@@ -4,7 +4,7 @@ cover: covers/9dzsdps7.jpg
 date: '2024-09-01'
 edition: '32'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

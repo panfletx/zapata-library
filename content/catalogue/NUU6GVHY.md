@@ -7,7 +7,7 @@ decade: 1990s
 edition: Cuarta ed
 isbn: 978-84-254-1515-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34206814'

@@ -16,7 +16,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-9357-12-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1018104586'

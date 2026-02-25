@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1979'
 isbn: 978-968-408-013-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '8238441'

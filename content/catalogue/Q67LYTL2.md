@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1a ed
 isbn: 978-968-837-945-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '20565412'

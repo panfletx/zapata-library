@@ -7,7 +7,7 @@ decade: 1970s
 edition: Quinta edición
 isbn: 978-84-239-0422-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '964822205'

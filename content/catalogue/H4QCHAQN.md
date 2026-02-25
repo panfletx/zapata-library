@@ -7,7 +7,7 @@ decade: 1980s
 edition: 4a ed
 isbn: 978-84-206-1986-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '491658748'

@@ -9,7 +9,7 @@ decade: 1980s
 edition: '[1a. ed.]'
 isbn: 978-84-322-0583-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434288358'

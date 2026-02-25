@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-84-01-43526-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '431357194'

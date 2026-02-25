@@ -4,7 +4,7 @@ authors:
 cover: covers/mhli5a2f.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Libreria del teatro

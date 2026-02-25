@@ -9,7 +9,7 @@ edition: Éd. 1
 exlibris: '2011'
 isbn: 978-2-253-13262-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '50577802'

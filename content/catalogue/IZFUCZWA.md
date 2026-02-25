@@ -8,7 +8,7 @@ decade: 1970s
 edition: 1a ed., 2a reimpresión
 exlibris: '1979'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22755241'

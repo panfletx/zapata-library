@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1a. ed
 isbn: 978-607-00-2528-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '746493893'

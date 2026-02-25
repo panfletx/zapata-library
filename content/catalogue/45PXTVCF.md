@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: '[Nuova ed.]'
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '955440419'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 6a. ed
 isbn: 978-84-342-0017-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432949811'

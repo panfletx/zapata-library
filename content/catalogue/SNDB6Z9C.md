@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-2-7073-0023-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '3206664'

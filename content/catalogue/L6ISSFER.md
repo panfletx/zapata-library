@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1978'
 isbn: 978-84-344-0787-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15380867'

@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-968-476-384-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '123353187'

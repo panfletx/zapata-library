@@ -8,7 +8,7 @@ edition: Primera edición
 exlibris: '2014'
 isbn: 978-84-9032-933-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '687651003'

@@ -5,7 +5,7 @@ cover: covers/xli6r7tx.jpg
 date: '2024-09-01'
 decade: 1930s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '343500'

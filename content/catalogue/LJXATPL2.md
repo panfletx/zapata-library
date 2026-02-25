@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a. ed
 isbn: 978-968-5793-63-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '277588861'

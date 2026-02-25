@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 968-7532-00-9
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

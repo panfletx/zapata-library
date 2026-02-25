@@ -5,7 +5,7 @@ cover: covers/mhykcdxh.jpg
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Cuadernos de Casa Bermeja

@@ -8,7 +8,7 @@ decade: 2000s
 edition: 2. ed
 isbn: 978-970-714-042-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '52168983'

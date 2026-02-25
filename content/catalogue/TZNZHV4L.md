@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a. ed
 isbn: 978-970-35-1416-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '301746350'

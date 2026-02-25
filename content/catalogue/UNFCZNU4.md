@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 exlibris: '1980'
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '912221881'

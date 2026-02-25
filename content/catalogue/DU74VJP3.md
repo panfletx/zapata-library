@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1998'
 isbn: 978-2-213-59291-6
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '123238737'

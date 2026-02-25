@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-2-02-092598-3
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '86113447'

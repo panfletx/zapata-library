@@ -4,7 +4,7 @@ authors:
 cover: covers/vxnbpbk5.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Español
 place: Mexico

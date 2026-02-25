@@ -6,7 +6,7 @@ cover_note: dedicatoria de Juan Carlos Bautista
 date: '2024-09-01'
 edition: 1a ed.
 item_types:
-- book
+- Book
 languages: []
 oclc: '760451424'
 place: México, D.F.

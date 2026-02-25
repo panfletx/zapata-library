@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 968-39-1215-X
 item_types:
-- book
+- Book
 languages: []
 publishers:
 series: []

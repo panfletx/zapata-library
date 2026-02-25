@@ -5,7 +5,7 @@ cover: covers/9h9umdma.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

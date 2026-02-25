@@ -5,7 +5,7 @@ cover: covers/xxg33w7f.jpg
 date: '2024-09-01'
 decade: 1910s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1814239'

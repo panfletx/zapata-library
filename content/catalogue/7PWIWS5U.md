@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: 6th ed
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '80979035'

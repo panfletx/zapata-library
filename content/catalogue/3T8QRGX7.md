@@ -7,7 +7,7 @@ decade: 1960s
 edition: 3. ed
 exlibris: '1978'
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '6765678'

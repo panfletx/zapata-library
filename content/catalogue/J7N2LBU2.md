@@ -7,7 +7,7 @@ decade: 1990s
 edition: 4. ed. I grandi tascabili
 isbn: 978-88-452-2813-1
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '41500421'

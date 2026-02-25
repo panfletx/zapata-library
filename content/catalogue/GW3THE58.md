@@ -8,7 +8,7 @@ decade: 1990s
 edition: 9a ed. rev. y puesta al día, 8a reimp
 isbn: 978-84-239-6948-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '851308134'

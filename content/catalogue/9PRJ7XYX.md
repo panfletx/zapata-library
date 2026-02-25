@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 isbn: 978-84-03-27029-9
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '220806377'

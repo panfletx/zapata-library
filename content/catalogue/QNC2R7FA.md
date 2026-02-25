@@ -7,7 +7,7 @@ edition: 1. ed. en Clásicos de la literatura mexicana
 exlibris: Luis E. Bado
 isbn: 978-968-34-0043-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6232769'

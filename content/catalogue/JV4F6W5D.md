@@ -8,7 +8,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-27-0887-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1085404551'

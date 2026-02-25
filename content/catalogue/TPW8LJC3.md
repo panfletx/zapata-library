@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1910s
 isbn: 978-0-460-00617-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '3828606'

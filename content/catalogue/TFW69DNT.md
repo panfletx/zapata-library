@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-607-98374-7-1
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Literatelia

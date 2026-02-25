@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1a. ed
 isbn: 978-968-9172-45-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '276813585'

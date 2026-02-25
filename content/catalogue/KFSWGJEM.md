@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2000s
 exlibris: '2010'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1348972730'

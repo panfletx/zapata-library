@@ -8,7 +8,7 @@ edition: 1. ed. mexicana
 exlibris: '2008'
 isbn: 978-968-476-056-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '28514916'

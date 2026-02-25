@@ -8,7 +8,7 @@ decade: 2000s
 edition: 5a ed
 isbn: 978-968-18-6915-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '141193953'

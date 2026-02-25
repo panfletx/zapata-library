@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: Arturo 1993
 isbn: 978-968-16-0968-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '14511573'

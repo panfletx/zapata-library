@@ -8,7 +8,7 @@ decade: 2010s
 edition: 1. ed
 isbn: 978-607-420-125-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '865565922'

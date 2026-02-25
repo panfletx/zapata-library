@@ -5,7 +5,7 @@ cover: covers/e9m3vy2f.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '38418740'

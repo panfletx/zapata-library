@@ -9,7 +9,7 @@ decade: 1980s
 edition: 1a ed
 isbn: 978-968-24-1346-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '21325043'

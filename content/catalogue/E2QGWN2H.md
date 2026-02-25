@@ -8,7 +8,7 @@ edition: 1a. ed., 2a. reimp
 exlibris: '1990'
 isbn: 978-84-375-0444-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '431625705'

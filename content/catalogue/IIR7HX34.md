@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: Ed. corr. y aum
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '743492306'

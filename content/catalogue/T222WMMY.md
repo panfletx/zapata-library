@@ -7,7 +7,7 @@ decade: 1990s
 edition: 2a ed., 1a reimpresión
 isbn: 978-968-16-1635-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '28768069'

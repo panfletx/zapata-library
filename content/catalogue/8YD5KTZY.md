@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1st U.S. ed
 isbn: 978-1-59691-469-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '154677642'

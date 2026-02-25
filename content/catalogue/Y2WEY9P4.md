@@ -8,7 +8,7 @@ decade: 1990s
 edition: Ed. íntegra
 isbn: 978-84-89163-75-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '56937613'

@@ -5,7 +5,7 @@ cover: covers/4lr46fbx.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '43436615'

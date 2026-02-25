@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1900s
 edition: '[Limited edition]'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '3307714'

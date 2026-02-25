@@ -7,7 +7,7 @@ decade: 1970s
 edition: 2a. ed
 isbn: 978-84-239-7354-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '32567362'

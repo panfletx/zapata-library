@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 isbn: 978-0-448-05478-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1386834'

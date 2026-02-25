@@ -5,7 +5,7 @@ cover: covers/kn6q6jmd.jpg
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1043903880'

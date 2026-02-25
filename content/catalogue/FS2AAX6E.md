@@ -6,7 +6,7 @@ cover_note: dedicatoria de Arriaga 2017
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- thesis
+- Thesis
 languages:
 - Español
 publishers:

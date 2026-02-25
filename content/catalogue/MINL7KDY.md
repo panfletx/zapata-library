@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2006'
 isbn: 978-950-04-2380-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '52974143'

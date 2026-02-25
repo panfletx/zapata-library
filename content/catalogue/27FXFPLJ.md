@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-2-8315-0767-5
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '937630780'

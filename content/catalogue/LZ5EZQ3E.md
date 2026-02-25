@@ -8,7 +8,7 @@ edition: 3. ed
 exlibris: '1989'
 isbn: 978-84-03-52041-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '31988389'

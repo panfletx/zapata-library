@@ -6,7 +6,7 @@ decade: 1940s
 edition: 2. ed
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2676792'

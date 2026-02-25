@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-722-361-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '57310684'

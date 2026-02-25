@@ -8,7 +8,7 @@ edition: 1a. ed.
 exlibris: '1994'
 isbn: 978-84-204-2556-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '632121059'

@@ -4,7 +4,7 @@ cover: covers/kh7nyfec.jpg
 date: '2024-09-01'
 isbn: 950-9111-08-2
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - del pregrino

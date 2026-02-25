@@ -7,7 +7,7 @@ decade: 1980s
 edition: 9a ed
 isbn: 978-968-6200-43-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '31505709'

@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2000'
 isbn: 978-84-95594-17-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434350565'

@@ -7,7 +7,7 @@ decade: 2000s
 edition: 2005 ed
 isbn: 978-0-451-21265-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '56050710'

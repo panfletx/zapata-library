@@ -4,7 +4,7 @@ cover: covers/4mg9s9kb.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Français
 publishers: []

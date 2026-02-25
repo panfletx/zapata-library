@@ -8,7 +8,7 @@ decade: 1990s
 edition: Primera edición
 isbn: 978-968-29-5903-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '30468604'

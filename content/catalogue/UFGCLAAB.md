@@ -4,7 +4,7 @@ cover: covers/ufgclaab.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- thesis
+- Thesis
 languages:
 - English
 publishers:

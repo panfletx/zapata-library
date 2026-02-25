@@ -8,7 +8,7 @@ edition: 1. ed. en Obras de Jorge Ibargüengoitia
 exlibris: '1989'
 isbn: 978-968-27-0327-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '20365327'

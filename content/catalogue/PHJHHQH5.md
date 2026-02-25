@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: '1999'
 isbn: 978-84-320-3984-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '802931584'

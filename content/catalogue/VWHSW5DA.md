@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: Ed. revue et augmentée
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '494309916'

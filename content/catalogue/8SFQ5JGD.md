@@ -3,7 +3,7 @@ authors: []
 cover: covers/8sfq5jgd.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

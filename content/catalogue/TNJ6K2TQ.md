@@ -6,7 +6,7 @@ decade: 1980s
 edition: Nouv. éd. entièrement refondue
 isbn: 978-2-85940-083-5
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '716105639'

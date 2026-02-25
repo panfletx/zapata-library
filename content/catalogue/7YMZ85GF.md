@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1990'
 isbn: 978-968-16-2387-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15877381'

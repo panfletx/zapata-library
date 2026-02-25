@@ -7,7 +7,7 @@ decade: 2000s
 edition: 3. ed
 isbn: 978-84-89693-81-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48537845'

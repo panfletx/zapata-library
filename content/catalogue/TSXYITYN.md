@@ -8,7 +8,7 @@ edition: 2a ed
 exlibris: '2008'
 isbn: 978-968-23-2115-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '56947013'

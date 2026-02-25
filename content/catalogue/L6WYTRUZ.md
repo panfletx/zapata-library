@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 exlibris: '1974'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '342296'

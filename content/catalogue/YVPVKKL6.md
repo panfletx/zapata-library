@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2001'
 isbn: 978-0-14-018411-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1027277862'

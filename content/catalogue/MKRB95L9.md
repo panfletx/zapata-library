@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: 2nd ed., rev
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '23874221'

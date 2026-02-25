@@ -8,7 +8,7 @@ decade: 2000s
 exlibris: '2007'
 isbn: 978-84-8428-182-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '657093813'

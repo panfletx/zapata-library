@@ -8,7 +8,7 @@ decade: 1970s
 edition: 2. ed
 featured: true
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '1071867734'

@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: 1994, regalo de Kieran
 isbn: 978-0-679-72889-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '21196384'

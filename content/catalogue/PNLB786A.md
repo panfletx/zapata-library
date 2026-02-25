@@ -8,7 +8,7 @@ decade: 1980s
 edition: '[1a. ed. en Clásicos universales Planeta]'
 isbn: 978-84-320-3996-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434545559'

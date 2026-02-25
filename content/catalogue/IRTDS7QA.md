@@ -7,7 +7,7 @@ decade: 2010s
 edition: First Atria Books hardcover edition
 isbn: 978-1-4767-0580-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '826526529'

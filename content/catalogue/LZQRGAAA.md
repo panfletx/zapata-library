@@ -9,7 +9,7 @@ decade: 1970s
 edition: 3a. ed
 isbn: 978-84-7223-528-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432413997'

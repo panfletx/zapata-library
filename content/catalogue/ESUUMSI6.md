@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1997'
 isbn: 978-968-39-1619-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '37743494'

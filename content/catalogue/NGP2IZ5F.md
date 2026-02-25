@@ -5,7 +5,7 @@ cover: covers/ngp2iz5f.jpg
 date: '2024-09-01'
 exlibris: '1975'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

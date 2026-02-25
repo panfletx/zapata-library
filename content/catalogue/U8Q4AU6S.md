@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: Luis Zapata
 isbn: 978-968-13-1547-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '227160362'

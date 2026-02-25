@@ -10,7 +10,7 @@ edition: 1a ed
 exlibris: '1996'
 isbn: 978-968-29-1245-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '23742361'

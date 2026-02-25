@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-84-473-2535-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432915117'

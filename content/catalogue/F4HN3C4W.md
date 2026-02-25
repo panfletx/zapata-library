@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-0-307-47258-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '800881643'

@@ -9,7 +9,7 @@ decade: 1990s
 edition: 1a reimpr
 isbn: 978-968-36-2190-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '773496533'

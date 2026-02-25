@@ -7,7 +7,7 @@ decade: 2000s
 edition: 4a. ed
 isbn: 978-950-754-007-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '956386938'

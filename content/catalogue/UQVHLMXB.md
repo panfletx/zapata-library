@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1a. ed. en "Narrativa Actual Mexicana."
 isbn: 978-970-690-022-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433221965'

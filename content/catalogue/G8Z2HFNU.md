@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a ed
 isbn: 978-968-13-1360-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15298063'

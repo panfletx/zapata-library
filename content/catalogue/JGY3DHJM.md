@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed. en México
 isbn: 978-968-446-018-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '26462435'

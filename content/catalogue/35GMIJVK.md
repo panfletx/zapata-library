@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: Luis Zapata
 isbn: 978-84-322-1637-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '52310369'

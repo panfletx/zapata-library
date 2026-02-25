@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '2004'
 isbn: 978-968-13-4032-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '922641678'

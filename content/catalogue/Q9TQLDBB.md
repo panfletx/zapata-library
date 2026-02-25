@@ -5,7 +5,7 @@ cover: covers/q9tqldbb.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '3807331'

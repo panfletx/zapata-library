@@ -7,7 +7,7 @@ decade: 1960s
 edition: Nouvelle éd. revue et augmentée
 exlibris: '1976'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1628204'

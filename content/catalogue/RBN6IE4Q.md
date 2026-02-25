@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a. ed
 isbn: 978-84-7765-092-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '431160400'

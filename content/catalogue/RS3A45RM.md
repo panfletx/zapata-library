@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a ed
 isbn: 978-84-7720-648-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '47833349'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a. ed
 isbn: 978-968-16-2942-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '32468762'

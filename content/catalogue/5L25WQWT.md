@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: 8. éd. rev
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '2196720'

@@ -6,7 +6,7 @@ cover: covers/mcdeeki3.jpg
 date: '2024-09-01'
 edition: Tercera edición
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1344959037'

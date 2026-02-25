@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a. ed. en esta colección
 isbn: 978-84-7175-361-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432777491'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed. en Lecturas mexicanas
 isbn: 978-968-29-0200-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15354616'

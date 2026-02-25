@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición en Cal y arena
 isbn: 978-607-9357-10-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '894558294'

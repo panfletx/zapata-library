@@ -9,7 +9,7 @@ decade: 1990s
 exlibris: '2002'
 isbn: 978-84-8130-146-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434261466'

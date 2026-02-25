@@ -4,7 +4,7 @@ cover: covers/hzn46qv2.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

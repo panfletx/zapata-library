@@ -5,7 +5,7 @@ cover: covers/t49ngj2h.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6759466'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1a. ed
 isbn: 978-84-264-1250-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '43414002'

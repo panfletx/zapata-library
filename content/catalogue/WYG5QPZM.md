@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1986'
 isbn: 978-968-27-0495-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '16467659'

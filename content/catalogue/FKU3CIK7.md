@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-88-11-36614-0
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '493597858'

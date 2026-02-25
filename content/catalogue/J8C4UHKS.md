@@ -8,7 +8,7 @@ edition: 3a ed
 exlibris: '1979'
 isbn: 978-84-323-0300-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22361588'

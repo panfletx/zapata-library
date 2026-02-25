@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1a edición
 isbn: 978-84-02-08149-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '907449266'

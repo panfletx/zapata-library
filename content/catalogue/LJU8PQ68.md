@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '2014'
 isbn: 978-607-7605-53-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '502259972'

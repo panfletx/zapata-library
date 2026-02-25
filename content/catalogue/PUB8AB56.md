@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1994'
 isbn: 978-2-07-023404-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '232993483'

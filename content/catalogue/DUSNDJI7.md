@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1a ed
 isbn: 978-607-521-036-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '907087307'

@@ -6,7 +6,7 @@ cover: covers/yb6sqzws.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1123664057'

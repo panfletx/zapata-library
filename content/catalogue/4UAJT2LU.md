@@ -6,7 +6,7 @@ cover: covers/4uajt2lu.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '3509174'

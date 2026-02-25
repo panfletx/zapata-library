@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 exlibris: '1993'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1035307506'

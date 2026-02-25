@@ -8,7 +8,7 @@ decade: 1980s
 edition: 5. ed
 isbn: 978-84-307-7091-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34775223'

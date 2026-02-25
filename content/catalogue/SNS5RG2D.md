@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '2009'
 isbn: 978-84-08-46213-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '492019534'

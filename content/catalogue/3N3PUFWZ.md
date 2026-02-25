@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: dedicatoria del autor
 isbn: 978-968-6245-05-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1187145081'

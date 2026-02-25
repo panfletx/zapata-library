@@ -7,7 +7,7 @@ decade: 1970s
 edition: 3. ed
 isbn: 978-968-12-0012-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '5489802'

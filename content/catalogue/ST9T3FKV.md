@@ -5,7 +5,7 @@ cover: covers/st9t3fkv.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '719766478'

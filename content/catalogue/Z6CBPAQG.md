@@ -7,7 +7,7 @@ decade: 1970s
 edition: '[1a. ed.]'
 exlibris: '1992'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1338295'

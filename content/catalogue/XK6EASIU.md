@@ -6,7 +6,7 @@ decade: 1970s
 edition: 23 ed
 isbn: 978-84-285-0003-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6478262'

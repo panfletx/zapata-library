@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-970-607-027-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '651183920'

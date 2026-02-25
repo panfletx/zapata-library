@@ -7,7 +7,7 @@ decade: 1970s
 edition: 2. ed., 11. reimpr
 isbn: 978-968-860-296-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34924912'

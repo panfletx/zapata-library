@@ -7,7 +7,7 @@ decade: 1970s
 edition: First edition
 isbn: 978-0-917342-66-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '5029606'

@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '2007'
 isbn: 978-9972-34-305-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '62199587'

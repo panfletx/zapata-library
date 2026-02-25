@@ -5,7 +5,7 @@ cover: covers/eem7bl3t.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages: []
 place: Mexico
 publishers:

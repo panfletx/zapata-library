@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1a. ed
 exlibris: '2004'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1148235436'

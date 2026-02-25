@@ -6,7 +6,7 @@ cover: covers/hziprva6.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '601878523'

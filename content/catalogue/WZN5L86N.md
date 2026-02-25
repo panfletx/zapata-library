@@ -8,7 +8,7 @@ decade: 2010s
 edition: 1a ed
 isbn: 978-607-445-193-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '808105657'

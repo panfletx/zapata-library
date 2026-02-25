@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-2-86744-042-7
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '12495945'

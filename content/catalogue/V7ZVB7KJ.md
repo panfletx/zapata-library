@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 exlibris: '1994'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651521559'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1. ed
 exlibris: '1991'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1036896742'

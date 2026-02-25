@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1979'
 isbn: 978-2-85203-050-3
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '6285510'

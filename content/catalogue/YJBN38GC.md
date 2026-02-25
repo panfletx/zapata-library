@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-968-856-919-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48716234'

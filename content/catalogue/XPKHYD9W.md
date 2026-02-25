@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a ed. en Lecturas mexicanas
 isbn: 978-968-16-1854-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '12645167'

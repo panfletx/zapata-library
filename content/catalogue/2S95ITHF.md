@@ -9,7 +9,7 @@ decade: 2000s
 edition: 1. ed. en español
 isbn: 978-968-12-0940-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '46319480'

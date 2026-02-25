@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '1996'
 isbn: 978-84-339-2097-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433523492'

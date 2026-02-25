@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1. ed. para México y Latinoamérica
 isbn: 978-968-16-3368-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22199439'

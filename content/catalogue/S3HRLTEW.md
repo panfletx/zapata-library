@@ -8,7 +8,7 @@ cover_note: Veronica Gonzalez de Leon 1975
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '919716175'

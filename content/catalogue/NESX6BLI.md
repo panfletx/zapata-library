@@ -7,7 +7,7 @@ decade: 1970s
 edition: '[4. ed.]'
 exlibris: '1976'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1693076'

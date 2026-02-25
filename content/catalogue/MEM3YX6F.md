@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1974'
 isbn: 978-0-380-01404-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '10473884'

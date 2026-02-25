@@ -7,7 +7,7 @@ decade: 1970s
 edition: 5. ed
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '778097365'

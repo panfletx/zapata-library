@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-607-31-2950-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '962134384'

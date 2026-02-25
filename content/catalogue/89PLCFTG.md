@@ -9,7 +9,7 @@ decade: 1980s
 edition: 4. ʹed. rev.
 isbn: 978-2-85203-066-4
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '20435972'

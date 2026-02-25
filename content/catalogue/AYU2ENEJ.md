@@ -5,7 +5,7 @@ cover: covers/ayu2enej.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '37336249'

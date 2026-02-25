@@ -8,7 +8,7 @@ decade: 2000s
 edition: 9. Aufl
 isbn: 978-3-518-02406-5
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '249811523'

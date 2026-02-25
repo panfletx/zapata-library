@@ -9,7 +9,7 @@ edition: 1. ed
 exlibris: '1997'
 isbn: 978-968-19-0250-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34927440'

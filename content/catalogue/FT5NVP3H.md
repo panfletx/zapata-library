@@ -9,7 +9,7 @@ decade: 2000s
 edition: 3a. ed
 isbn: 978-970-775-083-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '503453626'

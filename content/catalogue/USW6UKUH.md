@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: Luis Zapata
 isbn: 978-968-419-720-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '23451663'

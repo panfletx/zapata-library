@@ -10,7 +10,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-968-19-0857-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '55126294'

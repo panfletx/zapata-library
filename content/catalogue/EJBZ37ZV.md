@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1996'
 isbn: 978-2-253-06143-4
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '937667934'

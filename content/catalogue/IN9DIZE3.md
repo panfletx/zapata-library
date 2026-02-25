@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-1-57731-759-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '937880963'

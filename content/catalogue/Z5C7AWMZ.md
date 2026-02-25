@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1998'
 isbn: 978-950-03-6238-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '42018020'

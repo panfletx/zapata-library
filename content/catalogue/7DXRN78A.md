@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1950s
 edition: 4. ed., corr. y aumentada
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '4823053'

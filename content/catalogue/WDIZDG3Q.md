@@ -5,7 +5,7 @@ cover: covers/wdizdg3q.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- magazineArticle
+- Magazine
 languages: []
 publishers: []
 series: []

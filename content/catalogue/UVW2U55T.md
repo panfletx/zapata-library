@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a ed
 isbn: 978-84-89920-16-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '40879060'

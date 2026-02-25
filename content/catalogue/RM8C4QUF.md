@@ -6,7 +6,7 @@ date: '2024-09-01'
 exlibris: '1997'
 isbn: 978-84-02-05478-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '863124081'

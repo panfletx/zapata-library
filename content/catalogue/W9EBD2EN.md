@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-950-15-1164-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '55308728'

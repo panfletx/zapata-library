@@ -8,7 +8,7 @@ edition: 1. ed. en Memorias mexicanas
 exlibris: '1998'
 isbn: 978-970-18-1347-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '40456681'

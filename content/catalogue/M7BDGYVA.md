@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1a ed
 exlibris: dedicatoria de autora
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '14098868'

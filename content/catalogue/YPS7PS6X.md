@@ -4,7 +4,7 @@ cover: covers/yps7ps6x.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '27030445'

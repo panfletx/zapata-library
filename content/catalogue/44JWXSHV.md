@@ -9,7 +9,7 @@ edition: 2. ed
 exlibris: '1986'
 isbn: 978-968-5140-13-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15203895'

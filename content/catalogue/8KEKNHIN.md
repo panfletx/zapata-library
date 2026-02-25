@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1978'
 isbn: 978-2-07-028137-4
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1459448'

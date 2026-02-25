@@ -7,7 +7,7 @@ decade: 1980s
 edition: 11a ed
 isbn: 978-968-432-173-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '17304770'

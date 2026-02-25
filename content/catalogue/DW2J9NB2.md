@@ -7,7 +7,7 @@ cover: covers/dw2j9nb2.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '5436438'

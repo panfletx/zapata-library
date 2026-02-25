@@ -8,7 +8,7 @@ decade: 1980s
 edition: 2a ed
 isbn: 978-968-5826-60-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097209721'

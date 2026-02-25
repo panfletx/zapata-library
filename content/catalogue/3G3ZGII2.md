@@ -7,7 +7,7 @@ decade: 1970s
 edition: Erstausg
 isbn: 978-3-257-20125-3
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '74144687'

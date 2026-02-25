@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed. en Premiá editora
 isbn: 978-968-434-458-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '26435837'

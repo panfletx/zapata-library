@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-84-15601-94-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1029736094'

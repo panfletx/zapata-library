@@ -4,7 +4,7 @@ authors:
 cover: covers/c2zcgqgq.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '728236225'

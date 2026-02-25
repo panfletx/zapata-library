@@ -4,7 +4,7 @@ cover: covers/hawspycy.jpg
 date: '2024-09-01'
 decade: 2000s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '608403150'

@@ -4,7 +4,7 @@ authors:
 cover: covers/9tzikl7r.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Español
 publishers:

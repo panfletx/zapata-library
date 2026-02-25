@@ -5,7 +5,7 @@ cover: covers/u9nu8tdm.jpg
 date: '2024-09-01'
 decade: 1940s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44085202'

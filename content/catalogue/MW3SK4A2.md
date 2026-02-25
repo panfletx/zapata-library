@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1940s
 edition: 6a. edicion castellana
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2858472'

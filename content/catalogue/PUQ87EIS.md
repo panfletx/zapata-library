@@ -9,7 +9,7 @@ edition: 1a. ed
 exlibris: '2011'
 isbn: 978-84-9711-128-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '733883114'

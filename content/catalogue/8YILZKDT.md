@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1997'
 isbn: 978-968-16-1351-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1082023657'

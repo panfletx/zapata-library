@@ -8,7 +8,7 @@ decade: 1990s
 edition: 2. ed
 isbn: 978-972-20-1600-1
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '62620021'

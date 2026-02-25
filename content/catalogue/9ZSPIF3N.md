@@ -8,7 +8,7 @@ decade: 2010s
 edition: 2a ed. en Sergio Pitol
 isbn: 978-607-455-569-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '907008991'

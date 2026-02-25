@@ -5,7 +5,7 @@ cover: covers/qb9b74et.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '39820358'

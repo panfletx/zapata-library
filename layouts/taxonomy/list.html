@@ -13,6 +13,10 @@
     {{- $langKey := printf "lang_%s" $title -}}
     {{- $translated := i18n $langKey -}}
     {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
+  {{- else if eq .Section "item_types" -}}
+    {{- $typeKey := printf "type_%s" $title -}}
+    {{- $translated := i18n $typeKey -}}
+    {{- if $translated -}}{{- $title = $translated -}}{{- end -}}
   {{- end -}}
 
   {{ if .Data.Terms }}
@@ -30,6 +34,10 @@
         {{- else if eq $section "languages" -}}
           {{- $langKey := printf "lang_%s" $termTitle -}}
           {{- $translated := i18n $langKey -}}
+          {{- if $translated -}}{{- $termTitle = $translated -}}{{- end -}}
+        {{- else if eq $section "item_types" -}}
+          {{- $typeKey := printf "type_%s" $termTitle -}}
+          {{- $translated := i18n $typeKey -}}
           {{- if $translated -}}{{- $termTitle = $translated -}}{{- end -}}
         {{- end -}}
         {{- $items = $items | append (dict "label" $termTitle "permalink" .Page.RelPermalink "count" .Count) -}}

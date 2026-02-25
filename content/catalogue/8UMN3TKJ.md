@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: '2013'
 isbn: 978-2-07-070919-9
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '16912335'

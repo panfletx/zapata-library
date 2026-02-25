@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 exlibris: '1988'
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '1285754652'

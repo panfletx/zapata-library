@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a. ed. en "Narrativa breve."
 isbn: 978-84-261-2767-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433515361'

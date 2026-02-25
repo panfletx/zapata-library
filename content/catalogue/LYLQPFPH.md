@@ -8,7 +8,7 @@ decade: 1980s
 edition: Ed. rev. et corr
 isbn: 978-2-07-032372-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '28946617'

@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1984'
 isbn: 978-968-481-003-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '8585481'

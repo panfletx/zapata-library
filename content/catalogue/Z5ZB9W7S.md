@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '1997'
 isbn: 978-84-376-1154-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '28350674'

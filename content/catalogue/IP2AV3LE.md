@@ -7,7 +7,7 @@ decade: 2000s
 edition: 2. ed. en México
 isbn: 978-968-11-0456-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '53319221'

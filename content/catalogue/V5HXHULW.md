@@ -7,7 +7,7 @@ decade: 1940s
 edition: 12. éd
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '971173419'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1st ed
 isbn: 978-0-292-77646-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '22597157'

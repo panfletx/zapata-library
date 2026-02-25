@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1940s
 exlibris: '1975'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '3599124'

@@ -9,7 +9,7 @@ decade: 2010s
 edition: 1a ed
 isbn: 978-607-11-2585-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '907026057'

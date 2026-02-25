@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-968-9416-07-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '642214848'

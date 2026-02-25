@@ -9,7 +9,7 @@ edition: 1a. ed. en Pocket Edhasa
 exlibris: '2008'
 isbn: 978-84-350-1651-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433123161'

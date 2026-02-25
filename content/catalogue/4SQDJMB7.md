@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1992'
 isbn: 978-84-7223-297-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '24522949'

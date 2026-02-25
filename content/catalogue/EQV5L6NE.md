@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-9059-46-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '293075123'

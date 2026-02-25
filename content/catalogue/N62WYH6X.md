@@ -5,7 +5,7 @@ cover: covers/n62wyh6x.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '417300431'

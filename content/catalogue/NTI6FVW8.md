@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2000'
 isbn: 978-84-339-0597-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48428754'

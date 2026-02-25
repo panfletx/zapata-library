@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-2-07-039312-1
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1043367097'

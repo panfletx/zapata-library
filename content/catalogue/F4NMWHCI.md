@@ -9,7 +9,7 @@ edition: 2. ed
 exlibris: '1992'
 isbn: 978-968-23-1215-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '249145901'

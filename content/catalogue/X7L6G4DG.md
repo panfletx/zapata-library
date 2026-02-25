@@ -5,7 +5,7 @@ cover: covers/x7l6g4dg.jpg
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- thesis
+- Thesis
 languages: []
 publishers:
 - Universidad Autonoma del Estado del Morelos

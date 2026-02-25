@@ -8,7 +8,7 @@ edition: 1a edición
 exlibris: '1980'
 isbn: 978-84-02-07039-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1089756202'

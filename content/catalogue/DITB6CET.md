@@ -7,7 +7,7 @@ decade: 1990s
 edition: Vintage Canada Edition
 isbn: 978-0-394-28013-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1028679726'

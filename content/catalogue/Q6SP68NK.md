@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: Anchor books ed
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '477691234'

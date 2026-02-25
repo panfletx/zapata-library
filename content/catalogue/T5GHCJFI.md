@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1940s
 isbn: 978-0-15-650300-6
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '5672044'

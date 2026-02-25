@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1. ed
 isbn: 978-958-30-3786-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '801559112'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: Tercera edición
 isbn: 978-968-5059-06-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '51509644'

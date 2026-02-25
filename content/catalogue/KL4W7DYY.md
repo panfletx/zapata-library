@@ -10,7 +10,7 @@ edition: 1. ed
 exlibris: '1994'
 isbn: 978-84-322-0687-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '71357908'

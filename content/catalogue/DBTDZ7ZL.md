@@ -5,7 +5,7 @@ cover: covers/dbtdz7zl.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '27741390'

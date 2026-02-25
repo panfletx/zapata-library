@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1st Ballantine books ed
 isbn: 978-0-449-20064-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '9238949'

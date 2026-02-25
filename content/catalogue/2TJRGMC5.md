@@ -6,7 +6,7 @@ cover: covers/2tjrgmc5.jpg
 date: '2024-09-01'
 isbn: 84-494-2089-X
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Wagner Idiomas y Difusión

@@ -9,7 +9,7 @@ decade: 1980s
 edition: 6a. ed
 isbn: 978-84-02-00721-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434299001'

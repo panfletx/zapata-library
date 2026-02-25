@@ -8,7 +8,7 @@ edition: Warner books ed
 exlibris: '1980'
 isbn: 978-0-446-89035-9
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '7681144'

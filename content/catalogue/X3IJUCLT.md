@@ -8,7 +8,7 @@ edition: 1a. ed
 exlibris: '1974'
 isbn: 978-84-250-2999-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1256005492'

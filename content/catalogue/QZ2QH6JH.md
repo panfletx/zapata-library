@@ -8,7 +8,7 @@ edition: '[1a. ed.]'
 exlibris: '1990'
 isbn: 978-84-7574-431-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433814187'

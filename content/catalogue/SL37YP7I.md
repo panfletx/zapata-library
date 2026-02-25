@@ -8,7 +8,7 @@ decade: 2000s
 featured: true
 isbn: 978-2-234-05641-1
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '55144290'

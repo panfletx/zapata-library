@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '1994'
 isbn: 978-84-402-1074-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34093616'

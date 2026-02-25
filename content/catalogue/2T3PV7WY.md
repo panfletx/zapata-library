@@ -7,7 +7,7 @@ decade: 1960s
 edition: 2. ed
 exlibris: '1978'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2400858'

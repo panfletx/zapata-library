@@ -8,7 +8,7 @@ decade: 2000s
 exlibris: 2007, regalo de Gulhem
 isbn: 978-2-07-077716-7
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '74814480'

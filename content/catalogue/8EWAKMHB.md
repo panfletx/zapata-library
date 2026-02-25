@@ -5,7 +5,7 @@ authors:
 cover: covers/8ewakmhb.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

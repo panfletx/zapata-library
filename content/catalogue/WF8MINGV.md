@@ -7,7 +7,7 @@ cover_note: dedicatoria Samperio 1987
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1385247068'

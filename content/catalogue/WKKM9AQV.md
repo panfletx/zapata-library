@@ -9,7 +9,7 @@ decade: 1990s
 exlibris: '1978'
 isbn: 978-3-15-007451-0
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '72439981'

@@ -4,7 +4,7 @@ cover: covers/lvatpfdt.jpg
 date: '2024-09-01'
 issn: 01855727
 item_types:
-- magazineArticle
+- Magazine
 languages:
 - Español
 publishers: []

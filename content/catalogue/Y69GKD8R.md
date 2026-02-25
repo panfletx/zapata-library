@@ -7,7 +7,7 @@ decade: 1990s
 edition: 3 ed
 isbn: 978-84-339-1446-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '760608246'

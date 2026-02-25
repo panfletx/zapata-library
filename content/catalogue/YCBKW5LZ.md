@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-2-903669-08-9
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '252233344'

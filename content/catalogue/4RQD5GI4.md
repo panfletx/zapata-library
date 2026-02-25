@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 2000s
 edition: 1. ed
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1035760141'

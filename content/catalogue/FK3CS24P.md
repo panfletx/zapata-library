@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2001'
 isbn: 978-968-19-0200-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1334615630'

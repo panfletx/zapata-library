@@ -11,7 +11,7 @@ decade: 1990s
 exlibris: '1994'
 isbn: 978-968-6142-27-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '32659655'

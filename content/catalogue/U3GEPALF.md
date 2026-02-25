@@ -9,7 +9,7 @@ edition: Edición conmemorativa Real Academia Española, Asociación de Academia
 exlibris: '2007'
 isbn: 978-1-64473-472-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1252414007'

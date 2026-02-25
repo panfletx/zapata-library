@@ -7,7 +7,7 @@ decade: 2010s
 exlibris: '2011'
 isbn: 978-84-206-4975-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '939738510'

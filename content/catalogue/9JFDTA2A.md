@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-84-487-0504-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48895977'

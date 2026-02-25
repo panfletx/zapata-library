@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2006'
 isbn: 978-84-8130-426-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433166985'

@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2000'
 isbn: 978-84-406-7986-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1335613317'

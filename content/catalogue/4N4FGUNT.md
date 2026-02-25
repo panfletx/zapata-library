@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed. en Biblioteca de Bolsillo
 isbn: 978-84-322-3008-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '11439302'

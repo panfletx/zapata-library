@@ -6,7 +6,7 @@ decade: 1980s
 edition: Primera edición
 isbn: 978-968-481-000-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '8157496'

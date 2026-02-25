@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1950s
 exlibris: '1975'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1079966611'

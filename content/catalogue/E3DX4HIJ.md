@@ -8,7 +8,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-84-204-0508-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '649829811'

@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '1988'
 isbn: 978-968-6672-44-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '16393613'

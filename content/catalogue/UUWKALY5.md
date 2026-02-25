@@ -6,7 +6,7 @@ decade: 1970s
 exlibris: '1976'
 isbn: 978-2-253-00436-3
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1120129'

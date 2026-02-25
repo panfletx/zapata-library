@@ -3,7 +3,7 @@ authors: []
 cover: covers/seg7xxdl.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Universidad Nacional Autónoma de México

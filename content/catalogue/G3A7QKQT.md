@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '2005'
 isbn: 978-970-24-0556-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '61168511'

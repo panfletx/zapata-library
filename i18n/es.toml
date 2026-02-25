@@ -94,20 +94,17 @@ other = "Explorar por"
 [all]
 other = "Ver todos"
 
-[book]
+[type_Book]
 other = "Libro"
 
-[magazineArticle]
-other = "Artículo de revista"
+[type_Magazine]
+other = "Revista"
 
-[thesis]
+[type_Thesis]
 other = "Tesis"
 
-[journalArticle]
-other = "Artículo académico"
-
-[newspaperArticle]
-other = "Artículo de periódico"
+[type_Newspaper]
+other = "Periódico"
 
 [filters]
 other = "Filtros"

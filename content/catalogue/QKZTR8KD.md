@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed
 isbn: 978-968-16-1529-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '11874413'

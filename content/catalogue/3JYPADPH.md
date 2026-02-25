@@ -7,7 +7,7 @@ decade: 1970s
 edition: 5. ed
 isbn: 978-968-432-125-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '221620650'

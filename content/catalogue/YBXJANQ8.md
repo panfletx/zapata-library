@@ -8,7 +8,7 @@ edition: 1a ed., 1a reimp
 exlibris: '1992'
 isbn: 978-968-24-3643-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '911674410'

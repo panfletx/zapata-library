@@ -4,7 +4,7 @@ cover: covers/v9uetj8g.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Costa-Amic Editores

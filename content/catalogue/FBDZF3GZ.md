@@ -9,7 +9,7 @@ decade: 1980s
 exlibris: '1991'
 isbn: 978-84-376-0503-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434643561'

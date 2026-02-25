@@ -7,7 +7,7 @@ decade: 2000s
 edition: 4. ed
 isbn: 978-88-459-0680-0
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '982268472'

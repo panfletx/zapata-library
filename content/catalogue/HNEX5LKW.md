@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1994'
 isbn: 978-950-16-0206-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1123641371'

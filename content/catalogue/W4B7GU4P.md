@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1999 ed
 isbn: 978-0-451-19582-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '39693075'

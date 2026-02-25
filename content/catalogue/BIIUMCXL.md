@@ -7,7 +7,7 @@ decade: 1990s
 edition: 4. edição
 isbn: 978-85-325-0482-1
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '35548535'

@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1. Aufl
 exlibris: '2007'
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '632306296'

@@ -5,7 +5,7 @@ cover: covers/lbp6vgvk.jpg
 date: '2024-09-01'
 isbn: 978-0-451-19203-5
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1323094563'

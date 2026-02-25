@@ -7,7 +7,7 @@ decade: 1980s
 edition: 14a ed
 isbn: 978-968-23-0156-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '18508581'

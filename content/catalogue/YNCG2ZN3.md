@@ -9,7 +9,7 @@ edition: Segunda edición
 exlibris: '2014'
 isbn: 978-968-5382-59-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '875560859'

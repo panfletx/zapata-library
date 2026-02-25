@@ -5,7 +5,7 @@ cover: covers/lwnwzkh2.jpg
 date: '2024-09-01'
 exlibris: '2004'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '17429542'

@@ -8,7 +8,7 @@ decade: 1970s
 edition: 9. ed
 exlibris: '1974'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '5011965'

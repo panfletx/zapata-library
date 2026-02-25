@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1st ed
 isbn: 978-84-7223-440-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '31826384'

@@ -8,7 +8,7 @@ decade: 1990s
 edition: Seventh edition
 isbn: 978-84-293-0724-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1344755724'

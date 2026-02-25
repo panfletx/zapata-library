@@ -8,7 +8,7 @@ decade: 1980s
 edition: 2nd ed
 isbn: 978-0-571-15457-9
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '59165787'

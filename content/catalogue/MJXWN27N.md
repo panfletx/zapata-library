@@ -5,7 +5,7 @@ cover: covers/mjxwn27n.jpg
 date: '2024-09-01'
 decade: 1920s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '908021'

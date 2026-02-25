@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-84-322-0283-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '901754774'

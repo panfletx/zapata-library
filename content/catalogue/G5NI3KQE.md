@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1st
 isbn: 978-607-7742-72-2
 item_types:
-- book
+- Book
 languages:
 - Español
 place: México

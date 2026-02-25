@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1. ed
 isbn: 978-968-27-0098-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6132685'

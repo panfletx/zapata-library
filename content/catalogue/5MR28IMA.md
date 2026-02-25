@@ -5,7 +5,7 @@ cover: covers/5mr28ima.jpg
 date: '2024-09-01'
 exlibris: '2005'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

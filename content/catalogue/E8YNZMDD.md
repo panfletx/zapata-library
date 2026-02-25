@@ -7,7 +7,7 @@ decade: 1980s
 edition: Nueva ed
 isbn: 978-0-8297-0515-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '26079781'

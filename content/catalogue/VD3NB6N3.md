@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-1-879691-22-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '33157592'

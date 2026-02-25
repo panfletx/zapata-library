@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '2014'
 isbn: 978-2-253-00287-1
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '16859808'

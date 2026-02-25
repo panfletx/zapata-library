@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '1996'
 isbn: 978-987-00-0589-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '740484449'

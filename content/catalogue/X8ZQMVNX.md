@@ -9,7 +9,7 @@ edition: 5ª ed
 exlibris: '1989'
 isbn: 978-84-02-06426-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '919963705'

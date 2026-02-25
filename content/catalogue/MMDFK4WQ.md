@@ -5,7 +5,7 @@ cover: covers/mmdfk4wq.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Español
 pages: 183

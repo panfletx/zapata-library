@@ -9,7 +9,7 @@ decade: 1990s
 edition: 1. ed. en español
 isbn: 978-968-16-5676-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '43837006'

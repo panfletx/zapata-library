@@ -8,7 +8,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-745-866-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1121427938'

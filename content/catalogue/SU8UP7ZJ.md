@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: '1993'
 isbn: 978-0-14-043114-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '22402706'

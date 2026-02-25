@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '2003'
 isbn: 978-84-239-1532-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '912556'

@@ -7,7 +7,7 @@ decade: 1980s
 featured: true
 isbn: 978-968-433-195-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '17928128'

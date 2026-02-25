@@ -5,7 +5,7 @@ cover: covers/9fepq4bc.jpg
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '983473303'

@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1a ed
 isbn: 978-968-433-258-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '18818803'

@@ -8,7 +8,7 @@ edition: 9 ed
 exlibris: '1977'
 isbn: 978-84-322-2617-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '850682848'

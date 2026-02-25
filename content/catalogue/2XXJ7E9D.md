@@ -5,7 +5,7 @@ cover: covers/2xxj7e9d.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '81101419'

@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición en esta colección
 isbn: 978-607-00-2524-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '721955286'

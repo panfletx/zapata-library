@@ -8,7 +8,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-95744-6-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '874811679'

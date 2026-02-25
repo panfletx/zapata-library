@@ -5,7 +5,7 @@ cover: covers/6gkejg8x.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1335738177'

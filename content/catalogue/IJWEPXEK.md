@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2014'
 isbn: 978-968-867-183-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '647766836'

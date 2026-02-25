@@ -9,7 +9,7 @@ edition: 10a edición
 exlibris: '2010'
 isbn: 978-84-344-4471-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '964784596'

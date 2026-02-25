@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: Popular library ed
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1057068315'

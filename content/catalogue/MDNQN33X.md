@@ -3,7 +3,7 @@ authors: []
 cover: covers/mdnqn33x.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Banco nacional de México

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-84-414-1296-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '920293526'

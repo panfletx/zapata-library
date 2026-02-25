@@ -7,7 +7,7 @@ decade: 1970s
 edition: Di 1 ban
 isbn: 978-0-17-432064-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '966012230'

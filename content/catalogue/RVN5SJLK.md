@@ -9,7 +9,7 @@ decade: 1990s
 exlibris: '2004'
 isbn: 978-2-02-023535-8
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '36541642'

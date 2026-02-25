@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1. ed
 isbn: 978-2-03-490073-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15799576'

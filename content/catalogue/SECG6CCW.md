@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: '[Nachdr.]'
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '601109128'

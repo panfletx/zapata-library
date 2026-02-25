@@ -7,7 +7,7 @@ decade: 1980s
 edition: 6a ed
 isbn: 978-968-15-0023-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '37773742'

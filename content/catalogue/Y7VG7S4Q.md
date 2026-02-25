@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-607-7605-36-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '460813822'

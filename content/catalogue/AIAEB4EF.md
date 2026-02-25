@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1985'
 isbn: 978-84-323-0439-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '913002244'

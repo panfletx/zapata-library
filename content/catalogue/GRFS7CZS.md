@@ -5,7 +5,7 @@ cover: covers/grfs7czs.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1187134110'

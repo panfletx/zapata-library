@@ -5,7 +5,7 @@ cover: covers/xuphsd39.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- magazineArticle
+- Magazine
 languages: []
 publishers: []
 series: []

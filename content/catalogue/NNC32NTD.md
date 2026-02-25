@@ -7,7 +7,7 @@ decade: 1980s
 edition: '[5 ed., 2 reimp.]'
 isbn: 978-968-16-0263-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1187114551'

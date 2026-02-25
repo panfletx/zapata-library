@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1a ed
 isbn: 978-84-02-05843-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '9587748'

@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-35-1109-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '122937908'

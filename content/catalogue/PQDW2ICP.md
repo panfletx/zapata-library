@@ -6,7 +6,7 @@ cover_note: dedicatoria del autor
 date: '2024-09-01'
 decade: 2000s
 item_types:
-- thesis
+- Thesis
 languages: []
 publishers:
 - Escuela Nacional de Antropología e Historia

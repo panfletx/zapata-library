@@ -3,7 +3,7 @@ authors: []
 cover: covers/blyhdzge.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

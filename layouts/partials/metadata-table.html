@@ -76,7 +76,7 @@
   {{ with .Params.item_types }}
   <tr>
     <th scope="row">{{ i18n "item_type" }}</th>
-    <td>{{ range . }}{{ i18n . | default . }}{{ end }}</td>
+    <td>{{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ i18n (printf "type_%s" $t) | default $t }}{{ end }}</td>
   </tr>
   {{ end }}
 

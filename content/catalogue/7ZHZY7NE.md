@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-84-8346-507-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '963554509'

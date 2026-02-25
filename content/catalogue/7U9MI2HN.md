@@ -8,7 +8,7 @@ decade: 1990s
 edition: Edición española
 isbn: 978-3-89508-830-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '42721390'

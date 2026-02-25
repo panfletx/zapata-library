@@ -9,7 +9,7 @@ edition: 1a. ed. en Clásicos para hoy
 exlibris: '1999'
 isbn: 978-970-18-1913-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '64578351'

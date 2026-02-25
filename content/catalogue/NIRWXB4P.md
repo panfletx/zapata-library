@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: 5th edition
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '20194720'

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: Faksimiledrucke nach der Erstausg. von 1670 und der Happelschen Übersetz. von 1682
 item_types:
-- book
+- Book
 languages:
 - Multilingual
 oclc: '922590125'

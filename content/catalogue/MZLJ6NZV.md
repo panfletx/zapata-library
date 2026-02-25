@@ -8,7 +8,7 @@ decade: 1970s
 edition: 1. ed. en Clásicos de la literatura mexicana
 isbn: 978-968-34-0016-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1099693545'

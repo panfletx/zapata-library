@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1a ed
 isbn: 978-84-217-4258-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '12985074'

@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-84-206-0079-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '23156325'

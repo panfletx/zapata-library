@@ -7,7 +7,7 @@ decade: 2010s
 edition: Cuarta edición
 isbn: 978-1-937149-07-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1034013989'

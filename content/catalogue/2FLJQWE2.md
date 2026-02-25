@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1980s
 exlibris: '1975'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '24052314'

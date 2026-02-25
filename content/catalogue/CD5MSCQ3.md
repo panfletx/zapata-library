@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-9977-23-826-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '71822760'

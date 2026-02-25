@@ -8,7 +8,7 @@ edition: 8th ed
 exlibris: '1982'
 isbn: 978-968-23-0136-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '10193089'

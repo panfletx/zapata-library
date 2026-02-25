@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: 4. ed
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2305908'

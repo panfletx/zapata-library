@@ -5,7 +5,7 @@ authors:
 cover: covers/6mx8glhr.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '906796669'

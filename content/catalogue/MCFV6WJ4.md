@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2010'
 isbn: 978-958-04-4918-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '42902634'

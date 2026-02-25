@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 edition: 9th ed
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '231363285'

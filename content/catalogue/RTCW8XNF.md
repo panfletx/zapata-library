@@ -6,7 +6,7 @@ decade: 2000s
 edition: 9a ed., actualizada
 isbn: 978-970-10-3878-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '54856245'

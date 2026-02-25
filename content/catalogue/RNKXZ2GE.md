@@ -4,7 +4,7 @@ authors:
 cover: covers/rnkxz2ge.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Centro de estudos brasileiros

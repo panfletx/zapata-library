@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2011'
 isbn: 978-607-05-0085-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '530159046'

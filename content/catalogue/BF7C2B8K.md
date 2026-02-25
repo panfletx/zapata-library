@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-88-7063-200-2
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '953779925'

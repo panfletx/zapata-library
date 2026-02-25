@@ -8,7 +8,7 @@ decade: 1990s
 edition: Ed. rev. y aum
 isbn: 978-950-03-6242-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44590867'

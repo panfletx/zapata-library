@@ -8,7 +8,7 @@ edition: 2. ed
 exlibris: '2004'
 isbn: 978-84-663-0190-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '742535609'

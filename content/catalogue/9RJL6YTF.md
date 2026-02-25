@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-2-86432-363-1
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '300189790'

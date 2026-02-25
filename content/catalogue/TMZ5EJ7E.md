@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1993'
 isbn: 978-84-7178-305-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '8046338'

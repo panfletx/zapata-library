@@ -7,7 +7,7 @@ decade: 1970s
 edition: Cuarta edición
 isbn: 978-968-27-0065-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '929706445'

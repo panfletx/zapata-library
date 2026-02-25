@@ -3,7 +3,7 @@ authors: []
 cover: covers/fhf769ls.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

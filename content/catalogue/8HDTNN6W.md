@@ -29,7 +29,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-0-618-98272-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '313657957'

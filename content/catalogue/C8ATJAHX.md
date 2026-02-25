@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: 2a ed
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097757558'

@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1st American ed
 isbn: 978-0-517-58592-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '23179511'

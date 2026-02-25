@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-84-96867-79-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '761850741'

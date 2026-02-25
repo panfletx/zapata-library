@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1950s
 isbn: 978-0-671-48905-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '5346749'

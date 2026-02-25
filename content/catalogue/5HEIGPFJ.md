@@ -8,7 +8,7 @@ decade: 2010s
 edition: 1a ed
 isbn: 978-607-7818-41-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '807327609'

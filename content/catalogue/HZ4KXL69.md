@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-607-00-0957-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '313657146'

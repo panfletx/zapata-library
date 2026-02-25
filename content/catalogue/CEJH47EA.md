@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1988'
 isbn: 978-2-85707-210-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '25337813'

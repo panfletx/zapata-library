@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-1-84513-367-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '236120426'

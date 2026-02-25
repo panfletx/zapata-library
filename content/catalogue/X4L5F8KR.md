@@ -4,7 +4,7 @@ authors:
 cover: covers/x4l5f8kr.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

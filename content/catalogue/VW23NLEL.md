@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-970-770-521-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '137263537'

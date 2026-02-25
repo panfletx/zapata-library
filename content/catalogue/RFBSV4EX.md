@@ -9,7 +9,7 @@ decade: 1980s
 edition: '[2a. ed. en Clásicos universales Planeta]'
 isbn: 978-84-320-3860-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434923661'

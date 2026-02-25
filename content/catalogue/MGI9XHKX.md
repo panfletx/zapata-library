@@ -5,7 +5,7 @@ cover: covers/mgi9xhkx.jpg
 date: '2024-09-01'
 isbn: 968-16-5216-9
 item_types:
-- book
+- Book
 languages:
 - Español
 publishers:

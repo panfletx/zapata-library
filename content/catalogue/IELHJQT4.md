@@ -8,7 +8,7 @@ edition: '[Rev. ed'
 exlibris: '1986'
 isbn: 978-84-03-87062-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '61655889'

@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1a. ed
 isbn: 978-84-320-7198-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '55287179'

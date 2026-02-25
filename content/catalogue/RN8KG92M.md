@@ -7,7 +7,7 @@ decade: 1970s
 edition: First edition
 isbn: 978-0-525-05030-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '4114721'

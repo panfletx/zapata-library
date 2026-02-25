@@ -7,7 +7,7 @@ decade: 1990s
 edition: 3 ed
 isbn: 978-968-434-098-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '970454572'

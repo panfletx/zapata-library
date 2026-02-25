@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1994'
 isbn: 978-84-7223-693-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '32129014'

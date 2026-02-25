@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1. ed
 isbn: 978-968-6042-04-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '15702330'

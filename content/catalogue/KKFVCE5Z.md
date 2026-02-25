@@ -8,7 +8,7 @@ edition: 1a ed
 exlibris: '1994'
 isbn: 978-970-05-0070-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '24880938'

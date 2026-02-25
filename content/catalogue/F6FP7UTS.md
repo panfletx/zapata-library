@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-0-14-004832-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '705385965'

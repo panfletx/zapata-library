@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: 26 ed
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '37130925'

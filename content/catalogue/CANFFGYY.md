@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-968-18-4627-5
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '906794964'

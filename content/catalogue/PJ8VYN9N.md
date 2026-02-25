@@ -9,7 +9,7 @@ decade: 1970s
 exlibris: '1992'
 isbn: 978-2-07-037109-9
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '22915108'

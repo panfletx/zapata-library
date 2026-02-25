@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-84-611-7474-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '184736609'

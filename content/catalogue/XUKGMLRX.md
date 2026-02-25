@@ -6,7 +6,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-607-02-0819-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '558694231'

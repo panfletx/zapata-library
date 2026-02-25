@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1977'
 isbn: 978-968-419-021-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1146497612'

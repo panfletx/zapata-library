@@ -7,7 +7,7 @@ decade: 1950s
 edition: 1. ed. en español, 1. reimpressión
 exlibris: '1978'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '383038795'

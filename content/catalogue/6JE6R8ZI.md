@@ -9,7 +9,7 @@ edition: 2.a ed
 exlibris: '1991'
 isbn: 978-84-02-08784-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '59281895'

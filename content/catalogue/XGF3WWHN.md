@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1a ed
 isbn: 978-968-890-124-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34270670'

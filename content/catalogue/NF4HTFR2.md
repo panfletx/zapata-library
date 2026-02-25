@@ -9,7 +9,7 @@ decade: 1960s
 edition: '[1. Aufl.]'
 isbn: 978-3-12-554100-9
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '1495169'

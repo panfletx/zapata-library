@@ -8,7 +8,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-502-474-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '982086248'

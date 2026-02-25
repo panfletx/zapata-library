@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1. ed. en Alfaguara
 isbn: 978-968-19-0493-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '40474321'

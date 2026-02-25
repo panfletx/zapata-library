@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1890s
 edition: Nueva [i.e. 9.] ed., corr. y aum.
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '11215699'

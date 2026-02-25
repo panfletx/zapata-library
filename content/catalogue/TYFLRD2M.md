@@ -5,7 +5,7 @@ cover: covers/tyflrd2m.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages: []
 place: Mexico
 publishers:

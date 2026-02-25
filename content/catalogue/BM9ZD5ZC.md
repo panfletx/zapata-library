@@ -8,7 +8,7 @@ decade: 1970s
 edition: Reprint
 isbn: 978-0-14-043009-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '917697170'

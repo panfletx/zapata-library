@@ -6,7 +6,7 @@ cover_note: dedicatoria 1981
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '37344125'

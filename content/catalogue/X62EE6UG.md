@@ -4,7 +4,7 @@ cover: covers/x62ee6ug.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

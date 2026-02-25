@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1990'
 isbn: 978-968-419-667-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22452318'

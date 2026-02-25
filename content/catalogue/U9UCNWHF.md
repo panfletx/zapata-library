@@ -7,7 +7,7 @@ decade: 1980s
 edition: Avenel 1980 edition
 isbn: 978-0-517-33841-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '7007261'

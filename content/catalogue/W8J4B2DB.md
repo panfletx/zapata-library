@@ -7,7 +7,7 @@ decade: 1970s
 edition: '[6. ed.]'
 isbn: 978-84-285-0003-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2127046'

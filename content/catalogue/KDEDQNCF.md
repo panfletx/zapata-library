@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1991'
 isbn: 978-968-16-3505-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '45547337'

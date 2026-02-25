@@ -7,7 +7,7 @@ decade: 2000s
 edition: Nueva ed
 isbn: 978-84-253-4180-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '920212093'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 2a. ed
 isbn: 978-84-02-06592-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '11718871'

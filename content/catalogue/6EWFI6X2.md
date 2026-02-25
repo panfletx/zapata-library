@@ -9,7 +9,7 @@ edition: 2a ed
 exlibris: '1986'
 isbn: 978-84-206-3054-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1344136220'

@@ -7,7 +7,7 @@ decade: 1970s
 edition: Reprint
 exlibris: '1978'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '757915114'

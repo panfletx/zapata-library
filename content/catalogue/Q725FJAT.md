@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1a. ed
 isbn: 978-968-7711-04-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '649687333'

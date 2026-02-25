@@ -9,7 +9,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-00-5502-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '972178760'

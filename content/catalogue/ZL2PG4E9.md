@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1. ed
 isbn: 978-956-284-077-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1153085805'

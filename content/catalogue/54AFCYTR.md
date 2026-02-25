@@ -6,7 +6,7 @@ cover: covers/54afcytr.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '8327694'

@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1990s
 issn: 0188-6886
 item_types:
-- magazineArticle
+- Magazine
 languages: []
 publishers: []
 series: []

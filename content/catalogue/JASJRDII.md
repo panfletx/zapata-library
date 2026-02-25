@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-2-7143-0528-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '472656324'

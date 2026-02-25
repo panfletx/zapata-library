@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-2-266-08994-4
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '490509445'

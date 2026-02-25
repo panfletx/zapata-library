@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '2010'
 isbn: 978-970-810-398-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '906918459'

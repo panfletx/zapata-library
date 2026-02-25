@@ -8,7 +8,7 @@ decade: 1990s
 edition: 17a ed
 isbn: 978-968-432-320-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '230137136'

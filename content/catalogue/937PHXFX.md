@@ -5,7 +5,7 @@ cover: covers/937phxfx.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Italiano
 oclc: '1691307'

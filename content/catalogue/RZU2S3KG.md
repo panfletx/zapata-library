@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1. ed
 isbn: 978-84-322-1379-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '5433462'

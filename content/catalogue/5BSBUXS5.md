@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2000'
 isbn: 978-2-01-019714-7
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '859869970'

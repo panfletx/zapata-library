@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-607-502-001-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097211058'

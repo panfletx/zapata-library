@@ -8,7 +8,7 @@ decade: 1980s
 edition: 2a. ed
 isbn: 978-84-339-1768-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '468897316'

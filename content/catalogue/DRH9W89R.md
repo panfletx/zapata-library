@@ -4,7 +4,7 @@ cover: covers/drh9w89r.jpg
 date: '2024-09-01'
 decade: 2020s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1275367215'

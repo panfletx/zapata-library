@@ -7,7 +7,7 @@ decade: 2010s
 exlibris: '2003'
 isbn: 978-970-697-259-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '739713821'

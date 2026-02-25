@@ -7,7 +7,7 @@ decade: 1960s
 edition: '[1. ed.]'
 exlibris: '1970'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1348668'

@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a. ed. en Debolsillo
 isbn: 978-84-9793-250-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433659234'

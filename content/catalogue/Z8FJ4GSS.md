@@ -4,7 +4,7 @@ authors:
 cover: covers/z8fj4gss.jpg
 date: '2024-09-01'
 item_types:
-- magazineArticle
+- Magazine
 languages: []
 publishers: []
 series: []

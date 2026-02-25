@@ -8,7 +8,7 @@ edition: Orig. Ausg
 exlibris: '2004'
 isbn: 978-3-499-22455-3
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '634712475'

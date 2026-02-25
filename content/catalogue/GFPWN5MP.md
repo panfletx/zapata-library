@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-607-16-0086-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '648993587'

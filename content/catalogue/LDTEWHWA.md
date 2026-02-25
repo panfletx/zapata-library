@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1a. ed
 isbn: 978-84-7720-382-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434322100'

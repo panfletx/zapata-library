@@ -9,7 +9,7 @@ decade: 1990s
 exlibris: '1995'
 isbn: 978-2-910233-24-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '956552033'

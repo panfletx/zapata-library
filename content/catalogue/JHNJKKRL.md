@@ -11,7 +11,7 @@ exlibris: '2007'
 featured: true
 isbn: 978-970-94656-4-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651214293'

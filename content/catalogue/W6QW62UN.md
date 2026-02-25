@@ -9,7 +9,7 @@ edition: 1ª ed. en México
 exlibris: '1992'
 isbn: 978-968-19-0132-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1187094527'

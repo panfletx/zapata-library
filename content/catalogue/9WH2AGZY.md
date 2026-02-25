@@ -4,7 +4,7 @@ cover: covers/9wh2agzy.jpg
 date: '2024-09-01'
 exlibris: '1980'
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

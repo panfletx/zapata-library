@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-968-6773-95-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1225731515'

@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: Luis Zapata
 isbn: 978-84-493-0788-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '46474331'

@@ -6,7 +6,7 @@ cover: covers/m28sl4xg.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '6928625'

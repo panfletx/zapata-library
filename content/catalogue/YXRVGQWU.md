@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-607-7757-23-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '840003729'

@@ -4,7 +4,7 @@ cover: covers/6l7cxfxp.jpg
 date: '2024-09-01'
 isbn: 01888056
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

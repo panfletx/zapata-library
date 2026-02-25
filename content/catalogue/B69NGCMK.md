@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a. ed
 isbn: 978-968-29-4042-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '55300303'

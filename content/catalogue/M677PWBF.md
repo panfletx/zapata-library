@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 exlibris: '1980'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2208262'

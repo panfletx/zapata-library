@@ -4,7 +4,7 @@ authors:
 cover: covers/sennln23.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1345559914'

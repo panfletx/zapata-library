@@ -5,7 +5,7 @@ cover: covers/ijar365t.jpg
 date: '2024-09-01'
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1009595390'

@@ -94,20 +94,17 @@ other = "Browse by"
 [all]
 other = "View all"
 
-[book]
+[type_Book]
 other = "Book"
 
-[magazineArticle]
-other = "Magazine Article"
+[type_Magazine]
+other = "Magazine"
 
-[thesis]
+[type_Thesis]
 other = "Thesis"
 
-[journalArticle]
-other = "Journal Article"
-
-[newspaperArticle]
-other = "Newspaper Article"
+[type_Newspaper]
+other = "Newspaper"
 
 [filters]
 other = "Filters"

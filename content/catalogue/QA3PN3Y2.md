@@ -9,7 +9,7 @@ decade: 1970s
 edition: 3.ª ed
 isbn: 978-84-245-0004-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1024470759'

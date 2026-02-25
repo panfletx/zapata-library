@@ -9,7 +9,7 @@ decade: 2020s
 edition: Primera edición de esta colección
 isbn: 978-84-1132-206-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1350425063'

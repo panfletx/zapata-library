@@ -8,7 +8,7 @@ decade: 1970s
 edition: 1a ed
 isbn: 978-968-16-0367-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '7463058'

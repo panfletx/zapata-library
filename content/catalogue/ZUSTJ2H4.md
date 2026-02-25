@@ -7,7 +7,7 @@ decade: 1980s
 edition: 3a reimp.
 isbn: 978-968-16-2373-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651482021'

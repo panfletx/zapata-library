@@ -9,7 +9,7 @@ edition: '[2a ed]'
 exlibris: '1990'
 isbn: 978-84-206-1669-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1055062404'

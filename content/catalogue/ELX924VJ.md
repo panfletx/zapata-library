@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1960s
 isbn: 978-0-671-46717-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '4636120'

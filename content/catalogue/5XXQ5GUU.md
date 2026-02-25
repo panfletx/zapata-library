@@ -8,7 +8,7 @@ decade: 1980s
 edition: 1st ed
 isbn: 978-0-917342-02-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '9784903'

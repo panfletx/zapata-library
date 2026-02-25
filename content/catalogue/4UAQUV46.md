@@ -5,7 +5,7 @@ cover: covers/4uaquv46.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '452740587'

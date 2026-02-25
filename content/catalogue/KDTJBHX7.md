@@ -6,7 +6,7 @@ decade: 2000s
 edition: 2a ed
 isbn: 978-84-253-4011-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '804538808'

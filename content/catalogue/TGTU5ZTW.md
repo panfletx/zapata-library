@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-0-917342-68-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1050823666'

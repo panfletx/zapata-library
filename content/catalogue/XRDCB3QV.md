@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-2-220-02163-8
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '5895022'

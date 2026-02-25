@@ -7,7 +7,7 @@ decade: 1970s
 exlibris: '1980'
 isbn: 978-968-434-098-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097214435'

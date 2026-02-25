@@ -6,7 +6,7 @@ cover: covers/nfc8tx86.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '6597325'

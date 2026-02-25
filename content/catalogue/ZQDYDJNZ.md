@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1991'
 isbn: 978-85-208-0102-4
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '21111703'

@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-84-95199-49-2
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '41835878'

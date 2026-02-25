@@ -4,7 +4,7 @@ cover: covers/gz6xciwn.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 968-5243-35-2
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Tinta nueva ediciones

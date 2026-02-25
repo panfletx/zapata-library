@@ -7,7 +7,7 @@ decade: 1970s
 edition: 7. ed
 isbn: 978-84-02-00020-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '2843207'

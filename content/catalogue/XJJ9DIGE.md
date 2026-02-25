@@ -9,7 +9,7 @@ decade: 1990s
 exlibris: '2007'
 isbn: 978-84-7552-660-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '431615515'

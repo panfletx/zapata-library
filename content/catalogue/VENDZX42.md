@@ -9,7 +9,7 @@ edition: 1a. ed. en Maxi
 exlibris: '2011'
 isbn: 978-970-699-049-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '878465606'

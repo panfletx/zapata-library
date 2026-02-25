@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 968-438-999-X
 item_types:
-- book
+- Book
 languages: []
 place: Mexico
 publishers:

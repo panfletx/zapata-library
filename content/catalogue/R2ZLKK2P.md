@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '2003'
 isbn: 978-84-322-4732-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '981358751'

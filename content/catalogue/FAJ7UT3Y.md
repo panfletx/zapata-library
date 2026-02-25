@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 2010s
 issn: '16653629'
 item_types:
-- magazineArticle
+- Magazine
 languages:
 - Español
 publishers: []

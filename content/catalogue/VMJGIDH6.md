@@ -10,7 +10,7 @@ edition: '[1a. ed.]'
 exlibris: '1991'
 isbn: 978-84-01-42218-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433997172'

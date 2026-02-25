@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '2006'
 isbn: 978-84-8403-414-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '47039553'

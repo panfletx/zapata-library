@@ -8,7 +8,7 @@ edition: Di 1 ban
 exlibris: '1993'
 isbn: 978-0-553-21328-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '966032595'

@@ -5,7 +5,7 @@ cover: covers/wy4mwf7f.jpg
 date: '2024-09-01'
 decade: 1940s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '2565152'

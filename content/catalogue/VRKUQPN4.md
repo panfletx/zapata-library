@@ -10,7 +10,7 @@ edition: 2a. ed
 exlibris: '1995'
 isbn: 978-84-204-2463-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34205177'

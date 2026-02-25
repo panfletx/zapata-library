@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: '1986'
 isbn: 978-84-7530-162-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434105032'

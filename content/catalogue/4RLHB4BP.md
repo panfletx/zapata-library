@@ -9,7 +9,7 @@ edition: 2a ed. rev
 exlibris: '1988'
 isbn: 978-84-249-0713-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '10804219'

@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: dedicatoria de jjb
 isbn: 978-968-493-176-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22578500'

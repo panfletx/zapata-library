@@ -7,7 +7,7 @@ cover: covers/6hnshj3a.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '47142307'

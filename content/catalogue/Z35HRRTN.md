@@ -8,7 +8,7 @@ decade: 2000s
 edition: Primera edición
 isbn: 978-84-413-2190-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1097726628'

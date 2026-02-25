@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1a. ed. en esta colección
 isbn: 978-84-7175-290-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432765753'

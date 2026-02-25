@@ -5,7 +5,7 @@ cover: covers/6ac2pfid.jpg
 date: '2024-09-01'
 isbn: 978-2-89433-172-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '35874364'

@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-3-15-018522-3
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '878079391'

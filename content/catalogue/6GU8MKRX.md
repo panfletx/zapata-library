@@ -9,7 +9,7 @@ edition: 1. ed
 exlibris: '1999'
 isbn: 978-968-16-5993-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '53485131'

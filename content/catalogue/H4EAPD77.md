@@ -3,7 +3,7 @@ authors: []
 cover: covers/h4eapd77.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages:
 - English
 publishers: []

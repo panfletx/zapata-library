@@ -5,7 +5,7 @@ cover: covers/wrfb3z7d.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1548293'

@@ -6,7 +6,7 @@ cover_note: José Dimayuga 99
 date: '2024-09-01'
 decade: 1930s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '253982384'

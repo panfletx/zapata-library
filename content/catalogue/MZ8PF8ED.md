@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1st Ballantine books ed
 isbn: 978-0-345-25762-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '22600730'

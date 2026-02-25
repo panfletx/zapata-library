@@ -9,7 +9,7 @@ edition: 2a. ed
 exlibris: '1994'
 isbn: 978-84-339-3049-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433892038'

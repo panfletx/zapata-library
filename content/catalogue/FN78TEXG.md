@@ -9,7 +9,7 @@ edition: '[1a. ed.]'
 exlibris: '1993'
 isbn: 978-84-01-37263-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434869595'

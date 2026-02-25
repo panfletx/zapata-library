@@ -8,7 +8,7 @@ decade: 1990s
 edition: 36a. ed
 isbn: 978-84-254-0095-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '37037626'

@@ -8,7 +8,7 @@ decade: 2010s
 edition: 1. ed
 isbn: 978-607-455-657-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '781875727'

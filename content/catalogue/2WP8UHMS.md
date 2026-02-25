@@ -8,7 +8,7 @@ decade: 1990s
 exlibris: '1998'
 isbn: 978-2-253-06001-7
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '29481478'

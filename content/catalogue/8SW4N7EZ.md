@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1940s
 edition: 2 éd
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '4242342'

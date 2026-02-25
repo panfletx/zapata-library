@@ -8,7 +8,7 @@ edition: Primera edición
 exlibris: '2010'
 isbn: 978-968-853-425-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '875468592'

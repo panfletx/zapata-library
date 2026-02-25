@@ -8,7 +8,7 @@ edition: Octava edición
 exlibris: '2010'
 isbn: 978-84-663-0989-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '903039289'

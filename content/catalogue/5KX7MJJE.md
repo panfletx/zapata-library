@@ -7,7 +7,7 @@ decade: 1960s
 edition: '[1. éd.]'
 exlibris: '1978'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '20438151'

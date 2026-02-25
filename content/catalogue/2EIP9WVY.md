@@ -8,7 +8,7 @@ edition: Reimp
 exlibris: '1989'
 isbn: 978-968-29-1792-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651500163'

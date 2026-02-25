@@ -4,7 +4,7 @@ cover: covers/mwr4nayr.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '299969093'

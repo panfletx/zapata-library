@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1. ed. en castellano
 isbn: 978-968-434-094-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6714618'

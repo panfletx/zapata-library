@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1960s
 isbn: 978-2-07-036009-3
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '1410714840'

@@ -8,7 +8,7 @@ decade: 1990s
 edition: Primera edición en español
 isbn: 978-0-9690981-5-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1041939480'

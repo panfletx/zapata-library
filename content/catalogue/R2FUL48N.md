@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1950s
 edition: '[18. Aufl.]'
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '39636028'

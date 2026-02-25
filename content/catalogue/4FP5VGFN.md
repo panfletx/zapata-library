@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1982'
 isbn: 978-0-917342-88-2
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '8591080'

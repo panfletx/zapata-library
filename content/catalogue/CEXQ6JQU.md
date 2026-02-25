@@ -9,7 +9,7 @@ edition: 1a ed
 exlibris: '1990'
 isbn: 978-84-7432-195-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '14158124'

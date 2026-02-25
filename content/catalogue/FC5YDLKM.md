@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-0-88373-092-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '7506882'

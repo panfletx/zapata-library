@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-950-04-2755-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '276947660'

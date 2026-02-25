@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 isbn: 978-0-19-501660-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '24117398'

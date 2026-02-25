@@ -10,7 +10,7 @@ edition: 6a ed
 exlibris: '2006'
 isbn: 978-968-23-1387-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '62927948'

@@ -9,7 +9,7 @@ edition: 1a ed., 1a reimp
 exlibris: '1990'
 isbn: 978-968-6005-58-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '893592906'

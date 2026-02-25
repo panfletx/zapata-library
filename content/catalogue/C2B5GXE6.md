@@ -8,7 +8,7 @@ decade: 2000s
 exlibris: '2013'
 isbn: 978-0-14-118990-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '339524700'

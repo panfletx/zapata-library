@@ -9,7 +9,7 @@ decade: 2000s
 edition: 2a reimp
 isbn: 978-968-5062-00-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651563528'

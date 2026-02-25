@@ -9,7 +9,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 978-1-338-54895-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1264681577'

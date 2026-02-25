@@ -6,7 +6,7 @@ cover: covers/ftwv9lay.jpg
 date: '2024-09-01'
 decade: 2010s
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Quimera

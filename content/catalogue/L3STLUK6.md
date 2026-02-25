@@ -9,7 +9,7 @@ edition: 3ª ed
 exlibris: '1995'
 isbn: 978-84-206-1554-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '803038417'

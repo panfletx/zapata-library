@@ -7,7 +7,7 @@ decade: 1980s
 edition: 4a ed
 isbn: 978-968-15-0545-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651188712'

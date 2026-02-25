@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1940s
 edition: Tiré à 1000 exemplaires
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '406450923'

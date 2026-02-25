@@ -8,7 +8,7 @@ edition: 2. ed
 exlibris: '2011'
 isbn: 978-968-411-516-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48807919'

@@ -8,7 +8,7 @@ decade: 2000s
 edition: Primera edición
 isbn: 978-607-02-0657-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '646072420'

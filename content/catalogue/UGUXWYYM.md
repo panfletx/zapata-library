@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-2-07-039268-1
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '938003147'

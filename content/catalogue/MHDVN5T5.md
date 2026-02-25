@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1900s
 edition: 2e éd
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '715682489'

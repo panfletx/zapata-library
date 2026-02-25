@@ -9,7 +9,7 @@ decade: 1990s
 edition: Nouv. éd. rev., corr. et mise à jour en 1990
 isbn: 978-2-85036-066-4
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '20794842'

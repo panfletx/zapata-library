@@ -7,7 +7,7 @@ cover_note: dedicatoria jjb
 date: '2024-09-01'
 isbn: 970-94403-0-7
 item_types:
-- book
+- Book
 languages:
 - Español
 publishers:

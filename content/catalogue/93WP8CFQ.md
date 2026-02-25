@@ -3,7 +3,7 @@ authors: []
 cover: covers/93wp8cfq.jpg
 date: '2024-09-01'
 item_types:
-- book
+- Book
 languages: []
 publishers:
 - Universidad Autónoma Metropolitana

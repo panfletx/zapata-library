@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a ed. en la Colección "Sepan cuantos--"
 isbn: 978-968-432-970-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '18054930'

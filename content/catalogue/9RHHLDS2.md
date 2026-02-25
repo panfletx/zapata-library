@@ -10,7 +10,7 @@ decade: 2010s
 edition: 1a ed
 isbn: 978-987-26984-0-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '786308733'

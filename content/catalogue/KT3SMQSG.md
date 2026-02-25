@@ -6,7 +6,7 @@ decade: 1970s
 edition: 2a. ed
 isbn: 978-968-28-0035-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '45119233'

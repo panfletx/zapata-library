@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1994'
 isbn: 978-2-277-30001-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '865195643'

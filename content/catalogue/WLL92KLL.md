@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-770-650-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '226215125'

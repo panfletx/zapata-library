@@ -8,7 +8,7 @@ edition: 11a. ed
 exlibris: '1991'
 isbn: 978-84-89333-15-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1318482804'

@@ -11,7 +11,7 @@ edition: 10a ed
 exlibris: '2007'
 isbn: 978-84-376-0729-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '77539938'

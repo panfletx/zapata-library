@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: 1996 (regalo de José)
 isbn: 978-84-204-2533-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '435276127'

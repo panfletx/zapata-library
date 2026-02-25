@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-84-01-42114-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '19700299'

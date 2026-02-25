@@ -7,7 +7,7 @@ decade: 1980s
 edition: 7. ed
 isbn: 978-968-15-0108-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '630846492'

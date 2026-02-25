@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: 21 ed
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '635111003'

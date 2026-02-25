@@ -8,7 +8,7 @@ decade: 2000s
 exlibris: '2010'
 isbn: 978-84-663-6991-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '804194478'

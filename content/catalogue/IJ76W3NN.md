@@ -6,7 +6,7 @@ cover: covers/ij76w3nn.jpg
 date: '2024-09-01'
 isbn: 978-968-39-0129-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1367337714'

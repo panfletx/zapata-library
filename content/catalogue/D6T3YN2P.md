@@ -6,7 +6,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-607-400-074-0
 item_types:
-- book
+- Book
 languages:
 - Multilingual
 oclc: '906931111'

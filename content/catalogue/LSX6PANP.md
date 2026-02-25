@@ -5,7 +5,7 @@ cover: covers/lsx6panp.jpg
 date: '2024-09-01'
 decade: 2000s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '44482043'

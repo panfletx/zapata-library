@@ -5,7 +5,7 @@ cover: covers/4fpgdr3w.jpg
 date: '2024-09-01'
 decade: 1990s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1245533261'

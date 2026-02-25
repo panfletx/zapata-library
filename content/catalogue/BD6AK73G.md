@@ -7,7 +7,7 @@ decade: 1950s
 edition: Ed. rev. et completee
 exlibris: '2004'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '340014'

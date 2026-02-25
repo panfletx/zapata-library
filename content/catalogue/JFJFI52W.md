@@ -7,7 +7,7 @@ decade: 2010s
 edition: 1. ed
 isbn: 978-607-00-4173-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '741270883'

@@ -8,7 +8,7 @@ decade: 1980s
 edition: 5a ed
 isbn: 978-968-433-233-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '19881330'

@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 edition: '[2. ed.]'
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '2003929'

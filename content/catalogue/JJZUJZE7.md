@@ -8,7 +8,7 @@ edition: 1st ed
 exlibris: '1992'
 isbn: 978-84-204-2680-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '26146819'

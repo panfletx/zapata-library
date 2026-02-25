@@ -7,7 +7,7 @@ decade: 1960s
 edition: 1. ed
 isbn: 978-968-16-4475-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '806512'

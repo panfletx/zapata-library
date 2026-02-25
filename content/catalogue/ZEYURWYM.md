@@ -8,7 +8,7 @@ decade: 2010s
 exlibris: José Dimayuga
 isbn: 978-607-07-0418-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '838488577'

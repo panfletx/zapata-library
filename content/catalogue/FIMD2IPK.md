@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1990s
 edition: 1a.ed
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1255993224'

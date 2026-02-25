@@ -5,7 +5,7 @@ cover: covers/5yfykzk2.jpg
 date: '2024-09-01'
 decade: 1980s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48297168'

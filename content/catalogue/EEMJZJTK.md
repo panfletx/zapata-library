@@ -8,7 +8,7 @@ decade: 2010s
 edition: 1a. edición
 isbn: 978-607-96165-3-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '910624925'

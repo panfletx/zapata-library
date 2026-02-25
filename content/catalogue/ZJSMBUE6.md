@@ -8,7 +8,7 @@ decade: 1990s
 edition: 18ª ed
 isbn: 978-84-293-0537-1
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '971692939'

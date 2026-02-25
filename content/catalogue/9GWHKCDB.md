@@ -8,7 +8,7 @@ edition: 1a. ed
 exlibris: '1999'
 isbn: 978-84-7223-942-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '35086313'

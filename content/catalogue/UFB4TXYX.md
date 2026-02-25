@@ -9,7 +9,7 @@ edition: 1a. ed. en bolsillo
 exlibris: '2010'
 isbn: 978-84-89662-16-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433814716'

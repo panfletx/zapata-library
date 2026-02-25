@@ -9,7 +9,7 @@ edition: Ed. bilingüe
 exlibris: '1982'
 isbn: 978-84-276-0448-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '7909700'

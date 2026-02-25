@@ -7,7 +7,7 @@ decade: 1990s
 edition: 4. ed
 isbn: 978-968-433-236-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '33317593'

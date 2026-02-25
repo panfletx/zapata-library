@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 isbn: 978-2-7071-0137-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '5014343'

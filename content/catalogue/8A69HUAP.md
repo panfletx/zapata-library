@@ -9,7 +9,7 @@ edition: 2a ed
 exlibris: '1993'
 isbn: 978-968-434-192-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651538326'

@@ -7,7 +7,7 @@ decade: 1980s
 edition: 8a ed
 isbn: 978-968-15-0037-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '41280045'

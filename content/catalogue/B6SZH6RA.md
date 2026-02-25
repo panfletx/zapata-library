@@ -7,7 +7,7 @@ decade: 1990s
 exlibris: '1991'
 isbn: 978-85-286-0104-6
 item_types:
-- book
+- Book
 languages:
 - Português
 oclc: '25368924'

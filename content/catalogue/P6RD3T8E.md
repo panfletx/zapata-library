@@ -7,7 +7,7 @@ cover: covers/p6rd3t8e.jpg
 date: '2024-09-01'
 decade: 1970s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '184847064'

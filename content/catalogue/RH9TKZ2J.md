@@ -7,7 +7,7 @@ decade: 1970s
 edition: 1st ed
 isbn: 978-0-525-47552-1
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '4638106'

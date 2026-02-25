@@ -9,7 +9,7 @@ edition: 1a. ed. en español, 13a. reimp
 exlibris: '1978'
 isbn: 978-84-375-0000-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '627796561'

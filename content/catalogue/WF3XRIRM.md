@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 2000s
 isbn: 01851535
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

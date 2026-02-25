@@ -7,7 +7,7 @@ decade: 1980s
 edition: First edition
 isbn: 978-0-917342-63-9
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '991531488'

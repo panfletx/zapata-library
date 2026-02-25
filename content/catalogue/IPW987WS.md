@@ -7,7 +7,7 @@ decade: 1970s
 edition: '[2. ed.]'
 exlibris: '1976'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1159942'

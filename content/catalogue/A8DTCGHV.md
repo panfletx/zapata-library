@@ -5,7 +5,7 @@ cover: covers/a8dtcghv.jpg
 date: '2024-09-01'
 decade: 1950s
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '1154368251'

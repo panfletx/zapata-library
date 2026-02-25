@@ -7,7 +7,7 @@ decade: 1960s
 edition: 3rd. edition
 featured: true
 item_types:
-- book
+- Book
 languages:
 - Español
 place: Mexico

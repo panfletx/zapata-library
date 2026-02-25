@@ -7,7 +7,7 @@ decade: 1960s
 exlibris: '1978'
 isbn: 978-2-07-070578-8
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '6963781'

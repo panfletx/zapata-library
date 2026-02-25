@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '2005'
 isbn: 978-968-5270-42-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '48412401'

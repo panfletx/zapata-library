@@ -11,7 +11,7 @@ exlibris: '1986'
 featured: true
 isbn: 978-968-27-0215-0
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '759878731'

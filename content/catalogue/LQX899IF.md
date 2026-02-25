@@ -7,7 +7,7 @@ decade: 1960s
 edition: 1. ed
 isbn: 978-968-23-2266-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1033760'

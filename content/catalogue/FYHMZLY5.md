@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1996'
 isbn: 978-968-29-1416-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1072540114'

@@ -8,7 +8,7 @@ edition: 1st Scribner trade paperback ed
 exlibris: '2014'
 isbn: 978-1-4391-6315-3
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '746755622'

@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-607-7643-15-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '713801741'

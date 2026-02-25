@@ -6,7 +6,7 @@ date: '2024-09-01'
 exlibris: '1998'
 isbn: 978-0-14-004259-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '438422057'

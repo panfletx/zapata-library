@@ -7,7 +7,7 @@ decade: 1980s
 edition: Tercera ed
 isbn: 978-84-7444-305-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '21494754'

@@ -4,7 +4,7 @@ cover: covers/rju52pby.jpg
 date: '2024-09-01'
 decade: 2000s
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

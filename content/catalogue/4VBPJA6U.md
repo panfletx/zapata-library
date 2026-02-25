@@ -5,7 +5,7 @@ cover: covers/4vbpja6u.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '237701268'

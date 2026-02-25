@@ -5,7 +5,7 @@ cover: covers/d3yzx7jw.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Français
 pages: 188

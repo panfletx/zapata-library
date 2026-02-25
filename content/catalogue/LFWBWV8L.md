@@ -9,7 +9,7 @@ exlibris: '2004'
 featured: true
 isbn: 978-950-07-1600-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '43981941'

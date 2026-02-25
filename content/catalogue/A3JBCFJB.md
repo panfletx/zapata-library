@@ -8,7 +8,7 @@ edition: 2a. ed
 exlibris: '1995'
 isbn: 978-84-204-8158-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433612023'

@@ -8,7 +8,7 @@ decade: 1970s
 edition: 8a ed
 exlibris: Luis Zapata
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '427513895'

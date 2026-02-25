@@ -8,7 +8,7 @@ decade: 1990s
 edition: Orig.-ausg
 isbn: 978-3-423-09289-0
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '214313268'

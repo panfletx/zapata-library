@@ -8,7 +8,7 @@ edition: 2. ed. (23a tirada)
 exlibris: '2010'
 isbn: 978-84-252-0126-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '67115961'

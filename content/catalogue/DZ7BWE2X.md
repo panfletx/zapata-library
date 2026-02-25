@@ -7,7 +7,7 @@ decade: 1970s
 edition: 4. ed
 exlibris: '1977'
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '12222524'

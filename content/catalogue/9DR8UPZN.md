@@ -8,7 +8,7 @@ decade: 1970s
 edition: '[1. ed'
 isbn: 978-84-322-3815-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1295507'

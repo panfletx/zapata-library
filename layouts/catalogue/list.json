@@ -5,6 +5,10 @@
     {{- $key := printf "lang_%s" . -}}
     {{- $translatedLangs = $translatedLangs | append (i18n $key | default .) -}}
   {{- end -}}
+  {{- $translatedTypes := slice -}}
+  {{- range (default (slice) .Params.item_types) -}}
+    {{- $translatedTypes = $translatedTypes | append (i18n (printf "type_%s" .) | default .) -}}
+  {{- end -}}
   {{- $translatedSubjects := slice -}}
   {{- range (default (slice) .Params.subjects) -}}
     {{- $subjKey := printf "subj_%s" (. | replaceRE " " "_" | replaceRE "&" "and" | replaceRE "'" "") -}}
@@ -18,7 +22,7 @@
     "publishers" (default (slice) .Params.publishers)
     "place" (default "" .Params.place)
     "languages" $translatedLangs
-    "item_types" (default (slice) .Params.item_types)
+    "item_types" $translatedTypes
     "series" (default (slice) .Params.series)
     "subjects" $translatedSubjects
     "isbn" (default "" .Params.isbn)

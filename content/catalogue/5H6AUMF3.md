@@ -8,7 +8,7 @@ decade: 1970s
 edition: 10a. ed
 isbn: 978-84-7129-068-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '432033583'

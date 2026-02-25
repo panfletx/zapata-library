@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-732-229-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '191750013'

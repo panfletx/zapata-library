@@ -8,7 +8,7 @@ decade: 1980s
 edition: '[2a. ed.]'
 isbn: 978-84-02-09023-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '434343577'

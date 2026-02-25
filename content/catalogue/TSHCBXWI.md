@@ -4,7 +4,7 @@ cover: covers/tshcbxwi.jpg
 date: '2024-09-01'
 isbn: 01854674
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

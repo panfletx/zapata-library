@@ -7,7 +7,7 @@ decade: 1990s
 edition: 2. Aufl
 isbn: 978-968-476-247-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '742624301'

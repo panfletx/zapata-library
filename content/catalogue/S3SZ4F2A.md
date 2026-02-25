@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-987-1622-32-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1310158412'

@@ -10,7 +10,7 @@ exlibris: '2006'
 featured: true
 isbn: 978-84-8432-179-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '47642432'

@@ -5,7 +5,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 01851330
 item_types:
-- book
+- Book
 languages: []
 publishers: []
 series: []

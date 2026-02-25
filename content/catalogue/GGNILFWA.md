@@ -6,7 +6,7 @@ decade: 1990s
 edition: 2a ed
 isbn: 978-968-476-222-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34060133'

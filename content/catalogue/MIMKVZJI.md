@@ -7,7 +7,7 @@ decade: 2000s
 edition: Primera edición
 isbn: 978-970-95791-0-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '465305330'

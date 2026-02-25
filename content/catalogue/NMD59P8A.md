@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-84-320-3576-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '8211945'

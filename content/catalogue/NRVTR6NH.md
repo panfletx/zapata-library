@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1st HarperCollins pbk. ed
 isbn: 978-0-06-250537-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '24627839'

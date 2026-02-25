@@ -7,7 +7,7 @@ decade: 1990s
 edition: Primera edición
 isbn: 978-84-01-52010-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '33055350'

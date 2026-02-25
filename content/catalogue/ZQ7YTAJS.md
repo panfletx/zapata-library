@@ -7,7 +7,7 @@ decade: 2010s
 edition: Primera edición electrónica
 isbn: 978-607-16-0718-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1078503820'

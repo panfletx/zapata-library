@@ -7,7 +7,7 @@ decade: 2010s
 exlibris: '2014'
 isbn: 978-1-909399-32-7
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '902746309'

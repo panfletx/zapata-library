@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1970s
 exlibris: '1973'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '433851096'

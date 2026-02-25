@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1980s
 isbn: 978-2-04-018094-2
 item_types:
-- book
+- Book
 languages:
 - Multilingual
 oclc: '691279065'

@@ -8,7 +8,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-409-097-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1089409936'

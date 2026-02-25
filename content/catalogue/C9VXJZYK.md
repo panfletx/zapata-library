@@ -8,7 +8,7 @@ decade: 1990s
 edition: 1ª ed. en México
 isbn: 978-968-19-0144-8
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1383695791'

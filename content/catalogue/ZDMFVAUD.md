@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1a ed.
 isbn: 978-607-8286-39-3
 item_types:
-- book
+- Book
 languages: []
 place: México
 publishers:

@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-2-07-037407-6
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '43361310'

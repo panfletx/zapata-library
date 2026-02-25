@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1981'
 isbn: 978-84-02-06746-3
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '6870476'

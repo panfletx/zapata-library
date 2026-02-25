@@ -7,7 +7,7 @@ decade: 1980s
 exlibris: '1997'
 isbn: 978-2-07-071544-2
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '20671744'

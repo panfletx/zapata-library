@@ -6,7 +6,7 @@ decade: 2000s
 exlibris: '2007'
 isbn: 978-2-07-031451-5
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '469533463'

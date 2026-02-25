@@ -6,7 +6,7 @@ decade: 2010s
 edition: Primera edición
 isbn: 978-607-30-0788-7
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '1102538607'

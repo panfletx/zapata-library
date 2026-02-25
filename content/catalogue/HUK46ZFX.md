@@ -8,7 +8,7 @@ decade: 1980s
 exlibris: '1984'
 isbn: 978-84-276-0591-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '13541049'

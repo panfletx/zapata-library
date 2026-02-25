@@ -7,7 +7,7 @@ decade: 2000s
 exlibris: '2004'
 isbn: 978-84-663-0765-9
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '52416585'

@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-1-56098-294-4
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '27035875'

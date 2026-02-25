@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 1990s
 isbn: 978-968-6737-02-8
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '782956604'

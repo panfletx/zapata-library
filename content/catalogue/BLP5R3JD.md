@@ -9,7 +9,7 @@ decade: 1980s
 edition: 10a impr
 isbn: 978-968-13-0972-5
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '651375843'

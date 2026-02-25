@@ -8,7 +8,7 @@ decade: 2000s
 edition: 1a ed
 isbn: 978-9977-952-44-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '246888779'

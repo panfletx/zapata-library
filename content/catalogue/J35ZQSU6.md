@@ -7,7 +7,7 @@ cover: covers/j35zqsu6.jpg
 date: '2024-09-01'
 decade: 2000s
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '742217354'

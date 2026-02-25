@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: New complete and unabridged in one volume
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '316212895'

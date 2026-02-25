@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1930s
 isbn: 978-2-253-01844-5
 item_types:
-- book
+- Book
 languages:
 - Français
 oclc: '489828415'

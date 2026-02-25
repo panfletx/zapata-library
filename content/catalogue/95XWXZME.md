@@ -8,7 +8,7 @@ date: '2024-09-01'
 decade: 1980s
 edition: First trade edition
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '8230287'

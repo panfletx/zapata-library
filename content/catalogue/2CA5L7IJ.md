@@ -8,7 +8,7 @@ exlibris: '1995'
 featured: true
 isbn: 978-84-345-8019-0
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '22418654'

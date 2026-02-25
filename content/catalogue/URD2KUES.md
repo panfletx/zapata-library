@@ -6,7 +6,7 @@ decade: 1960s
 exlibris: '1999'
 isbn: 978-968-411-212-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '23011743'

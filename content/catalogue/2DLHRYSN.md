@@ -8,7 +8,7 @@ edition: 1. ed
 exlibris: '1995'
 isbn: 978-84-322-4713-2
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '31117931'

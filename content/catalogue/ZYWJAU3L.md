@@ -7,7 +7,7 @@ decade: 2000s
 edition: 1. ed
 isbn: 978-970-697-244-6
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '497924847'

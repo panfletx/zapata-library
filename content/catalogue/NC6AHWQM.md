@@ -6,7 +6,7 @@ date: '2024-09-01'
 decade: 1960s
 edition: Dover ed.
 item_types:
-- book
+- Book
 languages:
 - English
 oclc: '65844861'

@@ -5,7 +5,7 @@ cover: covers/bmjecwxz.jpg
 date: '2024-09-01'
 decade: 1960s
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '3547608'

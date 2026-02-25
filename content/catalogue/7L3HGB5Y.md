@@ -7,7 +7,7 @@ decade: 1980s
 edition: 1a ed
 exlibris: '1983'
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '9520142'

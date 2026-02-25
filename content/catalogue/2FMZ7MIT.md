@@ -7,7 +7,7 @@ date: '2024-09-01'
 decade: 2010s
 isbn: 978-3-940249-50-0
 item_types:
-- book
+- Book
 languages:
 - Deutsch
 oclc: '874833195'

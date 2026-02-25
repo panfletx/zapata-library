@@ -7,7 +7,7 @@ decade: 1990s
 edition: 1. ed. en Mirada viajera
 isbn: 978-968-29-6578-4
 item_types:
-- book
+- Book
 languages:
 - Español
 oclc: '34158663'
