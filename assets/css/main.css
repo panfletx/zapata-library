@@ -264,6 +264,10 @@ h1, h2, h3 {
   margin: -2rem -1.5rem 2rem;
 }
 
+.about-hero picture {
+  display: block;
+}
+
 .about-hero img {
   width: 100%;
   height: auto;
