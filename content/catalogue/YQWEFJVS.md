@@ -15,7 +15,6 @@ oclc: '427513895'
 pages: 223
 place: Buenos Aires
 publishers:
-- Editorial Sudamericana
 series:
 - Coleccion horizonte
 subjects:

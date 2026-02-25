@@ -13,7 +13,6 @@ oclc: '21893768'
 pages: 392
 place: Columbia
 publishers:
-- Editorial la Oveja Negra Ltda
 series:
 - Historia de la Literatura Latinoamericana
 subjects:

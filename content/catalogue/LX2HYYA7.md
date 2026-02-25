@@ -13,7 +13,6 @@ oclc: '231363285'
 pages: 520
 place: México
 publishers:
-- Editorial Porrúa
 series: []
 subjects:
 - Dictionary

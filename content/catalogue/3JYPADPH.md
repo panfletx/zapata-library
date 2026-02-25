@@ -14,7 +14,6 @@ oclc: '221620650'
 pages: 344
 place: Mexico
 publishers:
-- Editorial Porrua
 series:
 - Coleccion de escritores mexicanos
 subjects:

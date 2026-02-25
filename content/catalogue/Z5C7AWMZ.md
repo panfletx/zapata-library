@@ -14,7 +14,6 @@ oclc: '42018020'
 pages: 112
 place: Buenos Aires
 publishers:
-- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:

@@ -14,7 +14,6 @@ oclc: '30085492'
 pages: 165
 place: México
 publishers:
-- Editorial Diana
 series: []
 subjects:
 - Contemporary History

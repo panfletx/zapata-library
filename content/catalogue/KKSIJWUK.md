@@ -14,7 +14,6 @@ oclc: '1367337714'
 place: México D.F.
 publishers:
 - Instituto Nacional de Antropología e Historia
-- Editorial Patria
 series: []
 subjects:
 - Chronicle

@@ -14,7 +14,6 @@ oclc: '48428754'
 pages: 254
 place: Barcelona
 publishers:
-- Editorial Anagrama
 series:
 - Colección Argumentos (Editorial Anagrama)
 source_url: http://www.gbv.de/dms/sub-hamburg/322001188.pdf

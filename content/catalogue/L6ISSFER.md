@@ -15,7 +15,6 @@ oclc: '15380867'
 pages: 180
 place: Barcelona
 publishers:
-- Editorial Ariel
 series:
 - Ariel quincenal
 subjects:

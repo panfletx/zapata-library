@@ -14,7 +14,6 @@ oclc: '48637367'
 pages: 254
 place: Barcelona
 publishers:
-- Editorial Anagrama
 series:
 - Panorama de narrativas
 subjects:

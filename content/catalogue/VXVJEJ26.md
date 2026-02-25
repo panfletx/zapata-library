@@ -14,7 +14,6 @@ oclc: '21494754'
 pages: 131
 place: Madrid
 publishers:
-- Editorial Debate
 series:
 - Debate literature
 subjects:

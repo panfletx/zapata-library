@@ -16,8 +16,6 @@ oclc: '14158124'
 pages: 236
 place: Barcelona, Buenos Aires
 publishers:
-- Editorial Gedisa
-- Editorial Celtia
 series: []
 subjects:
 - American Literature

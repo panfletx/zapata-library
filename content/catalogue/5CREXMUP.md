@@ -12,7 +12,6 @@ oclc: '838515'
 pages: 169
 place: Buenos Aires
 publishers:
-- Editorial Galerna
 series: []
 subjects:
 - Cuban Literature

@@ -14,7 +14,6 @@ pages: 228
 place: Santiago, Chile?
 publishers:
 - Facultad de Filosofía y Humanidades, Dirección de Investigacion, Universidad Austral de Chile
-- Editorial Andrés Bello
 series: []
 subjects:
 - Chile

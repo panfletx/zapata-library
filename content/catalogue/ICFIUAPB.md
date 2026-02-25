@@ -13,7 +13,6 @@ oclc: '31697696'
 pages: 78
 place: Madrid
 publishers:
-- Editorial EDAF
 series:
 - Arca de Sabiduría
 subjects:

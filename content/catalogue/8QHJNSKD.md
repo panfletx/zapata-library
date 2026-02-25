@@ -13,7 +13,6 @@ oclc: '1264869561'
 pages: 304
 place: Mexico
 publishers:
-- Editorial Porrúa
 series:
 - Coleccion Sepan cuantos ; 15
 subjects:

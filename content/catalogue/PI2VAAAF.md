@@ -14,7 +14,6 @@ oclc: '17304770'
 pages: 217
 place: México, D.F.
 publishers:
-- Editorial Porrúa
 series: []
 subjects:
 - Literary Criticism

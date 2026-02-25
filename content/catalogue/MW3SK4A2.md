@@ -14,7 +14,6 @@ oclc: '2858472'
 pages: 5
 place: México
 publishers:
-- Editorial Pedro Robredo
 series: []
 subjects:
 - Essay

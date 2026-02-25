@@ -16,7 +16,6 @@ oclc: '70211769'
 pages: 207
 place: Barcelona
 publishers:
-- Editorial Lumen
 series:
 - Palabra en el tiempo
 subjects:

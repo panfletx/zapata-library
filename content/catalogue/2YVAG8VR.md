@@ -13,7 +13,6 @@ pages: 278
 place: Puebla, Pue.
 publishers:
 - ICUAP, Centro de Estudios Contemporáneos
-- Editorial Universidad Autónoma de Puebla
 series:
 - Biblioteca Francisco Javier Clavijero
 subjects:

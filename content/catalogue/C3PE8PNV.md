@@ -15,7 +15,6 @@ oclc: '277006698'
 pages: 123
 place: México, D.F.
 publishers:
-- Editorial Jus
 series: []
 subjects:
 - Ethics

@@ -12,7 +12,6 @@ oclc: '81101419'
 pages: 80
 place: Buenos Aires
 publishers:
-- Editorial Nuestra América
 series:
 - Cuadernillos de Poesía
 subjects:

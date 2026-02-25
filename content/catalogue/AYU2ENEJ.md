@@ -12,7 +12,6 @@ oclc: '37336249'
 pages: 269
 place: Buenos Aires
 publishers:
-- Editorial Orbelus
 series:
 - Colección Testimonios (Editorial Orbelus)
 subjects:

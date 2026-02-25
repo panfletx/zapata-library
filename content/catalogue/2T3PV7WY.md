@@ -14,7 +14,6 @@ oclc: '2400858'
 pages: 160
 place: México
 publishers:
-- Editorial los Insurgentes
 series:
 - Colección Lince
 subjects:

@@ -12,7 +12,6 @@ languages:
 oclc: '934148599'
 place: México
 publishers:
-- Editorial Herder
 series: []
 subjects:
 - Correspondence

@@ -13,7 +13,6 @@ oclc: '1344959037'
 pages: 310
 place: Buenos Aires
 publishers:
-- Editorial Sudamericana
 series:
 - Colección horizonte (Editorial Sudamericana)
 subjects:

@@ -14,7 +14,6 @@ oclc: '815682524'
 pages: 315
 place: Barcelona
 publishers:
-- Editorial De Vecchi
 series: []
 subjects:
 - Education

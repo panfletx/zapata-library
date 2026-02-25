@@ -11,7 +11,6 @@ languages:
 - Español
 place: Mexico
 publishers:
-- Editorial Pax-México
 series: []
 subjects:
 - Mexican Literature

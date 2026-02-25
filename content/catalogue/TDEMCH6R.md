@@ -15,7 +15,6 @@ oclc: '865565922'
 pages: 113
 place: México
 publishers:
-- Editorial Praxis
 series:
 - Colección Juan Ruiz de Alarcón. Dramaturgia
 subjects:

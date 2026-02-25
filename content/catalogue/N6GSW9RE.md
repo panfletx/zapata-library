@@ -13,7 +13,7 @@ oclc: '1103448331'
 pages: 582
 place: Madrid, Spain
 publishers:
-- Catedra
+- Cátedra
 series: []
 subjects:
 - Classical Literature

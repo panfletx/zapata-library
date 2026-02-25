@@ -15,7 +15,6 @@ oclc: '2305908'
 pages: 430
 place: Madrid
 publishers:
-- Editorial Gredos
 series:
 - Biblioteca Románica Hispánica
 subjects:

@@ -13,7 +13,6 @@ oclc: '17148636'
 pages: 275
 place: México, D.F.
 publishers:
-- Editorial Posada
 series: []
 subjects:
 - Mexican Literature

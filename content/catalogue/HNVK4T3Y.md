@@ -15,7 +15,6 @@ oclc: '5739075'
 pages: 188
 place: México
 publishers:
-- Editorial Porrúa
 series:
 - '"Sepan cuantos-- "'
 subjects:

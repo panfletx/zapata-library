@@ -16,7 +16,6 @@ oclc: '10804219'
 pages: 337
 place: Madrid
 publishers:
-- Editorial Gredos
 series:
 - Biblioteca románica hispánica
 subjects:

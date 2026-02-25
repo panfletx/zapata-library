@@ -14,7 +14,6 @@ oclc: '22330215'
 pages: 344
 place: Barcelona
 publishers:
-- Editorial Marin
 series: []
 subjects:
 - Dictionary

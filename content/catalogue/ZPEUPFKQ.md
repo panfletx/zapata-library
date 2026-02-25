@@ -14,7 +14,6 @@ oclc: '24422147'
 pages: 223
 place: Mexico D.F.
 publishers:
-- Editorial Grijalbo
 series: []
 subjects:
 - English Literature

@@ -13,7 +13,6 @@ oclc: '1080842836'
 pages: 110
 place: Nicaragua
 publishers:
-- Editorial Nueva Nicaragua de Managua
 series: []
 subjects:
 - Love & Desire

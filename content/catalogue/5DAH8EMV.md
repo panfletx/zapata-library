@@ -14,7 +14,6 @@ oclc: '77807885'
 pages: 229
 place: México
 publishers:
-- Editorial Colibrí
 series:
 - Colección Cantera rosa
 subjects:

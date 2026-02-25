@@ -14,7 +14,6 @@ oclc: '11439302'
 pages: 104
 place: Barcelona
 publishers:
-- Editorial Seix Barral
 series:
 - Biblioteca de Bolsillo
 subjects:

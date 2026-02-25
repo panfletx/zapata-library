@@ -15,7 +15,6 @@ oclc: '54380896'
 pages: 327
 place: México, D.F.
 publishers:
-- Editorial Diana
 series: []
 subjects:
 - Biography

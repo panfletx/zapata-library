@@ -14,7 +14,6 @@ oclc: '874850131'
 pages: 193
 place: México
 publishers:
-- Editorial Porrúa
 series:
 - Cuantos leen ..
 subjects:

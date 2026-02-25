@@ -13,7 +13,6 @@ oclc: '970555178'
 pages: 93
 place: México
 publishers:
-- Editorial Época
 series:
 - Cuentos
 subjects:

@@ -14,7 +14,6 @@ oclc: '20128007'
 pages: 217
 place: Barcelona
 publishers:
-- Editorial Anagrama
 series: []
 subjects:
 - American Literature

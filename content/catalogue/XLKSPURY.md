@@ -14,7 +14,6 @@ oclc: '5739064'
 pages: 485
 place: México
 publishers:
-- Editorial Porrúa
 series:
 - Colección "Sepan cuantos,"
 subjects:

@@ -15,7 +15,6 @@ oclc: '67115961'
 pages: 887
 place: Barcelona
 publishers:
-- Editorial Gustavo Gili
 series: []
 subjects:
 - Detective & Mystery

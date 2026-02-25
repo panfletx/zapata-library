@@ -14,7 +14,6 @@ oclc: '922883881'
 pages: 244
 place: Barcelona
 publishers:
-- Editorial Anagrama
 series:
 - Colección compactos
 subjects:

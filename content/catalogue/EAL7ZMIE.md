@@ -16,7 +16,6 @@ pages: 205
 place: México, D.F.
 publishers:
 - Lectorum
-- Editorial Otras Inquisiciones
 series: []
 subjects:
 - Grammar & Linguistics

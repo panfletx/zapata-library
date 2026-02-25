@@ -15,7 +15,6 @@ oclc: '71822760'
 pages: 343
 place: San José, Costa Rica
 publishers:
-- Editorial Costa Rica
 series: []
 subjects:
 - Latin American Literature

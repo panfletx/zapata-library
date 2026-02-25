@@ -15,7 +15,6 @@ oclc: '8473674'
 pages: 478
 place: México, D.F.
 publishers:
-- Editorial Grijalbo
 series:
 - Escritores mexicanos (Editorial Grijalbo)
 subjects:

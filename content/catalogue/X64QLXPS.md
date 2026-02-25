@@ -14,7 +14,6 @@ oclc: '5141992'
 pages: 254
 place: México
 publishers:
-- Editorial Porrua
 series:
 - Colección "Sepan cuantos"
 subjects:

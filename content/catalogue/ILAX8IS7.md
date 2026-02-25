@@ -13,7 +13,6 @@ oclc: '22165559'
 pages: 352
 place: Panamá, Rep. de Panamá
 publishers:
-- Editorial América
 series: []
 subjects:
 - Bibliography

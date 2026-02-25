@@ -14,7 +14,7 @@ oclc: '51207690'
 pages: 557
 place: Barcelona
 publishers:
-- Editorial Optima
+- Optima
 series:
 - Grandes obras (Barcelona, Spain)
 subjects:

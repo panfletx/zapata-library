@@ -14,8 +14,6 @@ oclc: '1125139'
 pages: 527
 place: México, Barcelona
 publishers:
-- Editorial Varazén
-- Editorial Teide
 series: []
 subjects:
 - Dictionary

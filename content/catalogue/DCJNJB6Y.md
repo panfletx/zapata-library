@@ -13,7 +13,6 @@ oclc: '1490139'
 pages: 206
 place: México
 publishers:
-- Editorial Extemporáneos
 series:
 - Novelá Extemporáneos
 subjects:

@@ -15,7 +15,6 @@ oclc: '63673096'
 pages: 92
 place: México, D.F.
 publishers:
-- Editorial Praxis
 series: []
 subjects:
 - Fiction

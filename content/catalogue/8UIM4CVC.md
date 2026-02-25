@@ -14,7 +14,6 @@ oclc: '30692134'
 pages: 82
 place: México
 publishers:
-- Editorial Quinqué
 series: []
 subjects:
 - Fiction

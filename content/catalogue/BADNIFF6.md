@@ -9,7 +9,6 @@ item_types:
 - book
 languages: []
 publishers:
-- Editorial Patria
 series: []
 subjects:
 - Short Stories

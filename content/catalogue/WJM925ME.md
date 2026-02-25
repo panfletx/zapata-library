@@ -13,7 +13,6 @@ oclc: '910182998'
 pages: 471
 place: Madrid
 publishers:
-- Editorial Pliegos
 series:
 - Pliegos de ensayo
 subjects:

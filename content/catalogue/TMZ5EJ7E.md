@@ -14,7 +14,6 @@ oclc: '8046338'
 pages: 173
 place: Barcelona
 publishers:
-- Editorial Argos Vergara
 series:
 - Libros DB
 subjects:

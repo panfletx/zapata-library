@@ -16,7 +16,6 @@ pages: 158
 place: México D.F.
 publishers:
 - Instituto Nacional de Antropología e Historia
-- Editorial Patria
 series: []
 subjects:
 - Mexico

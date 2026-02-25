@@ -12,7 +12,6 @@ oclc: '906796669'
 pages: 295
 place: México
 publishers:
-- Editorial Iztaccihuatl
 series:
 - Biblioteca de Psicología Contemporánea
 subjects:

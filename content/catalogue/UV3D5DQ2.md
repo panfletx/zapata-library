@@ -9,7 +9,6 @@ item_types:
 languages:
 - Español
 publishers:
-- Editorial Garrobo
 series: []
 subjects:
 - Fiction

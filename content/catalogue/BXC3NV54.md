@@ -15,7 +15,6 @@ oclc: '52168983'
 pages: 195
 place: México
 publishers:
-- Editorial Aldus
 series: []
 subjects:
 - Mexican Literature

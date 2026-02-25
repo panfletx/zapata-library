@@ -15,7 +15,6 @@ oclc: '906931600'
 pages: 116
 place: México
 publishers:
-- Editorial Aldus
 series:
 - Aldus festina lente
 subjects:

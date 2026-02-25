@@ -14,7 +14,6 @@ oclc: '1097733974'
 pages: 2
 place: Madrid, España
 publishers:
-- Editorial Atlantida
 series:
 - Club internacional del libro
 subjects:

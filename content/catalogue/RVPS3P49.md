@@ -14,7 +14,6 @@ pages: 160
 place: México D.F.
 publishers:
 - Instituto Nacional de Antropología e Historia
-- Editorial patria
 series: []
 subjects:
 - Conquest of Mexico

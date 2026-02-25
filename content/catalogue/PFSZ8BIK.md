@@ -16,7 +16,6 @@ oclc: '18768979'
 pages: 2
 place: Tepepan, Xochimilco
 publishers:
-- Editorial Offset
 series:
 - Colección Biblioteca
 subjects:

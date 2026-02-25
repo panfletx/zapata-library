@@ -14,7 +14,6 @@ oclc: '34899717'
 pages: 148
 place: México
 publishers:
-- Editorial Diana
 series: []
 subjects:
 - Mexican Literature

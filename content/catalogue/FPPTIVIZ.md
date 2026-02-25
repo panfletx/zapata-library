@@ -12,7 +12,6 @@ oclc: '19500682'
 pages: 486
 place: La Habana
 publishers:
-- Editorial Arte y Literatura
 series: []
 subjects:
 - Oral Tradition & Folklore

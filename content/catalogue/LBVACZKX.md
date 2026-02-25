@@ -14,7 +14,6 @@ oclc: '649802185'
 pages: 190
 place: México, D.F.
 publishers:
-- Editorial Otras Inquisiciones
 series: []
 subjects:
 - Dictionary

@@ -14,7 +14,6 @@ oclc: '15277693'
 pages: 315
 place: México, D.F.
 publishers:
-- Editorial Nueva Imagen
 series:
 - Série Literatura
 subjects:

@@ -15,7 +15,6 @@ oclc: '18818803'
 pages: 219
 place: México, D.F.
 publishers:
-- Editorial Posada
 series:
 - Letras de México
 subjects:

@@ -16,7 +16,6 @@ oclc: '43981941'
 pages: 699
 place: Buenos Aires
 publishers:
-- Editorial Sudamericana
 series:
 - Colección diamante
 subjects:

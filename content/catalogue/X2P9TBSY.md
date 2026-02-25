@@ -13,7 +13,6 @@ oclc: '30743771'
 pages: 97
 place: Sevilla
 publishers:
-- Editorial Renacimiento
 series:
 - Col. Renacimiento
 subjects:

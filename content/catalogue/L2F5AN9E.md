@@ -13,7 +13,6 @@ oclc: '13023272'
 pages: 269
 place: Buenos Aires
 publishers:
-- Editorial Sudamericana
 series:
 - Colección Piragua
 subjects:

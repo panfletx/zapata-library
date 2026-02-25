@@ -13,7 +13,6 @@ oclc: '777782131'
 pages: 156
 place: Bogotá
 publishers:
-- Editorial Norma
 series: []
 subjects:
 - Essay

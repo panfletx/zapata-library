@@ -14,7 +14,6 @@ oclc: '83041759'
 pages: 148
 place: México, D.F.
 publishers:
-- Editorial Posada
 series:
 - Colección Duda Grandes
 subjects:

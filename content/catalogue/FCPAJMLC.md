@@ -14,7 +14,6 @@ oclc: '29378965'
 pages: 179
 place: Madrid, España
 publishers:
-- Editorial Betania
 series:
 - Colección Narrativa (Editorial Betania)
 subjects:

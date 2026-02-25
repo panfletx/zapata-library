@@ -8,7 +8,6 @@ item_types:
 - book
 languages: []
 publishers:
-- Editorial Posada
 series: []
 subjects:
 - Children's Literature

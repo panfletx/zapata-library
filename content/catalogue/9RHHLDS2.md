@@ -17,7 +17,6 @@ oclc: '786308733'
 pages: 253
 place: Rosario, Argentina
 publishers:
-- Editorial Serapis
 series:
 - Serie Diecinueve
 subjects:

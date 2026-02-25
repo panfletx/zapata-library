@@ -13,7 +13,6 @@ oclc: '5048585'
 pages: 534
 place: Barcelona
 publishers:
-- Editorial Seix Barral
 series:
 - Biblioteca breve de bolsillo
 subjects:

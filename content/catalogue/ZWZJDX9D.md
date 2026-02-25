@@ -15,7 +15,6 @@ oclc: '62199587'
 pages: 50
 place: Jesús María, Lima
 publishers:
-- Editorial San Marcos
 series: []
 subjects:
 - Novel

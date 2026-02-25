@@ -14,7 +14,6 @@ oclc: '5778365'
 pages: 151
 place: Barcelona
 publishers:
-- Editorial Seix Barral
 series:
 - Biblioteca breve. Novela
 subjects:

@@ -13,7 +13,6 @@ oclc: '25267764'
 pages: 384
 place: Panamá, República de Panamá
 publishers:
-- Editorial America
 series: []
 subjects:
 - Dictionary

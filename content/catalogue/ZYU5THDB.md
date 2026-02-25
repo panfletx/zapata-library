@@ -16,7 +16,6 @@ oclc: '21325043'
 pages: 370
 place: México
 publishers:
-- Editorial Trillas
 series:
 - Linterna mágica
 subjects:

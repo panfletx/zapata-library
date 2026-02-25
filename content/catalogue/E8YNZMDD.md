@@ -14,7 +14,6 @@ oclc: '26079781'
 pages: 251
 place: Miami, Fla.
 publishers:
-- Editorial Vida
 series: []
 subjects:
 - Medicine & Health

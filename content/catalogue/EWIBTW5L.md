@@ -13,7 +13,6 @@ oclc: '18480878'
 pages: 117
 place: Rio Piedras, Puerto Rico?
 publishers:
-- Editorial Cultural
 series: []
 subjects:
 - Caribbean

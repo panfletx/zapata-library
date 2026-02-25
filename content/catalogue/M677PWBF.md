@@ -14,7 +14,6 @@ oclc: '2208262'
 pages: 219
 place: Buenos Aires
 publishers:
-- Editorial Galerna
 series:
 - Serie mayor
 subjects:

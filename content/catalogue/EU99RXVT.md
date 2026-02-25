@@ -14,7 +14,6 @@ oclc: '43414002'
 pages: 226
 place: Barcelona
 publishers:
-- Editorial Lumen
 series:
 - Palabra en el tiempo
 subjects:

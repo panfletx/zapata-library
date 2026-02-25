@@ -15,7 +15,6 @@ oclc: '29522616'
 pages: 478
 place: Chile, Buenos Aires, Argentina, México
 publishers:
-- Editorial A. Bello
 - Ediciones B
 - Universidad de Guadalajara
 series:

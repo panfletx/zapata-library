@@ -13,7 +13,6 @@ oclc: '2023350'
 pages: 594
 place: Madrid
 publishers:
-- Editorial Gredos
 series:
 - Biblioteca románica hispánica
 subjects:

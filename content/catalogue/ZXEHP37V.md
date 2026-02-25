@@ -14,7 +14,6 @@ oclc: '57733380'
 pages: 183
 place: México, D.F.
 publishers:
-- Editorial Oceano
 series:
 - Ojo infalible
 subjects:

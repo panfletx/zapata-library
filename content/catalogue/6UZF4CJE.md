@@ -15,7 +15,6 @@ oclc: '36759036'
 pages: 182
 place: México, D.F.
 publishers:
-- Editorial Diana
 series:
 - Colección Universo
 subjects:

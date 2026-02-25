@@ -13,7 +13,6 @@ oclc: '37217715'
 pages: 21
 place: Morelia, Michoacán
 publishers:
-- Editorial Universitaria, U.M.S.N.H.
 series:
 - Colección Trilce-Pireni
 subjects:

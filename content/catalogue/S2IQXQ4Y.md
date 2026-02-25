@@ -13,7 +13,6 @@ oclc: '13992037'
 pages: 226
 place: México, D.F.
 publishers:
-- Editorial Oasis
 series:
 - Colección Biblioteca de las decisiones
 subjects:

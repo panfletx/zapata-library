@@ -13,7 +13,6 @@ oclc: '2171018'
 pages: 259
 place: Buenos Aires
 publishers:
-- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:

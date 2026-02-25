@@ -14,7 +14,6 @@ oclc: '32334754'
 pages: 69
 place: México
 publishers:
-- Editorial Quinqué
 series: []
 subjects:
 - Death & Mourning

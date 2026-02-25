@@ -14,7 +14,6 @@ oclc: '1159942'
 pages: 208
 place: Buenos Aires]
 publishers:
-- Editorial Tiempo Contemporáneo
 series:
 - Biblioteca de ciencias sociales. Colección comunicaciones
 subjects:

@@ -14,7 +14,6 @@ oclc: '5776817'
 pages: 197
 place: Barcelona
 publishers:
-- Editorial Seix Barral
 series:
 - Biblioteca breve (Barcelona, Spain)
 subjects:

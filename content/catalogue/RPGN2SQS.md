@@ -12,7 +12,6 @@ oclc: '2528939'
 pages: 128
 place: Buenos Aires
 publishers:
-- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:

@@ -14,7 +14,6 @@ oclc: '26462435'
 pages: 239
 place: Buenos Aires, México
 publishers:
-- Editorial Sudamericana
 - Hermes
 series: []
 subjects:

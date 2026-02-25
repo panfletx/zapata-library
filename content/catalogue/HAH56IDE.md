@@ -15,7 +15,6 @@ oclc: '1344755724'
 pages: 247
 place: Santander, España
 publishers:
-- Editorial Sal terrae
 series:
 - Colección "El pozo de Siquen"
 subjects:

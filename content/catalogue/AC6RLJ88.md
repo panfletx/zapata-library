@@ -13,7 +13,6 @@ oclc: '41930688'
 pages: 121
 place: México, D.F.
 publishers:
-- Editorial Losada
 series:
 - Biblioteca clásica y contemporánea
 subjects:

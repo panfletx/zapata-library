@@ -16,7 +16,6 @@ oclc: '16393613'
 pages: 215
 place: Tepepan, D.F.
 publishers:
-- Editorial Offset
 series:
 - Serie Alterna
 subjects:

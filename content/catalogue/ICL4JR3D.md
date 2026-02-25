@@ -16,7 +16,6 @@ oclc: '22392546'
 pages: 320
 place: México, D.F.
 publishers:
-- Editorial Grijalbo
 series:
 - Espejo de tinta
 subjects:

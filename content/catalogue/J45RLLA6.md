@@ -13,7 +13,6 @@ oclc: '9628403'
 pages: 123
 place: La Habana
 publishers:
-- Editorial de Arte y Literatura
 series:
 - Ediciones Huracán
 subjects:

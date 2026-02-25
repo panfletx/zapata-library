@@ -12,7 +12,6 @@ languages:
 - Español
 place: Mexico
 publishers:
-- Editorial Diana
 - Edivisión Compañía Editorial, México
 series: []
 subjects:

@@ -13,7 +13,6 @@ oclc: '3146838'
 pages: 279
 place: México, D.F.
 publishers:
-- Editorial Porrúa
 series:
 - '"Sepan cuantos-- "'
 subjects:

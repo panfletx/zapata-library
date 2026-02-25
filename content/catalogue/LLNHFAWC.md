@@ -13,7 +13,6 @@ oclc: '2023081'
 pages: 108
 place: Buenos Aires
 publishers:
-- Editorial Alfa Argentina
 series: []
 subjects:
 - Novel

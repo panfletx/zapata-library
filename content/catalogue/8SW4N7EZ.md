@@ -13,7 +13,6 @@ oclc: '4242342'
 pages: 197
 place: Buenos Aires
 publishers:
-- Editorial Losada
 series:
 - Biblioteca contemporánea
 subjects:

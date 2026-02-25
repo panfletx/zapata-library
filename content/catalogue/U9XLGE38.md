@@ -13,7 +13,6 @@ oclc: '1097209441'
 pages: 312
 place: D.F. México
 publishers:
-- Editorial Artemisa
 series:
 - Obras Maestras Contemporáneo
 subjects:

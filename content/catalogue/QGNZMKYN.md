@@ -14,7 +14,6 @@ oclc: '82203817'
 pages: 111
 place: Nashville, Tenn.
 publishers:
-- Editorial Católica
 - Grupo Nelson
 series: []
 subjects:

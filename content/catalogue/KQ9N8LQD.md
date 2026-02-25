@@ -12,7 +12,6 @@ oclc: '35690236'
 pages: 95
 place: México
 publishers:
-- Editorial Jus
 series:
 - Colección "La Biblia contra el Protestantismo"
 subjects:

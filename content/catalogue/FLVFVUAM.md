@@ -11,7 +11,6 @@ item_types:
 languages:
 - Español
 publishers:
-- Editorial la torre de Lulio
 series: []
 subjects:
 - Education
