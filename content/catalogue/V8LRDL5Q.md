@@ -20,7 +20,7 @@ subjects:
 - Oral Tradition & Folklore
 - Travel Writing
 title: Paisajes y leyendas
-year: 199
+year: 1949
 zotero_key: V8LRDL5Q
 ---
 

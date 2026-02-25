@@ -15,7 +15,6 @@ pages: 726
 place: New York
 publishers:
 - Avenel Books
-- Distributed by Crown Publishers
 series: []
 subjects:
 - American Literature

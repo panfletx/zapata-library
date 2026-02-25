@@ -14,14 +14,14 @@ oclc: '651485703'
 pages: 249
 place: México
 publishers:
-- Edit. Bolsilibro
+- Bolsilibro
 series: []
 subjects:
 - English Literature
 - Erotic Literature
 - Novel
 title: Fanny Hill
-year: 198
+year: 1748
 zotero_key: 9UFKPDHM
 ---
 

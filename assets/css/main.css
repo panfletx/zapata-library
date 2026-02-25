@@ -247,6 +247,18 @@ h1, h2, h3 {
   margin-top: 1.5rem;
 }
 
+/* === Prose / Page === */
+.page-prose {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prose-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.75;
+}
+
 /* === Book Grid === */
 .book-grid {
   display: grid;

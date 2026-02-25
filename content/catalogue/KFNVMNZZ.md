@@ -15,7 +15,6 @@ pages: 147
 place: New York
 publishers:
 - Grove Press
-- Distributed by Random House
 series:
 - Black cat book
 subjects:

@@ -22,3 +22,8 @@
   name = "Temas"
   pageRef = "/subjects"
   weight = 5
+
+[[main]]
+  name = "Acerca de"
+  pageRef = "/about"
+  weight = 6

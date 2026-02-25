@@ -19,7 +19,7 @@ subjects:
 - Autobiography & Memoir
 - Mexican Literature
 title: Memorias de mis tiempos
-year: 994
+year: 1994
 zotero_key: E97QDXET
 ---
 
