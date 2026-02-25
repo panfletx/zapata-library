@@ -42,7 +42,12 @@
     fetch(jsonUrl)
       .then(function (r) { return r.json(); })
       .then(function (data) {
-        allItems = data;
+        allItems = data.map(function (item) {
+          item._searchText = normalize(
+            [item.title].concat(item.authors || []).concat(item.subjects || []).join(" ")
+          );
+          return item;
+        });
         filtered = allItems.slice();
         document.getElementById("loading").style.display = "none";
         buildFilters();
@@ -193,11 +198,11 @@
     document.getElementById("filter-groups").addEventListener("input", function (e) {
       if (e.target.hasAttribute("data-facet-search")) {
         var facetKey = e.target.getAttribute("data-facet-search");
-        var query = e.target.value.toLowerCase();
+        var query = normalize(e.target.value);
         var listEl = document.querySelector('[data-facet-list="' + facetKey + '"]');
         var allValues = JSON.parse(listEl.getAttribute("data-all-values"));
         var matches = allValues.filter(function (v) {
-          return v.value.toLowerCase().indexOf(query) !== -1;
+          return normalize(v.value).indexOf(query) !== -1;
         }).slice(0, 50);
         listEl.innerHTML = "";
         matches.forEach(function (v) {
@@ -310,13 +315,16 @@
   }
 
   function applyFilters() {
-    var query = document.getElementById("search-input").value.toLowerCase().trim();
+    var queryTerms = normalize(document.getElementById("search-input").value).split(/\s+/).filter(Boolean);
 
     filtered = allItems.filter(function (item) {
-      // Text search
-      if (query) {
-        var haystack = (item.title + " " + (item.authors || []).join(" ") + " " + (item.subjects || []).join(" ")).toLowerCase();
-        if (haystack.indexOf(query) === -1) return false;
+      // Text search — accent-normalized, per-word fuzzy matching
+      if (queryTerms.length > 0) {
+        var ok = queryTerms.every(function (term) {
+          var maxErrors = term.length <= 3 ? 0 : term.length <= 6 ? 1 : 2;
+          return fuzzyContains(item._searchText, term, maxErrors);
+        });
+        if (!ok) return false;
       }
 
       // Facet filters (AND across facets, OR within a facet)
@@ -507,6 +515,35 @@
   function escapeAttr(s) {
     if (!s) return "";
     return s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/'/g, "&#39;").replace(/</g, "&lt;");
+  }
+
+  function normalize(s) {
+    if (!s) return "";
+    return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
+  // Approximate substring search: returns true if `word` appears inside `haystack`
+  // with at most `maxErrors` insertions, deletions, or substitutions.
+  function fuzzyContains(haystack, word, maxErrors) {
+    if (!word) return true;
+    if (haystack.indexOf(word) !== -1) return true;
+    if (maxErrors === 0) return false;
+    var m = word.length, n = haystack.length;
+    if (n < m - maxErrors) return false;
+    // prev[i] = min edits to match word[0..i-1] against best ending substring of haystack so far
+    var prev = [];
+    for (var i = 0; i <= m; i++) prev[i] = i;
+    for (var j = 0; j < n; j++) {
+      var curr = [0]; // free: substring can start anywhere in haystack
+      for (var i = 1; i <= m; i++) {
+        curr[i] = word[i - 1] === haystack[j]
+          ? prev[i - 1]
+          : 1 + Math.min(prev[i - 1], prev[i], curr[i - 1]);
+      }
+      if (curr[m] <= maxErrors) return true;
+      prev = curr;
+    }
+    return false;
   }
 
   function debounce(fn, delay) {

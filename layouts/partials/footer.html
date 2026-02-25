@@ -1,5 +1,12 @@
 <footer class="site-footer">
   <div class="footer-inner">
+    <nav class="footer-nav" aria-label="{{ i18n "footer_nav" | default "Footer navigation" }}">
+      {{ range .Site.Menus.main }}
+        {{ if or (eq .PageRef "/") (eq .PageRef "/about") }}
+          <a href="{{ .URL }}" class="footer-nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}"{{ if $.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
     <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
   </div>
 </footer>
