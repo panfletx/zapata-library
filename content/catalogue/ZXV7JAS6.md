@@ -15,7 +15,7 @@ oclc: '1097209721'
 pages: 284
 place: México
 publishers:
-- UNAM, Coordinación de Humanidades
+- Universidad Nacional Autónoma de México
 series:
 - Nuestros clásicos
 subjects:

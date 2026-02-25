@@ -14,7 +14,7 @@ oclc: '651477417'
 pages: 22
 place: México
 publishers:
-- UNAM, Coordinación de Difusión Cultural, Dirección de Literatura
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Mexican Literature

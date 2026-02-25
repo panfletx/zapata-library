@@ -12,7 +12,7 @@ oclc: '893551518'
 pages: 183
 place: México
 publishers:
-- UNAM, Dirección General de Difusión Cultural
+- Universidad Nacional Autónoma de México
 series:
 - Textos de humanidades
 subjects:

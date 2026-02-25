@@ -13,7 +13,7 @@ oclc: '48309605'
 pages: 4
 place: México
 publishers:
-- Centro de Estudios Lingüísticos y Literarios, El Colegio de México
+- El Colegio de México
 series: []
 subjects:
 - Literary History

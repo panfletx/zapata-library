@@ -6,7 +6,7 @@ item_types:
 - book
 languages: []
 publishers:
-- UNAM, INBA, RAC de Veracruz
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - English Literature

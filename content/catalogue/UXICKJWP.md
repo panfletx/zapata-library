@@ -7,7 +7,7 @@ item_types:
 - book
 languages: []
 publishers:
-- Filmoteca de la UNAM
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Biography

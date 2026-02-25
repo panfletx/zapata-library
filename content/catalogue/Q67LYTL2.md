@@ -15,7 +15,7 @@ oclc: '20565412'
 pages: 710
 place: México
 publishers:
-- Centro Universitario de Estudios Cinematográficos, Coordinación General de Difusión Cultural, Dirección de Literatura/UNAM
+- Universidad Nacional Autónoma de México
 series:
 - Textos de humanidades
 subjects:
