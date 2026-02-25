@@ -13,6 +13,7 @@ series: []
 subjects:
 - Literary Criticism
 - Mexican Literature
+- Magazine
 title: La palabra y el hombre 34
 year: 1980
 zotero_key: DXRBE4C3

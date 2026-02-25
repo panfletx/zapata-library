@@ -13,6 +13,7 @@ series: []
 subjects:
 - Latin American Literature
 - Literary Criticism
+- Magazine
 title: La palabra y el hombre 18
 year: 2011
 zotero_key: ZK93TPUF

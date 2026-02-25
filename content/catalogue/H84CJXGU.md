@@ -13,6 +13,7 @@ series: []
 subjects:
 - Literary Criticism
 - Mexican Literature
+- Magazine
 title: La palabra y el hombre 8
 year: 2009
 zotero_key: H84CJXGU

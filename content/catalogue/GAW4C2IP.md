@@ -13,6 +13,7 @@ series: []
 subjects:
 - Literary Criticism
 - Mexican Literature
+- Magazine
 title: La palabra y el hombre 2
 year: 2007
 zotero_key: GAW4C2IP

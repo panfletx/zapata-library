@@ -11,6 +11,7 @@ publishers: []
 series: []
 subjects:
 - Visual Art
+- Magazine
 title: Descubrir el arte
 year: 1999
 zotero_key: 7UHXMRK5

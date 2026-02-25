@@ -13,6 +13,7 @@ series: []
 subjects:
 - Latin American Literature
 - Literary Criticism
+- Magazine
 title: La palabra y el hombre 11
 year: 2010
 zotero_key: WCBVTPL5

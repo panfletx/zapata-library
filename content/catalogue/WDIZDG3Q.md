@@ -12,6 +12,7 @@ series: []
 subjects:
 - Gay Literature
 - Mexican Literature
+- Magazine
 title: 'Fricciones: el tío Lázaro'
 year: 1986
 zotero_key: WDIZDG3Q

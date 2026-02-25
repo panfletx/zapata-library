@@ -12,6 +12,7 @@ series: []
 subjects:
 - Latin American Literature
 - Literary Criticism
+- Magazine
 title: La palabra y el hombre 15
 year: 205
 zotero_key: I7UBJANP

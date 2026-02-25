@@ -13,6 +13,7 @@ series: []
 subjects:
 - Latin American Literature
 - Literary Criticism
+- Magazine
 title: La palabra y el hombre 9
 year: 2009
 zotero_key: ZIBKYRX4

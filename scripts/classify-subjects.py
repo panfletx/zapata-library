@@ -48,7 +48,7 @@ VALID_CATEGORIES = [
     "Latin American Literature", "Latin American Politics", "Law",
     "Lesbian Studies", "Literary Criticism", "Literary History", "Love & Desire",
     "Luis Buñuel", "Madrid",
-    "Marxism", "Masculinity",
+    "Magazine", "Marxism", "Masculinity",
     "Medicine & Health", "Medieval History", "Medieval Literature", "Memory",
     "Mexican Literature", "Mexican Revolution", "Mexico", "Mexico City",
     "Middle East", "Migration & Exile", "Modern History",

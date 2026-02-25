@@ -12,6 +12,7 @@ series: []
 subjects:
 - Fiction
 - Mexican Literature
+- Magazine
 title: Terribles
 year: 1995
 zotero_key: XUPHSD39

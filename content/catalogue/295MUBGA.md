@@ -13,6 +13,7 @@ series: []
 subjects:
 - Essay
 - Mexican Literature
+- Magazine
 title: La palabra y el hombre 48
 year: 2019
 zotero_key: 295MUBGA

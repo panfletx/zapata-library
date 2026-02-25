@@ -12,6 +12,7 @@ series: []
 subjects:
 - Literary Criticism
 - Mexican Literature
+- Magazine
 title: La palabra y el hombre 34
 year: 205
 zotero_key: LVATPFDT

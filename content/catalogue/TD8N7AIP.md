@@ -11,6 +11,7 @@ series: []
 subjects:
 - Interview
 - Mexican Literature
+- Magazine
 title: Entrevista a Luis Zapata ¿Qué onda con la literatura jóven?
 zotero_key: TD8N7AIP
 ---

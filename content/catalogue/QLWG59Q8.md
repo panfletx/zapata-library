@@ -11,6 +11,7 @@ series: []
 subjects:
 - Essay
 - Mexican Literature
+- Magazine
 title: Nuestra única arma
 zotero_key: QLWG59Q8
 ---

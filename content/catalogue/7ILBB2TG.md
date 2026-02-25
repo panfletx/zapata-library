@@ -12,6 +12,7 @@ subjects:
 - Gay Literature
 - Literary Criticism
 - Mexican Literature
+- Magazine
 title: Pasión y muerte en la literatura gay Luis Zpata
 zotero_key: 7ILBB2TG
 ---

@@ -10,6 +10,7 @@ publishers: []
 series: []
 subjects:
 - Literary Criticism
+- Magazine
 title: Luis Zapata...El vampiro de la colonia Roma
 zotero_key: KSVUKUVR
 ---
