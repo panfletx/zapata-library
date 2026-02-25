@@ -12,7 +12,7 @@ oclc: '301697517'
 pages: 296
 place: New York
 publishers:
-- Harcourt, Brace and World
+- Harcourt, Brace & World
 series:
 - Harvest books
 subjects:

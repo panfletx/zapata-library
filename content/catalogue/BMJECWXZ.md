@@ -12,7 +12,7 @@ oclc: '3547608'
 pages: 78
 place: México
 publishers:
-- Instituto Nacional de Bellas Artes, Departamento de Literatura
+- Instituto Nacional de Bellas Artes
 series:
 - Documentos literarios (Mexico City, Mexico)
 subjects:
