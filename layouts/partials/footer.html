@@ -1,10 +1,15 @@
 <footer class="site-footer">
   <div class="footer-inner">
-    {{/* Secondary pages nav — add new links here as needed */}}
-    <nav class="footer-secondary-nav" aria-label="{{ i18n "footer_nav" | default "Footer navigation" }}">
-      <a href="{{ .Site.Home.RelPermalink }}" class="footer-nav-link{{ if .IsHome }} active{{ end }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ i18n "home" }}</a>
-      <a href="{{ relLangURL "about" }}" class="footer-nav-link{{ if eq .RelPermalink (relLangURL "about/") }} active{{ end }}"{{ if eq .RelPermalink (relLangURL "about/") }} aria-current="page"{{ end }}>{{ i18n "about" }}</a>
-    </nav>
-    <p class="footer-title">&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    <div class="footer-left">
+      {{/* Secondary pages nav — add new links here as needed */}}
+      <nav class="footer-secondary-nav" aria-label="{{ i18n "footer_nav" | default "Footer navigation" }}">
+        <a href="{{ .Site.Home.RelPermalink }}" class="footer-nav-link{{ if .IsHome }} active{{ end }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ i18n "home" }}</a>
+        <a href="{{ relLangURL "about" }}" class="footer-nav-link{{ if eq .RelPermalink (relLangURL "about/") }} active{{ end }}"{{ if eq .RelPermalink (relLangURL "about/") }} aria-current="page"{{ end }}>{{ i18n "about" }}</a>
+      </nav>
+      <p class="footer-title">&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </div>
+    <div class="footer-right">
+      <p class="footer-flags-credit">{{ i18n "footer_flags_credit" }}</p>
+    </div>
   </div>
 </footer>
