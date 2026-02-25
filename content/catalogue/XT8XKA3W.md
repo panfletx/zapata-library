@@ -14,7 +14,7 @@ oclc: '651188712'
 pages: 191
 place: México
 publishers:
-- Edits. Mexicanos Unidos
+- Editores Mexicanos Unidos
 series:
 - Colec. teatro
 subjects:
