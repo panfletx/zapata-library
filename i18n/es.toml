@@ -133,6 +133,9 @@ other = "Ir al contenido principal"
 [open_menu]
 other = "Abrir menú"
 
+[about]
+other = "Acerca de"
+
 [opens_new_tab]
 other = "abre en nueva pestaña"
 

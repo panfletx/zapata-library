@@ -1,9 +1,4 @@
 [[main]]
-  name = "Inicio"
-  pageRef = "/"
-  weight = 1
-
-[[main]]
   name = "Catálogo"
   pageRef = "/catalogue"
   weight = 2
@@ -22,8 +17,3 @@
   name = "Temas"
   pageRef = "/subjects"
   weight = 5
-
-[[main]]
-  name = "Acerca de"
-  pageRef = "/about"
-  weight = 6

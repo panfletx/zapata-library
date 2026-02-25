@@ -133,6 +133,9 @@ other = "Skip to main content"
 [open_menu]
 other = "Open menu"
 
+[about]
+other = "About"
+
 [opens_new_tab]
 other = "opens in new tab"
 
