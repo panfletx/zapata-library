@@ -6,10 +6,10 @@
         <a href="{{ .Site.Home.RelPermalink }}" class="footer-nav-link{{ if .IsHome }} active{{ end }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ i18n "home" }}</a>
         <a href="{{ relLangURL "about" }}" class="footer-nav-link{{ if eq .RelPermalink (relLangURL "about/") }} active{{ end }}"{{ if eq .RelPermalink (relLangURL "about/") }} aria-current="page"{{ end }}>{{ i18n "about" }}</a>
       </nav>
-      <p class="footer-title">&copy; {{ now.Year }} {{ .Site.Title }}</p>
     </div>
     <div class="footer-right">
       <p class="footer-flags-credit">{{ i18n "footer_flags_credit" }}</p>
     </div>
   </div>
+  <p class="footer-title">&copy; {{ now.Year }} {{ .Site.Title }}</p>
 </footer>

@@ -615,6 +615,7 @@ h1, h2, h3 {
 .footer-title {
   text-align: center;
   margin: 0;
+  padding: 0 1.5rem 1rem;
 }
 
 .footer-flags-credit {
