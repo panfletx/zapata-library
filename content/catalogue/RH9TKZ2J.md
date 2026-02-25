@@ -5,7 +5,6 @@ cover: covers/rh9tkz2j.jpg
 date: '2024-09-01'
 decade: 1970s
 edition: 1st ed
-featured: true
 isbn: 978-0-525-47552-1
 item_types:
 - book

@@ -18,6 +18,7 @@ series:
 subjects:
 - Correspondence
 - Mexican Literature
+featured: true
 title: Cartas de Villaurrutia a Novo, 1935-1936
 year: 1966
 zotero_key: BMJECWXZ
