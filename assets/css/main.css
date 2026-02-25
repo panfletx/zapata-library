@@ -602,12 +602,12 @@ h1, h2, h3 {
   justify-content: flex-end;
 }
 
-/* Secondary pages nav: left-aligned, stacked vertically */
+/* Secondary pages nav: left-aligned, horizontal */
 .footer-secondary-nav {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.4rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
   margin-bottom: 0.75rem;
 }
 
