@@ -262,22 +262,17 @@ h1, h2, h3 {
 /* === About Hero === */
 .about-hero {
   margin: -2rem -1.5rem 2rem;
-  overflow: hidden;
-  height: 460px;
 }
 
 .about-hero img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
+  height: auto;
   display: block;
 }
 
 @media (max-width: 640px) {
   .about-hero {
     margin: -2rem -1.5rem 1.5rem;
-    height: 260px;
   }
 }
 
