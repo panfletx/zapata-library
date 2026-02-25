@@ -14,7 +14,7 @@ oclc: '739713821'
 pages: 578
 place: Tuxla Gutiérrez, Chiapas, México
 publishers:
-- Consejo Estatal para la Cultura y las Artes de Chiapas
+- Consejo Estatal para las Culturas y las Artes de Chiapas
 series:
 - Colección Hechos en palabras
 subjects:
