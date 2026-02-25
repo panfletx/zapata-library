@@ -13,7 +13,7 @@ oclc: '21347201'
 pages: 245
 place: Caracas
 publishers:
-- Ediciones Oxigeno
+- Oxigeno
 series: []
 subjects:
 - Essay

@@ -13,7 +13,7 @@ oclc: '778789916'
 pages: 121
 place: Monterrey, México
 publishers:
-- Ediciones Intempestivas
+- Intempestivas
 series: []
 subjects:
 - Essay

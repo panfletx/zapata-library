@@ -12,7 +12,7 @@ languages:
 oclc: '689520086'
 place: Barcelona
 publishers:
-- Ediciones 29
+- 29
 series: []
 subjects:
 - Arabic Literature

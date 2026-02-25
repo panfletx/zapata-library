@@ -8,7 +8,7 @@ item_types:
 languages: []
 place: México
 publishers:
-- Ediciones Cal y Arena
+- Cal y Arena
 series: []
 subjects:
 - Bibliography

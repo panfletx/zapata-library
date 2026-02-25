@@ -15,7 +15,7 @@ oclc: '3971844'
 pages: 127
 place: Mexico, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

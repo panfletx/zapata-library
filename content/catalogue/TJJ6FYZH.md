@@ -13,7 +13,7 @@ oclc: '11915926'
 pages: 277
 place: Mexico City?
 publishers:
-- Red Ediciones
+- Red
 series: []
 subjects:
 - Latin American Politics

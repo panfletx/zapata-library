@@ -15,7 +15,7 @@ oclc: '29522616'
 pages: 478
 place: Chile, Buenos Aires, Argentina, México
 publishers:
-- Ediciones B
+- B
 - Universidad de Guadalajara
 series:
 - Serie Reporter (Buenos Aires, Argentina)

@@ -15,7 +15,7 @@ oclc: '433991420'
 pages: 188
 place: Barcelona
 publishers:
-- Ediciones B
+- B
 series:
 - Tiempos modernos
 subjects:

@@ -13,7 +13,7 @@ oclc: '1011624169'
 pages: 211
 place: Barcelona
 publishers:
-- Ediciones 29
+- 29
 series:
 - Espejo del alma
 subjects:

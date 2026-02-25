@@ -13,7 +13,7 @@ oclc: '22533306'
 pages: 178
 place: Barcelona
 publishers:
-- Ediciones B
+- B
 series:
 - Libro amigo
 subjects:

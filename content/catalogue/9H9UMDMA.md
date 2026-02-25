@@ -9,7 +9,7 @@ item_types:
 languages: []
 place: México
 publishers:
-- Desliz Ediciones
+- Desliz
 series: []
 subjects:
 - Fiction

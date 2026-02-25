@@ -15,7 +15,7 @@ oclc: '293075123'
 pages: 54
 place: México, Durango
 publishers:
-- Ediciones Casa Juan Pablos
+- Casa Juan Pablos
 - Instituto Municipal del Arte y la Cultura
 series: []
 subjects:

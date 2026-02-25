@@ -10,7 +10,7 @@ item_types:
 languages:
 - Español
 publishers:
-- Ediciones de la Noche
+- de la Noche
 series: []
 subjects:
 - Fiction

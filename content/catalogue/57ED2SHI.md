@@ -10,7 +10,7 @@ languages:
 oclc: '906647273'
 place: México
 publishers:
-- Ediciones Uno
+- Uno
 series: []
 subjects:
 - Grammar & Linguistics

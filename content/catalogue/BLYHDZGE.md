@@ -7,7 +7,7 @@ item_types:
 languages: []
 place: México
 publishers:
-- Ediciones Zetina
+- Zetina
 series: []
 subjects:
 - Mexican Literature

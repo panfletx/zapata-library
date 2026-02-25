@@ -15,7 +15,7 @@ oclc: '48807919'
 pages: 134
 place: México, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

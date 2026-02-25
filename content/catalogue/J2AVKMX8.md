@@ -15,7 +15,7 @@ oclc: '24903911'
 pages: 236
 place: México, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

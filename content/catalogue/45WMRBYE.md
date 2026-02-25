@@ -23,7 +23,7 @@ oclc: '1018104586'
 pages: 217
 place: México
 publishers:
-- Ediciones Cal y Arena
+- Cal y Arena
 series: []
 subjects:
 - Anthology

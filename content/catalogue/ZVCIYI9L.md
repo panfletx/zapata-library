@@ -16,7 +16,7 @@ oclc: '807340116'
 pages: 276
 place: México, D.F.
 publishers:
-- Textofilia Ediciones
+- Textofilia
 series:
 - Colección Hogarth. Serie Epistolar
 subjects:

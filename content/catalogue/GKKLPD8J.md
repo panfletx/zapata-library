@@ -14,7 +14,7 @@ oclc: '36214915'
 pages: 317
 place: México, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

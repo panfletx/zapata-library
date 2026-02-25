@@ -15,7 +15,7 @@ oclc: '432765753'
 pages: 98
 place: Barcelona
 publishers:
-- Ediciones 29
+- 29
 series:
 - Grandes autores (Ediciones 29)
 subjects:

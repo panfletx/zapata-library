@@ -15,7 +15,7 @@ oclc: '49652086'
 pages: 467
 place: Madrid
 publishers:
-- Ediciones Akal
+- Akal
 series:
 - Básica de bolsillo Akal
 subjects:

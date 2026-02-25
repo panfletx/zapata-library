@@ -14,7 +14,7 @@ oclc: '17367373'
 pages: 140
 place: Madrid
 publishers:
-- Ediciones Alfaguara
+- Alfaguara
 series:
 - Nueva ficción
 subjects:

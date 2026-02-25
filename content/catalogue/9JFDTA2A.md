@@ -13,7 +13,7 @@ oclc: '48895977'
 pages: 118
 place: Barcelona
 publishers:
-- Ediciones Altaya
+- Altaya
 series:
 - Biblioteca de Premios Nobel
 subjects:

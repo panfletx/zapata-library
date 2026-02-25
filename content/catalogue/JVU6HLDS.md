@@ -14,7 +14,7 @@ oclc: '302357842'
 pages: 147
 place: Barcelona
 publishers:
-- Ediciones del Serbal
+- del Serbal
 series: []
 subjects:
 - Irish Literature

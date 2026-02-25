@@ -14,7 +14,7 @@ oclc: '767829208'
 pages: 85
 place: Monterrey, México
 publishers:
-- Ediciones Intempestivas
+- Intempestivas
 series: []
 subjects:
 - Mexican Literature

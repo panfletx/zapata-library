@@ -15,7 +15,7 @@ oclc: '6412030'
 pages: 134
 place: México, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 source_url: http://sfpl.org/uploads/files/2/elgallodeoro-cover.jpg

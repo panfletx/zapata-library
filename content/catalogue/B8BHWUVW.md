@@ -13,7 +13,7 @@ oclc: '43511464'
 pages: 399
 place: Madrid
 publishers:
-- Ediciones ISTMO
+- ISTMO
 series:
 - Colección Fundamentos
 subjects:

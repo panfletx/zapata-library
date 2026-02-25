@@ -15,7 +15,7 @@ oclc: '77559791'
 pages: 148
 place: México
 publishers:
-- Ediciones Sin Nombre
+- Sin Nombre
 - Consejo Nacional para la Cultura y las Artes
 series:
 - Cuadernos de la salamandra

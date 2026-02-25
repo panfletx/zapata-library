@@ -13,7 +13,7 @@ oclc: '132839220'
 pages: 687
 place: México, D.F.
 publishers:
-- Ediciones el Milagro
+- el Milagro
 series: []
 subjects:
 - American Literature

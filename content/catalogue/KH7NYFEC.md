@@ -7,7 +7,7 @@ item_types:
 - book
 languages: []
 publishers:
-- Ediciones del pregrino
+- del pregrino
 series: []
 subjects:
 - Diary & Letters

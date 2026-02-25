@@ -15,7 +15,7 @@ oclc: '14105884'
 pages: 162
 place: México, D.F.
 publishers:
-- Ediciones Océano
+- Océano
 series: []
 subjects:
 - Essay

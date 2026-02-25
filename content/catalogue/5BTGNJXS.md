@@ -13,7 +13,7 @@ oclc: '51370681'
 pages: 143
 place: Barcelona
 publishers:
-- Ediciones 29
+- 29
 series:
 - Colección Grandes autores (Caracas, Venezuela)
 subjects:

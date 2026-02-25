@@ -13,7 +13,7 @@ oclc: '184842667'
 pages: 92
 place: Mexico, D.F.
 publishers:
-- Ediciones Texto e Imagen
+- Texto e Imagen
 series: []
 subjects:
 - Children's Literature

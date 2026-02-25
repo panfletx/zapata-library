@@ -13,7 +13,7 @@ oclc: '37670887'
 pages: 251
 place: Barcelona
 publishers:
-- Ediciones B
+- B
 series: []
 subjects:
 - Essay

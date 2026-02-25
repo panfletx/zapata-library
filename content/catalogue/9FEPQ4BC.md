@@ -12,7 +12,7 @@ oclc: '983473303'
 pages: 215
 place: México, D.F
 publishers:
-- Desliz Ediciones
+- Desliz
 series: []
 subjects:
 - Mexican Literature

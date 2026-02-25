@@ -15,7 +15,7 @@ oclc: '56937613'
 pages: 314
 place: Algete (Madrid)
 publishers:
-- JM Ediciones
+- JM
 series:
 - Clásicos universales (JM Ediciones)
 subjects:

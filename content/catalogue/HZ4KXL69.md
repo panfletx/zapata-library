@@ -14,7 +14,7 @@ oclc: '313657146'
 pages: 185
 place: Cuauhtémoc, Ciudad de México
 publishers:
-- Quimera Ediciones
+- Quimera
 series:
 - Colección Thélema
 subjects:

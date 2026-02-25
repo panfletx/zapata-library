@@ -15,7 +15,7 @@ oclc: '807327701'
 pages: 146
 place: México, D.F., Monterrey, Nuevo León, México
 publishers:
-- Textofilia Ediciones
+- Textofilia
 - Universidad Autonóma de Nuevo León, Biblioteca Universitaria Raúl Rangel Frías
 series:
 - Colección Ión. Serie Poesía

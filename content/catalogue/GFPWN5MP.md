@@ -15,7 +15,7 @@ pages: 402
 place: México
 publishers:
 - Fondo de Cultura Económica
-- Ediciones Siruela
+- Siruela
 series:
 - Tezontle
 subjects:

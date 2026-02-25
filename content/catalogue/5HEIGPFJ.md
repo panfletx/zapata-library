@@ -15,7 +15,7 @@ oclc: '807327609'
 pages: 310
 place: México, D.F.
 publishers:
-- Textofilia Ediciones
+- Textofilia
 series:
 - Colección Hogarth. Serie Narrativa
 subjects:

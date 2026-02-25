@@ -15,7 +15,7 @@ oclc: '49225167'
 pages: 51
 place: San Pedro de los Pinos
 publishers:
-- Ediciones del Ermitaño
+- del Ermitaño
 series:
 - Minimalia (Mexico City, Mexico)
 subjects:

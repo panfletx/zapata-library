@@ -13,7 +13,7 @@ oclc: '37344125'
 pages: 31
 place: México, D.F.
 publishers:
-- Ediciones de la Máquina de Escribir
+- de la Máquina de Escribir
 series:
 - Máquina de escribir (Mexico City, Mexico)
 subjects:

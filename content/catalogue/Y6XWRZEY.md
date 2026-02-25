@@ -13,7 +13,7 @@ oclc: '20275118'
 pages: 294
 place: México, D.F.
 publishers:
-- Ediciones Roca
+- Roca
 series:
 - Fontana fantástica
 subjects:

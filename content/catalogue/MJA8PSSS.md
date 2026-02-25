@@ -12,7 +12,7 @@ oclc: '2466193'
 pages: 46
 place: México
 publishers:
-- Estrella Ediciones
+- Estrella
 series: []
 subjects:
 - Drama

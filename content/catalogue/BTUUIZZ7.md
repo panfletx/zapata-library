@@ -13,7 +13,7 @@ oclc: '720627402'
 pages: 99
 place: Mexico
 publishers:
-- Ediciones Euroamericanas
+- Euroamericanas
 series: []
 subjects:
 - German Literature

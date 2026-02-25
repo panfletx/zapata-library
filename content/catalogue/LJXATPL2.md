@@ -15,7 +15,7 @@ oclc: '277588861'
 pages: 63
 place: México, D.F.
 publishers:
-- Ediciones Sin Nombre
+- Sin Nombre
 series: []
 subjects:
 - Mexican Literature

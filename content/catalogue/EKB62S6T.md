@@ -14,7 +14,7 @@ oclc: '1333975648'
 pages: 253
 place: México
 publishers:
-- Ediciones Sin Nombre
+- Sin Nombre
 series: []
 subjects:
 - Mexican Literature

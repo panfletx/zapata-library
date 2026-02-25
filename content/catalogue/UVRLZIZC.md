@@ -15,7 +15,7 @@ oclc: '174119728'
 pages: 107
 place: México, D.F.
 publishers:
-- Ediciones Sin Nombre
+- Sin Nombre
 - Consejo Nacional para la Cultura y las Artes
 series:
 - Centena

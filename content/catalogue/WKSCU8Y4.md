@@ -13,7 +13,7 @@ oclc: '1846384'
 pages: 309
 place: Madrid
 publishers:
-- Ediciones ISTMO
+- ISTMO
 series:
 - Biblioteca de estudios críticos, 2. Sección literatura
 subjects:

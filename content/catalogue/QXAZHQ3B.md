@@ -15,7 +15,7 @@ oclc: '927746819'
 pages: 127
 place: Barcelona, España
 publishers:
-- Juan Granica Ediciones
+- Juan Granica
 series:
 - Zodíaco Chino. Signos
 subjects:

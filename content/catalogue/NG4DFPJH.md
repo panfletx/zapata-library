@@ -6,7 +6,7 @@ item_types:
 - book
 languages: []
 publishers:
-- Legaria Ediciones
+- Legaria
 series: []
 subjects:
 - Mythology

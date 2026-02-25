@@ -12,7 +12,7 @@ oclc: '768119241'
 pages: 106
 place: Monterrey, México
 publishers:
-- Ediciones Intempestivas
+- Intempestivas
 series: []
 subjects:
 - Anthology

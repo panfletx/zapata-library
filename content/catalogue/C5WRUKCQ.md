@@ -15,7 +15,7 @@ oclc: '52033946'
 pages: 285
 place: Buenos Aires
 publishers:
-- Ediciones Nueva visión
+- Nueva visión
 series:
 - Colección Los casos de Sigmund Freud
 subjects:

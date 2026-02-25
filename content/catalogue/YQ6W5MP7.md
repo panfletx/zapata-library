@@ -14,7 +14,7 @@ oclc: '9236446'
 pages: 297
 place: México, D.F.
 publishers:
-- Ediciones Océano
+- Océano
 series: []
 subjects:
 - Mexican Literature

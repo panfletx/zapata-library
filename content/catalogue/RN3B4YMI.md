@@ -15,7 +15,7 @@ oclc: '404325145'
 pages: 113
 place: México, D.F.
 publishers:
-- Ediciones Fósforo
+- Fósforo
 series:
 - Narrativa (Ediciones Fósforo)
 subjects:

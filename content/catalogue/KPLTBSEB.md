@@ -15,7 +15,7 @@ oclc: '432777491'
 pages: 93
 place: Madrid
 publishers:
-- Ediciones 29
+- 29
 series:
 - Grandes autores (Ediciones 29)
 subjects:

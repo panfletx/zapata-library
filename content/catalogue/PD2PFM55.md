@@ -14,7 +14,7 @@ oclc: '1335613317'
 pages: 215
 place: Barcelona [etc.]
 publishers:
-- Ediciones B
+- B
 series:
 - De viva voz (Ediciones B)
 subjects:

@@ -14,7 +14,7 @@ oclc: '2127046'
 pages: 1049
 place: Madrid
 publishers:
-- Ediciones Paulinas
+- Paulinas
 series: []
 subjects:
 - Encyclopedia

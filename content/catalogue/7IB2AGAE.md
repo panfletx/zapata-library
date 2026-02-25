@@ -13,7 +13,7 @@ oclc: '56115245'
 pages: 151
 place: México, D.F.
 publishers:
-- Arte y Escena Ediciones
+- Arte y Escena
 series: []
 subjects:
 - Autobiography & Memoir

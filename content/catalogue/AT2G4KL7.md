@@ -14,7 +14,7 @@ oclc: '17054662'
 pages: 190
 place: México, D.F.
 publishers:
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

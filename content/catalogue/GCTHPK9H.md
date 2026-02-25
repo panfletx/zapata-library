@@ -15,7 +15,7 @@ oclc: '651508243'
 pages: 58
 place: México
 publishers:
-- Ediciones y Distribuciones Hispánicas
+- y Distribuciones Hispánicas
 series: []
 subjects:
 - Fiction

@@ -13,7 +13,7 @@ oclc: '49706810'
 pages: 22
 place: México
 publishers:
-- Emece Mexicana
+- Emecé Mexicana
 series: []
 subjects:
 - Argentine Literature

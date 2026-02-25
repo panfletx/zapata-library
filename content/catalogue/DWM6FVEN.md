@@ -8,7 +8,7 @@ item_types:
 languages: []
 place: Mexico
 publishers:
-- Ediciones del Estado de Morelos
+- del Estado de Morelos
 series: []
 subjects:
 - Mexican Literature

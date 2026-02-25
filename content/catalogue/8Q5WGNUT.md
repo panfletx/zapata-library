@@ -15,7 +15,7 @@ oclc: '16545920'
 pages: 121
 place: México, D.F.
 publishers:
-- Ediciones Océano
+- Océano
 series: []
 subjects:
 - Biography

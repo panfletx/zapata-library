@@ -13,7 +13,7 @@ oclc: '812183490'
 pages: 102
 place: Monterrey, México
 publishers:
-- Ediciones Intempestivas
+- Intempestivas
 series: []
 subjects:
 - Anthology

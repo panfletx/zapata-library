@@ -15,7 +15,7 @@ oclc: '663105358'
 pages: 195
 place: México, D.F.
 publishers:
-- Ediciones El Milagro
+- El Milagro
 - Universidad de Sonora
 series: []
 subjects:

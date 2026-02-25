@@ -15,7 +15,7 @@ oclc: '24091005'
 pages: 201
 place: Villahermosa, Tabasco
 publishers:
-- Gobierno del Estado de Tabasco, ICT Ediciones
+- Gobierno del Estado de Tabasco, ICT
 series:
 - Creación/ensayo
 subjects:

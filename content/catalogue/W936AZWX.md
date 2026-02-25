@@ -15,7 +15,7 @@ oclc: '184736609'
 pages: 79
 place: Madrid
 publishers:
-- Centaurea Nigra Ediciones
+- Centaurea Nigra
 series: []
 subjects:
 - Literary Criticism

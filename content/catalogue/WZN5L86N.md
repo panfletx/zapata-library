@@ -16,7 +16,7 @@ pages: 339
 place: México, D.F.
 publishers:
 - Universidad Nacional Autónoma de México
-- Ediciones Era
+- Era
 series:
 - Biblioteca Era
 subjects:

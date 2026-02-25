@@ -15,7 +15,7 @@ oclc: '49859620'
 pages: 208
 place: México
 publishers:
-- Ediciones El Milagro
+- El Milagro
 series:
 - Teatro (Milagro (Firm))
 subjects:

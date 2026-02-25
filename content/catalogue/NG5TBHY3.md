@@ -12,7 +12,7 @@ oclc: '50256154'
 pages: 159
 place: México, D.F.
 publishers:
-- Ediciones Mono's
+- Mono's
 series: []
 subjects:
 - Essay

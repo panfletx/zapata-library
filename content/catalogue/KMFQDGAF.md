@@ -15,7 +15,7 @@ publishers:
 - Instituto Municipal de Arte y Cultura
 - Facultad de Humanidades, UABC
 - Unión de Libreros de Tijuana
-- Desliz Ediciones
+- Desliz
 series: []
 subjects:
 - Contemporary History

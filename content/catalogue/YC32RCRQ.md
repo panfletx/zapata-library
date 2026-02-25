@@ -15,7 +15,7 @@ oclc: '244417045'
 pages: 1
 place: México, D.F.
 publishers:
-- Ediciones El Naranjo
+- El Naranjo
 series:
 - Para lectores que empiezan
 subjects:

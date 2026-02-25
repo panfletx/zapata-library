@@ -14,8 +14,8 @@ oclc: '226316634'
 pages: 248
 place: México, D.F.
 publishers:
-- Desliz Ediciones
-- Ediciones Fósforo
+- Desliz
+- Fósforo
 - Tipográfica
 series:
 - Literatura

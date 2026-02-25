@@ -14,7 +14,7 @@ oclc: '919903070'
 pages: 482
 place: Barcelona
 publishers:
-- Ediciones B
+- B
 series:
 - Punto de lectura
 subjects:

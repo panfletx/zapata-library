@@ -15,7 +15,7 @@ oclc: '911627023'
 pages: 1
 place: México, D.F.
 publishers:
-- Textofilia Ediciones
+- Textofilia
 series:
 - Colección Lumía
 subjects:

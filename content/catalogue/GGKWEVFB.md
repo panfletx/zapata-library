@@ -13,7 +13,7 @@ oclc: '78245510'
 pages: 335
 place: Madrid
 publishers:
-- Ediciones Alfaguara
+- Alfaguara
 series:
 - Literature Alfaguara
 subjects:

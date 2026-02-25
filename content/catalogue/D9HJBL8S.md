@@ -14,7 +14,7 @@ oclc: '51151984'
 pages: 214
 place: Manzanillo, Mexico
 publishers:
-- Ediciones El Milagro
+- El Milagro
 series: []
 subjects:
 - Drama

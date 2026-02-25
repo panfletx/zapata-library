@@ -13,7 +13,7 @@ oclc: '1105281809'
 pages: 298
 place: Madrid
 publishers:
-- Ediciones Rioduero
+- Rioduero
 series: []
 subjects:
 - Dictionary

@@ -13,7 +13,7 @@ oclc: '768119748'
 pages: 79
 place: Monterrey, México
 publishers:
-- Ediciones Intempestivas
+- Intempestivas
 series: []
 subjects:
 - Medicine & Health

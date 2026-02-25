@@ -14,7 +14,7 @@ oclc: '1090681027'
 pages: 168
 place: México
 publishers:
-- Ediciones Paidos
+- Paidos
 series:
 - Paidos Studio
 subjects:

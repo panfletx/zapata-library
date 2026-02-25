@@ -13,7 +13,7 @@ oclc: '6478262'
 pages: 1049
 place: Madrid, Estella, Navarra
 publishers:
-- Ediciones Paulinas
+- Paulinas
 - Verbo Divino
 series: []
 subjects:
