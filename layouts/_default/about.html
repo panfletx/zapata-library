@@ -1,8 +1,8 @@
 {{ define "main" }}
 <figure class="about-hero">
   <picture>
-    <source srcset="/coverphoto.webp" type="image/webp">
-    <img src="/coverphoto.jpg"
+    <source srcset="{{ "coverphoto.webp" | relURL }}" type="image/webp">
+    <img src="{{ "coverphoto.jpg" | relURL }}"
          alt="{{ i18n "about_cover_alt" }}"
          width="1400" height="936"
          loading="eager"
