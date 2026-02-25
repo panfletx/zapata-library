@@ -1,5 +1,6 @@
 ---
 title: "Acerca de"
+layout: about
 ---
 
 ## Introducción

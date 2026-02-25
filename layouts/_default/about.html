@@ -1,0 +1,18 @@
+{{ define "main" }}
+<figure class="about-hero">
+  <picture>
+    <source srcset="/coverphoto.webp" type="image/webp">
+    <img src="/coverphoto.jpg"
+         alt="{{ i18n "about_cover_alt" }}"
+         width="1400" height="936"
+         loading="eager"
+         fetchpriority="high">
+  </picture>
+</figure>
+<section class="section page-prose">
+  <h1>{{ .Title }}</h1>
+  <div class="prose-content">
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}
