@@ -14,7 +14,7 @@ oclc: '302406336'
 pages: 177
 place: Zapopan, Jalisco, México
 publishers:
-- Amat Editorial
+- Amat
 series: []
 subjects:
 - Chronicle

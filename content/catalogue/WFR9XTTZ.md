@@ -14,7 +14,7 @@ oclc: '489653833'
 pages: 271
 place: México
 publishers:
-- Consejo nacional por la cultura y las artes
+- Consejo nacional para la cultura y las artes
 series:
 - Los Noventa
 subjects:

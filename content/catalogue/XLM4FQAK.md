@@ -13,7 +13,7 @@ oclc: '34120392'
 pages: 275
 place: Madrid
 publishers:
-- Agencia Española de Cooperación Internacional, de Cultura Hispánica
+- Agencia Española de Cooperación Internacional
 series:
 - Biblioteca literaria iberoamericana y filipina
 subjects:

@@ -16,7 +16,7 @@ pages: 103
 place: Xalapa, Veracruz, México, D.F.
 publishers:
 - Universidad Veracruzana
-- Consejo Nacional para la cultura y las Artes, Dirección General de Publicaciones
+- Consejo Nacional para la cultura y las Artes
 series:
 - Sergio Pitol Traductor
 subjects:
