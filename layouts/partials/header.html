@@ -10,7 +10,7 @@
 
     <div class="lang-toggle">
       {{ range .AllTranslations }}
-        <a href="{{ .RelPermalink }}" class="lang-link{{ if eq $.Lang .Lang }} active{{ end }}"{{ if eq $.Lang .Lang }} aria-current="true"{{ end }}>{{ .Language.LanguageName }}</a>
+        <a href="{{ .RelPermalink }}" class="lang-link{{ if eq $.Lang .Lang }} active{{ end }}"{{ if eq $.Lang .Lang }} aria-current="true"{{ end }} data-short="{{ .Lang | upper }}">{{ .Language.LanguageName }}</a>
       {{ end }}
     </div>
 

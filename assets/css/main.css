@@ -582,16 +582,23 @@ h1, h2, h3 {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 1.5rem;
-  text-align: center;
   font-size: 0.85rem;
   color: var(--color-text-muted);
 }
 
-.footer-nav {
+/* Secondary pages nav: left-aligned, stacked vertically */
+.footer-secondary-nav {
   display: flex;
-  justify-content: center;
-  gap: 1.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
   margin-bottom: 0.75rem;
+}
+
+/* Site title line: centered below the nav */
+.footer-title {
+  text-align: center;
+  margin: 0;
 }
 
 .footer-nav-link {
@@ -1034,8 +1041,31 @@ h1, h2, h3 {
     margin-left: auto;
   }
 
+  /* Language pill toggle on portrait phones */
   .lang-toggle {
     order: -1;
+    gap: 0;
+    border: 1.5px solid var(--color-accent);
+    border-radius: 999px;
+    overflow: hidden;
+    align-items: stretch;
+  }
+  .lang-toggle .lang-link {
+    font-size: 0;          /* hide full language name */
+    padding: 0.25rem 0.65rem;
+    border-radius: 0;
+    color: var(--color-accent);
+    background: transparent;
+  }
+  .lang-toggle .lang-link::before {
+    content: attr(data-short);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+  }
+  .lang-toggle .lang-link.active {
+    background: var(--color-accent);
+    color: #fff;
   }
 
   /* Catalogue app: sidebar becomes off-canvas overlay */
