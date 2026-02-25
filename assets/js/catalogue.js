@@ -99,14 +99,15 @@
   function buildCheckboxGroup(facet, values) {
     var group = document.createElement("div");
     group.className = "filter-group";
+    var bodyId = "fg-" + facet.key;
     group.innerHTML =
-      '<div class="filter-group-title" data-toggle="' + facet.key + '">' +
-      facet.label + ' <span class="caret">&#9662;</span></div>';
+      '<div class="filter-group-title" data-toggle="' + facet.key + '"' +
+      ' role="button" tabindex="0" aria-expanded="true" aria-controls="' + bodyId + '">' +
+      facet.label + ' <span class="caret" aria-hidden="true">&#9662;</span></div>';
     var list = document.createElement("div");
     list.className = "filter-group-body";
-    list.id = "fg-" + facet.key;
+    list.id = bodyId;
     values.forEach(function (v) {
-      var id = "f-" + facet.key + "-" + v.value.replace(/\W/g, "_");
       var label = document.createElement("label");
       label.className = "filter-checkbox";
       label.innerHTML =
@@ -122,9 +123,11 @@
   function buildDropdownGroup(facet, values) {
     var group = document.createElement("div");
     group.className = "filter-group";
+    var bodyId = "fg-" + facet.key;
     group.innerHTML =
-      '<div class="filter-group-title" data-toggle="' + facet.key + '">' +
-      facet.label + ' <span class="caret">&#9662;</span></div>';
+      '<div class="filter-group-title" data-toggle="' + facet.key + '"' +
+      ' role="button" tabindex="0" aria-expanded="true" aria-controls="' + bodyId + '">' +
+      facet.label + ' <span class="caret" aria-hidden="true">&#9662;</span></div>';
     var body = document.createElement("div");
     body.className = "filter-group-body";
     body.id = "fg-" + facet.key;
@@ -208,12 +211,20 @@
       }
     });
 
-    // Filter group toggle (collapse/expand)
+    // Filter group toggle (collapse/expand) — mouse and keyboard
+    function toggleFilterGroup(title) {
+      var group = title.parentElement;
+      var collapsed = group.classList.toggle("collapsed");
+      title.setAttribute("aria-expanded", collapsed ? "false" : "true");
+    }
     document.getElementById("filter-groups").addEventListener("click", function (e) {
       var title = e.target.closest(".filter-group-title");
-      if (title) {
-        var group = title.parentElement;
-        group.classList.toggle("collapsed");
+      if (title) toggleFilterGroup(title);
+    });
+    document.getElementById("filter-groups").addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        var title = e.target.closest(".filter-group-title");
+        if (title) { e.preventDefault(); toggleFilterGroup(title); }
       }
     });
 
@@ -246,12 +257,14 @@
 
     // Mobile filter toggle
     document.getElementById("filter-toggle-btn").addEventListener("click", function () {
-      document.getElementById("filters").classList.toggle("open");
+      var open = document.getElementById("filters").classList.toggle("open");
+      this.setAttribute("aria-expanded", open ? "true" : "false");
     });
 
     // Mobile filter close
     document.getElementById("filter-close-btn").addEventListener("click", function () {
       document.getElementById("filters").classList.remove("open");
+      document.getElementById("filter-toggle-btn").setAttribute("aria-expanded", "false");
     });
 
     // Table header sort
@@ -390,13 +403,17 @@
       if (sortField !== field) return "";
       return sortAsc ? " &#9650;" : " &#9660;";
     };
+    var ariaSort = function (field) {
+      if (sortField !== field) return ' aria-sort="none"';
+      return sortAsc ? ' aria-sort="ascending"' : ' aria-sort="descending"';
+    };
     return '<div class="table-wrapper"><table class="catalogue-table">' +
       '<thead><tr>' +
-      '<th data-sort="title">Title' + arrow("title") + '</th>' +
-      '<th data-sort="authors">Author' + arrow("authors") + '</th>' +
-      '<th data-sort="year">Year' + arrow("year") + '</th>' +
-      '<th data-sort="publishers" class="hide-mobile">Publisher' + arrow("publishers") + '</th>' +
-      '<th data-sort="place" class="hide-mobile">Place' + arrow("place") + '</th>' +
+      '<th data-sort="title"' + ariaSort("title") + '>Title' + arrow("title") + '</th>' +
+      '<th data-sort="authors"' + ariaSort("authors") + '>Author' + arrow("authors") + '</th>' +
+      '<th data-sort="year"' + ariaSort("year") + '>Year' + arrow("year") + '</th>' +
+      '<th data-sort="publishers" class="hide-mobile"' + ariaSort("publishers") + '>Publisher' + arrow("publishers") + '</th>' +
+      '<th data-sort="place" class="hide-mobile"' + ariaSort("place") + '>Place' + arrow("place") + '</th>' +
       '<th class="hide-tablet">Language</th>' +
       '<th class="hide-tablet">Pages</th>' +
       '<th class="hide-tablet">Type</th>' +
@@ -422,17 +439,20 @@
 
     var html = "";
     if (currentPage > 1) {
-      html += '<button data-page="' + (currentPage - 1) + '">&laquo;</button>';
+      html += '<button data-page="' + (currentPage - 1) + '" aria-label="Previous page">&laquo;</button>';
     }
 
     var start = Math.max(1, currentPage - 3);
     var end = Math.min(totalPages, currentPage + 3);
     for (var i = start; i <= end; i++) {
-      html += '<button data-page="' + i + '"' + (i === currentPage ? ' class="active"' : '') + '>' + i + '</button>';
+      var isCurrent = i === currentPage;
+      html += '<button data-page="' + i + '"' +
+        (isCurrent ? ' class="active" aria-current="page"' : '') +
+        ' aria-label="Page ' + i + '">' + i + '</button>';
     }
 
     if (currentPage < totalPages) {
-      html += '<button data-page="' + (currentPage + 1) + '">&raquo;</button>';
+      html += '<button data-page="' + (currentPage + 1) + '" aria-label="Next page">&raquo;</button>';
     }
 
     pag.innerHTML = html;
@@ -451,8 +471,8 @@
     var html = "";
     for (var facet in activeFilters) {
       activeFilters[facet].forEach(function (value) {
-        html += '<span class="filter-chip" data-facet="' + escapeAttr(facet) + '" data-value="' + escapeAttr(value) + '">' +
-          escapeHtml(value) + ' &times;</span>';
+        html += '<button class="filter-chip" data-facet="' + escapeAttr(facet) + '" data-value="' + escapeAttr(value) + '">' +
+          escapeHtml(value) + ' <span aria-hidden="true">&times;</span><span class="sr-only"> — remove filter</span></button>';
       });
     }
     container.innerHTML = html;
@@ -463,13 +483,17 @@
     viewMode = mode;
     localStorage.setItem("viewMode", mode);
     document.getElementById("view-grid").classList.toggle("active", mode === "grid");
+    document.getElementById("view-grid").setAttribute("aria-pressed", mode === "grid" ? "true" : "false");
     document.getElementById("view-table").classList.toggle("active", mode === "table");
+    document.getElementById("view-table").setAttribute("aria-pressed", mode === "table" ? "true" : "false");
     render();
   }
 
   function restoreViewMode() {
     document.getElementById("view-grid").classList.toggle("active", viewMode === "grid");
+    document.getElementById("view-grid").setAttribute("aria-pressed", viewMode === "grid" ? "true" : "false");
     document.getElementById("view-table").classList.toggle("active", viewMode === "table");
+    document.getElementById("view-table").setAttribute("aria-pressed", viewMode === "table" ? "true" : "false");
   }
 
   // --- Utilities ---

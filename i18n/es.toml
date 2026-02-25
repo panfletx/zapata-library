@@ -127,6 +127,24 @@ other = "Vista de tabla"
 [loading]
 other = "Cargando"
 
+[skip_to_content]
+other = "Ir al contenido principal"
+
+[open_menu]
+other = "Abrir menú"
+
+[opens_new_tab]
+other = "abre en nueva pestaña"
+
+[active_filters]
+other = "Filtros activos"
+
+[book_metadata]
+other = "Metadatos del libro"
+
+[close_filters]
+other = "Cerrar filtros"
+
 ["lang_Español"]
 other = "Español"
 

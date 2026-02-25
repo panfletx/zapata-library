@@ -13,7 +13,7 @@ pages: 848
 place: Madrid
 publishers:
 - Real Academia Española
-- Asociación de Academias de Lengua Española
+- Asociación de Academias de la Lengua Española
 series: []
 subjects:
 - Grammar & Linguistics

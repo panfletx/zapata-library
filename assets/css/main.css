@@ -9,7 +9,7 @@
   --color-bg: #fafaf8;
   --color-surface: #ffffff;
   --color-text: #1a1a1a;
-  --color-text-muted: #666;
+  --color-text-muted: #595959;
   --color-accent: #8b4513;
   --color-accent-light: #d4a574;
   --color-border: #e0ddd8;
@@ -22,7 +22,12 @@
 
 html {
   font-size: 16px;
-  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
 }
 
 body {
@@ -41,6 +46,28 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 9999;
+  padding: 0.5rem 1rem;
+  background: var(--color-accent);
+  color: #fff;
+  border-radius: var(--radius);
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.skip-link:focus {
+  top: 1rem;
 }
 
 img {
@@ -235,7 +262,11 @@ h1, h2, h3 {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   overflow: hidden;
-  transition: box-shadow 0.2s, transform 0.2s;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .book-card a {
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
 }
 .book-card a:hover {
   text-decoration: none;
@@ -284,7 +315,7 @@ h1, h2, h3 {
 }
 
 .book-year {
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
   color: var(--color-text-muted);
 }
 
@@ -304,7 +335,11 @@ h1, h2, h3 {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   color: var(--color-text);
-  transition: border-color 0.2s;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .browse-card {
+    transition: border-color 0.2s;
+  }
 }
 .browse-card:hover {
   text-decoration: none;
@@ -419,6 +454,12 @@ h1, h2, h3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.taxonomy-list li {
+  display: contents;
 }
 
 .taxonomy-item {
@@ -546,7 +587,6 @@ h1, h2, h3 {
   font-family: var(--font-body);
 }
 .toolbar-search input:focus {
-  outline: none;
   border-color: var(--color-accent);
 }
 
@@ -625,6 +665,7 @@ h1, h2, h3 {
   padding: 0.2rem 0.6rem;
   background: var(--color-accent);
   color: white;
+  border: none;
   border-radius: 999px;
   font-size: 0.8rem;
   font-family: var(--font-heading);
@@ -698,7 +739,11 @@ h1, h2, h3 {
 
 .caret {
   font-size: 0.7rem;
-  transition: transform 0.2s;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .caret {
+    transition: transform 0.2s;
+  }
 }
 
 .filter-group.collapsed .caret {
@@ -731,7 +776,7 @@ h1, h2, h3 {
 
 .filter-count {
   color: var(--color-text-muted);
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
 }
 
 .filter-dropdown-search {
@@ -743,7 +788,6 @@ h1, h2, h3 {
   margin-bottom: 0.4rem;
 }
 .filter-dropdown-search:focus {
-  outline: none;
   border-color: var(--color-accent);
 }
 

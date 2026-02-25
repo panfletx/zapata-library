@@ -14,7 +14,7 @@ oclc: '62353211'
 pages: 271
 place: Valencia [Spain]
 publishers:
-- Pre-Textos
+- Fondo de Cultura Económica
 series:
 - Pre-textos
 source_url: http://catdir.loc.gov/catdir/enhancements/fy1305/2006383671-d.html

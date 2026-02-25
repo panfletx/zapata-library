@@ -13,7 +13,7 @@ oclc: '228160882'
 pages: 77
 place: México
 publishers:
-- Alforja, Arte y Literatura, A.C.
+- Alforja
 series:
 - Poesía en el andén
 subjects:

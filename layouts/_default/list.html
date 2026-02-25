@@ -16,7 +16,7 @@
   {{ if .IsPage }}
   {{ else }}
     {{ if .Data.Terms }}
-      <div class="taxonomy-list">
+      <ul class="taxonomy-list">
         {{- $items := slice -}}
         {{- range .Data.Terms.Alphabetical -}}
           {{- $title := .Page.Title -}}
@@ -32,12 +32,12 @@
           {{- $items = $items | append (dict "label" $title "permalink" .Page.RelPermalink "count" .Count) -}}
         {{- end -}}
         {{- range sort $items "label" -}}
-          <a href="{{ .permalink }}" class="taxonomy-item">
+          <li><a href="{{ .permalink }}" class="taxonomy-item">
             <span class="taxonomy-name">{{ .label }}</span>
-            <span class="taxonomy-count">{{ .count }}</span>
-          </a>
+            <span class="taxonomy-count" aria-label="{{ .count }} {{ i18n "items" }}">{{ .count }}</span>
+          </a></li>
         {{- end -}}
-      </div>
+      </ul>
     {{ else }}
       {{/* Regular list page — show as grid */}}
       <div class="book-grid">

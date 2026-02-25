@@ -15,9 +15,9 @@ oclc: '259768096'
 pages: 142
 place: México City
 publishers:
-- Alforja Arte y Literatura
+- Alforja
 series:
-- Azor (Mexico City, Mexico)
+- Azor
 subjects:
 - Mexican Literature
 - Poetry

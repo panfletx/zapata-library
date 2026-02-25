@@ -1,7 +1,8 @@
 <table class="metadata-table">
+  <caption class="sr-only">{{ i18n "book_metadata" }}</caption>
   {{ with .Params.authors }}
   <tr>
-    <th>{{ i18n "author" }}</th>
+    <th scope="row">{{ i18n "author" }}</th>
     <td>
       {{ range $i, $a := . }}{{ if $i }}, {{ end }}<a href="{{ "authors" | relLangURL }}/{{ $a | urlize }}/">{{ $a }}</a>{{ end }}
     </td>
@@ -10,14 +11,14 @@
 
   {{ with .Params.year }}
   <tr>
-    <th>{{ i18n "year" }}</th>
+    <th scope="row">{{ i18n "year" }}</th>
     <td>{{ . }}</td>
   </tr>
   {{ end }}
 
   {{ with .Params.publishers }}
   <tr>
-    <th>{{ i18n "publisher" }}</th>
+    <th scope="row">{{ i18n "publisher" }}</th>
     <td>
       {{ range $i, $p := . }}{{ if $i }}, {{ end }}<a href="{{ "publishers" | relLangURL }}/{{ $p | urlize }}/">{{ $p }}</a>{{ end }}
     </td>
@@ -26,28 +27,28 @@
 
   {{ with .Params.place }}
   <tr>
-    <th>{{ i18n "place" }}</th>
+    <th scope="row">{{ i18n "place" }}</th>
     <td>{{ . }}</td>
   </tr>
   {{ end }}
 
   {{ with .Params.isbn }}
   <tr>
-    <th>{{ i18n "isbn" }}</th>
+    <th scope="row">{{ i18n "isbn" }}</th>
     <td>{{ . }}</td>
   </tr>
   {{ end }}
 
   {{ with .Params.pages }}
   <tr>
-    <th>{{ i18n "pages" }}</th>
+    <th scope="row">{{ i18n "pages" }}</th>
     <td>{{ . }}</td>
   </tr>
   {{ end }}
 
   {{ with .Params.edition }}
   <tr>
-    <th>{{ i18n "edition" }}</th>
+    <th scope="row">{{ i18n "edition" }}</th>
     <td>{{ . }}</td>
   </tr>
   {{ end }}
@@ -56,7 +57,7 @@
   {{ if gt (len .) 0 }}
   {{ with index . 0 }}
   <tr>
-    <th>{{ i18n "series" }}</th>
+    <th scope="row">{{ i18n "series" }}</th>
     <td><a href="{{ "series" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a></td>
   </tr>
   {{ end }}
@@ -65,7 +66,7 @@
 
   {{ with .Params.languages }}
   <tr>
-    <th>{{ i18n "language" }}</th>
+    <th scope="row">{{ i18n "language" }}</th>
     <td>
       {{ range $i, $l := . }}{{ if $i }}, {{ end }}<a href="{{ "languages" | relLangURL }}/{{ $l | urlize }}/">{{ i18n (printf "lang_%s" $l) | default $l }}</a>{{ end }}
     </td>
@@ -74,29 +75,29 @@
 
   {{ with .Params.item_types }}
   <tr>
-    <th>{{ i18n "item_type" }}</th>
+    <th scope="row">{{ i18n "item_type" }}</th>
     <td>{{ range . }}{{ i18n . | default . }}{{ end }}</td>
   </tr>
   {{ end }}
 
   {{ with .Params.oclc }}
   <tr>
-    <th>OCLC</th>
-    <td><a href="https://www.worldcat.org/oclc/{{ . }}" target="_blank" rel="noopener">{{ . }}</a></td>
+    <th scope="row">OCLC</th>
+    <td><a href="https://www.worldcat.org/oclc/{{ . }}" target="_blank" rel="noopener">{{ . }}<span class="sr-only"> ({{ i18n "opens_new_tab" }})</span></a></td>
   </tr>
   {{ end }}
 
   {{ with .Params.doi }}
   <tr>
-    <th>DOI</th>
-    <td><a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">{{ . }}</a></td>
+    <th scope="row">DOI</th>
+    <td><a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">{{ . }}<span class="sr-only"> ({{ i18n "opens_new_tab" }})</span></a></td>
   </tr>
   {{ end }}
 
   {{ with .Params.source_url }}
   <tr>
-    <th>URL</th>
-    <td><a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a></td>
+    <th scope="row">URL</th>
+    <td><a href="{{ . }}" target="_blank" rel="noopener">{{ . }}<span class="sr-only"> ({{ i18n "opens_new_tab" }})</span></a></td>
   </tr>
   {{ end }}
 </table>

@@ -15,7 +15,7 @@ oclc: '227160362'
 pages: 378
 place: México
 publishers:
-- Diana Editorial
+- Diana
 series: []
 subjects:
 - Latin American Literature

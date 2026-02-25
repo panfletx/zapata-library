@@ -13,8 +13,8 @@ oclc: '23011743'
 pages: 326
 place: México
 publishers:
-- Biblioteca Era
-series: []
+- Era
+series: Ensayo
 subjects:
 - Interview
 - Literary Criticism

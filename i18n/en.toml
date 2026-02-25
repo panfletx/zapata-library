@@ -127,6 +127,24 @@ other = "Table view"
 [loading]
 other = "Loading"
 
+[skip_to_content]
+other = "Skip to main content"
+
+[open_menu]
+other = "Open menu"
+
+[opens_new_tab]
+other = "opens in new tab"
+
+[active_filters]
+other = "Active filters"
+
+[book_metadata]
+other = "Book metadata"
+
+[close_filters]
+other = "Close filters"
+
 ["lang_Español"]
 other = "Spanish"
 
