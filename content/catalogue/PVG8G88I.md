@@ -16,7 +16,7 @@ oclc: '1287134112'
 pages: 1
 place: Ciudad de México
 publishers:
-- Universidad Autónoma Metropolitana. Unidad Xochimilco
+- Universidad Autónoma Metropolitana
 series: []
 source_url: http://public.eblib.com/choice/PublicFullRecord.aspx?p=6801390
 subjects:

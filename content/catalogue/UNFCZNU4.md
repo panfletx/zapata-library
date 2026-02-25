@@ -13,7 +13,7 @@ oclc: '912221881'
 pages: 154
 place: México
 publishers:
-- Universidad Nacional Autónoma
+- Universidad Nacional Autónoma de México
 series: []
 subjects:
 - Italian Literature

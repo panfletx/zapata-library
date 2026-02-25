@@ -15,6 +15,7 @@ series: []
 subjects:
 - Diary & Letters
 - Literary Criticism
+- Theses
 title: El diario íntimo en En jirones de Luis Zapata
 year: 2016
 zotero_key: FS2AAX6E

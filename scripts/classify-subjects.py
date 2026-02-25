@@ -66,7 +66,7 @@ VALID_CATEGORIES = [
     "Social Movements", "Spain",
     "Spanish Literature", "Speech & Lecture",
     "Structuralism & Poststructuralism", "Surrealism", "Symbolism",
-    "Transgender Studies", "Travel Writing",
+    "Theses", "Transgender Studies", "Travel Writing",
     "Tristan & Iseult", "United Kingdom", "United States", "Urban Life",
     "Uruguay", "Uruguayan Literature", "Vienna", "Visual Art", "War & Conflict", "Yucatán",
 ]

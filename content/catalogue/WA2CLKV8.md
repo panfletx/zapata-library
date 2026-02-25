@@ -15,6 +15,7 @@ subjects:
 - Literary History
 - Mexican Literature
 - Mexico
+- Theses
 title: 'Primeras visibilidades de la homosexualidad en México: de los 41 a los Contemporáneos'
 year: 2010
 zotero_key: WA2CLKV8

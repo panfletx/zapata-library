@@ -13,6 +13,7 @@ series: []
 subjects:
 - Literary Criticism
 - Spanish Literature
+- Theses
 title: De medianera a "puta" Celestina. Antecedentes y construcción del personaje
 year: 2012
 zotero_key: X7L6G4DG

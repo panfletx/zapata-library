@@ -15,7 +15,7 @@ oclc: '838062912'
 pages: 203
 place: México, DF
 publishers:
-- UAM, Dir. de Difusión Cultural, Dep. Ed
+- Universidad Autónoma Metropolitana
 series:
 - Obra poética completa
 source_url: http://www.gbv.de/dms/spk/iai/toc/667746099.pdf

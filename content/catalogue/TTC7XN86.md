@@ -16,7 +16,7 @@ pages: 146
 place: México, D.F., Monterrey, Nuevo León, México
 publishers:
 - Textofilia
-- Universidad Autonóma de Nuevo León, Biblioteca Universitaria Raúl Rangel Frías
+- Universidad Autonóma de Nuevo León
 series:
 - Colección Ión. Serie Poesía
 subjects:

@@ -13,6 +13,7 @@ series: []
 subjects:
 - Literary Criticism
 - Mexican Literature
+- Theses
 title: 'Luis Zapata: Ideological Convergences Demythologized in a Contestatory and Contemporary Literature'
 year: 1992
 zotero_key: UFGCLAAB
