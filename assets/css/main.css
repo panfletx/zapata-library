@@ -596,6 +596,19 @@ h1, h2, h3 {
   display: none;
 }
 
+.filter-close-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--color-text);
+  padding: 0 0.25rem;
+  margin-left: auto;
+  margin-right: 0.5rem;
+}
+
 /* === Active Filter Chips === */
 .active-filters {
   display: flex;
@@ -948,6 +961,10 @@ h1, h2, h3 {
   }
 
   .filter-toggle-btn {
+    display: inline-block;
+  }
+
+  .filter-close-btn {
     display: inline-block;
   }
 

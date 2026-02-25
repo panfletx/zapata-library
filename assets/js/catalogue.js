@@ -249,6 +249,11 @@
       document.getElementById("filters").classList.toggle("open");
     });
 
+    // Mobile filter close
+    document.getElementById("filter-close-btn").addEventListener("click", function () {
+      document.getElementById("filters").classList.remove("open");
+    });
+
     // Table header sort
     document.getElementById("results").addEventListener("click", function (e) {
       var th = e.target.closest("[data-sort]");
