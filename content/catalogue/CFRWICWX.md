@@ -11,7 +11,6 @@ publishers: []
 series:
 - '31'
 subjects:
-- Contemporary History
 - Literary Criticism
 title: Revista, Nexos 129
 year: 1988

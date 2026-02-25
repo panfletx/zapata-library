@@ -17,7 +17,6 @@ publishers:
 series:
 - Cien del mundo
 subjects:
-- Ancient History
 - Classical Literature
 title: Los doce Césares
 year: 1985

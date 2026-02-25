@@ -26,7 +26,6 @@ series:
 subjects:
 - American Literature
 - Poetry
-- Translation Studies
 title: 'Mi vida: poemas escogidos'
 year: 2007
 zotero_key: JHNJKKRL

@@ -21,7 +21,6 @@ source_url: https://archive.org/details/eneida0000virg
 subjects:
 - Classical Literature
 - Epic
-- Translation Studies
 title: Eneida
 year: 2007
 zotero_key: KFSWGJEM

@@ -11,7 +11,6 @@ publishers: []
 series: []
 source_url: https://search.worldcat.org/title/21111703
 subjects:
-- Contemporary History
 - Visual Art
 title: Saber ver lo contemporáneo del arte | WorldCat.org
 year: 1994

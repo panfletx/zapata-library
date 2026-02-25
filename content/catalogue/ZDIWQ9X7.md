@@ -7,8 +7,7 @@ item_types:
 languages: []
 publishers: []
 series: []
-subjects:
-- Contemporary History
+subjects: []
 title: Revista, Uno mismo 168
 zotero_key: ZDIWQ9X7
 ---

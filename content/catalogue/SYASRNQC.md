@@ -23,7 +23,6 @@ series:
 subjects:
 - Grammar & Linguistics
 - Medieval Literature
-- Translation Studies
 title: Vida nueva ; Tratado de la lengua vulgar
 year: 1986
 zotero_key: SYASRNQC

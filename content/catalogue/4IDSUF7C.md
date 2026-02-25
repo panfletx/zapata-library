@@ -8,7 +8,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Journalism
 title: Revista, Milenio
 zotero_key: 4IDSUF7C

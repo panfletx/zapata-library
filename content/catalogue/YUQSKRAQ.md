@@ -21,7 +21,6 @@ series:
 subjects:
 - American Literature
 - Novel
-- Translation Studies
 title: El sonido y la furia
 year: 1991
 zotero_key: YUQSKRAQ

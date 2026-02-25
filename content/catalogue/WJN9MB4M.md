@@ -7,8 +7,7 @@ item_types:
 languages: []
 publishers: []
 series: []
-subjects:
-- Contemporary History
+subjects: []
 title: Proceso 1979
 zotero_key: WJN9MB4M
 ---

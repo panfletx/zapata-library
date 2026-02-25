@@ -23,7 +23,6 @@ series:
 subjects:
 - Russian Literature
 - Short Stories
-- Translation Studies
 title: La Dama del Perrito
 year: 1994
 zotero_key: LQPQ8JZA

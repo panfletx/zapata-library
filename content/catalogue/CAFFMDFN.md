@@ -18,7 +18,6 @@ publishers:
 series:
 - Cien del mundo
 subjects:
-- Ancient History
 - Biography
 - Rome
 title: Los doce Césares

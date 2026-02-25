@@ -19,7 +19,6 @@ series: []
 subjects:
 - Irish Literature
 - Short Stories
-- Translation Studies
 title: Los muertos
 year: 1994
 zotero_key: SEJRG7E7

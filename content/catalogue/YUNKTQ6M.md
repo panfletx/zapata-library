@@ -10,7 +10,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Latin American Politics
 - Mexican Literature
 title: Revista, Nexos 278

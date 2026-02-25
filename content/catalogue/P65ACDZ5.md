@@ -18,7 +18,6 @@ publishers:
 series:
 - Garnier Flammarion
 subjects:
-- Ancient History
 - Classical Literature
 title: Cyropédie ; L'Hipparque ; De l'équitation ; Hiéron ; Agésilas ; Les Revenus
 year: 1967

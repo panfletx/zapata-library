@@ -18,7 +18,6 @@ publishers:
 - Smithsonian Institution Press
 series: []
 subjects:
-- Contemporary History
 - Mexico
 - United States
 title: 'South of the border: Mexico in the American imagination, 1917-1947'

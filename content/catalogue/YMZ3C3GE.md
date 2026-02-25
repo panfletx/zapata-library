@@ -21,7 +21,6 @@ series:
 subjects:
 - Arabic Literature
 - Poetry
-- Translation Studies
 title: Rubaiyat
 year: 1999
 zotero_key: YMZ3C3GE

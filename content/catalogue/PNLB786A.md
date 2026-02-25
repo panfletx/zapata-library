@@ -20,7 +20,6 @@ series:
 - Clásicos universales Planeta
 subjects:
 - Novel
-- Translation Studies
 title: La ilustre casa de Ramires
 year: 1989
 zotero_key: PNLB786A

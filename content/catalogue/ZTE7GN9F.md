@@ -14,12 +14,11 @@ languages:
 oclc: '8473674'
 pages: 478
 place: México, D.F.
-publishers:
+publishers: null
 series:
 - Escritores mexicanos (Editorial Grijalbo)
 subjects:
 - Anthology
-- Contemporary History
 - Mexican Literature
 title: 'Jaula de palabras: una antología de la nueva narrativa mexicana'
 year: 1980

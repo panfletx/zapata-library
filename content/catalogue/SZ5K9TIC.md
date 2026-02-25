@@ -21,7 +21,6 @@ series:
 subjects:
 - German Literature
 - Short Stories
-- Translation Studies
 title: 'El consejero Horn ; ¿Por qué alborotan los paganos?: dos relatos inéditos'
 year: 2001
 zotero_key: SZ5K9TIC

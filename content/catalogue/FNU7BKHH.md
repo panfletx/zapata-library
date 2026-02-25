@@ -20,7 +20,6 @@ series:
 subjects:
 - Essay
 - Medieval History
-- Poverty & Class
 title: Les misérables dans l'Occident médiéval
 year: 1976
 zotero_key: FNU7BKHH

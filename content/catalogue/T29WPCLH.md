@@ -13,10 +13,9 @@ languages:
 oclc: '30085492'
 pages: 165
 place: México
-publishers:
+publishers: null
 series: []
 subjects:
-- Contemporary History
 - Mexican Revolution
 - Mexico
 title: 'Historia sinóptica de México: de los olmecas a Salinas'

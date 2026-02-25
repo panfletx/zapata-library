@@ -20,7 +20,6 @@ series:
 subjects:
 - Brazilian Literature
 - Novel
-- Slavery
 title: El buen negro
 year: 2008
 zotero_key: YTT3SVPH

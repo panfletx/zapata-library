@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Journalism
 - Mexico
 title: Revista, Proceso 170

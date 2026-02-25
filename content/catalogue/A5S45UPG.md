@@ -18,7 +18,6 @@ publishers:
 series:
 - Colección Quaderna
 subjects:
-- Aphorism
 - Essay
 - Mexican Literature
 title: Aluvión de pensamientos inútiles y sublimes

@@ -10,7 +10,6 @@ publishers: []
 series: []
 subjects:
 - Anthology
-- Contemporary History
 title: Revista, Complot
 year: 2000
 zotero_key: 34ZT2IWL

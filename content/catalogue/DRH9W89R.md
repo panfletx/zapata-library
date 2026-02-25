@@ -15,7 +15,6 @@ publishers:
 series: []
 source_url: http://biblioteca.clacso.edu.ar/gsdl/collect/mx/mx-024/index/assoc/D15826.dir/McLuhan.pdf
 subjects:
-- Contemporary History
 - Journalism
 - Latin American Politics
 title: Versión. Estudios de Comunicación y Política (Año 12 no. especial dic 2004)

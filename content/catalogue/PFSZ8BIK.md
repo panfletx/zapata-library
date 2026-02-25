@@ -15,12 +15,11 @@ languages:
 oclc: '18768979'
 pages: 2
 place: Tepepan, Xochimilco
-publishers:
+publishers: null
 series:
 - Colección Biblioteca
 subjects:
 - Novel
-- Translation Studies
 title: Los Maias
 year: 1987
 zotero_key: PFSZ8BIK

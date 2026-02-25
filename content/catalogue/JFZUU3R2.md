@@ -21,7 +21,6 @@ series:
 subjects:
 - Detective & Mystery
 - English Literature
-- Translation Studies
 title: La incredulidad del Padre Brown
 year: 1998
 zotero_key: JFZUU3R2

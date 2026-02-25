@@ -20,7 +20,6 @@ series:
 - Ficción breve
 subjects:
 - Novel
-- Translation Studies
 title: Las puertas del paraiso
 year: 1996
 zotero_key: YNKL48U6

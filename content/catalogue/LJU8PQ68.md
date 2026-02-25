@@ -22,7 +22,6 @@ series:
 subjects:
 - Russian Literature
 - Short Stories
-- Translation Studies
 title: La estepa y otros relatos
 year: 2009
 zotero_key: LJU8PQ68

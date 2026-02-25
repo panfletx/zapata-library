@@ -18,7 +18,6 @@ publishers:
 series: []
 subjects:
 - Chronicle
-- Contemporary History
 - Mexico
 title: Historia gráfica de México. 7, Siglo Veinte. I
 year: 1988

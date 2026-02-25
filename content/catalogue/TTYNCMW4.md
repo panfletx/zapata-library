@@ -11,7 +11,6 @@ publishers: []
 series: []
 subjects:
 - Anthology
-- Contemporary History
 - Mexican Literature
 title: Revista, Universidad de México 85
 year: 2011

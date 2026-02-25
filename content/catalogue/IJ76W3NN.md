@@ -16,7 +16,6 @@ publishers:
 series: []
 subjects:
 - Chronicle
-- Contemporary History
 - Mexico
 title: Historia gráfica de México. 9, Siglo Veinte. III
 zotero_key: IJ76W3NN

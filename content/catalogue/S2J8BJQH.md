@@ -17,7 +17,6 @@ publishers:
 series:
 - Libro clásico (Bruguera)
 subjects:
-- Ancient History
 - Classical Literature
 - Drama
 title: Comedias [de] Plauto

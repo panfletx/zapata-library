@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - German Literature
-- Translation Studies
 title: Pensadores de lengua alemana guia para la traducción = Denker deutscher Sprache
 year: 1971
 zotero_key: BTUUIZZ7

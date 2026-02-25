@@ -13,13 +13,12 @@ languages:
 oclc: '2208262'
 pages: 219
 place: Buenos Aires
-publishers:
+publishers: null
 series:
 - Serie mayor
 subjects:
 - Biography
 - Cuban Literature
-- Slavery
 title: Biografía de un cimarrón
 year: 1968
 zotero_key: M677PWBF

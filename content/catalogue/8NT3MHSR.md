@@ -20,8 +20,8 @@ series:
 - Teatro (Milagro (Firm))
 subjects:
 - Drama
-- Translation Studies
-title: La huída ; Al borde de la vida ; El sonámbulo ; Cuatro cuartetos para un fin de semana
+title: La huída ; Al borde de la vida ; El sonámbulo ; Cuatro cuartetos para un fin
+  de semana
 year: 2001
 zotero_key: 8NT3MHSR
 ---

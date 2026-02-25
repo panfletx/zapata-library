@@ -20,7 +20,6 @@ series:
 subjects:
 - Novel
 - Russian Literature
-- Translation Studies
 title: Crimen y castigo
 year: 1973
 zotero_key: XQX7ID4L

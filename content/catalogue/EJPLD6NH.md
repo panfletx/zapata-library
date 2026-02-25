@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Journalism
 title: Revista, Proceso Ed. Esp. 17
 year: 2005

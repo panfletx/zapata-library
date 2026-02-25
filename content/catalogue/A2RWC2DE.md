@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Literary Criticism
 title: 'Revista, Mala vida: cultura contemporánea 18'
 year: 1998

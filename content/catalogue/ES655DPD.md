@@ -22,7 +22,6 @@ source_url: http://www.gbv.de/dms/spk/iai/toc/667746099.pdf
 subjects:
 - French Literature
 - Poetry
-- Translation Studies
 title: Elogios seguidos de La gloria de los reyes, Anabasis, Exilio
 year: 1991
 zotero_key: ES655DPD

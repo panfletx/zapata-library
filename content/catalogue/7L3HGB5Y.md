@@ -18,7 +18,6 @@ publishers:
 series:
 - Biblioteca Francisco Javier Clavijero
 subjects:
-- Contemporary History
 - Mexico
 - Social Movements
 title: Los tranviarios y el anarquismo en México, 1920-1925

@@ -18,7 +18,6 @@ publishers:
 series:
 - Creación literaria
 subjects:
-- Contemporary History
 - Essay
 - Latin American Literature
 - Uruguayan Literature

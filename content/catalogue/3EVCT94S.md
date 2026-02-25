@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Latin America
 - Urban Life
 title: 'Revista, Mala vida: cultura contemporánea 18'

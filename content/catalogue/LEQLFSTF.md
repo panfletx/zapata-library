@@ -10,7 +10,6 @@ publishers: []
 series: []
 subjects:
 - Brazilian Literature
-- Contemporary History
 title: Revista, Manchete
 year: 1986
 zotero_key: LEQLFSTF

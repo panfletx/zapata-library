@@ -21,7 +21,6 @@ series: []
 subjects:
 - French Literature
 - Poetry
-- Translation Studies
 title: Poèmes
 year: 1978
 zotero_key: SVHVZXDT

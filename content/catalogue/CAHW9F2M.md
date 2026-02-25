@@ -12,7 +12,6 @@ publishers:
 - Aguilar
 series: []
 subjects:
-- Ancient History
 - Classical Literature
 - Epic
 title: Odisea

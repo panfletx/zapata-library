@@ -20,7 +20,6 @@ series: []
 subjects:
 - American Literature
 - Poetry
-- Translation Studies
 title: 'Casi nada: poemas, 1926-1977'
 year: 1997
 zotero_key: JFR757UX

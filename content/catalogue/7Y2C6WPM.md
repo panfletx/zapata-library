@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Dictionary
-- Translation Studies
 title: Diccionario italiano-español, spagnolo-italiano
 year: 1974
 zotero_key: 7Y2C6WPM

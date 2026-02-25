@@ -18,7 +18,6 @@ publishers:
 - Instituto Nacional de Antropología e Historia
 series: []
 subjects:
-- Contemporary History
 - Mexican Revolution
 - Mexico
 title: Historia gráfica de México. 5, Siglo diecinueve. I

@@ -20,7 +20,6 @@ publishers:
 series:
 - Colección Ión. Serie Poesía
 subjects:
-- Ancient History
 - Classical Literature
 - Poetry
 title: Fragmentos

@@ -18,7 +18,6 @@ publishers:
 series: []
 subjects:
 - Chronicle
-- Contemporary History
 - Mexico
 title: Guerrero, 1849-1999
 year: 1999

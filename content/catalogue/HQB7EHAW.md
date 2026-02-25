@@ -8,7 +8,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Visual Art
 title: Revista, eben interiors 62
 zotero_key: HQB7EHAW

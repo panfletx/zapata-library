@@ -18,7 +18,6 @@ publishers:
 series:
 - GF-Flammarion
 subjects:
-- Ancient History
 - French Literature
 - Novel
 title: Salammbô

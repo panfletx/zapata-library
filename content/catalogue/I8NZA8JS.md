@@ -20,7 +20,6 @@ publishers:
 series:
 - Las novelas del verano
 subjects:
-- Contemporary History
 - Journalism
 title: 'Hot line: historia de una obsesión'
 year: 1998

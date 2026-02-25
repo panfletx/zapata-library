@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Latin America
 title: 'Revista, Mala vida: cultura contemporánea 15'
 year: 1997

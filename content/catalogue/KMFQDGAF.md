@@ -18,7 +18,6 @@ publishers:
 - Desliz
 series: []
 subjects:
-- Contemporary History
 - Mexican Literature
 - Poetry
 title: Desnudamente roja

@@ -17,7 +17,6 @@ publishers:
 series:
 - Repertorio Español de Bibliografía Árabe e Islámica
 subjects:
-- Islam
 - Middle East
 title: 'Los árabes: la epopeya del islam'
 year: 1980

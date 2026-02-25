@@ -195,8 +195,6 @@ other = "Aesthetics"
 [subj_American_Literature]
 other = "American Literature"
 
-[subj_Ancient_History]
-other = "Ancient History"
 
 [subj_Animals]
 other = "Animals"
@@ -204,8 +202,6 @@ other = "Animals"
 [subj_Anthology]
 other = "Anthology"
 
-[subj_Aphorism]
-other = "Aphorism"
 
 [subj_Arabic_Literature]
 other = "Arabic Literature"
@@ -288,8 +284,6 @@ other = "Classical Literature"
 [subj_Colombia]
 other = "Colombia"
 
-[subj_Colonialism_and_Postcolonialism]
-other = "Colonialism & Postcolonialism"
 
 [subj_Comics_and_Graphic_Novel]
 other = "Comics & Graphic Novel"
@@ -297,8 +291,6 @@ other = "Comics & Graphic Novel"
 [subj_Conquest_of_Mexico]
 other = "Conquest of Mexico"
 
-[subj_Contemporary_History]
-other = "Contemporary History"
 
 [subj_Correspondence]
 other = "Correspondence"
@@ -423,8 +415,6 @@ other = "Guatemalan Literature"
 [subj_Haiti]
 other = "Haiti"
 
-[subj_Havana]
-other = "Havana"
 
 [subj_Horror_and_Gothic]
 other = "Horror & Gothic"
@@ -444,8 +434,6 @@ other = "Interview"
 [subj_Irish_Literature]
 other = "Irish Literature"
 
-[subj_Islam]
-other = "Islam"
 
 [subj_Italian_Literature]
 other = "Italian Literature"
@@ -564,8 +552,6 @@ other = "Netherlands"
 [subj_New_York]
 other = "New York"
 
-[subj_North_Africa]
-other = "North Africa"
 
 [subj_Novel]
 other = "Novel"
@@ -612,8 +598,6 @@ other = "Portugal"
 [subj_Postmodernism]
 other = "Postmodernism"
 
-[subj_Poverty_and_Class]
-other = "Poverty & Class"
 
 ["subj_Pre-Columbian"]
 other = "Pre-Columbian"
@@ -684,8 +668,6 @@ other = "Short Stories"
 [subj_Sigmund_Freud]
 other = "Sigmund Freud"
 
-[subj_Slavery]
-other = "Slavery"
 
 [subj_Social_Movements]
 other = "Social Movements"
@@ -711,8 +693,6 @@ other = "Symbolism"
 [subj_Transgender_Studies]
 other = "Transgender Studies"
 
-[subj_Translation_Studies]
-other = "Translation Studies"
 
 [subj_Travel_Writing]
 other = "Travel Writing"

@@ -15,13 +15,12 @@ languages:
 oclc: '10804219'
 pages: 337
 place: Madrid
-publishers:
+publishers: null
 series:
 - Biblioteca románica hispánica
 subjects:
 - Essay
 - French Literature
-- Translation Studies
 title: Los problemas teóricos de la traducción
 year: 1977
 zotero_key: 4RLHB4BP

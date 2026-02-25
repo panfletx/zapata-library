@@ -16,7 +16,6 @@ publishers:
 - Arbre vengeur
 series: []
 subjects:
-- Aphorism
 - France
 - French Literature
 title: 'Le mauvais livre: et autres tablettes'

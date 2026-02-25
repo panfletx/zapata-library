@@ -19,7 +19,6 @@ publishers:
 series:
 - Libro Aguilar
 subjects:
-- Ancient History
 - Classical Literature
 - Essay
 title: De la brevedad de la vida ; De la vida bienaventurada ; De la vida retirada

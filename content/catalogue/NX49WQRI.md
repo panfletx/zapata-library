@@ -17,7 +17,6 @@ publishers:
 series:
 - Colección Rey de bastos
 subjects:
-- Aphorism
 - Spanish Literature
 title: Desiderata
 year: 1984

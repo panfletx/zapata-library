@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Journalism
 title: Revista, Proceso
 year: 2014

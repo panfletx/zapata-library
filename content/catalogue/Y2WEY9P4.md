@@ -21,7 +21,6 @@ series:
 subjects:
 - Classical Literature
 - Epic
-- Translation Studies
 title: Eneida
 year: 1999
 zotero_key: Y2WEY9P4

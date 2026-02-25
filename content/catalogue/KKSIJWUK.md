@@ -17,7 +17,6 @@ publishers:
 series: []
 subjects:
 - Chronicle
-- Contemporary History
 - Mexico
 title: Historia gráfica de México. 10, Siglo Veinte. IV
 year: 1988

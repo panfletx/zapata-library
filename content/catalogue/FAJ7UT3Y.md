@@ -10,8 +10,7 @@ languages:
 - Español
 publishers: []
 series: []
-subjects:
-- Contemporary History
+subjects: []
 title: Muy interesante
 year: 2019
 zotero_key: FAJ7UT3Y

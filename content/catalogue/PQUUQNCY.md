@@ -18,7 +18,6 @@ series:
 - Collection Points. Roman
 subjects:
 - Arabic Literature
-- North Africa
 - Novel
 title: 'L''enfant de sable: roman'
 year: 1988

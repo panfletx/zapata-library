@@ -9,7 +9,6 @@ languages:
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Germany
 title: Revista, Spiegel Special
 zotero_key: MATGU3WT

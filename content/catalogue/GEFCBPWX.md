@@ -9,7 +9,6 @@ languages: []
 publishers: []
 series: []
 subjects:
-- Contemporary History
 - Germany
 title: Revista, Deutschland
 year: 2007

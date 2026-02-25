@@ -19,7 +19,6 @@ publishers:
 series:
 - Colección Literatura (Tijuana, Baja California, Mexico)
 subjects:
-- Contemporary History
 - Essay
 - Visual Art
 title: Quehacer artístico y cultural

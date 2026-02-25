@@ -17,7 +17,6 @@ publishers:
 - Alianza Editorial
 series: []
 subjects:
-- Colonialism & Postcolonialism
 - English Literature
 - Novel
 title: Una avanzada del progreso

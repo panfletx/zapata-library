@@ -19,7 +19,6 @@ series:
 subjects:
 - Drama
 - Russian Literature
-- Translation Studies
 title: El jardín de los cerezos
 year: 2008
 zotero_key: JCG6J77S

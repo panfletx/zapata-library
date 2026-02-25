@@ -17,7 +17,6 @@ publishers:
 - Grupo Editorial Patria
 series: []
 subjects:
-- Contemporary History
 - Latin America
 title: Cómo se comenta un texto literario
 year: 2000

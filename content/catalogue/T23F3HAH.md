@@ -20,7 +20,6 @@ publishers:
 series:
 - Clásicos universales Planeta
 subjects:
-- Ancient History
 - Biography
 - Classical Literature
 title: Las vidas paralelas

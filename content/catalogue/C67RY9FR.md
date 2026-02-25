@@ -19,7 +19,6 @@ publishers:
 series:
 - Cien del mundo
 subjects:
-- Ancient History
 - Classical Literature
 - Poetry
 title: Heroidas

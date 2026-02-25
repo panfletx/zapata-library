@@ -19,7 +19,6 @@ series:
 - Espejo de México
 subjects:
 - Autobiography & Memoir
-- Contemporary History
 - Mexican Literature
 title: Tragicomedia mexicana 2
 year: 1992
