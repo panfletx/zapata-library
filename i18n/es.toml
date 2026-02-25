@@ -737,4 +737,4 @@ other = "Yucatán"
 other = "Biblioteca personal de Luis Zapata"
 
 [footer_flags_credit]
-other = "Proyecto financiado por una beca FLAGS de Yale LGBT Studies"
+other = "Proyecto financiado por una <a href=\"https://lgbts.yale.edu/flags\" class=\"footer-nav-link\" target=\"_blank\" rel=\"noopener\">beca FLAGS</a> de Yale LGBT Studies"

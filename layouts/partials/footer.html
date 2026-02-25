@@ -8,7 +8,7 @@
       </nav>
     </div>
     <div class="footer-right">
-      <p class="footer-flags-credit">{{ i18n "footer_flags_credit" }}</p>
+      <p class="footer-flags-credit">{{ i18n "footer_flags_credit" | safeHTML }}</p>
     </div>
   </div>
   <p class="footer-title">&copy; {{ now.Year }} {{ .Site.Title }}</p>
