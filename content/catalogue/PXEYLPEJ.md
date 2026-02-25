@@ -1,6 +1,6 @@
 ---
 authors:
-- Bu~nuel, Luis
+- Buñuel, Luis
 - Perez Turent, Tomas
 - Colina, José de la
 cover: covers/pxeylpej.jpg
@@ -26,7 +26,7 @@ subjects:
 - Biography
 - Film & Cinema
 - Luis Buñuel
-title: 'Luis Bunuel: prohibido asomarse al interior'
+title: 'Luis Buñuel: prohibido asomarse al interior'
 year: 1986
 zotero_key: PXEYLPEJ
 ---
