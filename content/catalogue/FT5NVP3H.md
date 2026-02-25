@@ -16,7 +16,7 @@ oclc: '503453626'
 pages: 141
 place: México, D.F.
 publishers:
-- Grupo Editorial Tomo
+- Tomo
 series:
 - Colección Ejercita y activa tu cerebro
 subjects:

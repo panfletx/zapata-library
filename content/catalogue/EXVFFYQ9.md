@@ -14,7 +14,7 @@ oclc: '1148235436'
 pages: 218
 place: México, D.F.
 publishers:
-- Grupo Editorial Tomo
+- Tomo
 series:
 - Clásicos tomo
 source_url: https://archive.org/details/capitanesintrepi0000kipl

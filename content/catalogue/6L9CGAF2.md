@@ -15,7 +15,7 @@ oclc: '468897316'
 pages: 203
 place: Barcelona
 publishers:
-- Ed. Anagrama
+- Anagrama
 series:
 - Narrativas hispánicas
 source_url: http://catalogue.bnf.fr/ark:/12148/cb375295919

@@ -15,7 +15,7 @@ oclc: '42136013'
 pages: 351
 place: Mexico
 publishers:
-- Grupo Editorial Gaceta
+- Gaceta
 series:
 - Colección Esconología
 subjects:

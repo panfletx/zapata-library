@@ -14,7 +14,7 @@ oclc: '740484449'
 pages: 190
 place: Buenos Aires
 publishers:
-- Grupo Editorial Lumen
+- Lumen
 series: []
 subjects:
 - Essay

@@ -13,7 +13,7 @@ oclc: '52897778'
 pages: 223
 place: México, D.F.
 publishers:
-- Grupo Editorial Tomo
+- Tomo
 series:
 - Colección Milenio
 subjects:

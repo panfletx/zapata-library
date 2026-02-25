@@ -14,7 +14,7 @@ oclc: '715863523'
 pages: 131
 place: Santander
 publishers:
-- Ed. Sal Terrae
+- Sal Terrae
 series:
 - Pozo de Siquem
 subjects:

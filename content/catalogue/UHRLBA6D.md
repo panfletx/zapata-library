@@ -13,7 +13,7 @@ oclc: '466601482'
 pages: 877
 place: Paris
 publishers:
-- Garnier, 1961 (réimpr
+- Garnier-Flammarion
 series:
 - Classiques Garnier
 subjects:

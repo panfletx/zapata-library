@@ -13,7 +13,7 @@ oclc: '742621856'
 pages: 127
 place: México
 publishers:
-- Ed. El Tucán de Virginia
+- El Tucán de Virginia
 series: []
 subjects:
 - Mexico

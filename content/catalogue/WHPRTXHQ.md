@@ -13,7 +13,7 @@ oclc: '883568769'
 pages: 265
 place: Paris
 publishers:
-- Éditions Gallimard
+- Gallimard
 series: []
 subjects:
 - French Literature

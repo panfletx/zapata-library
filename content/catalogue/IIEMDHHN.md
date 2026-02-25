@@ -13,7 +13,7 @@ oclc: '1345489051'
 pages: 151
 place: México, D.F.
 publishers:
-- Grupo Editorial Tomo
+- Tomo
 series: []
 source_url: https://archive.org/details/curacionconmedit0000hall
 subjects:

@@ -14,7 +14,7 @@ oclc: '630846492'
 pages: 125
 place: Mexico
 publishers:
-- Ed. Mexicanos Unidos
+- Editores Mexicanos Unidos
 series:
 - Coleccion poesia
 subjects:

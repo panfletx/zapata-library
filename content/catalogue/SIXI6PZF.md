@@ -14,7 +14,7 @@ oclc: '38579140'
 pages: 152
 place: Buenos Aires, Argentina
 publishers:
-- Temas Grupo Editorial
+- Temas
 series:
 - Colección Temas de literatura (Buenos Aires, Argentina)
 subjects:

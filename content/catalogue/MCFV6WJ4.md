@@ -14,7 +14,7 @@ oclc: '42902634'
 pages: 358
 place: Bogotá, Colombia
 publishers:
-- Grupo Editorial Norma
+- Norma
 series: []
 subjects:
 - Biography

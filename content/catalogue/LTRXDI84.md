@@ -14,7 +14,7 @@ oclc: '38273640'
 pages: 232
 place: Barcelona, Spain
 publishers:
-- Grupo Editorial Norma
+- Norma
 series: []
 subjects:
 - Anthology

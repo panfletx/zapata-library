@@ -14,7 +14,7 @@ oclc: '636340158'
 pages: 238
 place: Santander
 publishers:
-- Ed. Sal Terrae
+- Sal Terrae
 series:
 - El pozo de Siquem
 subjects:

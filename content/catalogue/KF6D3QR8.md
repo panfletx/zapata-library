@@ -12,7 +12,7 @@ languages:
 oclc: '1250385811'
 pages: 1
 publishers:
-- Fondo de Cultura Economica / Mexico
+- Fondo de Cultura Económica
 series: []
 subjects:
 - Essay

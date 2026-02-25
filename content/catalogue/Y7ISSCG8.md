@@ -14,7 +14,7 @@ oclc: '49837585'
 pages: 57
 place: Barcelona
 publishers:
-- Grupo Editorial Norma
+- Norma
 series:
 - Colección Cara y cruz
 subjects:

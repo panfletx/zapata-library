@@ -14,7 +14,7 @@ oclc: '768865149'
 pages: 205
 place: México
 publishers:
-- Grupo Editorial Patria
+- Patria
 series: []
 subjects:
 - Latin America
