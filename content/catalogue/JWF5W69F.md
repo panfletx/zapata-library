@@ -11,7 +11,7 @@ languages:
 - Français
 oclc: '1009817358'
 publishers:
-- Christian Bourgois
+- C. Bourgois
 series: []
 subjects:
 - Fiction

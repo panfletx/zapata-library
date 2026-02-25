@@ -13,7 +13,7 @@ oclc: '636749768'
 pages: 116
 place: Tuxtla Gutiérrez, Chiapas
 publishers:
-- Consejo Estatal para las Culturas y las Artes y Chiapas
+- Consejo Estatal para las Culturas y las Artes de Chiapas
 series:
 - Colección Hechos en palabras
 subjects:
