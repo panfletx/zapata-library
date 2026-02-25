@@ -5,8 +5,6 @@
     {{ if eq .Lang "es" }}{{ .Site.Params.description_es }}{{ else }}{{ .Site.Params.description_en }}{{ end }}
   </p>
 
-  {{ partial "search.html" . }}
-
   <div class="stats">
     <div class="stat">
       <span class="stat-number">{{ .Site.Params.totalItems }}</span>
