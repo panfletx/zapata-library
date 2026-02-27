@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{- $libDesc := cond (eq .Lang "es") .Site.Params.description_es .Site.Params.description_en -}}
+{{- $libSchema := dict "@context" "https://schema.org" "@type" "Library" "name" .Site.Title "url" .Site.BaseURL "description" $libDesc "numberOfItems" .Site.Params.totalItems -}}
+<script type="application/ld+json">{{ $libSchema | jsonify | safeJS }}</script>
 <section class="hero">
   <h1>{{ .Site.Title }}</h1>
   <p class="hero-description">

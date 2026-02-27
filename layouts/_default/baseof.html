@@ -15,8 +15,39 @@
     {{- $t := i18n (printf "lang_%s" $pageTitle) -}}
     {{- if $t -}}{{- $pageTitle = $t -}}{{- end -}}
   {{- end -}}
+  {{- /* Build meta description */ -}}
+  {{- $desc := "" -}}
+  {{- if .IsHome -}}
+    {{- if eq .Lang "es" -}}{{- $desc = .Site.Params.description_es -}}{{- else -}}{{- $desc = .Site.Params.description_en -}}{{- end -}}
+  {{- else -}}
+    {{- $desc = .Title -}}
+    {{- with .Params.authors -}}{{- $desc = printf "%s · %s" $desc (index . 0) -}}{{- end -}}
+    {{- with .Params.year -}}{{- $desc = printf "%s · %d" $desc . -}}{{- end -}}
+  {{- end -}}
+  {{- /* OG image */ -}}
+  {{- $ogImage := "" -}}
+  {{- with .Params.cover -}}{{- $ogImage = . | absURL -}}{{- end -}}
+
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $pageTitle }} — {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ if .IsHome }}{{ if eq .Lang "es" }}{{ .Site.Params.description_es }}{{ else }}{{ .Site.Params.description_en }}{{ end }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="description" content="{{ $desc }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ range .AllTranslations -}}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{ end -}}
+  {{ range .AllTranslations }}{{ if eq .Lang "es" -}}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+  {{- end }}{{ end }}
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ $pageTitle }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if eq .Type "catalogue" }}book{{ else }}website{{ end }}">
+  <meta property="og:locale" content="{{ if eq .Lang "es" }}es_MX{{ else }}en_US{{ end }}">
+  {{ if $ogImage }}<meta property="og:image" content="{{ $ogImage }}">{{ end }}
+  <meta name="twitter:card" content="{{ if $ogImage }}summary_large_image{{ else }}summary{{ end }}">
+  <meta name="twitter:title" content="{{ $pageTitle }}">
+  <meta name="twitter:description" content="{{ $desc }}">
+  {{ if $ogImage }}<meta name="twitter:image" content="{{ $ogImage }}">{{ end }}
   {{ $css := resources.Get "css/main.css" }}
   {{ if $css }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">

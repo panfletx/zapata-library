@@ -1,0 +1,16 @@
+{{- $schema := dict "@context" "https://schema.org" "@type" "Book" "name" .Title "url" .Permalink -}}
+{{- with .Params.authors -}}
+  {{- $authors := slice -}}
+  {{- range . -}}{{- $authors = $authors | append (dict "@type" "Person" "name" .) -}}{{- end -}}
+  {{- $schema = merge $schema (dict "author" $authors) -}}
+{{- end -}}
+{{- with .Params.publishers -}}
+  {{- $pubs := slice -}}
+  {{- range . -}}{{- $pubs = $pubs | append (dict "@type" "Organization" "name" .) -}}{{- end -}}
+  {{- $schema = merge $schema (dict "publisher" $pubs) -}}
+{{- end -}}
+{{- with .Params.year -}}{{- $schema = merge $schema (dict "datePublished" (printf "%d" .)) -}}{{- end -}}
+{{- with .Params.languages -}}{{- $schema = merge $schema (dict "inLanguage" (index . 0)) -}}{{- end -}}
+{{- with .Params.isbn -}}{{- $schema = merge $schema (dict "isbn" .) -}}{{- end -}}
+{{- with .Params.cover -}}{{- $schema = merge $schema (dict "image" (. | absURL)) -}}{{- end -}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
