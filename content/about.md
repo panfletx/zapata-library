@@ -3,8 +3,6 @@ title: "Acerca de"
 layout: about
 ---
 
-## Introducción
-
 Este repositorio digital presenta una ventana al mundo personal y literario de Luis Zapata (1951–2020), reconocido nacional e internacionalmente como uno de los escritores de literatura cuir mexicana más importantes.
 
 El proyecto incluye un catálogo de su biblioteca que puede inspirar diversas investigaciones. 

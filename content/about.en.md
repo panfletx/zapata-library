@@ -3,8 +3,6 @@ title: "About"
 layout: about
 ---
 
-## Introduction
-
 This digital repository offers a window into the personal and literary world of Luis Zapata (1951–2020), recognized nationally and internationally as one of the most important writers of Mexican queer literature.
 The project includes a catalog of his library that can inspire a variety of research.
 
