@@ -13,4 +13,4 @@ Los materiales publicados contribuyen a ampliar el conocimiento de la vida perso
 
 La digitalización fue posible gracias al apoyo financiero de una beca FLAGS del programa de estudios LGBT de Yale. Estuvo a cargo de Alan Mendoza Sosa, doctorando con interés en literatura LGBT hispanoamericana, y fue supervisado por el profesor Alexander Gil Fuentes, investigador de humanidades digitales en el Departamento de español y portugués en Yale y director asociado del Foro Creativo, iniciativa que conecta la creación literaria con el trabajo de investigación.
 
-Fue posible también gracias al apoyo de la familia de Luis Zapta y la guianza del profesor Michael Schuessler, especialista en literatura cuir mexicana. 
+Fue posible también gracias al apoyo de la familia de Luis Zapata y la guianza del profesor Michael Schuessler, especialista en literatura cuir mexicana. 
