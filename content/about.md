@@ -3,7 +3,7 @@ title: "Acerca de"
 layout: about
 ---
 
-Una biblioteca personal nos dice mucho de alguien. Nos dice, por ejemplo, qué inquieta su curiosidad, qué preguntas se hace, qué búsquedas acompañan su paso por la existencia. Nos dice asimismo con quién dialoga en su presente y su pasado, a quiénes invita a volverse sus compañerxs de viaje, tanto en comunidad cómo en disenso. Una biblioteca personal es un registro concreto de la actividad única, insustituible y radicalmente subjetiva de alguien, de las vidas y ondulaciones de su espíritu.
+Una biblioteca personal nos dice mucho de alguien. Nos dice, por ejemplo, qué inquieta su curiosidad, qué preguntas se hace, qué búsquedas acompañan su paso por la existencia. Nos dice asimismo con quién dialoga en su presente y su pasado, a quiénes invita a volverse sus compañerxs de viaje, tanto en comunidad como en disenso. Una biblioteca personal es un registro concreto de la actividad única, insustituible y radicalmente subjetiva de alguien, de las vidas y ondulaciones de su espíritu.
 
 La biblioteca personal es también una forma de tener a los otros presentes en el espacio íntimo de la casa. Es una forma de hacer un poco más públicos y abiertos nuestros interiores, de demoler la falsa dicotomía capitalista entre lo público y lo privado, así como leer y escribir son formas de desprivatizar el espacio espiritual, ofrecerse uno mismo como dialogante en una conversación inagotable y fértil, ofrecerse también como alguien que escucha.
 
