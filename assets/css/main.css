@@ -1078,6 +1078,14 @@ h1, h2, h3 {
     margin-left: auto;
   }
 
+  .site-title {
+    font-size: 0;
+  }
+  .site-title::before {
+    content: attr(data-short);
+    font-size: 1.25rem;
+  }
+
   /* Language pill toggle on portrait phones */
   .lang-toggle {
     order: -1;
