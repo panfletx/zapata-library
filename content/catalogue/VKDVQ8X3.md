@@ -5,6 +5,7 @@ cover: covers/vkdvq8x3.jpg
 date: '2024-09-01'
 decade: 1980s
 edition: 1. ed. en Lecturas Mexicanas
+featured: true
 isbn: 978-968-16-1643-4
 item_types:
 - Book

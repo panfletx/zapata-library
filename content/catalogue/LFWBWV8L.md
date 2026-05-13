@@ -6,7 +6,6 @@ date: '2024-09-01'
 decade: 1990s
 edition: Ed. especial 60 aniversario, 8a. ed. especial
 exlibris: '2004'
-featured: true
 isbn: 978-950-07-1600-0
 item_types:
 - Book

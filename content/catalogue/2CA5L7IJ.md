@@ -5,7 +5,6 @@ cover: covers/2ca5l7ij.jpg
 date: '2024-09-01'
 decade: 1980s
 exlibris: '1995'
-featured: true
 isbn: 978-84-345-8019-0
 item_types:
 - Book

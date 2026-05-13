@@ -6,6 +6,7 @@ cover: covers/dlmcxylc.jpg
 date: '2024-09-01'
 decade: 1980s
 edition: 1st ed
+featured: true
 isbn: 978-0-917342-02-8
 item_types:
 - Book
