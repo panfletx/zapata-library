@@ -22,3 +22,5 @@ I catalogued all the books I had access to — more than two thousand (hard not 
 There is one book in the catalogue that has never stopped pulsing through my memory. It is a copy of [*El laberinto de la soledad*](https://luiszapata.org/en/catalogue/vkdvq8x3/) (*The Labyrinth of Solitude*). The original cover features only an image of a nopal cactus. Zapata's copy has a photograph of a bird affixed to the cover. It is as if the writer were inviting us to take action from our own spaces — to change, as he did alongside many others, the reality around him.
 
 We must keep struggling and working, the writer's intervention suggests, so that the bird may have a free, clean, and breathable sky in which to fly.
+
+- Alan Mendoza Sosa, New Haven, 2026

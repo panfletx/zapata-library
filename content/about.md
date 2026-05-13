@@ -22,3 +22,5 @@ Catalogué todos los libros a los que tuve acceso, que fueron más de dos mil (d
 Hay un libro del catálogo que no ha dejado de pulsar mi memoria. Es una copia de [*El laberinto de la soledad*](https://luiszapata.org/es/catalogue/vkdvq8x3/). La portada original es solo la imagen de un nopal. La copia de Zapata tiene una fotografía de un ave adherida a la portada. Es como si el escritor nos invitara a tomar acción desde nuestros espacios, a cambiar, como él cambió, junto con muches otres, su realidad. 
 
 Hay que seguir luchando y trabajando, sugiere la intervención del escritor, para que esa ave pueda contar con un cielo libre, limpio y respirable en donde pueda volar.
+
+- Alan Mendoza Sosa, New Haven, 2026
