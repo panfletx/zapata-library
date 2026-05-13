@@ -24,6 +24,4 @@ There is one book in the catalogue that has never stopped pulsing through my mem
 We must keep struggling and working, the writer's intervention suggests, so that the bird may have a free, clean, and breathable sky in which to fly.
 
 
-Alan Mendoza Sosa
-New Haven
-2026
+Alan Mendoza Sosa<br>New Haven<br>2026

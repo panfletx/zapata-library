@@ -23,6 +23,4 @@ Hay un libro del catálogo que no ha dejado de pulsar mi memoria. Es una copia d
 
 Hay que seguir luchando y trabajando, sugiere la intervención del escritor, para que esa ave pueda contar con un cielo libre, limpio y respirable en donde pueda volar.
 
-Alan Mendoza Sosa
-New Haven
-2026
+Alan Mendoza Sosa<br>New Haven<br>2026
