@@ -26,6 +26,10 @@ cover: covers/8hdtnn6w.jpg
 cover_note: regalo de José
 date: '2024-09-01'
 decade: 2000s
+description_en: Compiles the best literary essays of 2008 that were originally published
+  in American periodicals.
+description_es: Recopila los mejores ensayos literarios del año 2008 que fueron publicados
+  originalmente en publicaciones periódicas estadounidenses.
 exlibris: '2010'
 isbn: 978-0-618-98272-1
 item_types:
@@ -49,5 +53,3 @@ title: The best American essays 2009
 year: 2009
 zotero_key: 8HDTNN6W
 ---
-
-Compiles the best literary essays of the year 2008 which were originally published in American periodicals

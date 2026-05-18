@@ -4,6 +4,10 @@ authors:
 cover: covers/nzyke9ws.jpg
 date: '2024-09-01'
 decade: 1970s
+description_en: The protagonists of three stories set in the American West struggle
+  to overcome life's vicissitudes with humor and patience.
+description_es: Los protagonistas de tres historias ambientadas en el Oeste americano
+  luchan por superar las vicisitudes de la vida con humor y paciencia.
 isbn: 978-0-394-71179-9
 item_types:
 - Book
@@ -23,5 +27,3 @@ title: Obscure destinies
 year: 1974
 zotero_key: NZYKE9WS
 ---
-
-The protagonists of three stories, set in the American West, struggle to overcome life's vicissitudes with humor and patience

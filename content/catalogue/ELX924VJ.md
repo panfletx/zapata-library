@@ -6,6 +6,10 @@ authors:
 cover: covers/elx924vj.jpg
 date: '2024-09-01'
 decade: 1960s
+description_en: Contains the text of the play, information about Shakespeare and his
+  theater, a bibliography, a key to famous lines, and explanatory notes.
+description_es: Contiene el texto de la obra, información sobre Shakespeare y su teatro,
+  bibliografía, índice de versos famosos y notas explicativas.
 isbn: 978-0-671-46717-3
 item_types:
 - Book
@@ -25,5 +29,3 @@ title: The comedy of errors
 year: 1964
 zotero_key: ELX924VJ
 ---
-
-Contains the text of the play, information about Shakespeare and his theater, bibliography, key to famous lines, and explanatory notes

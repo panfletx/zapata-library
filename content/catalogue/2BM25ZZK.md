@@ -4,6 +4,8 @@ authors:
 cover: covers/2bm25zzk.jpg
 date: '2024-09-01'
 decade: 2000s
+description_en: An eye-opening introduction to the wonders of world art.
+description_es: Una introducción reveladora a las maravillas del arte mundial.
 isbn: 978-0-7112-1895-6
 item_types:
 - Book
@@ -21,5 +23,3 @@ title: Exploring world art
 year: 2001
 zotero_key: 2BM25ZZK
 ---
-
-An eye-opening introduction to the wonders of world art.

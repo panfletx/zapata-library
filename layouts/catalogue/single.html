@@ -31,7 +31,18 @@
       {{ with .Params.publishers }}{{ range . }}<span data-pagefind-filter="publisher" class="sr-only">{{ . }}</span>{{ end }}{{ end }}
       {{ with .Params.item_types }}{{ range . }}<span data-pagefind-filter="type" class="sr-only">{{ . }}</span>{{ end }}{{ end }}
 
-      {{ if .Content }}
+      {{- $desc := "" -}}
+      {{- if eq .Lang "es" -}}
+        {{- with .Params.description_es }}{{ $desc = . }}{{ else }}{{ with $.Params.description_en }}{{ $desc = . }}{{ end }}{{ end -}}
+      {{- else -}}
+        {{- with .Params.description_en }}{{ $desc = . }}{{ else }}{{ with $.Params.description_es }}{{ $desc = . }}{{ end }}{{ end -}}
+      {{- end -}}
+      {{ if $desc }}
+      <div class="single-abstract">
+        <h2>{{ i18n "abstract" }}</h2>
+        <p>{{ $desc }}</p>
+      </div>
+      {{ else if .Content }}
       <div class="single-abstract">
         <h2>{{ i18n "abstract" }}</h2>
         {{ .Content }}

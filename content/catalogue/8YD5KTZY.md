@@ -4,6 +4,15 @@ authors:
 cover: covers/8yd5ktzy.jpg
 date: '2024-09-01'
 decade: 2000s
+description_en: Offers advice on how to talk about books one has not read, including
+  books one has skimmed, heard about, or read and forgotten; analyzes situations in
+  which people might find themselves discussing such books; and includes recommendations
+  for resolving these social dilemmas.
+description_es: Ofrece consejos a las personas sobre cómo hablar de libros que no
+  han leído, incluyendo aquellos que han hojeado, de los que han oído hablar o que
+  han leído y olvidado. Analiza situaciones en las que las personas podrían encontrarse
+  hablando de libros que no han leído e incluye recomendaciones sobre cómo resolver
+  tales dilemas sociales.
 edition: 1st U.S. ed
 isbn: 978-1-59691-469-8
 item_types:
@@ -26,5 +35,3 @@ title: How to talk about books you haven't read
 year: 2007
 zotero_key: 8YD5KTZY
 ---
-
-Offers advice to people on how to talk about books they have not read, including books they have skimmed, heard about, or read and forgotten, analyzes situations in which people might find themselves talking about books they have not read, and includes recommendations on how to resolve such social dilemmas

@@ -4,6 +4,10 @@ authors:
 cover: covers/qxkfxj82.jpg
 date: '2024-09-01'
 decade: 1950s
+description_en: In this sequel to *Justine*, the author uses psychiatry to explore
+  the character of his protagonist.
+description_es: En esta secuela de *Justine*, el autor, valiendo se de la psiquiatría,
+  transforma el carácter de su protagonista.
 edition: 1st American ed.
 exlibris: '1977'
 item_types:
@@ -24,5 +28,3 @@ title: Balthazar
 year: 1958
 zotero_key: QXKFXJ82
 ---
-
-In this sequel to "Justine," the author, using psychiatry, changes the character of his protagonist
