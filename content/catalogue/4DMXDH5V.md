@@ -24,5 +24,3 @@ title: Nuevos rumbos del teatro
 year: 1973
 zotero_key: 4DMXDH5V
 ---
-
-Nuevos rumbos del teatro

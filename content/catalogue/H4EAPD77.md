@@ -15,5 +15,3 @@ subjects:
 title: 'Gulliver : revue littéraire'
 zotero_key: H4EAPD77
 ---
-
-Gulliver : revue littéraire | WorldCat.org

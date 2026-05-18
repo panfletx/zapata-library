@@ -24,5 +24,3 @@ title: Le diable au corps
 year: 2010
 zotero_key: RRLUPDCB
 ---
-
-Tussen een 16-jarige jongen en een vrouw, wier man tijdens de Eerste Wereldoorlog aan het front vecht, ontstaat een liefdesrelatie. NL-ZmNBD

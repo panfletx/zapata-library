@@ -23,5 +23,4 @@ title: Rigodon
 year: 1969
 zotero_key: QYDXX6PL
 ---
-
-A man, his wife, and their adopted band of nineteen drooling, feeble-minded children travel through devastated Germany at the end of World War II until they are rescued by the Red Cross
+Un homme, sa femme et leur bande de dix-neuf enfants adoptés, baveux et arriérés, traversent l'Allemagne dévastée à la fin de la Seconde Guerre mondiale jusqu'à ce qu'ils soient secourus par la Croix-Rouge

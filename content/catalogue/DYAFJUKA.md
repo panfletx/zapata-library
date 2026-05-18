@@ -24,4 +24,4 @@ year: 2007
 zotero_key: DYAFJUKA
 ---
 
-Autoliberacion Interior surge de un curso que el autor dio en Barcelona un año antes de su muerte. Sus palabras, claras y cuestionadoras, siguen vibrando en estas paginas. El amor y la felicidad están dentro de ti: eres tú mismo, nos dice
+Autoliberación Interior surge de un curso que el autor dio en Barcelona un año antes de su muerte. Sus palabras, claras y cuestionadoras, siguen vibrando en estas páginas. El amor y la felicidad están dentro de ti: eres tú mismo, nos dice

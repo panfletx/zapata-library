@@ -21,5 +21,4 @@ title: Diccionario panhispánico de dudas
 year: 2005
 zotero_key: 7W2QLJFH
 ---
-
-The Panhispanic Dictionary of Doubts guides users throughout the proper use of the Spanish language. It provides recommendations presented with examples that have been extracted from real texts originating from the databases of the Real Academia Española. It is a work conceived from all the Hispanic countries, which maintains a fundamental balance between the variety of a languages spoken in so many different regions, and the linguistic unity that must be preserved. In short, it gives clear answers to the doubts of those who worry about speaking and writing Spanish correctly. - from www.powells.com
+El Diccionario Panhispánico de Dudas orienta a sus usuarios en el uso correcto de la lengua española. Ofrece recomendaciones ilustradas con ejemplos extraídos de los bancos de datos de la Real Academia Española. Es una obra concebida desde todos los países hispanohablantes, que mantiene el equilibrio fundamental entre la variedad de hablas de tan distintas regiones y la unidad lingüística que debe preservarse. En suma, da respuestas claras a las dudas de quienes se preocupan por hablar y escribir bien en español

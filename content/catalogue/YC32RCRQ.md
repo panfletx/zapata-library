@@ -25,5 +25,4 @@ title: Saltatriz ; Diminuto
 year: 2008
 zotero_key: YC32RCRQ
 ---
-
-"Saltatriz is a tiny woman who sells used songs, and Diminuto has a minute in the place where his heart should be; the two meet in the middle of this unusual flip book."--Publisher's description
+«Saltatriz es una mujer diminuta que vende canciones usadas, y Diminuto tiene un minuto en el lugar donde debería estar su corazón; los dos se encuentran en el centro de este insólito libro dos en uno.» —Nota del editor

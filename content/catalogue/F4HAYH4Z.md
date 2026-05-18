@@ -25,5 +25,4 @@ title: 'Amor que se atreve a decir su nombre: antología del cuento mexicano de 
 year: 2014
 zotero_key: F4HAYH4Z
 ---
-
-Critical anthology of gay fiction, revisiting and updating anthology published by same press in 1996. In addition to 25 short stories by well-known authors such as Inés Arredondo, Juan Vicente Melo, Enrique Serna, Guillemo Samperio and others, volume includes two essays about evolution of gay literature in Mexico and aspects of works included in this anthology
+Antología crítica de narrativa gay que revisa y actualiza la publicada por el mismo sello en 1996. Además de 25 cuentos de autores reconocidos como Inés Arredondo, Juan Vicente Melo, Enrique Serna, Guillermo Samperio y otros, el volumen incluye dos ensayos sobre la evolución de la literatura gay en México y aspectos de las obras reunidas en esta antología

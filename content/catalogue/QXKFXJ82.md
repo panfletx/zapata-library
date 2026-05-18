@@ -25,4 +25,4 @@ year: 1958
 zotero_key: QXKFXJ82
 ---
 
-In this sequal to "Justine," the author, using psychiatry, changes the character of his protagonist
+In this sequel to "Justine," the author, using psychiatry, changes the character of his protagonist

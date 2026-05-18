@@ -16,5 +16,3 @@ title: Saber ver lo contemporáneo del arte | WorldCat.org
 year: 1994
 zotero_key: ZDB6GIHY
 ---
-
-Saber ver lo contemporáneo del arte | WorldCat.org

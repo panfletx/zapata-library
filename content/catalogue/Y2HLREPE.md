@@ -21,4 +21,4 @@ year: 2013
 zotero_key: Y2HLREPE
 ---
 
-An history of Western Art from cave paintings through to modern times. It includes information about the artists and their lives and techniques. It is illustrated with a combination of full colour reproductions of the original works of art and line drawings.
+A history of Western Art from cave paintings through to modern times. It includes information about the artists and their lives and techniques. It is illustrated with a combination of full colour reproductions of the original works of art and line drawings.

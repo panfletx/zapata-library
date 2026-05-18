@@ -27,5 +27,3 @@ title: Gay and lesbian themes in Latin American writing
 year: 1991
 zotero_key: 385BZAZA
 ---
-
-In this study, David William Foster examines more than two dozen texts that deal with gay and lesbian topics, drawing from them significant insights into the relationship between homosexuality and society in different Latin American countries and time pe

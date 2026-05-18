@@ -25,5 +25,4 @@ title: La Iliada
 year: 1998
 zotero_key: 9KL5X9PT
 ---
-
-Spanish translation of the epic poem by Homer
+Traducción al español del poema épico de Homero

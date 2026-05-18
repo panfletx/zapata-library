@@ -23,5 +23,4 @@ title: 'El gato de sí mismo: novela'
 year: 2005
 zotero_key: CD5MSCQ3
 ---
-
-The latest novel by one of Costa Rica's most successful and productive authors, his seventh published literary work. The work focuses on the travels of a young man who returns to his native Costa Rica to encounter universal schizophrenia and homophobia
+La más reciente novela de uno de los autores costarricenses más exitosos y prolíficos, su séptima obra literaria publicada. El libro se centra en los viajes de un joven que regresa a su Costa Rica natal para enfrentarse a la esquizofrenia y la homofobia universales

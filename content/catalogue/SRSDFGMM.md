@@ -25,5 +25,4 @@ title: Cuando ya no importe
 year: 1993
 zotero_key: SRSDFGMM
 ---
-
-Carr, down on his luck after his wife leaves, takes a job in the port of Santa Mariá and, finding that it is a cover for drug smugglers, realizes that he has nothing to do but record his sentiments in a diary
+Carr, hundido en la mala suerte tras el abandono de su esposa, acepta un trabajo en el puerto de Santa María y, al descubrir que sirve de tapadera para traficantes de drogas, comprende que lo único que le queda es registrar sus sentimientos en un diario

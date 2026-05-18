@@ -25,4 +25,4 @@ year: 1993
 zotero_key: TJD9L7AL
 ---
 
-This is the story of a woman&#39;s life, her marriage and the bonds that tie her to her two boys. When the marriage ends she battles to keep her children, while trying to sustain an emotional life of her own and to earn a living. Her boys grow older, but they are still the centre of her life.
+This is the story of a woman’s life, her marriage and the bonds that tie her to her two boys. When the marriage ends she battles to keep her children, while trying to sustain an emotional life of her own and to earn a living. Her boys grow older, but they are still the centre of her life.

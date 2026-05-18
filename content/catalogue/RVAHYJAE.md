@@ -24,5 +24,4 @@ title: Las lunas de Júpiter
 year: 2013
 zotero_key: RVAHYJAE
 ---
-
-Themes of heartbreak and the sadness of aging women dominate this collection of stories by the renowned Canadian author
+Los temas del desamor y la tristeza de las mujeres que envejecen dominan esta colección de relatos de la célebre autora canadiense

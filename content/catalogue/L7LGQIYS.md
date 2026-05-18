@@ -20,5 +20,3 @@ title: Les cent nouvelles nouvelles (Texte revu avec beaucoup de soin sur les me
 year: 1879
 zotero_key: L7LGQIYS
 ---
-
-[Cent nouvelles nouvelles (français moyen). 1879]

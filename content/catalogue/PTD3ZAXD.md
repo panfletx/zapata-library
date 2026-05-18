@@ -25,5 +25,4 @@ title: El diario de una marquesa
 year: 2004
 zotero_key: PTD3ZAXD
 ---
-
-Story of the overland journey made by Madame Calderón de la Barca, wife of the first Spanish ambassador to Mexico, from Veracruz to Mexico City in the 19th century
+Relato del viaje por tierra que realizó Madame Calderón de la Barca, esposa del primer embajador español en México, de Veracruz a la Ciudad de México en el siglo XIX

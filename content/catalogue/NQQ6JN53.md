@@ -22,5 +22,3 @@ title: Un garçon près de la riviere
 year: 1981
 zotero_key: NQQ6JN53
 ---
-
-Analyse : Roman d'amour

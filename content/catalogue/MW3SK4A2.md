@@ -22,5 +22,4 @@ title: Ensayo político sobre el reino de la Nueva España
 year: 1941
 zotero_key: MW3SK4A2
 ---
-
-[Book 1]. General considerations about the extension and physical aspect of the kingdom of New Spain. Influence of the configuration of the soil in the climate, Agriculture, Commerce and in the military defense of the country
+[Libro 1]. Consideraciones generales sobre la extensión y el aspecto físico del reino de la Nueva España. Influencia de la configuración del suelo en el clima, la agricultura, el comercio y la defensa militar del país

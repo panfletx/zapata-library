@@ -24,5 +24,4 @@ title: El buen negro
 year: 2008
 zotero_key: GASSHZL7
 ---
-
-A nineteenth-century Brazilian novel features the adventures of Amaro, known as "Bom Crioulo," a generous, loving, but sometimes hard-drinking gay man
+Novela brasileña del siglo XIX que sigue las aventuras de Amaro, conocido como «Bom Crioulo», un hombre gay generoso y cariñoso, aunque a veces dado a la bebida

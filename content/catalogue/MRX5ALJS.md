@@ -25,5 +25,4 @@ title: El lobo, el bosque y el hombre nuevo
 year: 1991
 zotero_key: MRX5ALJS
 ---
-
-Brief novel which explores the theme of homosexuality in post-revolutionary Cuba
+Breve novela que explora el tema de la homosexualidad en la Cuba posrevolucionaria

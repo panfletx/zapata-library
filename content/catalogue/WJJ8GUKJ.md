@@ -22,5 +22,4 @@ title: 'Guía médica de remedios caseros: miles de sugerencias y técnicas que 
 year: 1992
 zotero_key: WJJ8GUKJ
 ---
-
-Provides advice for the treatment of a wide variety of human ailments
+Ofrece consejos para el tratamiento de una amplia variedad de dolencias humanas

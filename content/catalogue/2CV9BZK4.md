@@ -26,4 +26,4 @@ year: 1990
 zotero_key: 2CV9BZK4
 ---
 
-The story of a French priest who goes to New Mexico and with another priest win the southwest for the Catholic Church. After forty years, he dies--the archbishop of Santa Fe
+The story of a French priest who goes to New Mexico and with another priest wins the southwest for the Catholic Church. After forty years, he dies--the archbishop of Santa Fe

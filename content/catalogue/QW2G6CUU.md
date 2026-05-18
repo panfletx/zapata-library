@@ -26,5 +26,4 @@ title: 'Literatura mexicana de temática gay del siglo XIX al XX: ensayos'
 year: 2016
 zotero_key: QW2G6CUU
 ---
-
-Analyzes geography of homoerotic literature from late 19th century to recent time, offering overview of gay themes and references in poetry, short stories and novels. Traces gay literature from scandalous notes of 19th century press to stereotypes of early 20th century, to increasing complexity and confidence of voices like Carlos Pellicer, Germán Pardo García, José T. de Cuéllar, and others
+Analiza la geografía de la literatura homoerótica desde finales del siglo XIX hasta la actualidad, ofreciendo una panorámica de los temas y referencias gay en la poesía, el cuento y la novela. Traza la trayectoria de la literatura gay desde las notas escandalosas de la prensa decimonónica hasta los estereotipos de principios del siglo XX y la creciente complejidad y seguridad de voces como las de Carlos Pellicer, Germán Pardo García, José T. de Cuéllar y otros

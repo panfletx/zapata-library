@@ -25,5 +25,4 @@ title: Instinto de Inez
 year: 2001
 zotero_key: YMT2DETY
 ---
-
-Offers the intertwining love stories of a man and a woman in the prehistoric world, and of conductor Gabriel Atlan-Ferrera and singer Inez Prada during a production of Berlioz' opera "The Damnation of Faust."
+Entreteje las historias de amor de un hombre y una mujer en el mundo prehistórico con las del director de orquesta Gabriel Atlan-Ferrera y la cantante Inez Prada durante una producción de la ópera de Berlioz «La condenación de Fausto»

@@ -22,5 +22,3 @@ title: 'The quintessence of Queen: best prize stories from 12 years of Ellery Qu
 year: 1962
 zotero_key: HU5B7XZV
 ---
-
-Ellery Queen's Mystery Magazine consistently offered mystery and suspense fiction of high quality. This anthology culls the best of the best, but some outstanding practitioners of the genre

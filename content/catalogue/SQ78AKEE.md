@@ -24,5 +24,4 @@ title: Crónica de los prodigios más allá de lo humano
 year: 1992
 zotero_key: SQ78AKEE
 ---
-
-Excerpts from the writings of explorers and folklorists
+Fragmentos de los escritos de exploradores y folcloristas

@@ -22,4 +22,4 @@ year: 1928
 zotero_key: MJXWN27N
 ---
 
-The story of a wild, irresponsible Alcibiades, the successor to Pericles, who is tamed by a daughter of the Pharoahs in the classical age of the 5th century, B.C. Alcibiades leaps upon the stage as the maddest spirit of Athens, given to wild parties with Hetaerae, rioting in the streets at night, playing the most outrageous pranks conceivable on the elder and more dignified members of society
+The story of a wild, irresponsible Alcibiades, the successor to Pericles, who is tamed by a daughter of the Pharaohs in the classical age of the 5th century, B.C. Alcibiades leaps upon the stage as the maddest spirit of Athens, given to wild parties with Hetaerae, rioting in the streets at night, playing the most outrageous pranks conceivable on the elder and more dignified members of society

@@ -26,5 +26,4 @@ title: 'Un encanto extraño: cartas de Germán Pardo García a Carlos Pellicer (
 year: 2018
 zotero_key: JV4F6W5D
 ---
-
-Studies letters sent by Colombian poet to famed Mexican writer Carlos Pellicer (1897-1977). Unfortunately, Pardo did not keep letters Pellicer wrote to him, however Pardo's missives suggest amorous relationship between two men. Attests to what Pardo García called "perfect and unique" friendship between two men as well as seeds of much of Pardo García's own poetry. Includes 2013 essay by León Guillermo Gutiérrez on Pellicer's poem "Recinto" as "first homoerotic poem in Mexican poetry."
+Estudia las cartas enviadas por el poeta colombiano al célebre escritor mexicano Carlos Pellicer (1897-1977). Aunque Pardo no conservó las cartas que Pellicer le escribió, sus misivas apuntan a una relación amorosa entre los dos hombres. Da cuenta de lo que Pardo García llamó la amistad «perfecta y única» entre ambos, así como de las semillas de gran parte de la propia poesía de Pardo García. Incluye un ensayo de 2013 de León Guillermo Gutiérrez sobre el poema «Recinto» de Pellicer como «primer poema homoerótico en la poesía mexicana»

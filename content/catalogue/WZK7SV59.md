@@ -24,5 +24,4 @@ title: Snuff
 year: 2011
 zotero_key: WZK7SV59
 ---
-
-A full-frontal triple-X novel that goes where no American work of fiction has gone before. A porn star intends to cap her career by breaking the record for on-screen fornication
+Una novela sin censura que va donde ninguna obra de ficción norteamericana ha llegado antes. Una estrella del porno se propone coronar su carrera rompiendo el récord de escenas de sexo en pantalla

@@ -26,4 +26,4 @@ year: 1990
 zotero_key: YVPVKKL6
 ---
 
-First published in 1962, Baldwin&#39;s novel describes American society in terms of corrupted relationships between the sexes and different races.
+First published in 1962, Baldwin’s novel describes American society in terms of corrupted relationships between the sexes and different races.

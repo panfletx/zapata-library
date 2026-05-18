@@ -25,5 +25,3 @@ title: La novela mexicana, 1967-1982
 year: 1985
 zotero_key: NX4FV8KB
 ---
-
-Mexican fiction 20th century History and criticism

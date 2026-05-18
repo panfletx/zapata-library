@@ -26,4 +26,4 @@ year: 1984
 zotero_key: 5AAMNTGH
 ---
 
-La obra de Jung, permite conocer la importancia de los símbolos en la mente humana y la interpretación de los mismos a través del suen̆o de acuerdo con las investigaciones que realizó al final de su vida
+La obra de Jung, permite conocer la importancia de los símbolos en la mente humana y la interpretación de los mismos a través del sueño de acuerdo con las investigaciones que realizó al final de su vida

@@ -24,5 +24,4 @@ title: Le petit prince
 year: 1943
 zotero_key: T5GHCJFI
 ---
-
-The little prince discovers the secrets of friendship while traveling thoughout the universe
+Le Petit Prince découvre les secrets de l'amitié au fil de ses voyages à travers l'univers

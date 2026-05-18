@@ -25,5 +25,3 @@ title: El amor en los tiempos del cólera
 year: 1985
 zotero_key: U8Q4AU6S
 ---
-
-De tragikomische liefdesgeschiedenis tussen een realistische vrouw en een romantische man NL-ZmNBD

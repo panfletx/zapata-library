@@ -26,5 +26,3 @@ title: El corazón de las tinieblas
 year: 1998
 zotero_key: YGVPD54N
 ---
-
-Traducción de: Heart of Darkness

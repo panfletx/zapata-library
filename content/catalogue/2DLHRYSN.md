@@ -24,5 +24,4 @@ title: No se lo digas a nadie
 year: 1994
 zotero_key: 2DLHRYSN
 ---
-
-Joaquín struggles with traditional values, his father's machismo, his addiction to cocaine, and his homosexual tendencies in Lima, Peru before escaping to Miami
+Joaquín lucha con los valores tradicionales, el machismo de su padre, su adicción a la cocaína y sus tendencias homosexuales en Lima, Perú, antes de escapar a Miami

@@ -26,5 +26,3 @@ title: 'Cuentos hispanoamericanos: Ecuador = Erzählungen aus Spanisch-Amerika: 
 year: 1992
 zotero_key: CPFRU8CT
 ---
-
-Belletristik : Ecuador ; Erzählungen

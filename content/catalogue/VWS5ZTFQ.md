@@ -15,5 +15,3 @@ subjects:
 title: 'Revista de humanidades: Tecnológico de Monterrey'
 zotero_key: VWS5ZTFQ
 ---
-
-27-28

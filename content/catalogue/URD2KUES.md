@@ -24,4 +24,4 @@ year: 1968
 zotero_key: URD2KUES
 ---
 
-"Las dieciocho entrevistas que integran el presente volumen forman parte de la serie publicada por The Paris Review a partir de su primer numéro, en la primavera de 1953, y recogida posteriormente en dos volúmenes editados por The Viking Press, de Nueva York, bajo el título de Writers at Work."--Page 9
+"Las dieciocho entrevistas que integran el presente volumen forman parte de la serie publicada por The Paris Review a partir de su primer número, en la primavera de 1953, y recogida posteriormente en dos volúmenes editados por The Viking Press, de Nueva York, bajo el título de Writers at Work."--Page 9

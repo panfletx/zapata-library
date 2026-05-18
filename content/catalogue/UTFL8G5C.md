@@ -25,5 +25,4 @@ title: El imitador de voces
 year: 2010
 zotero_key: UTFL8G5C
 ---
-
-Thomas Bernhard's 1978 collection consisting of 104 mini-stories or vignettes, each no longer than a single page, reflects his profound hatred of his native land Austria as ''a common hell in which the intellect is incessantly defamed and art and science are destroyed'', a mini-anthology of his obsessions with madness, murder, political corruption, and the inability of language to capture, or relieve, the absurdity of life
+La colección de 1978 de Thomas Bernhard, compuesta por 104 microrrelatos o viñetas, ninguno de más de una página, refleja su profundo odio hacia su Austria natal, a la que describe como «un infierno común donde el intelecto es incesantemente difamado y el arte y la ciencia son destruidos»; una miniantología de sus obsesiones con la locura, el crimen, la corrupción política y la incapacidad del lenguaje para capturar o aliviar el absurdo de la vida

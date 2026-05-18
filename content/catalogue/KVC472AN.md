@@ -15,5 +15,3 @@ subjects:
 title: Líneas de fuga
 zotero_key: KVC472AN
 ---
-
-Líneas de fuga

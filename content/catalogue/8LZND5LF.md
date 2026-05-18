@@ -24,5 +24,4 @@ title: Vientos de Cuaresma
 year: 2011
 zotero_key: 8LZND5LF
 ---
-
-In Havana, Cuba, a woman was beaten, raped and then strangled with a towel. Marijuana is found in her apartment and her wardrobe is suspiciously beyond the means of a high school teacher
+En La Habana, Cuba, una mujer es golpeada, violada y estrangulada con una toalla. En su apartamento se encuentra marihuana y su guardarropa resulta sospechosamente por encima de las posibilidades de una profesora de secundaria

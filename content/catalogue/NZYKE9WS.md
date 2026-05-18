@@ -24,4 +24,4 @@ year: 1974
 zotero_key: NZYKE9WS
 ---
 
-The protagonists of three stories, set in the American West, struggle to oversome life's vicissitudes with humor and patience
+The protagonists of three stories, set in the American West, struggle to overcome life's vicissitudes with humor and patience

@@ -24,5 +24,4 @@ title: Mundo cruel
 year: 2017
 zotero_key: NNBT22R3
 ---
-
-Nine short stories that reveal the intimate world of a small community in Puerto Rico joined together by its transgressive sexuality. The stories explore the sometimes hilarious and sometimes heartbreaking nature of survival in a decidedly cruel world
+Nueve cuentos que revelan el mundo íntimo de una pequeña comunidad puertorriqueña unida por su sexualidad transgresora. Las historias exploran la naturaleza a veces hilarante y a veces desgarradora de la supervivencia en un mundo decididamente cruel

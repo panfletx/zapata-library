@@ -23,5 +23,4 @@ title: La literatura nazi en América
 year: 2015
 zotero_key: I8HBY8GX
 ---
-
-A tour de force of black humor, composed of short biographies of imaginary pan-American authors, providing sketch character portraits that are often pathetically funny, sometimes surprisingly moving, and on occasion, authentically chilling
+Un tour de force del humor negro compuesto de breves biografías de autores panamericanos imaginarios, con retratos a veces patéticamente cómicos, otras veces sorprendentemente conmovedores y en ocasiones genuinamente escalofriantes
