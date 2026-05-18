@@ -23,5 +23,4 @@ title: 'La preuve: roman'
 year: 1988
 zotero_key: VBV38PML
 ---
-
-Dans un pays en guerre, deux jumeaux se séparent. L'un d'eux franchit la frontière, laissant l'autre désemparé. privé d'une partie de lui-même. Lucas semble vouloir se consacrer au bien. Quand Claus revient, trente ans plus tard, Lucas a disparu. Seule preuve de leur existence commune: le Grand Cahier. (Quelle: Buchdeckel verso)
+En un país en guerra, dos gemelos se separan. Uno de ellos cruza la frontera, dejando al otro desvalido y privado de una parte de sí mismo. Lucas parece querer consagrarse al bien. Cuando Claus regresa treinta años después, Lucas ha desaparecido. El único testimonio de su existencia compartida: el Gran Cuaderno

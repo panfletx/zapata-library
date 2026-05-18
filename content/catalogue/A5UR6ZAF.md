@@ -22,5 +22,4 @@ title: François Rabelais
 year: 1991
 zotero_key: A5UR6ZAF
 ---
-
-Il ne s'agit pas d'une biographie mais d'un essai; puisque c'est "par son oeuvre, aux lectures et interprétations diverses, toujours "inachevée" que vit Rabelais". Trois parties: L'oeuvre dans la vie - L'oeuvre et le temps - Rabelais, témoin et juge de son temps. Premier public concerné: les universitaires
+No se trata de una biografía sino de un ensayo, pues es «a través de su obra, con sus lecturas e interpretaciones diversas, siempre "inacabada", como vive Rabelais». Tres partes: la obra en la vida, la obra y el tiempo, Rabelais testigo y juez de su época. Dirigido principalmente a un público universitario

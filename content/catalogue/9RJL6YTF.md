@@ -23,5 +23,4 @@ title: Abbés
 year: 2002
 zotero_key: 9RJL6YTF
 ---
-
-Trois récits situés dans le milieu ecclésiastique, au moment de l'installation des premiers monastères bénédictins dans les marais vendéens, vers l'an mil, une époque où se rapprochent christianisme et paganisme
+Tres relatos situados en el medio eclesiástico, en el momento en que se instalan los primeros monasterios benedictinos en los pantanos vendéanos, hacia el año mil, época en que el cristianismo y el paganismo se aproximan

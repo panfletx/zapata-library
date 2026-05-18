@@ -22,5 +22,4 @@ title: Entretiens avec le professeur Y
 year: 1955
 zotero_key: EG2PIBYK
 ---
-
-Dans le style coruscant de l'écrivain, un dialogue pas si imaginaire que cela puisque sont dévoilées avec une ironie à la fois moqueuse et sérieuse les relations d'auteur à éditeur et vice versa. Quelques vérités qui-ne-sont-pas-bonnes-à-dire s'y retrouvent au milieu des invectives propres à l'auteur. Pamphlet intéressant même pour ceux qui n'ont pas lu Céline
+Con el estilo deslumbrante del escritor, un diálogo no tan imaginario como parece, en el que se desvelan con una ironía a la vez burlona y seria las relaciones entre autor y editor, y viceversa. Entre las invectivas propias del autor afloran algunas verdades que es mejor no decir. Un panfleto de interés incluso para quienes no han leído a Céline

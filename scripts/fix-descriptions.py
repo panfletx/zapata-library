@@ -149,36 +149,134 @@ REPLACEMENTS = {
     ],
 }
 
-FRENCH_HISTOIRE = (
-    "«Nommé au Collège de France, Michel Foucault a entrepris, "
-    "durant la fin des années soixante-dix, un cycle de cours consacré "
-    "à la place de la sexualité dans la culture occidentale : "
-    "l’Histoire de la sexualité, articulée en trois volumes "
-    "(la Volonté de savoir, L’usage des plaisirs et Le souci de soi). "
-    "Il y prolonge les recherches entreprises avec L’archéologie du savoir "
-    "et Surveiller et punir, mais en concentrant ses analyses sur la constellation "
-    "de phénomènes que nous désignons par le « sexe » "
-    "et la sexualité. L’axe de cette entreprise n’est pas de s’ériger "
-    "contre une « répression » de la sexualité afin de la "
-    "« libérer », mais de montrer comment la vie sexuelle a "
-    "enclenché une volonté systématique de tout savoir sur le sexe "
-    "qui s’est systématisée en une « science de la sexualité » "
-    "laquelle, à son tour, ouvre la voie à une administration de la vie sexuelle "
-    "sociale, de plus en plus présente dans notre existence. Foucault fait ainsi "
-    "l’archéologie des discours sur la sexualité (littérature érotique, "
-    "pratique de la confession, médecine, anthropologie, psychanalyse, théorie "
-    "politique, droit, etc.) depuis le XVIIᵉ siècle et, surtout, au XIXᵉ, "
-    "dont nous héritons jusque dans les postures récentes de "
-    "« libération sexuelle », l’attitude de censure et celle "
-    "d’affranchissement se rencontrant finalement dans le même type de "
-    "présupposé : le sexe serait cause de tous les phénomènes "
-    "de notre vie comme il commanderait l’ensemble de l’existence sociale.»"
-    "—Mot de l’Éditeur"
+SPANISH_HISTOIRE = (
+    "«Nombrado en el Collège de France, Michel Foucault emprendió, a finales de los "
+    "años setenta, un ciclo de cursos dedicado al lugar de la sexualidad en la cultura "
+    "occidental: la Historia de la sexualidad, articulada en tres volúmenes (La voluntad "
+    "de saber, El uso de los placeres y La inquietud de sí). En ellos prolonga las "
+    "investigaciones iniciadas con La arqueología del saber y Vigilar y castigar, pero "
+    "concentrando sus análisis en la constelación de fenómenos que designamos como el "
+    "«sexo» y la sexualidad. El eje de este proyecto no es erigirse contra una «represión» "
+    "de la sexualidad para «liberarla», sino mostrar cómo la vida sexual ha desencadenado "
+    "una voluntad sistemática de saberlo todo sobre el sexo que se ha sistematizado en "
+    "una «ciencia de la sexualidad» que, a su vez, abre la vía a una administración de "
+    "la vida sexual social, cada vez más presente en nuestra existencia. Foucault traza "
+    "así la arqueología de los discursos sobre la sexualidad (literatura erótica, práctica "
+    "de la confesión, medicina, antropología, psicoanálisis, teoría política, derecho, "
+    "etc.) desde el siglo XVII y, sobre todo, en el XIX, del que heredamos hasta en las "
+    "posturas recientes de «liberación sexual», donde la actitud censora y la de "
+    "emancipación confluyen finalmente en el mismo tipo de presupuesto: el sexo sería "
+    "la causa de todos los fenómenos de nuestra vida, como si gobernara el conjunto "
+    "de la existencia social.» —Nota del editor"
 )
 
 FULL_BODY_REPLACEMENTS = {
-    "5SLZ42LZ": FRENCH_HISTOIRE,
-    "76NRP8VB": FRENCH_HISTOIRE,
+    "5SLZ42LZ": SPANISH_HISTOIRE,
+    "76NRP8VB": SPANISH_HISTOIRE,
+    # Spanish translations of French descriptions (French is not a site language)
+    "2DBDBXFX": (
+        "Una de las primeras novelas del célebre escritor japonés, redactada entre 1950 y "
+        "1953. Todos sus temas y obsesiones están presentes en esta larga crónica situada "
+        "en el Tokio de la posguerra sacudido por la ocupación estadounidense"
+    ),
+    "593WILGJ": (
+        "Al llegar en 1327 al refugio de serenidad y neutralidad que es la abadía situada "
+        "entre Provenza y Liguria, Guillaume de Baskerville, acompañado de su secretario, "
+        "es rogado por el abad para que descubra quién empujó a uno de los monjes a "
+        "estrellarse contra el suelo al pie de las venerables murallas. Crímenes, estupro, "
+        "vicio, herejía: todo ocurrirá en el transcurso de siete días"
+    ),
+    "8RJ6N2JI": (
+        "Reúne quince extractos de textos modernos o clásicos, franceses o extranjeros, "
+        "que presentan un personaje lector: «Fahrenheit 451», «Septentrion», «Balzac y la "
+        "pequeña costurera china», «Madame Bovary», «A contrapelo», etc."
+    ),
+    "97DFM3L6": (
+        "En esta novela, Mauriac se ocupa principalmente de los «restos de la nobleza "
+        "provinciana, empobrecidos y casi osificados por la ineficacia y el orgullo», y "
+        "del maestro rural radical que intenta salvarlos de sí mismos"
+    ),
+    "9RJL6YTF": (
+        "Tres relatos situados en el medio eclesiástico, en el momento en que se instalan "
+        "los primeros monasterios benedictinos en los pantanos vendéanos, hacia el año mil, "
+        "época en que el cristianismo y el paganismo se aproximan"
+    ),
+    "A5UR6ZAF": (
+        'No se trata de una biografía sino de un ensayo, pues es «a través de su obra, con '
+        'sus lecturas e interpretaciones diversas, siempre "inacabada", como vive Rabelais». '
+        'Tres partes: la obra en la vida, la obra y el tiempo, Rabelais testigo y juez de '
+        'su época. Dirigido principalmente a un público universitario'
+    ),
+    "CVWDLDTG": (
+        "Marguerite Duras vivió la última guerra a la vez como mujer cuyo marido había sido "
+        "deportado, como resistente y también como escritora. Lúcida, asombrada, desesperada "
+        "a veces, durante esos años llevó un diario y escribió textos inspirados en todo lo "
+        "que veía, en lo que vivía, en las personas que encontraba o a las que se enfrentaba"
+    ),
+    "EG2PIBYK": (
+        "Con el estilo deslumbrante del escritor, un diálogo no tan imaginario como parece, "
+        "en el que se desvelan con una ironía a la vez burlona y seria las relaciones entre "
+        "autor y editor, y viceversa. Entre las invectivas propias del autor afloran algunas "
+        "verdades que es mejor no decir. Un panfleto de interés incluso para quienes no han "
+        "leído a Céline"
+    ),
+    "I5WZL8IV": (
+        "De la Alemania fue como un poderoso instrumento que hizo la primera brecha en la "
+        "muralla de antiguos prejuicios levantada entre nosotros y Francia. No creo que haya "
+        "que buscar en otro lugar la viva imagen de ese florecimiento del genio alemán, el "
+        "cuadro de esa época brillante y poética que puede llamarse el siglo de Goethe. "
+        "Sainte-Beuve — [Contraportada]"
+    ),
+    "JQAZUIRX": (
+        "Este libro está destinado a los estudiantes extranjeros que, habiendo adquirido el "
+        "vocabulario básico y las frases más simples de la lengua francesa, y contando también "
+        "con algunas nociones gramaticales, se enfrentan a las estructuras más complejas del "
+        "idioma"
+    ),
+    "PGHK4FLP": (
+        "Fantasía parabólica situada en Milán a finales del siglo XV, narra la desventurada "
+        "historia del modelo que utilizó el pintor para La Última Cena"
+    ),
+    "QYDXX6PL": (
+        "Un hombre, su esposa y su grupo de diecinueve niños adoptados discapacitados "
+        "atraviesan la Alemania devastada al final de la Segunda Guerra Mundial hasta ser "
+        "rescatados por la Cruz Roja"
+    ),
+    "RQBRSWQL": (
+        "Cada una de las ocho novelas y narraciones de Perec, miembro del Oulipo fallecido "
+        "en 1982, va precedida de un prefacio inédito y acompañada de un estudio general "
+        "sobre el novelista y de referencias biográficas"
+    ),
+    "T5GHCJFI": "El Principito descubre los secretos de la amistad a lo largo de sus viajes por el universo",
+    "U5HWNHDU": (
+        "Crónica del día a día en una isla cargada de historia, cuyo presente —los años "
+        "cincuenta— presagia las convulsiones de la modernidad y las luchas por la "
+        "independencia de 1955 a 1959. Lo que fascina a Durrell: la sencillez, la elegancia, "
+        "la autenticidad de los seres que lo rodean, la belleza de los paisajes, la riqueza "
+        "y diversidad de una naturaleza exuberante, cálida y vibrante de sol. Un artista que "
+        "pasea por el país de los sueños y reinventa el abecedario de lo maravilloso"
+    ),
+    "VBV38PML": (
+        "En un país en guerra, dos gemelos se separan. Uno de ellos cruza la frontera, "
+        "dejando al otro desvalido y privado de una parte de sí mismo. Lucas parece querer "
+        "consagrarse al bien. Cuando Claus regresa treinta años después, Lucas ha "
+        "desaparecido. El único testimonio de su existencia compartida: el Gran Cuaderno"
+    ),
+    "WEUXT52I": (
+        "Selección de 19 fabliaux ingeniosos o representativos, extraídos de un conjunto de "
+        "entre 130 y 160. Más de treinta páginas de notas de carácter filológico o histórico"
+    ),
+    "WIA7JNAD": (
+        "Un profesor universitario en la edad del demonio de mediodía no logra satisfacer "
+        "las exigencias de su esposa. Sobre este tema, el autor ha construido un estudio "
+        "psicológico cuyo patético interés alcanza lo trágico"
+    ),
+    # Spanish translation of Portuguese description (Portuguese is not a site language)
+    "JR6E9Z99": (
+        "Gilberto Cabeggi ofrece en este libro numerosos consejos sobre actitudes y formas "
+        "de pensar que traerán más felicidad a tu vida. Son píldoras de entusiasmo, con la "
+        "fuerza de las cosas simples y el poder de ayudarte a ser más feliz"
+    ),
     # Spanish translations of English WorldCat descriptions
     "39XF6WZ8": "Recoge las definiciones de más de 70 000 palabras de la lengua española",
     "4I65F8FF": (
@@ -340,22 +438,6 @@ FULL_BODY_REPLACEMENTS = {
         "un congreso literario para acercarse al hombre cuyo clon espera que encabece "
         "un ejército victorioso: el mundialmente célebre escritor mexicano Carlos Fuentes. "
         "Una fantasía de ciencia ficción cómica"
-    ),
-    # French translation of English WorldCat description
-    "T5GHCJFI": (
-        "Le Petit Prince découvre les secrets de l'amitié au fil de ses voyages "
-        "à travers l'univers"
-    ),
-    # French translations of English WorldCat descriptions
-    "97DFM3L6": (
-        "Dans ce roman, Mauriac s'attache principalement aux «restes de la noblesse provinciale, "
-        "appauvris et presque ossifiés par l'inefficacité et l'orgueil», et à l'instituteur "
-        "radical du village qui tente de les sauver d'eux-mêmes"
-    ),
-    "QYDXX6PL": (
-        "Un homme, sa femme et leur bande de dix-neuf enfants adoptés, baveux et arriérés, "
-        "traversent l'Allemagne dévastée à la fin de la Seconde Guerre mondiale jusqu'à ce "
-        "qu'ils soient secourus par la Croix-Rouge"
     ),
 }
 

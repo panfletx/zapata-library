@@ -27,5 +27,4 @@ title: 'Le nom de la rose: roman'
 year: 1983
 zotero_key: 593WILGJ
 ---
-
-En arrivant dans le havre de sérénité et de neutralité qu'est l'abbaye située entre Provence et Ligurie, en l'an 1327, Guillaume de Baskerville, accompagné de son secrétaire, se voit prié par l'Abbé de découvrir qui a poussé un des moines à se fracasser les os au pied des vénérables murailles. Crimes, stupre, vice, hérésie, tout va alors advenir en l'espace de 7 jours
+Al llegar en 1327 al refugio de serenidad y neutralidad que es la abadía situada entre Provenza y Liguria, Guillaume de Baskerville, acompañado de su secretario, es rogado por el abad para que descubra quién empujó a uno de los monjes a estrellarse contra el suelo al pie de las venerables murallas. Crímenes, estupro, vicio, herejía: todo ocurrirá en el transcurso de siete días

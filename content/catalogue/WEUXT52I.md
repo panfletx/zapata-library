@@ -24,5 +24,4 @@ title: Fabliaux du Moyen Age
 year: 1998
 zotero_key: WEUXT52I
 ---
-
-Choix de 19 fabliaux ingénieux ou caractéristiques, extraits d'un ensemble qui en comporte de 130 à 160. Plus de trente pages de notes qui ressortissent à la philologie ou à l'histoire. [SDM]
+Selección de 19 fabliaux ingeniosos o representativos, extraídos de un conjunto de entre 130 y 160. Más de treinta páginas de notas de carácter filológico o histórico

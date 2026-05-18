@@ -24,5 +24,4 @@ title: La confession impudique
 year: 1977
 zotero_key: WIA7JNAD
 ---
-
-Un professeur d'université à l'âge du démon du midi n'arrive pas à satisfaire les exigences de sa femme. Sur ce thème, l'auteur a bâti une étude psychologique dont le pathétique intérêt atteint au tragique
+Un profesor universitario en la edad del demonio de mediodía no logra satisfacer las exigencias de su esposa. Sobre este tema, el autor ha construido un estudio psicológico cuyo patético interés alcanza lo trágico

@@ -22,5 +22,4 @@ title: Citrons acides
 year: 1994
 zotero_key: U5HWNHDU
 ---
-
-Citrons acides ou la chronique du quotidien, de la vie comme elle va, dans une île chargée d'histoire, dont le présent -les années 50- annonce les convulsions de la modernité, les luttes pour l'indépendance de 1955 à 1959. Ce qui fascine Durrell : la simplicité, l'élégance, l'authenticité des êtres qu'il côtoie, la beauté des paysages, la richesse et la diversité d'une nature exubérante, chaleureuse, vibrante de soleil. Quand un artiste se promène au pays des rêves et réinvente l'alphabet du merveilleux.
+Crónica del día a día en una isla cargada de historia, cuyo presente —los años cincuenta— presagia las convulsiones de la modernidad y las luchas por la independencia de 1955 a 1959. Lo que fascina a Durrell: la sencillez, la elegancia, la autenticidad de los seres que lo rodean, la belleza de los paisajes, la riqueza y diversidad de una naturaleza exuberante, cálida y vibrante de sol. Un artista que pasea por el país de los sueños y reinventa el abecedario de lo maravilloso

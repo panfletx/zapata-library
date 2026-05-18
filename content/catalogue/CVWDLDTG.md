@@ -24,5 +24,4 @@ title: La douleur
 year: 1985
 zotero_key: CVWDLDTG
 ---
-
-La dernière guerre, Marguerite Duras lʹa vécue tout à la fois comme femme dont le mari avait été déporté, comme résistante, mais aussi, comme écrivain. Lucide, étonnée, désespérée parfois, elle a, pendant ces années, tenu un journal, écrit des textes que lui inspirait tout ce quʹelle voyait, ce quʹelle vivait, les gens quʹelle rencontrait ou affrontait
+Marguerite Duras vivió la última guerra a la vez como mujer cuyo marido había sido deportado, como resistente y también como escritora. Lúcida, asombrada, desesperada a veces, durante esos años llevó un diario y escribió textos inspirados en todo lo que veía, en lo que vivía, en las personas que encontraba o a las que se enfrentaba

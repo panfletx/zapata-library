@@ -24,5 +24,4 @@ title: Formes structurales du français
 year: 1969
 zotero_key: JQAZUIRX
 ---
-
-Ce livre est destiné aux étudiants étrangers qui, ayant acquis le vocabulaire de base et les phrases les plus simples de la langue française, disposant aussi de quelques notions grammaticales, se heurtent aux structures plus complexes de la langue
+Este libro está destinado a los estudiantes extranjeros que, habiendo adquirido el vocabulario básico y las frases más simples de la lengua francesa, y contando también con algunas nociones gramaticales, se enfrentan a las estructuras más complejas del idioma

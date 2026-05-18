@@ -25,5 +25,4 @@ title: 'Les amours interdites: roman'
 year: 1989
 zotero_key: 2DBDBXFX
 ---
-
-L'un des premiers romans, rédigé entre 1950 et 1953, du désormais célèbre écrivain japonais. Tous ses thèmes et ses hantises sont présents en cette longue chronique située dans le Tokyo d'après-guerre ébranlé par l'occupation américaine
+Una de las primeras novelas del célebre escritor japonés, redactada entre 1950 y 1953. Todos sus temas y obsesiones están presentes en esta larga crónica situada en el Tokio de la posguerra sacudido por la ocupación estadounidense

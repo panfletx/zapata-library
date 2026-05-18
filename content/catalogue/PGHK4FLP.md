@@ -23,5 +23,4 @@ title: 'Le Judas de Léonard: roman'
 year: 1987
 zotero_key: PGHK4FLP
 ---
-
-Fantaisie parabolique que ce récit qui prend lieu et place à Milan à la fin du 15e siècle. Il s'agit de la navrante histoire du modèle dont se servit le peintre pour la Cène. Truculent
+Fantasía parabólica situada en Milán a finales del siglo XV, narra la desventurada historia del modelo que utilizó el pintor para La Última Cena

@@ -24,5 +24,4 @@ title: 'Au bonheur de lire: les plaisirs de la lecture'
 year: 2004
 zotero_key: 8RJ6N2JI
 ---
-
-Réunit quinze extraits de textes modernes ou classiques, français ou étrangers, mettant en scène un personnage de lecteur : "Fahrenheit 451", "Septentrion", "Balzac et la petite tailleuse chinoise", "Madame Bovary", "A rebours", etc
+Reúne quince extractos de textos modernos o clásicos, franceses o extranjeros, que presentan un personaje lector: «Fahrenheit 451», «Septentrion», «Balzac y la pequeña costurera china», «Madame Bovary», «A contrapelo», etc.

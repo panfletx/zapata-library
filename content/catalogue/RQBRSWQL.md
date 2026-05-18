@@ -27,5 +27,4 @@ title: Romans et récits
 year: 2002
 zotero_key: RQBRSWQL
 ---
-
-Chacun des huit romans et récits de Perec, membre de l'Oulipo décédé en 1982, est précédé d'une préface inédite et accompagné d'une étude générale sur le romancier et de repères biographiques
+Cada una de las ocho novelas y narraciones de Perec, miembro del Oulipo fallecido en 1982, va precedida de un prefacio inédito y acompañada de un estudio general sobre el novelista y de referencias biográficas
